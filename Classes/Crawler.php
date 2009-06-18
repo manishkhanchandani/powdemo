@@ -99,6 +99,7 @@ class Crawler {
 					echo "<br>";
 					echo "<br>";
 					echo "<hr>";
+					flush();
 				}
 			} else {
 				echo 'could not get result2';

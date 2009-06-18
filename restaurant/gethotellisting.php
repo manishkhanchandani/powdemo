@@ -66,9 +66,12 @@ for($i=$page; $i<=$totalPages; $i++) {
 	echo $sql;
 	echo "<br>";
 	mysql_query($sql) or die('error'.mysql_error());
+	flush();
 }
 ?>
     <?php } while ($row_rsView = mysql_fetch_assoc($rsView)); ?>
+	<meta http-equiv="refresh" content="15" />
+
   <?php } // Show if recordset not empty ?></body>
 </html>
 <?php
