@@ -1,4 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<info>
-	<infoitem key="UD_rsView" value="name:loc_id;datatype:int,name:locations;datatype:string,name:url;datatype:blob,name:flag;datatype:int,name:flag2;datatype:int,name:reviewurl;datatype:blob,name:flag3;datatype:int" />
-</info>
