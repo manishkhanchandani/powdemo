@@ -1,0 +1,9 @@
+update `location_details` set `loc_type` = 'Feeds', `rss` = 'http://www.eastbayexpress.com/ebx/RSS/rss.xml?section=282109' WHERE source = 'East Bay Express'
+
+
+
+
+
+update `location_details` set `loc_type` = 'Scrapping', `rss` = '' WHERE source = 'Arizona Republic';
+update `location_details` set `loc_type` = 'Scrapping', `rss` = '' WHERE source = 'Cleveland Scene';
+update `location_details` set `loc_type` = 'Scrapping', `rss` = '' WHERE source = 'Arizona Daily Star';
