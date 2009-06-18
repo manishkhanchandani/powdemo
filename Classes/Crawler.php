@@ -53,5 +53,61 @@ class Crawler {
 		}
 		return $return;
 	}
+	
+	public function getHotelListingDetails($input, $base, $page, $row_rsView) {
+		$regexp = "<table.*id=\"r\-t\".*>(.*)<\/table>";
+		$matches = $this->regexp($regexp, $input);
+		echo "<pre>";
+		if($matches[0][1]) {
+			$arr = explode('<tr>', $matches[0][1]);
+			if($arr) {
+				foreach($arr as $k=>$v) {
+					$v = trim($v);
+					if(substr($v,0,3)!="<td") {
+						continue;
+					}
+					if(!eregi("google_ad_client", $v)) {
+						$regexp = "<div class=\"t\">.*<a href=\"(.*)\">(.*)<\/a>";
+						$matches2 = $this->regexp($regexp, $v);
+						if($matches2) {
+							$arr1[$k]['url'] = $base.$matches2[0][1];
+							$arr1[$k]['name'] = $matches2[0][2];
+						}
+						$regexp = "<a class=\"image\" href=\"#\" onclick=\"placePopup\(this\); new Ajax.Updater\('vote-popup', '.*\/([0-9]*)', \{asynchronous:true, evalScripts:true, onComplete:function\(request\)\{showPopup\(\)\}\}\); return false;\">";
+						$matches2 = $this->regexp($regexp, $v);
+						if($matches2) {
+							$arr1[$k]['id'] = $matches2[0][1];
+						}						
+						$regexp = "<\/div>(.*)<td";
+						$matches2 = $this->regexp($regexp, $v);
+						if($matches2) {
+							$arr1[$k]['info'] = nl2br(trim($matches2[0][1]));
+							if(eregi("<br \/>", $arr1[$k]['info'])) {
+								$regexp = "(.*)\-.*<br \/>.*<br \/>(.*)$";
+								$matches3 = $this->regexp($regexp, $arr1[$k]['info']);
+								$arr1[$k]['info2'] = trim($matches3[0][1]);
+								$arr1[$k]['address'] = trim($matches3[0][2]);
+							} else {
+								$arr1[$k]['address'] = trim($matches2[0][1]);
+							}
+						}
+					}
+					if(!$arr1[$k]['id']) continue;
+					$sql = "insert into location_hotels set nid = '".addslashes(stripslashes(trim($row_rsView['nid'])))."', hotelsiteid = '".addslashes(stripslashes(trim($arr1[$k]['id'])))."', page = '".$page."', name = '".addslashes(stripslashes(trim($arr1[$k]['name'])))."', link = '".addslashes(stripslashes(trim($arr1[$k]['url'])))."', neighbour = '".addslashes(stripslashes(trim($row_rsView['titles'])))."', country = 'United States', info = '".addslashes(stripslashes(trim($arr1[$k]['info'])))."', info2 = '".addslashes(stripslashes(trim($arr1[$k]['info2'])))."', address = '".addslashes(stripslashes(trim($arr1[$k]['address'])))."'";
+					echo $sql;
+					mysql_query($sql) or die('error'.mysql_error());
+					echo "<br>";
+					echo "<br>";
+					echo "<hr>";
+				}
+			} else {
+				echo 'could not get result2';
+				exit;
+			}
+		} else {
+			echo 'could not get result';
+			exit;
+		}
+	}
 }
 ?>
