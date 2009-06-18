@@ -62,12 +62,12 @@ for($i=$page; $i<=$totalPages; $i++) {
 	} else {
 		$flag = 0;
 	}
+}
 	$sql = "update location_neighbours set flag = '".$flag."', pages = '".$page."' where nid = '".$row_rsView['nid']."'";
 	echo $sql;
 	echo "<br>";
 	mysql_query($sql) or die('error'.mysql_error());
 	flush();
-}
 ?>
     <?php } while ($row_rsView = mysql_fetch_assoc($rsView)); ?>
 	<meta http-equiv="refresh" content="15" />
