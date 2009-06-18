@@ -95,7 +95,7 @@ class Crawler {
 					if(!$arr1[$k]['id']) continue;
 					$sql = "insert into location_hotels set nid = '".addslashes(stripslashes(trim($row_rsView['nid'])))."', hotelsiteid = '".addslashes(stripslashes(trim($arr1[$k]['id'])))."', page = '".$page."', name = '".addslashes(stripslashes(trim($arr1[$k]['name'])))."', link = '".addslashes(stripslashes(trim($arr1[$k]['url'])))."', neighbour = '".addslashes(stripslashes(trim($row_rsView['titles'])))."', country = 'United States', info = '".addslashes(stripslashes(trim($arr1[$k]['info'])))."', info2 = '".addslashes(stripslashes(trim($arr1[$k]['info2'])))."', address = '".addslashes(stripslashes(trim($arr1[$k]['address'])))."'";
 					echo $sql;
-					mysql_query($sql) or die('error'.mysql_error());
+					@mysql_query($sql);
 					echo "<br>";
 					echo "<br>";
 					echo "<hr>";
