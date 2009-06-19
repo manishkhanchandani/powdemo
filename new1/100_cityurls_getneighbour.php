@@ -16,24 +16,26 @@ if ($handle = opendir($dirname)) {
 			echo $dirname."/".$file;
 			echo "<br>";
 			$fc = file_get_contents($dirname."/".$file);
-			
+			$regexp = "<li class=\"t\-li\"><a href=\"\/n(.*)\">(.*)\(.*<\/a><\/li>";
+			$matches = $Crawler->regexp($regexp, $fc);
+			if($matches) {
+				foreach($matches as $k=>$match) {
+					$arr[$k]['urls'] = $base."/n".$match[1];
+					$arr[$k]['titles'] = $match[2];
+				}
+				echo "<pre>";
+				print_r($arr);
+			}
 			$regexp = "<li class=\"hood\-group\"><a href=\"#\" onclick=\"new Ajax.Updater\('hoods_long', '(.*)',.*\">See all<\/a><\/li>";
 			$matches = $Crawler->regexp($regexp, $fc);
 			if($matches) {
 				$url = $base.$matches[0][1];
 				echo $url;
 				echo "<br>";
-				if(!file_exists($dirname."/seeall/".$file)) {
-					$seeall = file_get_contents($url);
-					file_put_contents($dirname."/seeall/".$file, $seeall);
-					echo 'file created';
-					echo "<br>";
-				} else {
-					echo 'file already created';
-					echo "<br>";
-				}
+				$seeall = file_get_contents($url);
+				file_put_contents($dirname."/seeall/".$file, $seeall);
 			}
-			flush();
+		exit;
 		}
 	}
 	closedir($handle);

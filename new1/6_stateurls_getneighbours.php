@@ -7,7 +7,7 @@ include('../Classes/Crawler.php');
 $Crawler = new Crawler;
 $base = "http://www.urbanspoon.com";
 
-$dirname = "cityurls";
+$dirname = "stateurls";
 if ($handle = opendir($dirname)) {
 	/* This is the correct way to loop over the directory. */
 	while (false !== ($file = readdir($handle))) {
@@ -17,20 +17,25 @@ if ($handle = opendir($dirname)) {
 			echo "<br>";
 			$fc = file_get_contents($dirname."/".$file);
 			
-			$regexp = "<li class=\"hood\-group\"><a href=\"#\" onclick=\"new Ajax.Updater\('hoods_long', '(.*)',.*\">See all<\/a><\/li>";
+			$regexp = "<li><b><a href=\"\/c(.*)\">(.*)<\/a><\/b><\/li>";
 			$matches = $Crawler->regexp($regexp, $fc);
 			if($matches) {
-				$url = $base.$matches[0][1];
-				echo $url;
-				echo "<br>";
-				if(!file_exists($dirname."/seeall/".$file)) {
-					$seeall = file_get_contents($url);
-					file_put_contents($dirname."/seeall/".$file, $seeall);
-					echo 'file created';
+				foreach($matches as $match) {
+					$url = $base."/c".$match[1];
+					echo $url;
 					echo "<br>";
-				} else {
-					echo 'file already created';
+					$baseName = basename($url);
+					echo $baseName;
 					echo "<br>";
+					if(!file_exists("cityurls/".$baseName)) {
+						$fs = file_get_contents($url);
+						file_put_contents("cityurls/".$baseName, $fs);
+						echo 'file saved';
+						echo "<br>";
+					} else {
+						echo 'file already existed';
+						echo "<br>";
+					}
 				}
 			}
 			flush();
