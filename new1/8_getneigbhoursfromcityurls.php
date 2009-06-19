@@ -41,6 +41,9 @@ if ($handle = opendir($dirname)) {
 						file_put_contents("neighboursurl/".$arr[$k]['baseName'].".html", $fs);
 						echo $arr[$k]['url'].' file saved';
 						echo "<br>";
+						echo '<h1>sleeping for 5 seconds</h1>';
+						echo '<br>';
+						sleep(5);
 					} else {
 						echo $arr[$k]['url'].' file already existed';
 						echo "<br>";
@@ -55,7 +58,6 @@ if ($handle = opendir($dirname)) {
 						echo $arr[$k]['baseName'].' file already existed';
 						echo "<br>";
 					}
-					
 					flush();
 				}
 			}
