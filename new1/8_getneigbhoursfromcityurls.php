@@ -46,6 +46,7 @@ if ($handle = opendir($dirname)) {
 						echo "<br>";
 					}
 					
+					flush();
 				}
 			}
 			echo "<pre>";
