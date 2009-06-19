@@ -41,7 +41,12 @@ if($matches) {
 		$total = $matches[0][1];
 	} else {
 		echo 'no match2';
-		exit;
+		$sql = "update location_neighbours set flag = '2', pages = '0' where nid = '".$row_rsView['nid']."'";
+		echo $sql;
+		echo "<br>";
+		mysql_query($sql) or die('error'.mysql_error());
+		flush();
+		continue;
 	}
 }
 $max = 50;
@@ -55,6 +60,14 @@ for($i=$page; $i<=$totalPages; $i++) {
 	$page = $i;
 	if($page>0) {
 		$input = file_get_contents($row_rsView['urls']."?page=".$page);
+		if(!$input) {
+			$sql = "update location_neighbours set flag = '3', pages = '".$page."' where nid = '".$row_rsView['nid']."'";
+			echo $sql;
+			echo "<br>";
+			mysql_query($sql) or die('error'.mysql_error());
+			flush();
+			continue;
+		}
 	}
 	$Crawler->getHotelListingDetails($input, $base, $page, $row_rsView);
 	if($page==$totalPages) {
