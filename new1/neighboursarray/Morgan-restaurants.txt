@@ -1,1 +1,0 @@
-a:4:{s:3:"url";s:61:"http://www.urbanspoon.com/n/78/7805/Albany/Morgan-restaurants";s:8:"baseName";s:18:"Morgan-restaurants";s:5:"title";s:6:"Morgan";s:5:"count";s:1:"2";}
