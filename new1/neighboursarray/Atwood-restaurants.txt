@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:66:"http://www.urbanspoon.com/n/106/11500/Champaign/Atwood-restaurants";s:8:"baseName";s:18:"Atwood-restaurants";s:5:"title";s:6:"Atwood";s:5:"count";s:1:"3";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:65:"http://www.urbanspoon.com/n/102/11105/Canton/Brewster-restaurants";s:8:"baseName";s:20:"Brewster-restaurants";s:5:"title";s:8:"Brewster";s:5:"count";s:1:"9";}

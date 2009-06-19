@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:64:"http://www.urbanspoon.com/n/4/10302/Boston/Haverhill-restaurants";s:8:"baseName";s:21:"Haverhill-restaurants";s:5:"title";s:9:"Haverhill";s:5:"count";s:3:"134";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/102/11131/Canton/North-Canton-restaurants";s:8:"baseName";s:24:"North-Canton-restaurants";s:5:"title";s:12:"North Canton";s:5:"count";s:3:"116";}

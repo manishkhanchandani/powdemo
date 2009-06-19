@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:60:"http://www.urbanspoon.com/n/89/9501/Bend/La-Pine-restaurants";s:8:"baseName";s:19:"La-Pine-restaurants";s:5:"title";s:7:"La Pine";s:5:"count";s:2:"19";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/66/6613/Baton-Rouge/New-Roads-restaurants";s:8:"baseName";s:21:"New-Roads-restaurants";s:5:"title";s:9:"New Roads";s:5:"count";s:2:"25";}

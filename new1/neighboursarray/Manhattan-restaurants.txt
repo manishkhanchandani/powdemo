@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:66:"http://www.urbanspoon.com/n/97/10506/Bozeman/Manhattan-restaurants";s:8:"baseName";s:21:"Manhattan-restaurants";s:5:"title";s:9:"Manhattan";s:5:"count";s:1:"8";}

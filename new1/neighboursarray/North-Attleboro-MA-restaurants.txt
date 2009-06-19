@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:73:"http://www.urbanspoon.com/n/4/40862/Boston/North-Attleboro-MA-restaurants";s:8:"baseName";s:30:"North-Attleboro-MA-restaurants";s:5:"title";s:15:"North Attleboro";s:5:"count";s:2:"71";}

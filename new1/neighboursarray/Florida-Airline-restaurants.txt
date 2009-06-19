@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:75:"http://www.urbanspoon.com/n/66/6608/Baton-Rouge/Florida-Airline-restaurants";s:8:"baseName";s:27:"Florida-Airline-restaurants";s:5:"title";s:7:"Airline";s:5:"count";s:3:"109";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:65:"http://www.urbanspoon.com/n/4/40783/Boston/Berkley-MA-restaurants";s:8:"baseName";s:22:"Berkley-MA-restaurants";s:5:"title";s:7:"Berkley";s:5:"count";s:1:"4";}

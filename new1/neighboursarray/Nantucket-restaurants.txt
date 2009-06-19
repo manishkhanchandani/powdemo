@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/103/11225/Cape-Cod/Nantucket-restaurants";s:8:"baseName";s:21:"Nantucket-restaurants";s:5:"title";s:9:"Nantucket";s:5:"count";s:2:"88";}

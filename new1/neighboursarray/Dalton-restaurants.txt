@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:63:"http://www.urbanspoon.com/n/102/11110/Canton/Dalton-restaurants";s:8:"baseName";s:18:"Dalton-restaurants";s:5:"title";s:6:"Dalton";s:5:"count";s:2:"10";}

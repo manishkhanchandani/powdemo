@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:64:"http://www.urbanspoon.com/n/31/3029/Baltimore/Towson-restaurants";s:8:"baseName";s:18:"Towson-restaurants";s:5:"title";s:6:"Towson";s:5:"count";s:3:"165";}

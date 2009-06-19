@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:80:"http://www.urbanspoon.com/n/31/3031/Baltimore/Windsor-Mill-Gwynn-Oak-restaurants";s:8:"baseName";s:34:"Windsor-Mill-Gwynn-Oak-restaurants";s:5:"title";s:9:"Gwynn Oak";s:5:"count";s:2:"55";}

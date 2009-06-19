@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/45/4420/Birmingham/Tarrant-City-restaurants";s:8:"baseName";s:24:"Tarrant-City-restaurants";s:5:"title";s:12:"Tarrant City";s:5:"count";s:2:"16";}

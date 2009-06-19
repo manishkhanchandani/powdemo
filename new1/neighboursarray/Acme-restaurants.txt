@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:63:"http://www.urbanspoon.com/n/88/9400/Bellingham/Acme-restaurants";s:8:"baseName";s:16:"Acme-restaurants";s:5:"title";s:4:"Acme";s:5:"count";s:1:"2";}

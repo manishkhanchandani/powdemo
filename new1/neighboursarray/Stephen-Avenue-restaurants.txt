@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/15/1420/Calgary/Stephen-Avenue-restaurants";s:8:"baseName";s:26:"Stephen-Avenue-restaurants";s:5:"title";s:14:"Stephen Avenue";s:5:"count";s:3:"211";}

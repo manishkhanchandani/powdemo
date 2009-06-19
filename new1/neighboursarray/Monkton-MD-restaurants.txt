@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/31/41419/Baltimore/Monkton-MD-restaurants";s:8:"baseName";s:22:"Monkton-MD-restaurants";s:5:"title";s:7:"Monkton";s:5:"count";s:1:"6";}

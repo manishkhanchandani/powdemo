@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/105/11402/Cedar-Rapids/Atkins-restaurants";s:8:"baseName";s:18:"Atkins-restaurants";s:5:"title";s:6:"Atkins";s:5:"count";s:1:"2";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:72:"http://www.urbanspoon.com/n/103/11226/Cape-Cod/North-Chatham-restaurants";s:8:"baseName";s:25:"North-Chatham-restaurants";s:5:"title";s:13:"North Chatham";s:5:"count";s:1:"3";}

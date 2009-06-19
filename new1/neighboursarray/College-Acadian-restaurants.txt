@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:75:"http://www.urbanspoon.com/n/66/6602/Baton-Rouge/College-Acadian-restaurants";s:8:"baseName";s:27:"College-Acadian-restaurants";s:5:"title";s:7:"Acadian";s:5:"count";s:2:"68";}

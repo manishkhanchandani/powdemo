@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/45/41636/Birmingham/Cordova-AL-restaurants";s:8:"baseName";s:22:"Cordova-AL-restaurants";s:5:"title";s:7:"Cordova";s:5:"count";s:1:"6";}

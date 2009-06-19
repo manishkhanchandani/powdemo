@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/88/9412/Bellingham/La-Conner-restaurants";s:8:"baseName";s:21:"La-Conner-restaurants";s:5:"title";s:9:"La Conner";s:5:"count";s:2:"27";}

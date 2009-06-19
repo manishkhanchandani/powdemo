@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/4/40839/Boston/Manchester-MA-restaurants";s:8:"baseName";s:25:"Manchester-MA-restaurants";s:5:"title";s:10:"Manchester";s:5:"count";s:1:"8";}

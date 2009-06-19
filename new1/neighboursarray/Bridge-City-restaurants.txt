@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/87/9301/Beaumont/Bridge-City-restaurants";s:8:"baseName";s:23:"Bridge-City-restaurants";s:5:"title";s:11:"Bridge City";s:5:"count";s:2:"25";}

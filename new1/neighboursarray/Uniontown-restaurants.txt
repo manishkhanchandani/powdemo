@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:66:"http://www.urbanspoon.com/n/102/11140/Canton/Uniontown-restaurants";s:8:"baseName";s:21:"Uniontown-restaurants";s:5:"title";s:9:"Uniontown";s:5:"count";s:2:"38";}

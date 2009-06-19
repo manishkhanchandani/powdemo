@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/4/40793/Boston/Bridgewater-MA-restaurants";s:8:"baseName";s:26:"Bridgewater-MA-restaurants";s:5:"title";s:11:"Bridgewater";s:5:"count";s:2:"50";}

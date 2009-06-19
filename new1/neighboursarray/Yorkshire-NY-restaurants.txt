@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/42/41601/Buffalo/Yorkshire-NY-restaurants";s:8:"baseName";s:24:"Yorkshire-NY-restaurants";s:5:"title";s:9:"Yorkshire";s:5:"count";s:1:"5";}

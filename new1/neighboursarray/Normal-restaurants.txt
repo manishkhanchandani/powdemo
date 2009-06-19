@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/93/10014/Bloomington/Normal-restaurants";s:8:"baseName";s:18:"Normal-restaurants";s:5:"title";s:6:"Normal";s:5:"count";s:2:"93";}

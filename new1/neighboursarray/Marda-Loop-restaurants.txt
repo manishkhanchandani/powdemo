@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:66:"http://www.urbanspoon.com/n/15/1415/Calgary/Marda-Loop-restaurants";s:8:"baseName";s:22:"Marda-Loop-restaurants";s:5:"title";s:10:"Marda Loop";s:5:"count";s:2:"30";}
