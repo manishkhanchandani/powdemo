@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:72:"http://www.urbanspoon.com/n/31/3007/Baltimore/East-Baltimore-restaurants";s:8:"baseName";s:26:"East-Baltimore-restaurants";s:5:"title";s:14:"East Baltimore";s:5:"count";s:2:"60";}

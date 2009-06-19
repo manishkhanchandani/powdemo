@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:60:"http://www.urbanspoon.com/n/9/845/Atlanta/Tucker-restaurants";s:8:"baseName";s:18:"Tucker-restaurants";s:5:"title";s:6:"Tucker";s:5:"count";s:2:"49";}

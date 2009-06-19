@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/9/40943/Atlanta/Fayetteville-GA-restaurants";s:8:"baseName";s:27:"Fayetteville-GA-restaurants";s:5:"title";s:12:"Fayetteville";s:5:"count";s:3:"104";}

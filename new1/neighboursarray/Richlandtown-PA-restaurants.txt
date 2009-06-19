@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:74:"http://www.urbanspoon.com/n/80/42221/Allentown/Richlandtown-PA-restaurants";s:8:"baseName";s:27:"Richlandtown-PA-restaurants";s:5:"title";s:12:"Richlandtown";s:5:"count";s:1:"4";}

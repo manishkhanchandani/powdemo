@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/9/813/Atlanta/Druid-Hills-Emory-restaurants";s:8:"baseName";s:29:"Druid-Hills-Emory-restaurants";s:5:"title";s:11:"Druid Hills";s:5:"count";s:3:"188";}

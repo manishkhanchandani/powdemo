@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/11/40971/Austin/Martindale-TX-restaurants";s:8:"baseName";s:25:"Martindale-TX-restaurants";s:5:"title";s:10:"Martindale";s:5:"count";s:1:"4";}

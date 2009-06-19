@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/9/40963/Atlanta/Whitesburg-GA-restaurants";s:8:"baseName";s:25:"Whitesburg-GA-restaurants";s:5:"title";s:10:"Whitesburg";s:5:"count";s:1:"4";}

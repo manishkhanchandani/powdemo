@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/80/8149/Allentown/Whitehall-restaurants";s:8:"baseName";s:21:"Whitehall-restaurants";s:5:"title";s:9:"Whitehall";s:5:"count";s:2:"90";}
