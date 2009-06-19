@@ -15,7 +15,12 @@ if ($handle = opendir($dirname)) {
 		if($filetype == "file") {
 			echo $dirname."/".$file;
 			echo "<br>";
-			$fc = file_get_contents($dirname."/".$file);
+			$fc = @file_get_contents($dirname."/".$file);
+			if(!$fc) {
+				echo 'could not get '.$dirname."/".$file;
+				echo "<br>";
+				exit;
+			}
 			
 			$regexp = "<li class=\"t\-li\"><a href=\"\/n(.*)\">(.*)\((.*)\)<\/a><\/li>";
 			$matches = $Crawler->regexp($regexp, $fc);
@@ -28,6 +33,11 @@ if ($handle = opendir($dirname)) {
 					
 					if(!file_exists("neighboursurl/".$arr[$k]['baseName'].".html")) {
 						$fs = file_get_contents($arr[$k]['url']);
+						if(!$fs) {
+							echo 'could not get '.$arr[$k]['url'];
+							echo "<br>";
+							exit;
+						}
 						file_put_contents("neighboursurl/".$arr[$k]['baseName'].".html", $fs);
 						echo $arr[$k]['url'].' file saved';
 						echo "<br>";
