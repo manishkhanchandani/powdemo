@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:76:"http://www.urbanspoon.com/n/53/27701/North-Jersey/East-Brunswick-restaurants";s:8:"baseName";s:26:"East-Brunswick-restaurants";s:5:"title";s:14:"East Brunswick";s:5:"count";s:2:"83";}

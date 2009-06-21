@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/57/5724/New-Orleans/Metairie-restaurants";s:8:"baseName";s:20:"Metairie-restaurants";s:5:"title";s:8:"Metairie";s:5:"count";s:3:"332";}

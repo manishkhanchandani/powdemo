@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:79:"http://www.urbanspoon.com/n/53/5300/North-Jersey/Atlantic-Highlands-restaurants";s:8:"baseName";s:30:"Atlantic-Highlands-restaurants";s:5:"title";s:18:"Atlantic Highlands";s:5:"count";s:3:"102";}

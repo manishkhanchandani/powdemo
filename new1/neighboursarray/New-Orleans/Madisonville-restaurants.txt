@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:73:"http://www.urbanspoon.com/n/57/27505/New-Orleans/Madisonville-restaurants";s:8:"baseName";s:24:"Madisonville-restaurants";s:5:"title";s:12:"Madisonville";s:5:"count";s:2:"12";}

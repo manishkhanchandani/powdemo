@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:74:"http://www.urbanspoon.com/n/53/5360/North-Jersey/Port-Monmouth-restaurants";s:8:"baseName";s:25:"Port-Monmouth-restaurants";s:5:"title";s:13:"Port Monmouth";s:5:"count";s:2:"88";}

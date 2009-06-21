@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/53/5363/North-Jersey/Ramsey-restaurants";s:8:"baseName";s:18:"Ramsey-restaurants";s:5:"title";s:6:"Ramsey";s:5:"count";s:2:"73";}

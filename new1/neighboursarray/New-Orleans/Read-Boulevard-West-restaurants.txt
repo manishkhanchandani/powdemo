@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:79:"http://www.urbanspoon.com/n/57/5726/New-Orleans/Read-Boulevard-West-restaurants";s:8:"baseName";s:31:"Read-Boulevard-West-restaurants";s:5:"title";s:19:"Read Boulevard West";s:5:"count";s:2:"36";}

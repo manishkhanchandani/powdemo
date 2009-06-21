@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/238/27414/New-Bedford/Seekonk-restaurants";s:8:"baseName";s:19:"Seekonk-restaurants";s:5:"title";s:7:"Seekonk";s:5:"count";s:2:"64";}

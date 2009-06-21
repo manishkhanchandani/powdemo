@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:60:"http://www.urbanspoon.com/n/20/1924/OC/Placentia-restaurants";s:8:"baseName";s:21:"Placentia-restaurants";s:5:"title";s:9:"Placentia";s:5:"count";s:3:"116";}

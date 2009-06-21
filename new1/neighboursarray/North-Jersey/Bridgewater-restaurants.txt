@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:73:"http://www.urbanspoon.com/n/53/27700/North-Jersey/Bridgewater-restaurants";s:8:"baseName";s:23:"Bridgewater-restaurants";s:5:"title";s:11:"Bridgewater";s:5:"count";s:2:"88";}

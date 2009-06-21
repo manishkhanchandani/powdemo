@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:66:"http://www.urbanspoon.com/n/57/5733/New-Orleans/Uptown-restaurants";s:8:"baseName";s:18:"Uptown-restaurants";s:5:"title";s:6:"Uptown";s:5:"count";s:2:"26";}

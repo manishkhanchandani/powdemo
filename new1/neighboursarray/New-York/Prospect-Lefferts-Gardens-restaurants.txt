@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:80:"http://www.urbanspoon.com/n/3/252/New-York/Prospect-Lefferts-Gardens-restaurants";s:8:"baseName";s:37:"Prospect-Lefferts-Gardens-restaurants";s:5:"title";s:25:"Prospect Lefferts Gardens";s:5:"count";s:2:"55";}

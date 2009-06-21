@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:76:"http://www.urbanspoon.com/n/53/41824/North-Jersey/Farmingdale-NJ-restaurants";s:8:"baseName";s:26:"Farmingdale-NJ-restaurants";s:5:"title";s:11:"Farmingdale";s:5:"count";s:2:"21";}

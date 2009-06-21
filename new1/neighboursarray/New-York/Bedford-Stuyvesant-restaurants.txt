@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:73:"http://www.urbanspoon.com/n/3/204/New-York/Bedford-Stuyvesant-restaurants";s:8:"baseName";s:30:"Bedford-Stuyvesant-restaurants";s:5:"title";s:18:"Bedford Stuyvesant";s:5:"count";s:3:"259";}

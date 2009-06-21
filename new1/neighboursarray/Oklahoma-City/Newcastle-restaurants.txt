@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:72:"http://www.urbanspoon.com/n/46/28607/Oklahoma-City/Newcastle-restaurants";s:8:"baseName";s:21:"Newcastle-restaurants";s:5:"title";s:9:"Newcastle";s:5:"count";s:2:"32";}

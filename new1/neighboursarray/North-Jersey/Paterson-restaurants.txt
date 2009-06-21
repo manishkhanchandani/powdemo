@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/53/5355/North-Jersey/Paterson-restaurants";s:8:"baseName";s:20:"Paterson-restaurants";s:5:"title";s:8:"Paterson";s:5:"count";s:3:"324";}

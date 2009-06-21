@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:72:"http://www.urbanspoon.com/n/57/5702/New-Orleans/Belle-Chasse-restaurants";s:8:"baseName";s:24:"Belle-Chasse-restaurants";s:5:"title";s:12:"Belle Chasse";s:5:"count";s:2:"22";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:64:"http://www.urbanspoon.com/n/3/202/New-York/Bay-Ridge-restaurants";s:8:"baseName";s:21:"Bay-Ridge-restaurants";s:5:"title";s:9:"Bay Ridge";s:5:"count";s:3:"331";}

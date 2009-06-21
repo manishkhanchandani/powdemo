@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/53/5364/North-Jersey/Ridgefield-restaurants";s:8:"baseName";s:22:"Ridgefield-restaurants";s:5:"title";s:10:"Ridgefield";s:5:"count";s:2:"81";}

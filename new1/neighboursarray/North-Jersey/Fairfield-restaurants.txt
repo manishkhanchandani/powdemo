@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/53/5317/North-Jersey/Fairfield-restaurants";s:8:"baseName";s:21:"Fairfield-restaurants";s:5:"title";s:9:"Fairfield";s:5:"count";s:2:"59";}

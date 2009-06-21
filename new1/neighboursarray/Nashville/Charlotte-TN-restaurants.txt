@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/47/41660/Nashville/Charlotte-TN-restaurants";s:8:"baseName";s:24:"Charlotte-TN-restaurants";s:5:"title";s:9:"Charlotte";s:5:"count";s:1:"7";}

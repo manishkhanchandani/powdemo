@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:89:"http://www.urbanspoon.com/n/46/4513/Oklahoma-City/Northwest-39-Street-Enclave-restaurants";s:8:"baseName";s:39:"Northwest-39-Street-Enclave-restaurants";s:5:"title";s:27:"Northwest 39 Street Enclave";s:5:"count";s:2:"30";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:72:"http://www.urbanspoon.com/n/53/41810/North-Jersey/Chester-NJ-restaurants";s:8:"baseName";s:22:"Chester-NJ-restaurants";s:5:"title";s:7:"Chester";s:5:"count";s:2:"40";}

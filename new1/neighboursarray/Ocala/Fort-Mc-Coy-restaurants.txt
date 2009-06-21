@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/244/28306/Ocala/Fort-Mc-Coy-restaurants";s:8:"baseName";s:23:"Fort-Mc-Coy-restaurants";s:5:"title";s:11:"Fort Mc Coy";s:5:"count";s:1:"6";}

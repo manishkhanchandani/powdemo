@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/53/41912/North-Jersey/Sussex-NJ-restaurants";s:8:"baseName";s:21:"Sussex-NJ-restaurants";s:5:"title";s:6:"Sussex";s:5:"count";s:2:"40";}

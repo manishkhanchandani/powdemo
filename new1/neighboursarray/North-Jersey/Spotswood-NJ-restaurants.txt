@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:74:"http://www.urbanspoon.com/n/53/41905/North-Jersey/Spotswood-NJ-restaurants";s:8:"baseName";s:24:"Spotswood-NJ-restaurants";s:5:"title";s:9:"Spotswood";s:5:"count";s:2:"20";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/3/214/New-York/Clinton-Hill-restaurants";s:8:"baseName";s:24:"Clinton-Hill-restaurants";s:5:"title";s:12:"Clinton Hill";s:5:"count";s:2:"98";}

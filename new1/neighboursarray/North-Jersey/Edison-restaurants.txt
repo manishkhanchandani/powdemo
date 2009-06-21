@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/53/5312/North-Jersey/Edison-restaurants";s:8:"baseName";s:18:"Edison-restaurants";s:5:"title";s:6:"Edison";s:5:"count";s:3:"233";}

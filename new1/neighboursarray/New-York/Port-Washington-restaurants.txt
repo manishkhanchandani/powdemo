@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:72:"http://www.urbanspoon.com/n/3/46215/New-York/Port-Washington-restaurants";s:8:"baseName";s:27:"Port-Washington-restaurants";s:5:"title";s:15:"Port Washington";s:5:"count";s:1:"9";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/3/258/New-York/Staten-Island-restaurants";s:8:"baseName";s:25:"Staten-Island-restaurants";s:5:"title";s:13:"Staten Island";s:5:"count";s:3:"904";}

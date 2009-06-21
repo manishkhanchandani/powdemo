@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:80:"http://www.urbanspoon.com/n/53/41795/North-Jersey/Avon-By-the-Sea-NJ-restaurants";s:8:"baseName";s:30:"Avon-By-the-Sea-NJ-restaurants";s:5:"title";s:15:"Avon By the Sea";s:5:"count";s:1:"9";}

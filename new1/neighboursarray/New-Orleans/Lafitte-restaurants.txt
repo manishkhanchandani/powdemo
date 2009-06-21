@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/57/27504/New-Orleans/Lafitte-restaurants";s:8:"baseName";s:19:"Lafitte-restaurants";s:5:"title";s:7:"Lafitte";s:5:"count";s:1:"7";}

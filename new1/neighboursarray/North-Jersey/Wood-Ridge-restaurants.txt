@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/53/5385/North-Jersey/Wood-Ridge-restaurants";s:8:"baseName";s:22:"Wood-Ridge-restaurants";s:5:"title";s:10:"Wood-Ridge";s:5:"count";s:2:"48";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:75:"http://www.urbanspoon.com/n/53/41802/North-Jersey/Bloomsbury-NJ-restaurants";s:8:"baseName";s:25:"Bloomsbury-NJ-restaurants";s:5:"title";s:10:"Bloomsbury";s:5:"count";s:1:"4";}

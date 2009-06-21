@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:83:"http://www.urbanspoon.com/n/53/5369/North-Jersey/Sayreville-South-Amboy-restaurants";s:8:"baseName";s:34:"Sayreville-South-Amboy-restaurants";s:5:"title";s:22:"Sayreville-South Amboy";s:5:"count";s:2:"77";}

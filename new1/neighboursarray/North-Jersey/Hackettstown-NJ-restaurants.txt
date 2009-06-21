@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:77:"http://www.urbanspoon.com/n/53/41830/North-Jersey/Hackettstown-NJ-restaurants";s:8:"baseName";s:27:"Hackettstown-NJ-restaurants";s:5:"title";s:12:"Hackettstown";s:5:"count";s:2:"80";}

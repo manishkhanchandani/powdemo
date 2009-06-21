@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:76:"http://www.urbanspoon.com/n/53/41855/North-Jersey/Long-Valley-NJ-restaurants";s:8:"baseName";s:26:"Long-Valley-NJ-restaurants";s:5:"title";s:11:"Long Valley";s:5:"count";s:2:"20";}

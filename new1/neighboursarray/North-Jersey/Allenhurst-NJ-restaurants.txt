@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:75:"http://www.urbanspoon.com/n/53/41787/North-Jersey/Allenhurst-NJ-restaurants";s:8:"baseName";s:25:"Allenhurst-NJ-restaurants";s:5:"title";s:10:"Allenhurst";s:5:"count";s:1:"7";}

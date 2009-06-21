@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:64:"http://www.urbanspoon.com/n/20/1922/OC/Newport-Beach-restaurants";s:8:"baseName";s:25:"Newport-Beach-restaurants";s:5:"title";s:13:"Newport Beach";s:5:"count";s:3:"378";}

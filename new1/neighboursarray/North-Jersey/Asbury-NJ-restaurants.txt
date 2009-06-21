@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/53/41792/North-Jersey/Asbury-NJ-restaurants";s:8:"baseName";s:21:"Asbury-NJ-restaurants";s:5:"title";s:6:"Asbury";s:5:"count";s:1:"5";}

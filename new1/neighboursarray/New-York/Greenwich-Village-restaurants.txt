@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:72:"http://www.urbanspoon.com/n/3/234/New-York/Greenwich-Village-restaurants";s:8:"baseName";s:29:"Greenwich-Village-restaurants";s:5:"title";s:17:"Greenwich Village";s:5:"count";s:3:"395";}

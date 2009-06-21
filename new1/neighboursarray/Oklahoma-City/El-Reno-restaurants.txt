@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/46/28603/Oklahoma-City/El-Reno-restaurants";s:8:"baseName";s:19:"El-Reno-restaurants";s:5:"title";s:7:"El Reno";s:5:"count";s:2:"40";}

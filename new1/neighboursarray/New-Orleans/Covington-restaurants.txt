@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/57/27500/New-Orleans/Covington-restaurants";s:8:"baseName";s:21:"Covington-restaurants";s:5:"title";s:9:"Covington";s:5:"count";s:3:"148";}

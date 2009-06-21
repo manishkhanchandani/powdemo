@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/57/41934/New-Orleans/Norco-LA-restaurants";s:8:"baseName";s:20:"Norco-LA-restaurants";s:5:"title";s:5:"Norco";s:5:"count";s:1:"3";}

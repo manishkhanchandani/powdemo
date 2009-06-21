@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/20/1927/OC/San-Juan-Capistrano-restaurants";s:8:"baseName";s:31:"San-Juan-Capistrano-restaurants";s:5:"title";s:19:"San Juan Capistrano";s:5:"count";s:2:"94";}

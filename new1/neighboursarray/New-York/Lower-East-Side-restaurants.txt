@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/3/241/New-York/Lower-East-Side-restaurants";s:8:"baseName";s:27:"Lower-East-Side-restaurants";s:5:"title";s:15:"Lower East Side";s:5:"count";s:3:"394";}

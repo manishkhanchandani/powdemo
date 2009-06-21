@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/46/4511/Oklahoma-City/Mustang-restaurants";s:8:"baseName";s:19:"Mustang-restaurants";s:5:"title";s:7:"Mustang";s:5:"count";s:2:"27";}

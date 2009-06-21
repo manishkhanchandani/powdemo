@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/229/26405/Myrtle-Beach/Longs-restaurants";s:8:"baseName";s:17:"Longs-restaurants";s:5:"title";s:5:"Longs";s:5:"count";s:2:"22";}

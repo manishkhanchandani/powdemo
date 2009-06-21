@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:64:"http://www.urbanspoon.com/n/3/213/New-York/Chinatown-restaurants";s:8:"baseName";s:21:"Chinatown-restaurants";s:5:"title";s:9:"Chinatown";s:5:"count";s:3:"373";}

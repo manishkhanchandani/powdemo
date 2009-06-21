@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:75:"http://www.urbanspoon.com/n/46/4500/Oklahoma-City/Arts-District-restaurants";s:8:"baseName";s:25:"Arts-District-restaurants";s:5:"title";s:13:"Arts District";s:5:"count";s:2:"14";}

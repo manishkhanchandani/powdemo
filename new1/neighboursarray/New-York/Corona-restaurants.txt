@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:61:"http://www.urbanspoon.com/n/3/218/New-York/Corona-restaurants";s:8:"baseName";s:18:"Corona-restaurants";s:5:"title";s:6:"Corona";s:5:"count";s:3:"166";}

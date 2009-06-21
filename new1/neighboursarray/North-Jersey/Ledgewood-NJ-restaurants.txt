@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:74:"http://www.urbanspoon.com/n/53/41852/North-Jersey/Ledgewood-NJ-restaurants";s:8:"baseName";s:24:"Ledgewood-NJ-restaurants";s:5:"title";s:9:"Ledgewood";s:5:"count";s:2:"24";}

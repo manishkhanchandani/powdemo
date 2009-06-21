@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:61:"http://www.urbanspoon.com/n/3/248/New-York/Nolita-restaurants";s:8:"baseName";s:18:"Nolita-restaurants";s:5:"title";s:6:"Nolita";s:5:"count";s:2:"62";}

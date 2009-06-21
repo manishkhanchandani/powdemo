@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/57/5717/New-Orleans/La-Place-restaurants";s:8:"baseName";s:20:"La-Place-restaurants";s:5:"title";s:8:"La Place";s:5:"count";s:2:"48";}

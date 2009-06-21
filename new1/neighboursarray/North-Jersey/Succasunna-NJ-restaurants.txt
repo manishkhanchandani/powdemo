@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:75:"http://www.urbanspoon.com/n/53/41911/North-Jersey/Succasunna-NJ-restaurants";s:8:"baseName";s:25:"Succasunna-NJ-restaurants";s:5:"title";s:10:"Succasunna";s:5:"count";s:2:"22";}

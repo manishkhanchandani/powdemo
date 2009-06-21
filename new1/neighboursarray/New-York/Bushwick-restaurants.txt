@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:63:"http://www.urbanspoon.com/n/3/209/New-York/Bushwick-restaurants";s:8:"baseName";s:20:"Bushwick-restaurants";s:5:"title";s:8:"Bushwick";s:5:"count";s:2:"86";}

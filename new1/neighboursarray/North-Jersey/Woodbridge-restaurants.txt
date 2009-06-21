@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/53/5386/North-Jersey/Woodbridge-restaurants";s:8:"baseName";s:22:"Woodbridge-restaurants";s:5:"title";s:10:"Woodbridge";s:5:"count";s:2:"63";}

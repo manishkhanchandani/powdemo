@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:66:"http://www.urbanspoon.com/n/57/5716/New-Orleans/Kenner-restaurants";s:8:"baseName";s:18:"Kenner-restaurants";s:5:"title";s:6:"Kenner";s:5:"count";s:3:"140";}

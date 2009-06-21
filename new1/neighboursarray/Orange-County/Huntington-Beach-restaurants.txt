@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/20/1911/OC/Huntington-Beach-restaurants";s:8:"baseName";s:28:"Huntington-Beach-restaurants";s:5:"title";s:16:"Huntington Beach";s:5:"count";s:3:"478";}

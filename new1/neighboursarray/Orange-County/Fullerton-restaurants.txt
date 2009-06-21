@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:60:"http://www.urbanspoon.com/n/20/1909/OC/Fullerton-restaurants";s:8:"baseName";s:21:"Fullerton-restaurants";s:5:"title";s:9:"Fullerton";s:5:"count";s:3:"453";}

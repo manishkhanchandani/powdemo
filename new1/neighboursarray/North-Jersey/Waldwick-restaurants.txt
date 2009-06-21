@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/53/5380/North-Jersey/Waldwick-restaurants";s:8:"baseName";s:20:"Waldwick-restaurants";s:5:"title";s:8:"Waldwick";s:5:"count";s:2:"47";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/53/41822/North-Jersey/Ewing-NJ-restaurants";s:8:"baseName";s:20:"Ewing-NJ-restaurants";s:5:"title";s:5:"Ewing";s:5:"count";s:2:"69";}

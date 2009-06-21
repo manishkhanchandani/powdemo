@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/46/28609/Oklahoma-City/Purcell-restaurants";s:8:"baseName";s:19:"Purcell-restaurants";s:5:"title";s:7:"Purcell";s:5:"count";s:2:"27";}

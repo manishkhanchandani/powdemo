@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/35/3421/Norfolk/York-Poquoson-restaurants";s:8:"baseName";s:25:"York-Poquoson-restaurants";s:5:"title";s:8:"Poquoson";s:5:"count";s:2:"91";}

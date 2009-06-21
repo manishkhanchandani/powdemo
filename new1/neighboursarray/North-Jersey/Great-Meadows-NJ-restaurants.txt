@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:78:"http://www.urbanspoon.com/n/53/41829/North-Jersey/Great-Meadows-NJ-restaurants";s:8:"baseName";s:28:"Great-Meadows-NJ-restaurants";s:5:"title";s:13:"Great Meadows";s:5:"count";s:1:"4";}

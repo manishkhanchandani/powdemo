@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:98:"http://www.urbanspoon.com/n/46/4508/Oklahoma-City/Meridian-Avenue-Hospitality-Corridor-restaurants";s:8:"baseName";s:48:"Meridian-Avenue-Hospitality-Corridor-restaurants";s:5:"title";s:36:"Meridian Avenue Hospitality Corridor";s:5:"count";s:2:"32";}

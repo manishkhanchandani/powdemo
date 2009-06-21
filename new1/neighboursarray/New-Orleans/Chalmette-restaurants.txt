@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/57/5706/New-Orleans/Chalmette-restaurants";s:8:"baseName";s:21:"Chalmette-restaurants";s:5:"title";s:9:"Chalmette";s:5:"count";s:2:"71";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:74:"http://www.urbanspoon.com/n/53/41788/North-Jersey/Allentown-NJ-restaurants";s:8:"baseName";s:24:"Allentown-NJ-restaurants";s:5:"title";s:9:"Allentown";s:5:"count";s:1:"9";}

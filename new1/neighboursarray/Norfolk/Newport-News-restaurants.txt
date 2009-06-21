@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/35/3410/Norfolk/Newport-News-restaurants";s:8:"baseName";s:24:"Newport-News-restaurants";s:5:"title";s:12:"Newport News";s:5:"count";s:3:"439";}

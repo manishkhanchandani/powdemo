@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:79:"http://www.urbanspoon.com/n/53/41866/North-Jersey/Monmouth-Beach-NJ-restaurants";s:8:"baseName";s:29:"Monmouth-Beach-NJ-restaurants";s:5:"title";s:14:"Monmouth Beach";s:5:"count";s:1:"8";}

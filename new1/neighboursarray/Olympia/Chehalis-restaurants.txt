@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:66:"http://www.urbanspoon.com/n/247/28701/Olympia/Chehalis-restaurants";s:8:"baseName";s:20:"Chehalis-restaurants";s:5:"title";s:8:"Chehalis";s:5:"count";s:2:"65";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:63:"http://www.urbanspoon.com/n/20/1926/OC/San-Clemente-restaurants";s:8:"baseName";s:24:"San-Clemente-restaurants";s:5:"title";s:12:"San Clemente";s:5:"count";s:3:"173";}

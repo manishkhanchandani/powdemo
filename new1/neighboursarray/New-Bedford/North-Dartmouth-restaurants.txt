@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:77:"http://www.urbanspoon.com/n/238/27411/New-Bedford/North-Dartmouth-restaurants";s:8:"baseName";s:27:"North-Dartmouth-restaurants";s:5:"title";s:15:"North Dartmouth";s:5:"count";s:2:"56";}

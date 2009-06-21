@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:77:"http://www.urbanspoon.com/n/53/41920/North-Jersey/West-Milford-NJ-restaurants";s:8:"baseName";s:27:"West-Milford-NJ-restaurants";s:5:"title";s:12:"West Milford";s:5:"count";s:2:"31";}

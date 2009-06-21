@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/3/217/New-York/Coney-Island-restaurants";s:8:"baseName";s:24:"Coney-Island-restaurants";s:5:"title";s:12:"Coney Island";s:5:"count";s:2:"57";}

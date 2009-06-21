@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:63:"http://www.urbanspoon.com/n/20/1920/OC/Los-Alamitos-restaurants";s:8:"baseName";s:24:"Los-Alamitos-restaurants";s:5:"title";s:12:"Los Alamitos";s:5:"count";s:2:"77";}

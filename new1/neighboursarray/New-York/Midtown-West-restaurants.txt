@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/3/245/New-York/Midtown-West-restaurants";s:8:"baseName";s:24:"Midtown-West-restaurants";s:5:"title";s:12:"Midtown West";s:5:"count";s:4:"1682";}

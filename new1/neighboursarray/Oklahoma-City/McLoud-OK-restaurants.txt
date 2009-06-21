@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:72:"http://www.urbanspoon.com/n/46/41650/Oklahoma-City/McLoud-OK-restaurants";s:8:"baseName";s:21:"McLoud-OK-restaurants";s:5:"title";s:6:"McLoud";s:5:"count";s:1:"8";}

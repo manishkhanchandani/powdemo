@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:55:"http://www.urbanspoon.com/n/20/1901/OC/Brea-restaurants";s:8:"baseName";s:16:"Brea-restaurants";s:5:"title";s:4:"Brea";s:5:"count";s:3:"171";}

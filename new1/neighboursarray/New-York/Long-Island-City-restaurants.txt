@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/3/240/New-York/Long-Island-City-restaurants";s:8:"baseName";s:28:"Long-Island-City-restaurants";s:5:"title";s:16:"Long Island City";s:5:"count";s:3:"178";}

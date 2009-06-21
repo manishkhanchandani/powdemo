@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/53/5319/North-Jersey/Fort-Lee-restaurants";s:8:"baseName";s:20:"Fort-Lee-restaurants";s:5:"title";s:8:"Fort Lee";s:5:"count";s:3:"122";}

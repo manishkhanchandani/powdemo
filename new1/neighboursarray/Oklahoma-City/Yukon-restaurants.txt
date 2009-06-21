@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/46/4518/Oklahoma-City/Yukon-restaurants";s:8:"baseName";s:17:"Yukon-restaurants";s:5:"title";s:5:"Yukon";s:5:"count";s:2:"56";}

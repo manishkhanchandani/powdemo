@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:59:"http://www.urbanspoon.com/n/3/257/New-York/Soho-restaurants";s:8:"baseName";s:16:"Soho-restaurants";s:5:"title";s:4:"Soho";s:5:"count";s:3:"263";}

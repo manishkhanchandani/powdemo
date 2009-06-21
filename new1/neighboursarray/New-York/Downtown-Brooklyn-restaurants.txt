@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:72:"http://www.urbanspoon.com/n/3/221/New-York/Downtown-Brooklyn-restaurants";s:8:"baseName";s:29:"Downtown-Brooklyn-restaurants";s:5:"title";s:17:"Downtown Brooklyn";s:5:"count";s:2:"91";}

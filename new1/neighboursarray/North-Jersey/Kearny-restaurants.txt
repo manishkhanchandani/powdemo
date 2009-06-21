@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/53/5331/North-Jersey/Kearny-restaurants";s:8:"baseName";s:18:"Kearny-restaurants";s:5:"title";s:6:"Kearny";s:5:"count";s:3:"180";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/57/5728/New-Orleans/St-Roch-restaurants";s:8:"baseName";s:19:"St-Roch-restaurants";s:5:"title";s:7:"St Roch";s:5:"count";s:2:"26";}

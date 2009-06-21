@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/244/28307/Ocala/Fruitland-Park-restaurants";s:8:"baseName";s:26:"Fruitland-Park-restaurants";s:5:"title";s:14:"Fruitland Park";s:5:"count";s:2:"13";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:62:"http://www.urbanspoon.com/n/26/2502/Orlando/Apopka-restaurants";s:8:"baseName";s:18:"Apopka-restaurants";s:5:"title";s:6:"Apopka";s:5:"count";s:3:"107";}

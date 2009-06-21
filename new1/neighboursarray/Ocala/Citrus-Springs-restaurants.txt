@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/244/28304/Ocala/Citrus-Springs-restaurants";s:8:"baseName";s:26:"Citrus-Springs-restaurants";s:5:"title";s:14:"Citrus Springs";s:5:"count";s:1:"2";}
