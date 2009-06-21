@@ -1,1 +1,0 @@
-a:4:{s:3:"url";s:62:"http://www.urbanspoon.com/n/9/8604/Atlanta/Cumming-restaurants";s:8:"baseName";s:19:"Cumming-restaurants";s:5:"title";s:7:"Cumming";s:5:"count";s:3:"177";}

@@ -1,1 +1,0 @@
-a:4:{s:3:"url";s:66:"http://www.urbanspoon.com/n/11/1005/Austin/East-Austin-restaurants";s:8:"baseName";s:23:"East-Austin-restaurants";s:5:"title";s:11:"East Austin";s:5:"count";s:3:"210";}

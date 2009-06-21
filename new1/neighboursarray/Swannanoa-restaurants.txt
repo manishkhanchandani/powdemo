@@ -1,1 +1,0 @@
-a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/82/8426/Asheville/Swannanoa-restaurants";s:8:"baseName";s:21:"Swannanoa-restaurants";s:5:"title";s:9:"Swannanoa";s:5:"count";s:2:"12";}

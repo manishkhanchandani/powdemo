@@ -1,1 +1,0 @@
-a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/45/41644/Birmingham/Parrish-AL-restaurants";s:8:"baseName";s:22:"Parrish-AL-restaurants";s:5:"title";s:7:"Parrish";s:5:"count";s:1:"4";}

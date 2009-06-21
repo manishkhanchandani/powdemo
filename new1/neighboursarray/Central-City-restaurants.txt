@@ -1,1 +1,0 @@
-a:4:{s:3:"url";s:75:"http://www.urbanspoon.com/n/105/11406/Cedar-Rapids/Central-City-restaurants";s:8:"baseName";s:24:"Central-City-restaurants";s:5:"title";s:12:"Central City";s:5:"count";s:1:"3";}

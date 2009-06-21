@@ -1,1 +1,0 @@
-a:4:{s:3:"url";s:84:"http://www.urbanspoon.com/n/31/3026/Baltimore/Reservoir-Hill-Bolton-Hill-restaurants";s:8:"baseName";s:38:"Reservoir-Hill-Bolton-Hill-restaurants";s:5:"title";s:26:"Reservoir Hill-Bolton Hill";s:5:"count";s:2:"33";}

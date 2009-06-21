@@ -1,1 +1,0 @@
-a:4:{s:3:"url";s:73:"http://www.urbanspoon.com/n/105/11407/Cedar-Rapids/Coralville-restaurants";s:8:"baseName";s:22:"Coralville-restaurants";s:5:"title";s:10:"Coralville";s:5:"count";s:2:"94";}

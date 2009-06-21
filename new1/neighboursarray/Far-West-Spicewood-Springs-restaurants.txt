@@ -1,1 +1,0 @@
-a:4:{s:3:"url";s:81:"http://www.urbanspoon.com/n/11/1006/Austin/Far-West-Spicewood-Springs-restaurants";s:8:"baseName";s:38:"Far-West-Spicewood-Springs-restaurants";s:5:"title";s:26:"Far West-Spicewood Springs";s:5:"count";s:2:"58";}

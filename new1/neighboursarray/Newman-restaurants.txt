@@ -1,1 +1,0 @@
-a:4:{s:3:"url";s:66:"http://www.urbanspoon.com/n/106/11510/Champaign/Newman-restaurants";s:8:"baseName";s:18:"Newman-restaurants";s:5:"title";s:6:"Newman";s:5:"count";s:1:"2";}

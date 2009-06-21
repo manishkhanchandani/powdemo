@@ -1,1 +1,0 @@
-a:4:{s:3:"url";s:78:"http://www.urbanspoon.com/n/60/6015/Albuquerque/Northeast-Quadrant-restaurants";s:8:"baseName";s:30:"Northeast-Quadrant-restaurants";s:5:"title";s:18:"Northeast Quadrant";s:5:"count";s:2:"41";}

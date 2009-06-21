@@ -1,1 +1,0 @@
-a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/97/10503/Bozeman/Clyde-Park-restaurants";s:8:"baseName";s:22:"Clyde-Park-restaurants";s:5:"title";s:10:"Clyde Park";s:5:"count";s:1:"2";}

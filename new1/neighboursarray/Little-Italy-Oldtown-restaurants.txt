@@ -1,1 +1,0 @@
-a:4:{s:3:"url";s:78:"http://www.urbanspoon.com/n/31/3015/Baltimore/Little-Italy-Oldtown-restaurants";s:8:"baseName";s:32:"Little-Italy-Oldtown-restaurants";s:5:"title";s:12:"Little Italy";s:5:"count";s:2:"72";}

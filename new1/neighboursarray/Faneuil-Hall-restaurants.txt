@@ -1,1 +1,0 @@
-a:4:{s:3:"url";s:65:"http://www.urbanspoon.com/n/4/316/Boston/Faneuil-Hall-restaurants";s:8:"baseName";s:24:"Faneuil-Hall-restaurants";s:5:"title";s:12:"Faneuil Hall";s:5:"count";s:2:"79";}

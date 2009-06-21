@@ -1,1 +1,0 @@
-a:4:{s:3:"url";s:56:"http://www.urbanspoon.com/n/97/10502/Bozeman-restaurants";s:8:"baseName";s:19:"Bozeman-restaurants";s:5:"title";s:7:"Bozeman";s:5:"count";s:3:"166";}

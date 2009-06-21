@@ -1,1 +1,0 @@
-a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/93/10003/Bloomington/Colfax-restaurants";s:8:"baseName";s:18:"Colfax-restaurants";s:5:"title";s:6:"Colfax";s:5:"count";s:1:"4";}

@@ -1,1 +1,0 @@
-a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/9/802/Atlanta/Avondale-Estates-restaurants";s:8:"baseName";s:28:"Avondale-Estates-restaurants";s:5:"title";s:16:"Avondale Estates";s:5:"count";s:1:"2";}

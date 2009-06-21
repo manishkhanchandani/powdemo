@@ -1,1 +1,0 @@
-a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/45/4401/Birmingham/Alabaster-restaurants";s:8:"baseName";s:21:"Alabaster-restaurants";s:5:"title";s:9:"Alabaster";s:5:"count";s:2:"47";}

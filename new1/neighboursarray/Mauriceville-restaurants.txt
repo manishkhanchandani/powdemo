@@ -1,1 +1,0 @@
-a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/87/9306/Beaumont/Mauriceville-restaurants";s:8:"baseName";s:24:"Mauriceville-restaurants";s:5:"title";s:12:"Mauriceville";s:5:"count";s:1:"4";}

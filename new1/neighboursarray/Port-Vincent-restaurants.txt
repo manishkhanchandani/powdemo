@@ -1,1 +1,0 @@
-a:4:{s:3:"url";s:72:"http://www.urbanspoon.com/n/66/9207/Baton-Rouge/Port-Vincent-restaurants";s:8:"baseName";s:24:"Port-Vincent-restaurants";s:5:"title";s:12:"Port Vincent";s:5:"count";s:1:"2";}

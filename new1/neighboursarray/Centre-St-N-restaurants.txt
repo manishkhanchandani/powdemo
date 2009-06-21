@@ -1,1 +1,0 @@
-a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/15/1407/Calgary/Centre-St-N-restaurants";s:8:"baseName";s:23:"Centre-St-N-restaurants";s:5:"title";s:11:"Centre St N";s:5:"count";s:2:"37";}

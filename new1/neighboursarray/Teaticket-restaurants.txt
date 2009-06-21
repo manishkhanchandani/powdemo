@@ -1,1 +1,0 @@
-a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/103/11240/Cape-Cod/Teaticket-restaurants";s:8:"baseName";s:21:"Teaticket-restaurants";s:5:"title";s:9:"Teaticket";s:5:"count";s:2:"11";}

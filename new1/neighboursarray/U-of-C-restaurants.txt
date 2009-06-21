@@ -1,1 +1,0 @@
-a:4:{s:3:"url";s:62:"http://www.urbanspoon.com/n/15/1421/Calgary/U-of-C-restaurants";s:8:"baseName";s:18:"U-of-C-restaurants";s:5:"title";s:6:"U of C";s:5:"count";s:2:"51";}

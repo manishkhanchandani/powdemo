@@ -1,1 +1,0 @@
-a:4:{s:3:"url";s:74:"http://www.urbanspoon.com/n/45/41634/Birmingham/Branchville-AL-restaurants";s:8:"baseName";s:26:"Branchville-AL-restaurants";s:5:"title";s:11:"Branchville";s:5:"count";s:1:"3";}

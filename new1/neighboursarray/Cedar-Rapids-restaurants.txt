@@ -1,1 +1,0 @@
-a:4:{s:3:"url";s:62:"http://www.urbanspoon.com/n/105/11404/Cedar-Rapids-restaurants";s:8:"baseName";s:24:"Cedar-Rapids-restaurants";s:5:"title";s:12:"Cedar Rapids";s:5:"count";s:3:"403";}

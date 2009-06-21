@@ -1,1 +1,0 @@
-a:4:{s:3:"url";s:66:"http://www.urbanspoon.com/n/9/808/Atlanta/College-Park-restaurants";s:8:"baseName";s:24:"College-Park-restaurants";s:5:"title";s:12:"College Park";s:5:"count";s:3:"201";}

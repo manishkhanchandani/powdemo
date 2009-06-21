@@ -1,1 +1,0 @@
-a:4:{s:3:"url";s:62:"http://www.urbanspoon.com/n/84/8706/Augusta/Harlem-restaurants";s:8:"baseName";s:18:"Harlem-restaurants";s:5:"title";s:6:"Harlem";s:5:"count";s:1:"5";}

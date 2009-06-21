@@ -1,1 +1,0 @@
-a:4:{s:3:"url";s:64:"http://www.urbanspoon.com/n/100/10900/Butte/Anaconda-restaurants";s:8:"baseName";s:20:"Anaconda-restaurants";s:5:"title";s:8:"Anaconda";s:5:"count";s:2:"36";}

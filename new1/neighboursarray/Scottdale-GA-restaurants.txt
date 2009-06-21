@@ -1,1 +1,0 @@
-a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/9/40954/Atlanta/Scottdale-GA-restaurants";s:8:"baseName";s:24:"Scottdale-GA-restaurants";s:5:"title";s:9:"Scottdale";s:5:"count";s:1:"7";}

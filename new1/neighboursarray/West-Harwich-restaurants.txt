@@ -1,1 +1,0 @@
-a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/103/11246/Cape-Cod/West-Harwich-restaurants";s:8:"baseName";s:24:"West-Harwich-restaurants";s:5:"title";s:12:"West Harwich";s:5:"count";s:1:"6";}

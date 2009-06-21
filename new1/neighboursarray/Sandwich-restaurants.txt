@@ -1,1 +1,0 @@
-a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/103/11236/Cape-Cod/Sandwich-restaurants";s:8:"baseName";s:20:"Sandwich-restaurants";s:5:"title";s:8:"Sandwich";s:5:"count";s:2:"37";}

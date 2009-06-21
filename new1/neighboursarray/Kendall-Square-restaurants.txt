@@ -1,1 +1,0 @@
-a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/4/322/Boston/Kendall-Square-restaurants";s:8:"baseName";s:26:"Kendall-Square-restaurants";s:5:"title";s:14:"Kendall Square";s:5:"count";s:3:"107";}

@@ -1,1 +1,0 @@
-a:4:{s:3:"url";s:63:"http://www.urbanspoon.com/n/92/9902/Bismarck/Mandan-restaurants";s:8:"baseName";s:18:"Mandan-restaurants";s:5:"title";s:6:"Mandan";s:5:"count";s:2:"37";}

@@ -1,1 +1,0 @@
-a:4:{s:3:"url";s:59:"http://www.urbanspoon.com/n/11/8804/Austin/Kyle-restaurants";s:8:"baseName";s:16:"Kyle-restaurants";s:5:"title";s:4:"Kyle";s:5:"count";s:2:"23";}

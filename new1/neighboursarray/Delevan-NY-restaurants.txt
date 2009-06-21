@@ -1,1 +1,0 @@
-a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/42/41595/Buffalo/Delevan-NY-restaurants";s:8:"baseName";s:22:"Delevan-NY-restaurants";s:5:"title";s:7:"Delevan";s:5:"count";s:1:"6";}

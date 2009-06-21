@@ -1,1 +1,0 @@
-a:4:{s:3:"url";s:65:"http://www.urbanspoon.com/n/91/9724/Binghamton/Vestal-restaurants";s:8:"baseName";s:18:"Vestal-restaurants";s:5:"title";s:6:"Vestal";s:5:"count";s:2:"87";}

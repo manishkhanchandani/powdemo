@@ -1,1 +1,0 @@
-a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/105/11400/Cedar-Rapids/Amana-restaurants";s:8:"baseName";s:17:"Amana-restaurants";s:5:"title";s:5:"Amana";s:5:"count";s:2:"10";}

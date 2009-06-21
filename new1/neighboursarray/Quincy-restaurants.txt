@@ -1,1 +1,0 @@
-a:4:{s:3:"url";s:59:"http://www.urbanspoon.com/n/4/331/Boston/Quincy-restaurants";s:8:"baseName";s:18:"Quincy-restaurants";s:5:"title";s:6:"Quincy";s:5:"count";s:3:"202";}

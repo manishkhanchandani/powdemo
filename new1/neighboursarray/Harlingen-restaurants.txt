@@ -1,1 +1,0 @@
-a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/99/10701/Brownsville/Harlingen-restaurants";s:8:"baseName";s:21:"Harlingen-restaurants";s:5:"title";s:9:"Harlingen";s:5:"count";s:3:"221";}

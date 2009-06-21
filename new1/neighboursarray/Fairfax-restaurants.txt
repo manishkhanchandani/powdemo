@@ -1,1 +1,0 @@
-a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/105/11409/Cedar-Rapids/Fairfax-restaurants";s:8:"baseName";s:19:"Fairfax-restaurants";s:5:"title";s:7:"Fairfax";s:5:"count";s:1:"3";}

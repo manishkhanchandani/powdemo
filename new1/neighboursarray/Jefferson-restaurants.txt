@@ -1,1 +1,0 @@
-a:4:{s:3:"url";s:64:"http://www.urbanspoon.com/n/83/8510/Athens/Jefferson-restaurants";s:8:"baseName";s:21:"Jefferson-restaurants";s:5:"title";s:9:"Jefferson";s:5:"count";s:2:"36";}

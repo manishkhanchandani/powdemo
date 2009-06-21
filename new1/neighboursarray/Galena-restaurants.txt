@@ -1,1 +1,0 @@
-a:4:{s:3:"url";s:63:"http://www.urbanspoon.com/n/98/10606/Branson/Galena-restaurants";s:8:"baseName";s:18:"Galena-restaurants";s:5:"title";s:6:"Galena";s:5:"count";s:1:"5";}

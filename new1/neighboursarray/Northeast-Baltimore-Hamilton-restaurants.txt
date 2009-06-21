@@ -1,1 +1,0 @@
-a:4:{s:3:"url";s:86:"http://www.urbanspoon.com/n/31/3020/Baltimore/Northeast-Baltimore-Hamilton-restaurants";s:8:"baseName";s:40:"Northeast-Baltimore-Hamilton-restaurants";s:5:"title";s:8:"Hamilton";s:5:"count";s:2:"69";}

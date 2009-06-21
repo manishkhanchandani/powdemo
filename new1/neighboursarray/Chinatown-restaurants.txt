@@ -1,1 +1,0 @@
-a:4:{s:3:"url";s:62:"http://www.urbanspoon.com/n/4/311/Boston/Chinatown-restaurants";s:8:"baseName";s:21:"Chinatown-restaurants";s:5:"title";s:9:"Chinatown";s:5:"count";s:3:"159";}

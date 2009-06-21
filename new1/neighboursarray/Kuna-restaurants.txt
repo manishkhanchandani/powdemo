@@ -1,1 +1,0 @@
-a:4:{s:3:"url";s:59:"http://www.urbanspoon.com/n/95/10207/Boise/Kuna-restaurants";s:8:"baseName";s:16:"Kuna-restaurants";s:5:"title";s:4:"Kuna";s:5:"count";s:2:"20";}

@@ -1,1 +1,0 @@
-a:4:{s:3:"url";s:65:"http://www.urbanspoon.com/n/102/11124/Canton/Magnolia-restaurants";s:8:"baseName";s:20:"Magnolia-restaurants";s:5:"title";s:8:"Magnolia";s:5:"count";s:1:"6";}

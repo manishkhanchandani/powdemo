@@ -1,1 +1,0 @@
-a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/66/9204/Baton-Rouge/Maringouin-restaurants";s:8:"baseName";s:22:"Maringouin-restaurants";s:5:"title";s:10:"Maringouin";s:5:"count";s:1:"3";}

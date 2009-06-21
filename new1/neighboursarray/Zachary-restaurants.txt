@@ -1,1 +1,0 @@
-a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/66/6621/Baton-Rouge/Zachary-restaurants";s:8:"baseName";s:19:"Zachary-restaurants";s:5:"title";s:7:"Zachary";s:5:"count";s:2:"44";}

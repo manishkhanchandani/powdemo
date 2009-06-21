@@ -1,1 +1,0 @@
-a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/82/8407/Asheville/Chimney-Rock-restaurants";s:8:"baseName";s:24:"Chimney-Rock-restaurants";s:5:"title";s:12:"Chimney Rock";s:5:"count";s:1:"7";}

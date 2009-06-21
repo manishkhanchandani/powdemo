@@ -1,1 +1,0 @@
-a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/80/42210/Allentown/Andreas-PA-restaurants";s:8:"baseName";s:22:"Andreas-PA-restaurants";s:5:"title";s:7:"Andreas";s:5:"count";s:1:"4";}

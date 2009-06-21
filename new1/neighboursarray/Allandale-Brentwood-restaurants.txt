@@ -1,1 +1,0 @@
-a:4:{s:3:"url";s:74:"http://www.urbanspoon.com/n/11/1000/Austin/Allandale-Brentwood-restaurants";s:8:"baseName";s:31:"Allandale-Brentwood-restaurants";s:5:"title";s:9:"Allandale";s:5:"count";s:3:"186";}

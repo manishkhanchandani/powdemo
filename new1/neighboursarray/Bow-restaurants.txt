@@ -1,1 +1,0 @@
-a:4:{s:3:"url";s:62:"http://www.urbanspoon.com/n/88/9404/Bellingham/Bow-restaurants";s:8:"baseName";s:15:"Bow-restaurants";s:5:"title";s:3:"Bow";s:5:"count";s:2:"14";}

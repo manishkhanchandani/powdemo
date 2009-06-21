@@ -1,1 +1,0 @@
-a:4:{s:3:"url";s:72:"http://www.urbanspoon.com/n/88/9420/Bellingham/Sedro-Woolley-restaurants";s:8:"baseName";s:25:"Sedro-Woolley-restaurants";s:5:"title";s:13:"Sedro Woolley";s:5:"count";s:2:"41";}

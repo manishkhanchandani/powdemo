@@ -1,1 +1,0 @@
-a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/45/4407/Birmingham/Fairfield-restaurants";s:8:"baseName";s:21:"Fairfield-restaurants";s:5:"title";s:9:"Fairfield";s:5:"count";s:2:"44";}

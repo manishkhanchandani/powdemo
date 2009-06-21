@@ -1,1 +1,0 @@
-a:4:{s:3:"url";s:75:"http://www.urbanspoon.com/n/66/6619/Baton-Rouge/Siegen-Highland-restaurants";s:8:"baseName";s:27:"Siegen-Highland-restaurants";s:5:"title";s:8:"Highland";s:5:"count";s:2:"64";}

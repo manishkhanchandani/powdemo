@@ -1,1 +1,0 @@
-a:4:{s:3:"url";s:63:"http://www.urbanspoon.com/n/81/8201/Amarillo/Canyon-restaurants";s:8:"baseName";s:18:"Canyon-restaurants";s:5:"title";s:6:"Canyon";s:5:"count";s:2:"29";}

@@ -1,1 +1,0 @@
-a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/106/11501/Champaign/Camargo-restaurants";s:8:"baseName";s:19:"Camargo-restaurants";s:5:"title";s:7:"Camargo";s:5:"count";s:1:"2";}

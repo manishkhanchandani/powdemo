@@ -1,1 +1,0 @@
-a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/66/6612/Baton-Rouge/Mid-City-restaurants";s:8:"baseName";s:20:"Mid-City-restaurants";s:5:"title";s:8:"Mid City";s:5:"count";s:2:"70";}

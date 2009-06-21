@@ -1,1 +1,0 @@
-a:4:{s:3:"url";s:65:"http://www.urbanspoon.com/n/88/9415/Bellingham/Lynden-restaurants";s:8:"baseName";s:18:"Lynden-restaurants";s:5:"title";s:6:"Lynden";s:5:"count";s:2:"43";}

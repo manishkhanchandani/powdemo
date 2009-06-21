@@ -1,1 +1,0 @@
-a:4:{s:3:"url";s:72:"http://www.urbanspoon.com/n/80/42218/Allentown/Kunkletown-PA-restaurants";s:8:"baseName";s:25:"Kunkletown-PA-restaurants";s:5:"title";s:10:"Kunkletown";s:5:"count";s:1:"4";}

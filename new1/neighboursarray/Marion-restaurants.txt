@@ -1,1 +1,0 @@
-a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/105/11415/Cedar-Rapids/Marion-restaurants";s:8:"baseName";s:18:"Marion-restaurants";s:5:"title";s:6:"Marion";s:5:"count";s:2:"50";}

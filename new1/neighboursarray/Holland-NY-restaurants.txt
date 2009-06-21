@@ -1,1 +1,0 @@
-a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/42/41597/Buffalo/Holland-NY-restaurants";s:8:"baseName";s:22:"Holland-NY-restaurants";s:5:"title";s:7:"Holland";s:5:"count";s:1:"4";}

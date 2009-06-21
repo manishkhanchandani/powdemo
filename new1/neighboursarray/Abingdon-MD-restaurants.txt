@@ -1,1 +1,0 @@
-a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/31/41400/Baltimore/Abingdon-MD-restaurants";s:8:"baseName";s:23:"Abingdon-MD-restaurants";s:5:"title";s:8:"Abingdon";s:5:"count";s:2:"23";}
