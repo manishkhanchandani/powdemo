@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:64:"http://www.urbanspoon.com/n/19/41037/Detroit/Clay-MI-restaurants";s:8:"baseName";s:19:"Clay-MI-restaurants";s:5:"title";s:4:"Clay";s:5:"count";s:2:"11";}

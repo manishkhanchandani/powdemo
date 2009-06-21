@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/19/1826/Detroit/Harrison-Twp-restaurants";s:8:"baseName";s:24:"Harrison-Twp-restaurants";s:5:"title";s:12:"Harrison Twp";s:5:"count";s:2:"36";}

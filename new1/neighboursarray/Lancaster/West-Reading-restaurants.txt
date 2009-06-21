@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:72:"http://www.urbanspoon.com/n/193/22145/Lancaster/West-Reading-restaurants";s:8:"baseName";s:24:"West-Reading-restaurants";s:5:"title";s:12:"West Reading";s:5:"count";s:2:"22";}

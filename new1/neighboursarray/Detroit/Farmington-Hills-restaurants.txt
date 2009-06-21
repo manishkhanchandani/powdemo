@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:72:"http://www.urbanspoon.com/n/19/1818/Detroit/Farmington-Hills-restaurants";s:8:"baseName";s:28:"Farmington-Hills-restaurants";s:5:"title";s:16:"Farmington Hills";s:5:"count";s:3:"178";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:66:"http://www.urbanspoon.com/n/19/1840/Detroit/Novi-Wixom-restaurants";s:8:"baseName";s:22:"Novi-Wixom-restaurants";s:5:"title";s:4:"Novi";s:5:"count";s:3:"141";}

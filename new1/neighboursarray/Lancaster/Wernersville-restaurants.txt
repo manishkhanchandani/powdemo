@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:72:"http://www.urbanspoon.com/n/193/22143/Lancaster/Wernersville-restaurants";s:8:"baseName";s:24:"Wernersville-restaurants";s:5:"title";s:12:"Wernersville";s:5:"count";s:2:"17";}

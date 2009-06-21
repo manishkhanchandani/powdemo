@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/19/1830/Detroit/Keego-Harbor-restaurants";s:8:"baseName";s:24:"Keego-Harbor-restaurants";s:5:"title";s:12:"Keego Harbor";s:5:"count";s:2:"23";}

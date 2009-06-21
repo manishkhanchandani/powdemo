@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:62:"http://www.urbanspoon.com/n/19/1809/Detroit/Canton-restaurants";s:8:"baseName";s:18:"Canton-restaurants";s:5:"title";s:6:"Canton";s:5:"count";s:3:"118";}

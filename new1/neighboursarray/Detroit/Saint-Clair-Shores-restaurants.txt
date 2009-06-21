@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:75:"http://www.urbanspoon.com/n/19/14508/Detroit/Saint-Clair-Shores-restaurants";s:8:"baseName";s:30:"Saint-Clair-Shores-restaurants";s:5:"title";s:18:"Saint Clair Shores";s:5:"count";s:3:"123";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:73:"http://www.urbanspoon.com/n/19/41055/Detroit/Whitmore-Lake-MI-restaurants";s:8:"baseName";s:28:"Whitmore-Lake-MI-restaurants";s:5:"title";s:13:"Whitmore Lake";s:5:"count";s:2:"19";}

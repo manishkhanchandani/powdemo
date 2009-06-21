@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:65:"http://www.urbanspoon.com/n/19/41047/Detroit/Milan-MI-restaurants";s:8:"baseName";s:20:"Milan-MI-restaurants";s:5:"title";s:5:"Milan";s:5:"count";s:2:"19";}

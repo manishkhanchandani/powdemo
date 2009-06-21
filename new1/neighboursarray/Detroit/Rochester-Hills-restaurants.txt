@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/19/1846/Detroit/Rochester-Hills-restaurants";s:8:"baseName";s:27:"Rochester-Hills-restaurants";s:5:"title";s:15:"Rochester Hills";s:5:"count";s:3:"169";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:73:"http://www.urbanspoon.com/n/19/41040/Detroit/Cottrellville-MI-restaurants";s:8:"baseName";s:28:"Cottrellville-MI-restaurants";s:5:"title";s:13:"Cottrellville";s:5:"count";s:2:"11";}

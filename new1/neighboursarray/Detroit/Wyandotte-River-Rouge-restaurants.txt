@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:77:"http://www.urbanspoon.com/n/19/1867/Detroit/Wyandotte-River-Rouge-restaurants";s:8:"baseName";s:33:"Wyandotte-River-Rouge-restaurants";s:5:"title";s:11:"River Rouge";s:5:"count";s:2:"69";}

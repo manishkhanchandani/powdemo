@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:65:"http://www.urbanspoon.com/n/19/14502/Detroit/Highland-restaurants";s:8:"baseName";s:20:"Highland-restaurants";s:5:"title";s:8:"Highland";s:5:"count";s:2:"37";}

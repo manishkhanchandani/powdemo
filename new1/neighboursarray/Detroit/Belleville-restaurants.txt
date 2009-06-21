@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:66:"http://www.urbanspoon.com/n/19/1803/Detroit/Belleville-restaurants";s:8:"baseName";s:22:"Belleville-restaurants";s:5:"title";s:10:"Belleville";s:5:"count";s:2:"56";}

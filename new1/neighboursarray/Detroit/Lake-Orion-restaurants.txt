@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/19/14503/Detroit/Lake-Orion-restaurants";s:8:"baseName";s:22:"Lake-Orion-restaurants";s:5:"title";s:10:"Lake Orion";s:5:"count";s:2:"64";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:63:"http://www.urbanspoon.com/n/19/41043/Detroit/Ira-MI-restaurants";s:8:"baseName";s:18:"Ira-MI-restaurants";s:5:"title";s:3:"Ira";s:5:"count";s:2:"13";}
