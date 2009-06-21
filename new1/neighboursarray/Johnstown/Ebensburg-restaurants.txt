@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/180/20620/Johnstown/Ebensburg-restaurants";s:8:"baseName";s:21:"Ebensburg-restaurants";s:5:"title";s:9:"Ebensburg";s:5:"count";s:2:"35";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:65:"http://www.urbanspoon.com/n/193/22114/Lancaster/Leola-restaurants";s:8:"baseName";s:17:"Leola-restaurants";s:5:"title";s:5:"Leola";s:5:"count";s:2:"18";}

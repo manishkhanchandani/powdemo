@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:65:"http://www.urbanspoon.com/n/186/21308/Killeen/Jarrell-restaurants";s:8:"baseName";s:19:"Jarrell-restaurants";s:5:"title";s:7:"Jarrell";s:5:"count";s:1:"5";}

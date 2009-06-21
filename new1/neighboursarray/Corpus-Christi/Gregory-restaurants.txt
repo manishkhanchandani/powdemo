@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:72:"http://www.urbanspoon.com/n/119/13403/Corpus-Christi/Gregory-restaurants";s:8:"baseName";s:19:"Gregory-restaurants";s:5:"title";s:7:"Gregory";s:5:"count";s:1:"2";}

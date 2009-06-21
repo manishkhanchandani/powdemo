@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/32/12407/Cincinnati/Middletown-restaurants";s:8:"baseName";s:22:"Middletown-restaurants";s:5:"title";s:10:"Middletown";s:5:"count";s:3:"113";}

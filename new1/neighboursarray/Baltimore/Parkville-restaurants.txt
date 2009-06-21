@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/31/3023/Baltimore/Parkville-restaurants";s:8:"baseName";s:21:"Parkville-restaurants";s:5:"title";s:9:"Parkville";s:5:"count";s:2:"82";}

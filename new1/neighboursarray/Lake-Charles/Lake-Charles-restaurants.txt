@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:62:"http://www.urbanspoon.com/n/191/21905/Lake-Charles-restaurants";s:8:"baseName";s:24:"Lake-Charles-restaurants";s:5:"title";s:12:"Lake Charles";s:5:"count";s:3:"271";}

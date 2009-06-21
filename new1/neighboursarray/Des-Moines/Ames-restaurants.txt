@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:63:"http://www.urbanspoon.com/n/62/6203/Des-Moines/Ames-restaurants";s:8:"baseName";s:16:"Ames-restaurants";s:5:"title";s:4:"Ames";s:5:"count";s:3:"151";}

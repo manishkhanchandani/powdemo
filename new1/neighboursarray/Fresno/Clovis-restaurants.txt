@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:61:"http://www.urbanspoon.com/n/56/5602/Fresno/Clovis-restaurants";s:8:"baseName";s:18:"Clovis-restaurants";s:5:"title";s:6:"Clovis";s:5:"count";s:3:"178";}

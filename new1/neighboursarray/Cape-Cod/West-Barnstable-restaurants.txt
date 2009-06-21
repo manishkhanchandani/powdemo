@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:74:"http://www.urbanspoon.com/n/103/11244/Cape-Cod/West-Barnstable-restaurants";s:8:"baseName";s:27:"West-Barnstable-restaurants";s:5:"title";s:15:"West Barnstable";s:5:"count";s:1:"8";}

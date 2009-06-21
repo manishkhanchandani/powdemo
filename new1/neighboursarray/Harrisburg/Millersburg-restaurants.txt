@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:72:"http://www.urbanspoon.com/n/160/18132/Harrisburg/Millersburg-restaurants";s:8:"baseName";s:23:"Millersburg-restaurants";s:5:"title";s:11:"Millersburg";s:5:"count";s:2:"12";}

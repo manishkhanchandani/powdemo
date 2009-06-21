@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:72:"http://www.urbanspoon.com/n/40/3911/Indianapolis/Mooresville-restaurants";s:8:"baseName";s:23:"Mooresville-restaurants";s:5:"title";s:11:"Mooresville";s:5:"count";s:2:"28";}

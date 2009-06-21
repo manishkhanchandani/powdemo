@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/63/41939/Green-Bay/Bonduel-WI-restaurants";s:8:"baseName";s:22:"Bonduel-WI-restaurants";s:5:"title";s:7:"Bonduel";s:5:"count";s:2:"14";}

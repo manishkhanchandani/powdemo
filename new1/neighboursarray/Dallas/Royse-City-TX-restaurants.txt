@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/13/40991/Dallas/Royse-City-TX-restaurants";s:8:"baseName";s:25:"Royse-City-TX-restaurants";s:5:"title";s:10:"Royse City";s:5:"count";s:2:"23";}

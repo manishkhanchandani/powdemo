@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/133/15205/Erie/Conneautville-restaurants";s:8:"baseName";s:25:"Conneautville-restaurants";s:5:"title";s:13:"Conneautville";s:5:"count";s:1:"7";}

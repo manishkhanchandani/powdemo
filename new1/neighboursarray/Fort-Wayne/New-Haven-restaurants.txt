@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/148/16720/Fort-Wayne/New-Haven-restaurants";s:8:"baseName";s:21:"New-Haven-restaurants";s:5:"title";s:9:"New Haven";s:5:"count";s:2:"36";}

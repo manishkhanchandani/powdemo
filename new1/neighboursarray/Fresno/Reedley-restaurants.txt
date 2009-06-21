@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:62:"http://www.urbanspoon.com/n/56/5611/Fresno/Reedley-restaurants";s:8:"baseName";s:19:"Reedley-restaurants";s:5:"title";s:7:"Reedley";s:5:"count";s:2:"45";}

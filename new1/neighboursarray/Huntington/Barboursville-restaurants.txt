@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:74:"http://www.urbanspoon.com/n/167/19100/Huntington/Barboursville-restaurants";s:8:"baseName";s:25:"Barboursville-restaurants";s:5:"title";s:13:"Barboursville";s:5:"count";s:2:"67";}

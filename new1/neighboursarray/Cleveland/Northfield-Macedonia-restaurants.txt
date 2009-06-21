@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:78:"http://www.urbanspoon.com/n/16/1526/Cleveland/Northfield-Macedonia-restaurants";s:8:"baseName";s:32:"Northfield-Macedonia-restaurants";s:5:"title";s:9:"Macedonia";s:5:"count";s:2:"80";}

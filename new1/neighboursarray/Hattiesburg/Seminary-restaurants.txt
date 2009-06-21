@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/161/18309/Hattiesburg/Seminary-restaurants";s:8:"baseName";s:20:"Seminary-restaurants";s:5:"title";s:8:"Seminary";s:5:"count";s:1:"3";}

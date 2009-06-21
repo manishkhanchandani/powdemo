@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:65:"http://www.urbanspoon.com/n/48/4713/Hartford/Cromwell-restaurants";s:8:"baseName";s:20:"Cromwell-restaurants";s:5:"title";s:8:"Cromwell";s:5:"count";s:2:"58";}

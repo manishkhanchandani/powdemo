@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:66:"http://www.urbanspoon.com/n/133/15203/Erie/Centerville-restaurants";s:8:"baseName";s:23:"Centerville-restaurants";s:5:"title";s:11:"Centerville";s:5:"count";s:1:"3";}

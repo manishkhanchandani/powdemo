@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:74:"http://www.urbanspoon.com/n/148/16724/Fort-Wayne/South-Whitley-restaurants";s:8:"baseName";s:25:"South-Whitley-restaurants";s:5:"title";s:13:"South Whitley";s:5:"count";s:2:"11";}

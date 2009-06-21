@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/152/17205/Grand-Forks/Northwood-restaurants";s:8:"baseName";s:21:"Northwood-restaurants";s:5:"title";s:9:"Northwood";s:5:"count";s:1:"3";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/193/22132/Lancaster/Red-Lion-restaurants";s:8:"baseName";s:20:"Red-Lion-restaurants";s:5:"title";s:8:"Red Lion";s:5:"count";s:2:"38";}

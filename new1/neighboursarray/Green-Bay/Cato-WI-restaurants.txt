@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:66:"http://www.urbanspoon.com/n/63/41943/Green-Bay/Cato-WI-restaurants";s:8:"baseName";s:19:"Cato-WI-restaurants";s:5:"title";s:4:"Cato";s:5:"count";s:1:"4";}

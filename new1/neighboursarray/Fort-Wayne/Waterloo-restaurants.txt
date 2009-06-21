@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/148/16725/Fort-Wayne/Waterloo-restaurants";s:8:"baseName";s:20:"Waterloo-restaurants";s:5:"title";s:8:"Waterloo";s:5:"count";s:1:"4";}

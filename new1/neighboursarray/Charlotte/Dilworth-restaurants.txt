@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:66:"http://www.urbanspoon.com/n/38/3704/Charlotte/Dilworth-restaurants";s:8:"baseName";s:20:"Dilworth-restaurants";s:5:"title";s:8:"Dilworth";s:5:"count";s:2:"53";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:64:"http://www.urbanspoon.com/n/129/14806/Duluth/Proctor-restaurants";s:8:"baseName";s:19:"Proctor-restaurants";s:5:"title";s:7:"Proctor";s:5:"count";s:2:"12";}

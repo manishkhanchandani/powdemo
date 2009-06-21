@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:72:"http://www.urbanspoon.com/n/34/21204/Kansas-City/Leavenworth-restaurants";s:8:"baseName";s:23:"Leavenworth-restaurants";s:5:"title";s:11:"Leavenworth";s:5:"count";s:2:"59";}

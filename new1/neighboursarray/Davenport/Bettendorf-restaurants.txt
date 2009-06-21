@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/122/13800/Davenport/Bettendorf-restaurants";s:8:"baseName";s:22:"Bettendorf-restaurants";s:5:"title";s:10:"Bettendorf";s:5:"count";s:2:"73";}

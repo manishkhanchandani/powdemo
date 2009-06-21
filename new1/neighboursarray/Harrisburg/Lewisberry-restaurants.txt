@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/160/18125/Harrisburg/Lewisberry-restaurants";s:8:"baseName";s:22:"Lewisberry-restaurants";s:5:"title";s:10:"Lewisberry";s:5:"count";s:1:"9";}

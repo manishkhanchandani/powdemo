@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/45/4408/Birmingham/Gardendale-restaurants";s:8:"baseName";s:22:"Gardendale-restaurants";s:5:"title";s:10:"Gardendale";s:5:"count";s:2:"33";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:77:"http://www.urbanspoon.com/n/44/4302/Jacksonville/Fernandina-Beach-restaurants";s:8:"baseName";s:28:"Fernandina-Beach-restaurants";s:5:"title";s:16:"Fernandina Beach";s:5:"count";s:2:"79";}

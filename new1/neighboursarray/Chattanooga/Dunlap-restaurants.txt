@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/109/12004/Chattanooga/Dunlap-restaurants";s:8:"baseName";s:18:"Dunlap-restaurants";s:5:"title";s:6:"Dunlap";s:5:"count";s:2:"22";}

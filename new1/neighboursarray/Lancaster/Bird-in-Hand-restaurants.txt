@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:72:"http://www.urbanspoon.com/n/193/22100/Lancaster/Bird-in-Hand-restaurants";s:8:"baseName";s:24:"Bird-in-Hand-restaurants";s:5:"title";s:12:"Bird in Hand";s:5:"count";s:2:"10";}

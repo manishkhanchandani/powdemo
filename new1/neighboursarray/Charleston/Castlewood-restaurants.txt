@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/61/6100/Charleston/Castlewood-restaurants";s:8:"baseName";s:22:"Castlewood-restaurants";s:5:"title";s:10:"Castlewood";s:5:"count";s:2:"53";}

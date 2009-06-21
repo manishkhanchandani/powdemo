@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/132/15107/El-Paso/San-Elizario-restaurants";s:8:"baseName";s:24:"San-Elizario-restaurants";s:5:"title";s:12:"San Elizario";s:5:"count";s:1:"8";}

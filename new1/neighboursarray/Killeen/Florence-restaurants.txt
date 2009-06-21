@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:66:"http://www.urbanspoon.com/n/186/21303/Killeen/Florence-restaurants";s:8:"baseName";s:20:"Florence-restaurants";s:5:"title";s:8:"Florence";s:5:"count";s:1:"6";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/191/21906/Lake-Charles/Reeves-restaurants";s:8:"baseName";s:18:"Reeves-restaurants";s:5:"title";s:6:"Reeves";s:5:"count";s:1:"2";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:63:"http://www.urbanspoon.com/n/17/14202/Denver/Conifer-restaurants";s:8:"baseName";s:19:"Conifer-restaurants";s:5:"title";s:7:"Conifer";s:5:"count";s:2:"21";}

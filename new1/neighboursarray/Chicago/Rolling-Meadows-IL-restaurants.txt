@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:74:"http://www.urbanspoon.com/n/2/40732/Chicago/Rolling-Meadows-IL-restaurants";s:8:"baseName";s:30:"Rolling-Meadows-IL-restaurants";s:5:"title";s:15:"Rolling Meadows";s:5:"count";s:2:"86";}

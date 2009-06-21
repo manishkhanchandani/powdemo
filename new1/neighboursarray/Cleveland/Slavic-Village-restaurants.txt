@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:72:"http://www.urbanspoon.com/n/16/1533/Cleveland/Slavic-Village-restaurants";s:8:"baseName";s:26:"Slavic-Village-restaurants";s:5:"title";s:14:"Slavic Village";s:5:"count";s:2:"28";}

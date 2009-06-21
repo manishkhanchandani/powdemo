@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:72:"http://www.urbanspoon.com/n/16/1532/Cleveland/Shaker-Heights-restaurants";s:8:"baseName";s:26:"Shaker-Heights-restaurants";s:5:"title";s:14:"Shaker Heights";s:5:"count";s:2:"61";}

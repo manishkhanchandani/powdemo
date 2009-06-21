@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:65:"http://www.urbanspoon.com/n/42/4118/Buffalo/Getzville-restaurants";s:8:"baseName";s:21:"Getzville-restaurants";s:5:"title";s:9:"Getzville";s:5:"count";s:2:"21";}

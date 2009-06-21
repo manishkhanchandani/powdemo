@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:65:"http://www.urbanspoon.com/n/143/16211/Florence/Marion-restaurants";s:8:"baseName";s:18:"Marion-restaurants";s:5:"title";s:6:"Marion";s:5:"count";s:2:"33";}

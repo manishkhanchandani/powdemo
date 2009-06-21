@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/173/19703/Idaho-Falls/Rigby-restaurants";s:8:"baseName";s:17:"Rigby-restaurants";s:5:"title";s:5:"Rigby";s:5:"count";s:2:"19";}

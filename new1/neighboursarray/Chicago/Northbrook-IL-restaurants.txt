@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/2/40702/Chicago/Northbrook-IL-restaurants";s:8:"baseName";s:25:"Northbrook-IL-restaurants";s:5:"title";s:10:"Northbrook";s:5:"count";s:3:"102";}

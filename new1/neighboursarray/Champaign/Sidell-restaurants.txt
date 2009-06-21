@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:66:"http://www.urbanspoon.com/n/106/11517/Champaign/Sidell-restaurants";s:8:"baseName";s:18:"Sidell-restaurants";s:5:"title";s:6:"Sidell";s:5:"count";s:1:"3";}

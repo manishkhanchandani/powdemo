@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/125/14113/Decatur/Lovington-restaurants";s:8:"baseName";s:21:"Lovington-restaurants";s:5:"title";s:9:"Lovington";s:5:"count";s:1:"4";}

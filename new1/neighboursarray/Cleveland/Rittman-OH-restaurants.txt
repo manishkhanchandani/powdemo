@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/16/41010/Cleveland/Rittman-OH-restaurants";s:8:"baseName";s:22:"Rittman-OH-restaurants";s:5:"title";s:7:"Rittman";s:5:"count";s:2:"13";}

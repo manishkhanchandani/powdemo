@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:74:"http://www.urbanspoon.com/n/184/21011/Kalamazoo/Grand-Junction-restaurants";s:8:"baseName";s:26:"Grand-Junction-restaurants";s:5:"title";s:14:"Grand Junction";s:5:"count";s:1:"3";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/163/18610/Hickory/Hildebran-restaurants";s:8:"baseName";s:21:"Hildebran-restaurants";s:5:"title";s:9:"Hildebran";s:5:"count";s:1:"7";}

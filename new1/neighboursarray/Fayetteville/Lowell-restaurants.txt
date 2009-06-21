@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/139/15813/Fayetteville/Lowell-restaurants";s:8:"baseName";s:18:"Lowell-restaurants";s:5:"title";s:6:"Lowell";s:5:"count";s:2:"19";}

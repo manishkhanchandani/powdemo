@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/189/21722/Lafayette/Remington-restaurants";s:8:"baseName";s:21:"Remington-restaurants";s:5:"title";s:9:"Remington";s:5:"count";s:2:"10";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:66:"http://www.urbanspoon.com/n/33/41476/Columbus/Utica-OH-restaurants";s:8:"baseName";s:20:"Utica-OH-restaurants";s:5:"title";s:5:"Utica";s:5:"count";s:2:"13";}

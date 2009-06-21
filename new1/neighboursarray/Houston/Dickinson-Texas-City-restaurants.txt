@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:74:"http://www.urbanspoon.com/n/8/710/Houston/Dickinson-Texas-City-restaurants";s:8:"baseName";s:32:"Dickinson-Texas-City-restaurants";s:5:"title";s:9:"Dickinson";s:5:"count";s:3:"142";}

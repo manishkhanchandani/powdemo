@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/44/4309/Jacksonville/Southside-restaurants";s:8:"baseName";s:21:"Southside-restaurants";s:5:"title";s:9:"Southside";s:5:"count";s:3:"440";}

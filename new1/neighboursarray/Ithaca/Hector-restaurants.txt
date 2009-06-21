@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:63:"http://www.urbanspoon.com/n/174/19914/Ithaca/Hector-restaurants";s:8:"baseName";s:18:"Hector-restaurants";s:5:"title";s:6:"Hector";s:5:"count";s:1:"2";}

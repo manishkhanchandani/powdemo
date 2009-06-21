@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:66:"http://www.urbanspoon.com/n/13/13610/Dallas/Waxahachie-restaurants";s:8:"baseName";s:22:"Waxahachie-restaurants";s:5:"title";s:10:"Waxahachie";s:5:"count";s:2:"77";}

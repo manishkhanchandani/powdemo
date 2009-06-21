@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:72:"http://www.urbanspoon.com/n/108/11904/Charlottesville/Elkton-restaurants";s:8:"baseName";s:18:"Elkton-restaurants";s:5:"title";s:6:"Elkton";s:5:"count";s:2:"16";}

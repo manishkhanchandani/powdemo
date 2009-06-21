@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:66:"http://www.urbanspoon.com/n/184/21008/Kalamazoo/Delton-restaurants";s:8:"baseName";s:18:"Delton-restaurants";s:5:"title";s:6:"Delton";s:5:"count";s:1:"9";}

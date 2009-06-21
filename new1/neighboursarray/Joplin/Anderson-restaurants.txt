@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:65:"http://www.urbanspoon.com/n/181/20700/Joplin/Anderson-restaurants";s:8:"baseName";s:20:"Anderson-restaurants";s:5:"title";s:8:"Anderson";s:5:"count";s:2:"10";}

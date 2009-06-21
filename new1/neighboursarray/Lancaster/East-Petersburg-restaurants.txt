@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:75:"http://www.urbanspoon.com/n/193/22106/Lancaster/East-Petersburg-restaurants";s:8:"baseName";s:27:"East-Petersburg-restaurants";s:5:"title";s:15:"East Petersburg";s:5:"count";s:2:"10";}

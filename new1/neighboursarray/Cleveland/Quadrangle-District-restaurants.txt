@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:77:"http://www.urbanspoon.com/n/16/1530/Cleveland/Quadrangle-District-restaurants";s:8:"baseName";s:31:"Quadrangle-District-restaurants";s:5:"title";s:19:"Quadrangle District";s:5:"count";s:1:"9";}

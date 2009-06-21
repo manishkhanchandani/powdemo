@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/163/18617/Hickory/Statesville-restaurants";s:8:"baseName";s:23:"Statesville-restaurants";s:5:"title";s:11:"Statesville";s:5:"count";s:3:"141";}

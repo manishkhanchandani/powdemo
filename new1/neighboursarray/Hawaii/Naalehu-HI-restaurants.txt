@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:66:"http://www.urbanspoon.com/n/37/41523/Hawaii/Naalehu-HI-restaurants";s:8:"baseName";s:22:"Naalehu-HI-restaurants";s:5:"title";s:7:"Naalehu";s:5:"count";s:1:"6";}

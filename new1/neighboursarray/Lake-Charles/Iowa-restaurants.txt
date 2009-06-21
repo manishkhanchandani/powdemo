@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/191/21903/Lake-Charles/Iowa-restaurants";s:8:"baseName";s:16:"Iowa-restaurants";s:5:"title";s:4:"Iowa";s:5:"count";s:2:"10";}

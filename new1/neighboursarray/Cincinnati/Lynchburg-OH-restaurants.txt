@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:72:"http://www.urbanspoon.com/n/32/41441/Cincinnati/Lynchburg-OH-restaurants";s:8:"baseName";s:24:"Lynchburg-OH-restaurants";s:5:"title";s:9:"Lynchburg";s:5:"count";s:1:"4";}

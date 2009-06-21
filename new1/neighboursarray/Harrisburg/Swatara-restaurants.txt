@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/160/18144/Harrisburg/Swatara-restaurants";s:8:"baseName";s:19:"Swatara-restaurants";s:5:"title";s:7:"Swatara";s:5:"count";s:1:"7";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/133/15216/Erie/Spartansburg-restaurants";s:8:"baseName";s:24:"Spartansburg-restaurants";s:5:"title";s:12:"Spartansburg";s:5:"count";s:1:"3";}

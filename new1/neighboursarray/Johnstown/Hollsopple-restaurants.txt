@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/180/20625/Johnstown/Hollsopple-restaurants";s:8:"baseName";s:22:"Hollsopple-restaurants";s:5:"title";s:10:"Hollsopple";s:5:"count";s:1:"5";}

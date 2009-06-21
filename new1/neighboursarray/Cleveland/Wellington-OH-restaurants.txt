@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:72:"http://www.urbanspoon.com/n/16/41016/Cleveland/Wellington-OH-restaurants";s:8:"baseName";s:25:"Wellington-OH-restaurants";s:5:"title";s:10:"Wellington";s:5:"count";s:2:"22";}

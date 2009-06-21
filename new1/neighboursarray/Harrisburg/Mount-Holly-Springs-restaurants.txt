@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:80:"http://www.urbanspoon.com/n/160/18133/Harrisburg/Mount-Holly-Springs-restaurants";s:8:"baseName";s:31:"Mount-Holly-Springs-restaurants";s:5:"title";s:19:"Mount Holly Springs";s:5:"count";s:1:"9";}

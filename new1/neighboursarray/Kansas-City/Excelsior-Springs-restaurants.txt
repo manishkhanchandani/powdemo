@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:78:"http://www.urbanspoon.com/n/34/21200/Kansas-City/Excelsior-Springs-restaurants";s:8:"baseName";s:29:"Excelsior-Springs-restaurants";s:5:"title";s:17:"Excelsior Springs";s:5:"count";s:2:"22";}

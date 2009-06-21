@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/16/1520/Cleveland/Little-Italy-restaurants";s:8:"baseName";s:24:"Little-Italy-restaurants";s:5:"title";s:12:"Little Italy";s:5:"count";s:2:"23";}

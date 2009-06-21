@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/123/13950/Dayton/Yellow-Springs-restaurants";s:8:"baseName";s:26:"Yellow-Springs-restaurants";s:5:"title";s:14:"Yellow Springs";s:5:"count";s:2:"12";}

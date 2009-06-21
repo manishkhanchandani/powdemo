@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:65:"http://www.urbanspoon.com/n/143/16202/Florence/Dillon-restaurants";s:8:"baseName";s:18:"Dillon-restaurants";s:5:"title";s:6:"Dillon";s:5:"count";s:2:"46";}

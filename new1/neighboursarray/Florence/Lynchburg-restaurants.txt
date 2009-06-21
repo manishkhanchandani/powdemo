@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/143/16210/Florence/Lynchburg-restaurants";s:8:"baseName";s:21:"Lynchburg-restaurants";s:5:"title";s:9:"Lynchburg";s:5:"count";s:1:"9";}

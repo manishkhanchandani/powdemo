@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:75:"http://www.urbanspoon.com/n/130/14905/Eau-Claire/Chippewa-Falls-restaurants";s:8:"baseName";s:26:"Chippewa-Falls-restaurants";s:5:"title";s:14:"Chippewa Falls";s:5:"count";s:2:"95";}

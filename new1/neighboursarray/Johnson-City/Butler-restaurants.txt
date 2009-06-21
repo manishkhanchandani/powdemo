@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/179/20504/Johnson-City/Butler-restaurants";s:8:"baseName";s:18:"Butler-restaurants";s:5:"title";s:6:"Butler";s:5:"count";s:1:"9";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:63:"http://www.urbanspoon.com/n/48/4700/Hartford/Agawam-restaurants";s:8:"baseName";s:18:"Agawam-restaurants";s:5:"title";s:6:"Agawam";s:5:"count";s:2:"36";}

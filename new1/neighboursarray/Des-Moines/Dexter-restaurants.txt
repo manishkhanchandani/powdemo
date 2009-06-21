@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:66:"http://www.urbanspoon.com/n/62/14302/Des-Moines/Dexter-restaurants";s:8:"baseName";s:18:"Dexter-restaurants";s:5:"title";s:6:"Dexter";s:5:"count";s:1:"3";}

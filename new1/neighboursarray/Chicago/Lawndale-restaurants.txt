@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:62:"http://www.urbanspoon.com/n/2/124/Chicago/Lawndale-restaurants";s:8:"baseName";s:20:"Lawndale-restaurants";s:5:"title";s:8:"Lawndale";s:5:"count";s:3:"162";}

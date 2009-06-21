@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/193/22125/Lancaster/New-Holland-restaurants";s:8:"baseName";s:23:"New-Holland-restaurants";s:5:"title";s:11:"New Holland";s:5:"count";s:2:"23";}

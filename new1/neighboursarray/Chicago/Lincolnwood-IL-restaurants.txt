@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/2/40675/Chicago/Lincolnwood-IL-restaurants";s:8:"baseName";s:26:"Lincolnwood-IL-restaurants";s:5:"title";s:11:"Lincolnwood";s:5:"count";s:2:"33";}

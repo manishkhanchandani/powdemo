@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/63/17603/Green-Bay/Little-Chute-restaurants";s:8:"baseName";s:24:"Little-Chute-restaurants";s:5:"title";s:12:"Little Chute";s:5:"count";s:2:"29";}

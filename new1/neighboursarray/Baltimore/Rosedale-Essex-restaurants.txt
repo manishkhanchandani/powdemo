@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:72:"http://www.urbanspoon.com/n/31/3027/Baltimore/Rosedale-Essex-restaurants";s:8:"baseName";s:26:"Rosedale-Essex-restaurants";s:5:"title";s:5:"Essex";s:5:"count";s:2:"83";}

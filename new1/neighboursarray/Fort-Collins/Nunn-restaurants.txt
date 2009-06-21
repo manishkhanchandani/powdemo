@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/145/16413/Fort-Collins/Nunn-restaurants";s:8:"baseName";s:16:"Nunn-restaurants";s:5:"title";s:4:"Nunn";s:5:"count";s:1:"1";}

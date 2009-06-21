@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:81:"http://www.urbanspoon.com/n/32/3104/Cincinnati/Cold-Spring-Alexandria-restaurants";s:8:"baseName";s:34:"Cold-Spring-Alexandria-restaurants";s:5:"title";s:10:"Alexandria";s:5:"count";s:2:"66";}

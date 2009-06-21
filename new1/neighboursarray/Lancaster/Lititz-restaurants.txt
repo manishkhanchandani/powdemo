@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:66:"http://www.urbanspoon.com/n/193/22115/Lancaster/Lititz-restaurants";s:8:"baseName";s:18:"Lititz-restaurants";s:5:"title";s:6:"Lititz";s:5:"count";s:2:"51";}

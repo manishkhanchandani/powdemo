@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/180/20634/Johnstown/Nanty-Glo-restaurants";s:8:"baseName";s:21:"Nanty-Glo-restaurants";s:5:"title";s:9:"Nanty Glo";s:5:"count";s:1:"9";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:72:"http://www.urbanspoon.com/n/189/21716/Lafayette/Michigantown-restaurants";s:8:"baseName";s:24:"Michigantown-restaurants";s:5:"title";s:12:"Michigantown";s:5:"count";s:1:"3";}

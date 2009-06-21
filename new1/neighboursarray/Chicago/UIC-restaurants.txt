@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:57:"http://www.urbanspoon.com/n/2/147/Chicago/UIC-restaurants";s:8:"baseName";s:15:"UIC-restaurants";s:5:"title";s:3:"UIC";s:5:"count";s:3:"128";}

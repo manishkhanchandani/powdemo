@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/125/14120/Decatur/Warrensburg-restaurants";s:8:"baseName";s:23:"Warrensburg-restaurants";s:5:"title";s:11:"Warrensburg";s:5:"count";s:1:"2";}

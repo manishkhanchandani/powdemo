@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:75:"http://www.urbanspoon.com/n/32/41443/Cincinnati/New-Richmond-OH-restaurants";s:8:"baseName";s:27:"New-Richmond-OH-restaurants";s:5:"title";s:12:"New Richmond";s:5:"count";s:2:"20";}

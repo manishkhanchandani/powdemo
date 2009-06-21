@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:73:"http://www.urbanspoon.com/n/189/21701/Lafayette/Battle-Ground-restaurants";s:8:"baseName";s:25:"Battle-Ground-restaurants";s:5:"title";s:13:"Battle Ground";s:5:"count";s:1:"2";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/156/17723/Greensboro/Reidsville-restaurants";s:8:"baseName";s:22:"Reidsville-restaurants";s:5:"title";s:10:"Reidsville";s:5:"count";s:2:"67";}

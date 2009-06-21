@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/13/40978/Dallas/Farmersville-TX-restaurants";s:8:"baseName";s:27:"Farmersville-TX-restaurants";s:5:"title";s:12:"Farmersville";s:5:"count";s:2:"13";}

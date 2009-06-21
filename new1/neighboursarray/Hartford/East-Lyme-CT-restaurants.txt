@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/48/41691/Hartford/East-Lyme-CT-restaurants";s:8:"baseName";s:24:"East-Lyme-CT-restaurants";s:5:"title";s:9:"East Lyme";s:5:"count";s:2:"14";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:64:"http://www.urbanspoon.com/n/143/16208/Florence/Lamar-restaurants";s:8:"baseName";s:17:"Lamar-restaurants";s:5:"title";s:5:"Lamar";s:5:"count";s:1:"9";}

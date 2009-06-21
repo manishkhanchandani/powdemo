@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:73:"http://www.urbanspoon.com/n/115/12910/Colorado-Springs/Guffey-restaurants";s:8:"baseName";s:18:"Guffey-restaurants";s:5:"title";s:6:"Guffey";s:5:"count";s:1:"1";}

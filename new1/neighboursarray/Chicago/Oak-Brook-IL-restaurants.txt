@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/2/40705/Chicago/Oak-Brook-IL-restaurants";s:8:"baseName";s:24:"Oak-Brook-IL-restaurants";s:5:"title";s:9:"Oak Brook";s:5:"count";s:2:"58";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/105/11421/Cedar-Rapids/Oxford-restaurants";s:8:"baseName";s:18:"Oxford-restaurants";s:5:"title";s:6:"Oxford";s:5:"count";s:1:"5";}

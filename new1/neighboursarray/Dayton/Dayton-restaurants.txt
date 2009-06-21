@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:56:"http://www.urbanspoon.com/n/123/13909/Dayton-restaurants";s:8:"baseName";s:18:"Dayton-restaurants";s:5:"title";s:6:"Dayton";s:5:"count";s:4:"1076";}

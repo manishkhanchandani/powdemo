@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:75:"http://www.urbanspoon.com/n/2/40723/Chicago/Prospect-Heights-IL-restaurants";s:8:"baseName";s:31:"Prospect-Heights-IL-restaurants";s:5:"title";s:16:"Prospect Heights";s:5:"count";s:2:"26";}

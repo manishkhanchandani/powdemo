@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/150/17015/Gainesville/Williston-restaurants";s:8:"baseName";s:21:"Williston-restaurants";s:5:"title";s:9:"Williston";s:5:"count";s:2:"16";}

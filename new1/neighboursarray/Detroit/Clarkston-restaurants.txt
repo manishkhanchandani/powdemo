@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:66:"http://www.urbanspoon.com/n/19/14501/Detroit/Clarkston-restaurants";s:8:"baseName";s:21:"Clarkston-restaurants";s:5:"title";s:9:"Clarkston";s:5:"count";s:2:"70";}

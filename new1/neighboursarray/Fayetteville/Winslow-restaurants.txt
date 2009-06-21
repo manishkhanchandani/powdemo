@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/139/15820/Fayetteville/Winslow-restaurants";s:8:"baseName";s:19:"Winslow-restaurants";s:5:"title";s:7:"Winslow";s:5:"count";s:1:"3";}

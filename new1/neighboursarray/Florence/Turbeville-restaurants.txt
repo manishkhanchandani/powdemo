@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/143/16217/Florence/Turbeville-restaurants";s:8:"baseName";s:22:"Turbeville-restaurants";s:5:"title";s:10:"Turbeville";s:5:"count";s:1:"7";}

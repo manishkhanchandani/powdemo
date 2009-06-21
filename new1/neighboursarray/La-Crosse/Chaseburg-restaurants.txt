@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/188/21602/La-Crosse/Chaseburg-restaurants";s:8:"baseName";s:21:"Chaseburg-restaurants";s:5:"title";s:9:"Chaseburg";s:5:"count";s:1:"6";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/129/14807/Duluth/Two-Harbors-restaurants";s:8:"baseName";s:23:"Two-Harbors-restaurants";s:5:"title";s:11:"Two Harbors";s:5:"count";s:2:"24";}

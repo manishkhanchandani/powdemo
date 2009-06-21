@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:74:"http://www.urbanspoon.com/n/44/4305/Jacksonville/Neptune-Beach-restaurants";s:8:"baseName";s:25:"Neptune-Beach-restaurants";s:5:"title";s:13:"Neptune Beach";s:5:"count";s:2:"23";}

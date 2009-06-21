@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:61:"http://www.urbanspoon.com/n/13/1223/Dallas/Keller-restaurants";s:8:"baseName";s:18:"Keller-restaurants";s:5:"title";s:6:"Keller";s:5:"count";s:2:"66";}

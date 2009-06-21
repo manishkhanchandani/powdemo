@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:75:"http://www.urbanspoon.com/n/13/1211/Dallas/East-Dallas-Lakewood-restaurants";s:8:"baseName";s:32:"East-Dallas-Lakewood-restaurants";s:5:"title";s:11:"East Dallas";s:5:"count";s:3:"420";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:60:"http://www.urbanspoon.com/n/37/46155/Hawaii/Hana-restaurants";s:8:"baseName";s:16:"Hana-restaurants";s:5:"title";s:4:"Hana";s:5:"count";s:1:"3";}

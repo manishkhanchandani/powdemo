@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:75:"http://www.urbanspoon.com/n/154/17411/Grand-Rapids/Coopersville-restaurants";s:8:"baseName";s:24:"Coopersville-restaurants";s:5:"title";s:12:"Coopersville";s:5:"count";s:2:"21";}

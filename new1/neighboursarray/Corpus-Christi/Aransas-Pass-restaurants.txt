@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:77:"http://www.urbanspoon.com/n/119/13400/Corpus-Christi/Aransas-Pass-restaurants";s:8:"baseName";s:24:"Aransas-Pass-restaurants";s:5:"title";s:12:"Aransas Pass";s:5:"count";s:2:"44";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:81:"http://www.urbanspoon.com/n/2/105/Chicago/Brighton-Park-McKinley-Park-restaurants";s:8:"baseName";s:39:"Brighton-Park-McKinley-Park-restaurants";s:5:"title";s:13:"Brighton Park";s:5:"count";s:3:"144";}

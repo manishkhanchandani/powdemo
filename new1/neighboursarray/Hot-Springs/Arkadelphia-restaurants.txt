@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:73:"http://www.urbanspoon.com/n/165/18801/Hot-Springs/Arkadelphia-restaurants";s:8:"baseName";s:23:"Arkadelphia-restaurants";s:5:"title";s:11:"Arkadelphia";s:5:"count";s:2:"37";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:72:"http://www.urbanspoon.com/n/2/40623/Chicago/Downers-Grove-IL-restaurants";s:8:"baseName";s:28:"Downers-Grove-IL-restaurants";s:5:"title";s:13:"Downers Grove";s:5:"count";s:3:"162";}

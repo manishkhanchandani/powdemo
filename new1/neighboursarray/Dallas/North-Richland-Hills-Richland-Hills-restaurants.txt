@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:90:"http://www.urbanspoon.com/n/13/1234/Dallas/North-Richland-Hills-Richland-Hills-restaurants";s:8:"baseName";s:47:"North-Richland-Hills-Richland-Hills-restaurants";s:5:"title";s:20:"North Richland Hills";s:5:"count";s:3:"145";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:63:"http://www.urbanspoon.com/n/4/10300/Boston/Brockton-restaurants";s:8:"baseName";s:20:"Brockton-restaurants";s:5:"title";s:8:"Brockton";s:5:"count";s:3:"210";}

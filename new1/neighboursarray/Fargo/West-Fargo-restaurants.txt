@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:66:"http://www.urbanspoon.com/n/138/15708/Fargo/West-Fargo-restaurants";s:8:"baseName";s:22:"West-Fargo-restaurants";s:5:"title";s:10:"West Fargo";s:5:"count";s:2:"32";}

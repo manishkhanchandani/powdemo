@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:64:"http://www.urbanspoon.com/n/2/40681/Chicago/Lyons-IL-restaurants";s:8:"baseName";s:20:"Lyons-IL-restaurants";s:5:"title";s:5:"Lyons";s:5:"count";s:2:"38";}

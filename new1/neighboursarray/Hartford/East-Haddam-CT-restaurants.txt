@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:72:"http://www.urbanspoon.com/n/48/41689/Hartford/East-Haddam-CT-restaurants";s:8:"baseName";s:26:"East-Haddam-CT-restaurants";s:5:"title";s:11:"East Haddam";s:5:"count";s:1:"8";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/174/19910/Ithaca/Elmira-Heights-restaurants";s:8:"baseName";s:26:"Elmira-Heights-restaurants";s:5:"title";s:14:"Elmira Heights";s:5:"count";s:2:"13";}

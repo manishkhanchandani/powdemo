@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:75:"http://www.urbanspoon.com/n/160/18134/Harrisburg/New-Bloomfield-restaurants";s:8:"baseName";s:26:"New-Bloomfield-restaurants";s:5:"title";s:14:"New Bloomfield";s:5:"count";s:1:"7";}

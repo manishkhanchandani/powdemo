@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:74:"http://www.urbanspoon.com/n/48/41711/Hartford/Mansfield-Ctr-CT-restaurants";s:8:"baseName";s:28:"Mansfield-Ctr-CT-restaurants";s:5:"title";s:13:"Mansfield Ctr";s:5:"count";s:2:"10";}

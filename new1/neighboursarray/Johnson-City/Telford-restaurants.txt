@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/179/20523/Johnson-City/Telford-restaurants";s:8:"baseName";s:19:"Telford-restaurants";s:5:"title";s:7:"Telford";s:5:"count";s:1:"3";}

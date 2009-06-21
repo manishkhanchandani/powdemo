@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:66:"http://www.urbanspoon.com/n/189/21720/Lafayette/Oxford-restaurants";s:8:"baseName";s:18:"Oxford-restaurants";s:5:"title";s:6:"Oxford";s:5:"count";s:1:"4";}

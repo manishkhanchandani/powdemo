@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/108/11900/Charlottesville/Afton-restaurants";s:8:"baseName";s:17:"Afton-restaurants";s:5:"title";s:5:"Afton";s:5:"count";s:1:"5";}

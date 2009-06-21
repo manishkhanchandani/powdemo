@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/17/41027/Denver/Kittredge-CO-restaurants";s:8:"baseName";s:24:"Kittredge-CO-restaurants";s:5:"title";s:9:"Kittredge";s:5:"count";s:1:"3";}

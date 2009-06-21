@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:61:"http://www.urbanspoon.com/n/174/19911/Ithaca/Erin-restaurants";s:8:"baseName";s:16:"Erin-restaurants";s:5:"title";s:4:"Erin";s:5:"count";s:1:"2";}

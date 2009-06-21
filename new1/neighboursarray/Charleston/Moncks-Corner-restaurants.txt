@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:72:"http://www.urbanspoon.com/n/61/6107/Charleston/Moncks-Corner-restaurants";s:8:"baseName";s:25:"Moncks-Corner-restaurants";s:5:"title";s:13:"Moncks Corner";s:5:"count";s:2:"29";}

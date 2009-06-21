@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/124/14000/Daytona-Beach/Bunnell-restaurants";s:8:"baseName";s:19:"Bunnell-restaurants";s:5:"title";s:7:"Bunnell";s:5:"count";s:2:"26";}

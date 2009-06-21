@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:66:"http://www.urbanspoon.com/n/2/40734/Chicago/Roselle-IL-restaurants";s:8:"baseName";s:22:"Roselle-IL-restaurants";s:5:"title";s:7:"Roselle";s:5:"count";s:2:"51";}

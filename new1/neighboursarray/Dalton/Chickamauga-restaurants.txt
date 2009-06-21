@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/121/13703/Dalton/Chickamauga-restaurants";s:8:"baseName";s:23:"Chickamauga-restaurants";s:5:"title";s:11:"Chickamauga";s:5:"count";s:2:"20";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:63:"http://www.urbanspoon.com/n/13/1230/Dallas/McKinney-restaurants";s:8:"baseName";s:20:"McKinney-restaurants";s:5:"title";s:8:"McKinney";s:5:"count";s:3:"130";}

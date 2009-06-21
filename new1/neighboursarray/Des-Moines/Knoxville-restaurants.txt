@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/62/14303/Des-Moines/Knoxville-restaurants";s:8:"baseName";s:21:"Knoxville-restaurants";s:5:"title";s:9:"Knoxville";s:5:"count";s:2:"25";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/184/21034/Kalamazoo/Union-City-restaurants";s:8:"baseName";s:22:"Union-City-restaurants";s:5:"title";s:10:"Union City";s:5:"count";s:1:"9";}

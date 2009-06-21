@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:84:"http://www.urbanspoon.com/n/34/3304/Kansas-City/Claycomo-Pleasant-Valley-restaurants";s:8:"baseName";s:36:"Claycomo-Pleasant-Valley-restaurants";s:5:"title";s:8:"Claycomo";s:5:"count";s:2:"39";}

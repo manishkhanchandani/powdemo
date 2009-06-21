@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:72:"http://www.urbanspoon.com/n/191/21902/Lake-Charles/Hackberry-restaurants";s:8:"baseName";s:21:"Hackberry-restaurants";s:5:"title";s:9:"Hackberry";s:5:"count";s:1:"4";}

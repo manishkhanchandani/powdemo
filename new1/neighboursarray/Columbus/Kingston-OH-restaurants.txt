@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/33/41461/Columbus/Kingston-OH-restaurants";s:8:"baseName";s:23:"Kingston-OH-restaurants";s:5:"title";s:8:"Kingston";s:5:"count";s:1:"3";}

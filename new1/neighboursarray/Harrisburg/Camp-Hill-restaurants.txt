@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/160/18104/Harrisburg/Camp-Hill-restaurants";s:8:"baseName";s:21:"Camp-Hill-restaurants";s:5:"title";s:9:"Camp Hill";s:5:"count";s:3:"104";}

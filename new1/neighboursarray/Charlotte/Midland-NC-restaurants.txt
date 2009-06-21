@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/38/41534/Charlotte/Midland-NC-restaurants";s:8:"baseName";s:22:"Midland-NC-restaurants";s:5:"title";s:7:"Midland";s:5:"count";s:1:"8";}

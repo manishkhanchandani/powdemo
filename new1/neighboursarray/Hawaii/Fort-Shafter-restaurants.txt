@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/37/3605/Hawaii/Fort-Shafter-restaurants";s:8:"baseName";s:24:"Fort-Shafter-restaurants";s:5:"title";s:12:"Fort Shafter";s:5:"count";s:3:"100";}

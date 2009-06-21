@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:64:"http://www.urbanspoon.com/n/125/14101/Decatur/Arthur-restaurants";s:8:"baseName";s:18:"Arthur-restaurants";s:5:"title";s:6:"Arthur";s:5:"count";s:2:"13";}

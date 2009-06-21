@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/42/4112/Buffalo/East-Aurora-restaurants";s:8:"baseName";s:23:"East-Aurora-restaurants";s:5:"title";s:11:"East Aurora";s:5:"count";s:2:"37";}

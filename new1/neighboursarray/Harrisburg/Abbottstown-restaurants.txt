@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:72:"http://www.urbanspoon.com/n/160/18100/Harrisburg/Abbottstown-restaurants";s:8:"baseName";s:23:"Abbottstown-restaurants";s:5:"title";s:11:"Abbottstown";s:5:"count";s:1:"8";}

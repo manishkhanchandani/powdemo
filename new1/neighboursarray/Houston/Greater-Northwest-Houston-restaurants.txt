@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:79:"http://www.urbanspoon.com/n/8/718/Houston/Greater-Northwest-Houston-restaurants";s:8:"baseName";s:37:"Greater-Northwest-Houston-restaurants";s:5:"title";s:25:"Greater Northwest Houston";s:5:"count";s:3:"159";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/34/41487/Kansas-City/Holt-MO-restaurants";s:8:"baseName";s:19:"Holt-MO-restaurants";s:5:"title";s:4:"Holt";s:5:"count";s:1:"5";}

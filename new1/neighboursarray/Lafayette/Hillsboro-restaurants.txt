@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/189/21713/Lafayette/Hillsboro-restaurants";s:8:"baseName";s:21:"Hillsboro-restaurants";s:5:"title";s:9:"Hillsboro";s:5:"count";s:1:"3";}

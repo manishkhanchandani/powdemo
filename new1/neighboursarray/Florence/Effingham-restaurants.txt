@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/143/16203/Florence/Effingham-restaurants";s:8:"baseName";s:21:"Effingham-restaurants";s:5:"title";s:9:"Effingham";s:5:"count";s:1:"4";}

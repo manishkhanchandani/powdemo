@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:73:"http://www.urbanspoon.com/n/48/41732/Hartford/Old-Saybrook-CT-restaurants";s:8:"baseName";s:27:"Old-Saybrook-CT-restaurants";s:5:"title";s:12:"Old Saybrook";s:5:"count";s:2:"58";}

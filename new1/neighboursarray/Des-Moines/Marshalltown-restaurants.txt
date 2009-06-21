@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/62/6224/Des-Moines/Marshalltown-restaurants";s:8:"baseName";s:24:"Marshalltown-restaurants";s:5:"title";s:12:"Marshalltown";s:5:"count";s:2:"53";}

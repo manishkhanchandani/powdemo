@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:63:"http://www.urbanspoon.com/n/19/1804/Detroit/Berkley-restaurants";s:8:"baseName";s:19:"Berkley-restaurants";s:5:"title";s:7:"Berkley";s:5:"count";s:2:"40";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:63:"http://www.urbanspoon.com/n/17/1605/Denver/Brighton-restaurants";s:8:"baseName";s:20:"Brighton-restaurants";s:5:"title";s:8:"Brighton";s:5:"count";s:2:"64";}

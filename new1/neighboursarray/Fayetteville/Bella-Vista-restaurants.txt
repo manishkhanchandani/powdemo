@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:74:"http://www.urbanspoon.com/n/139/15800/Fayetteville/Bella-Vista-restaurants";s:8:"baseName";s:23:"Bella-Vista-restaurants";s:5:"title";s:11:"Bella Vista";s:5:"count";s:2:"15";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/44/20300/Jacksonville/Baldwin-restaurants";s:8:"baseName";s:19:"Baldwin-restaurants";s:5:"title";s:7:"Baldwin";s:5:"count";s:1:"6";}

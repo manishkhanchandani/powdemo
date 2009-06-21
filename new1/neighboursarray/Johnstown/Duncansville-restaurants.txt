@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:72:"http://www.urbanspoon.com/n/180/20618/Johnstown/Duncansville-restaurants";s:8:"baseName";s:24:"Duncansville-restaurants";s:5:"title";s:12:"Duncansville";s:5:"count";s:2:"24";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:66:"http://www.urbanspoon.com/n/184/21010/Kalamazoo/Gobles-restaurants";s:8:"baseName";s:18:"Gobles-restaurants";s:5:"title";s:6:"Gobles";s:5:"count";s:1:"4";}

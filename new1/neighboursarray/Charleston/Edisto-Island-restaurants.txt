@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:73:"http://www.urbanspoon.com/n/61/11601/Charleston/Edisto-Island-restaurants";s:8:"baseName";s:25:"Edisto-Island-restaurants";s:5:"title";s:13:"Edisto Island";s:5:"count";s:2:"14";}

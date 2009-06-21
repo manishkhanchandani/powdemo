@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:66:"http://www.urbanspoon.com/n/129/14801/Duluth/Brookston-restaurants";s:8:"baseName";s:21:"Brookston-restaurants";s:5:"title";s:9:"Brookston";s:5:"count";s:1:"2";}

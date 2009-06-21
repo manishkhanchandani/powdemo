@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:73:"http://www.urbanspoon.com/n/66/6610/Baton-Rouge/Hickory-Ridge-restaurants";s:8:"baseName";s:25:"Hickory-Ridge-restaurants";s:5:"title";s:13:"Hickory Ridge";s:5:"count";s:2:"52";}

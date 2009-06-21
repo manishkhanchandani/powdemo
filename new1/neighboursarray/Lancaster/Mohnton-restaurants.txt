@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/193/22119/Lancaster/Mohnton-restaurants";s:8:"baseName";s:19:"Mohnton-restaurants";s:5:"title";s:7:"Mohnton";s:5:"count";s:1:"7";}

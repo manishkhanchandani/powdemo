@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:59:"http://www.urbanspoon.com/n/37/3600/Hawaii/Aiea-restaurants";s:8:"baseName";s:16:"Aiea-restaurants";s:5:"title";s:4:"Aiea";s:5:"count";s:3:"132";}

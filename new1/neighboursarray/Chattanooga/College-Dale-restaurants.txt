@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:74:"http://www.urbanspoon.com/n/109/12003/Chattanooga/College-Dale-restaurants";s:8:"baseName";s:24:"College-Dale-restaurants";s:5:"title";s:12:"College Dale";s:5:"count";s:2:"17";}

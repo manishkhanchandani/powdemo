@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:77:"http://www.urbanspoon.com/n/48/41725/Hartford/North-Stonington-CT-restaurants";s:8:"baseName";s:31:"North-Stonington-CT-restaurants";s:5:"title";s:16:"North Stonington";s:5:"count";s:2:"11";}

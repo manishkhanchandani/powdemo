@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:86:"http://www.urbanspoon.com/n/32/3128/Cincinnati/Over-the-Rhine-Mount-Auburn-restaurants";s:8:"baseName";s:39:"Over-the-Rhine-Mount-Auburn-restaurants";s:5:"title";s:12:"Mount Auburn";s:5:"count";s:2:"48";}

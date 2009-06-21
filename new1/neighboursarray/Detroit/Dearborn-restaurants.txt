@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:64:"http://www.urbanspoon.com/n/19/1814/Detroit/Dearborn-restaurants";s:8:"baseName";s:20:"Dearborn-restaurants";s:5:"title";s:8:"Dearborn";s:5:"count";s:3:"249";}

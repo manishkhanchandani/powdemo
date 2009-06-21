@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:76:"http://www.urbanspoon.com/n/114/12807/College-Station/Somerville-restaurants";s:8:"baseName";s:22:"Somerville-restaurants";s:5:"title";s:10:"Somerville";s:5:"count";s:1:"8";}

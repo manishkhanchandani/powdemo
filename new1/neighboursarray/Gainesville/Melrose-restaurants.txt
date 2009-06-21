@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/150/17009/Gainesville/Melrose-restaurants";s:8:"baseName";s:19:"Melrose-restaurants";s:5:"title";s:7:"Melrose";s:5:"count";s:1:"7";}

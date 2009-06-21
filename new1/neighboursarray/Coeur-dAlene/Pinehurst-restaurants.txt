@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:72:"http://www.urbanspoon.com/n/113/12711/Coeur-dAlene/Pinehurst-restaurants";s:8:"baseName";s:21:"Pinehurst-restaurants";s:5:"title";s:9:"Pinehurst";s:5:"count";s:1:"6";}

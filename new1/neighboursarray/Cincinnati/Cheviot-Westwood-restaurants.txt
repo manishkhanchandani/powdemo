@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:75:"http://www.urbanspoon.com/n/32/3102/Cincinnati/Cheviot-Westwood-restaurants";s:8:"baseName";s:28:"Cheviot-Westwood-restaurants";s:5:"title";s:7:"Cheviot";s:5:"count";s:3:"157";}

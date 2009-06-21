@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/48/41690/Hartford/East-Haven-CT-restaurants";s:8:"baseName";s:25:"East-Haven-CT-restaurants";s:5:"title";s:10:"East Haven";s:5:"count";s:2:"56";}

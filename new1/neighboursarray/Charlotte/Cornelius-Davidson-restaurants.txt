@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:76:"http://www.urbanspoon.com/n/38/3703/Charlotte/Cornelius-Davidson-restaurants";s:8:"baseName";s:30:"Cornelius-Davidson-restaurants";s:5:"title";s:9:"Cornelius";s:5:"count";s:2:"66";}

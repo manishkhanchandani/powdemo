@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:64:"http://www.urbanspoon.com/n/142/16114/Flint/Goodrich-restaurants";s:8:"baseName";s:20:"Goodrich-restaurants";s:5:"title";s:8:"Goodrich";s:5:"count";s:2:"10";}

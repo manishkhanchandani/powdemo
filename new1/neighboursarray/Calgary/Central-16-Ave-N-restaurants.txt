@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:72:"http://www.urbanspoon.com/n/15/1406/Calgary/Central-16-Ave-N-restaurants";s:8:"baseName";s:28:"Central-16-Ave-N-restaurants";s:5:"title";s:16:"Central 16 Ave N";s:5:"count";s:2:"77";}

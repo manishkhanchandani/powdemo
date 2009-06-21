@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:75:"http://www.urbanspoon.com/n/16/1545/Cleveland/University-Circle-restaurants";s:8:"baseName";s:29:"University-Circle-restaurants";s:5:"title";s:17:"University Circle";s:5:"count";s:2:"24";}

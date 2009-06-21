@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/133/15222/Erie/West-Springfield-restaurants";s:8:"baseName";s:28:"West-Springfield-restaurants";s:5:"title";s:16:"West Springfield";s:5:"count";s:1:"6";}

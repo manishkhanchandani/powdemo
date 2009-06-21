@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:63:"http://www.urbanspoon.com/n/33/3207/Columbus/Dublin-restaurants";s:8:"baseName";s:18:"Dublin-restaurants";s:5:"title";s:6:"Dublin";s:5:"count";s:3:"194";}

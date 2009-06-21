@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/179/20513/Johnson-City/Hampton-restaurants";s:8:"baseName";s:19:"Hampton-restaurants";s:5:"title";s:7:"Hampton";s:5:"count";s:1:"9";}

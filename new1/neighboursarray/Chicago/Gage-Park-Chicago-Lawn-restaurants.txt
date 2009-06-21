@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:76:"http://www.urbanspoon.com/n/2/114/Chicago/Gage-Park-Chicago-Lawn-restaurants";s:8:"baseName";s:34:"Gage-Park-Chicago-Lawn-restaurants";s:5:"title";s:12:"Chicago Lawn";s:5:"count";s:3:"295";}

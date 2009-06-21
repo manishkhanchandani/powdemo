@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:62:"http://www.urbanspoon.com/n/16/1518/Cleveland/Kent-restaurants";s:8:"baseName";s:16:"Kent-restaurants";s:5:"title";s:4:"Kent";s:5:"count";s:2:"40";}

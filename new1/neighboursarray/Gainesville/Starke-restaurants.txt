@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/150/17012/Gainesville/Starke-restaurants";s:8:"baseName";s:18:"Starke-restaurants";s:5:"title";s:6:"Starke";s:5:"count";s:2:"51";}

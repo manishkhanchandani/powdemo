@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/2/40728/Chicago/Riverside-IL-restaurants";s:8:"baseName";s:24:"Riverside-IL-restaurants";s:5:"title";s:9:"Riverside";s:5:"count";s:2:"16";}

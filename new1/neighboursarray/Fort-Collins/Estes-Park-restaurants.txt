@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:73:"http://www.urbanspoon.com/n/145/16403/Fort-Collins/Estes-Park-restaurants";s:8:"baseName";s:22:"Estes-Park-restaurants";s:5:"title";s:10:"Estes Park";s:5:"count";s:2:"92";}

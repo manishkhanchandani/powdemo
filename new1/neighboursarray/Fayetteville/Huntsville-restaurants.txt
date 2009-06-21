@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:73:"http://www.urbanspoon.com/n/139/15811/Fayetteville/Huntsville-restaurants";s:8:"baseName";s:22:"Huntsville-restaurants";s:5:"title";s:10:"Huntsville";s:5:"count";s:2:"15";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/13/1238/Dallas/Preston-Hollow-restaurants";s:8:"baseName";s:26:"Preston-Hollow-restaurants";s:5:"title";s:14:"Preston Hollow";s:5:"count";s:3:"213";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/191/21907/Lake-Charles/Sulphur-restaurants";s:8:"baseName";s:19:"Sulphur-restaurants";s:5:"title";s:7:"Sulphur";s:5:"count";s:2:"72";}

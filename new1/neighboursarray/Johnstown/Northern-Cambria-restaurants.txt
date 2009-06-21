@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:76:"http://www.urbanspoon.com/n/180/20637/Johnstown/Northern-Cambria-restaurants";s:8:"baseName";s:28:"Northern-Cambria-restaurants";s:5:"title";s:16:"Northern Cambria";s:5:"count";s:2:"12";}

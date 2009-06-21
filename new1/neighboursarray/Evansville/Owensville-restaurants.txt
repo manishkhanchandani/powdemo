@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/135/15412/Evansville/Owensville-restaurants";s:8:"baseName";s:22:"Owensville-restaurants";s:5:"title";s:10:"Owensville";s:5:"count";s:1:"2";}

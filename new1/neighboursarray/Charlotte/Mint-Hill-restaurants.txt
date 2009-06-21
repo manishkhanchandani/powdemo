@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/38/3713/Charlotte/Mint-Hill-restaurants";s:8:"baseName";s:21:"Mint-Hill-restaurants";s:5:"title";s:9:"Mint Hill";s:5:"count";s:2:"39";}

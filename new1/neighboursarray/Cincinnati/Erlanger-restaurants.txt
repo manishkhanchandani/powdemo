@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/32/3112/Cincinnati/Erlanger-restaurants";s:8:"baseName";s:20:"Erlanger-restaurants";s:5:"title";s:8:"Erlanger";s:5:"count";s:2:"59";}

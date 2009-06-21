@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/34/3317/Kansas-City/Liberty-restaurants";s:8:"baseName";s:19:"Liberty-restaurants";s:5:"title";s:7:"Liberty";s:5:"count";s:2:"54";}

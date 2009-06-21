@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:74:"http://www.urbanspoon.com/n/160/42406/Harrisburg/Bainbridge-PA-restaurants";s:8:"baseName";s:25:"Bainbridge-PA-restaurants";s:5:"title";s:10:"Bainbridge";s:5:"count";s:1:"3";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/17/41019/Denver/Black-Hawk-CO-restaurants";s:8:"baseName";s:25:"Black-Hawk-CO-restaurants";s:5:"title";s:10:"Black Hawk";s:5:"count";s:1:"6";}

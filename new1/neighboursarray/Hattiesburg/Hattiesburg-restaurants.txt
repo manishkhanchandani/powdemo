@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:61:"http://www.urbanspoon.com/n/161/18303/Hattiesburg-restaurants";s:8:"baseName";s:23:"Hattiesburg-restaurants";s:5:"title";s:11:"Hattiesburg";s:5:"count";s:3:"251";}

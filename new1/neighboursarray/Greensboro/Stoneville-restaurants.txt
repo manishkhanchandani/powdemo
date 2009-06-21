@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/156/17727/Greensboro/Stoneville-restaurants";s:8:"baseName";s:22:"Stoneville-restaurants";s:5:"title";s:10:"Stoneville";s:5:"count";s:2:"12";}

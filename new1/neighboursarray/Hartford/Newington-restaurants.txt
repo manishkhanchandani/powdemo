@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:66:"http://www.urbanspoon.com/n/48/4732/Hartford/Newington-restaurants";s:8:"baseName";s:21:"Newington-restaurants";s:5:"title";s:9:"Newington";s:5:"count";s:2:"65";}

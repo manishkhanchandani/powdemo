@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:76:"http://www.urbanspoon.com/n/48/4740/Hartford/Smith-Tower-Housing-restaurants";s:8:"baseName";s:31:"Smith-Tower-Housing-restaurants";s:5:"title";s:19:"Smith Tower Housing";s:5:"count";s:2:"19";}

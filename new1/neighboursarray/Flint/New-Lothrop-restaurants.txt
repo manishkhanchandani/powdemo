@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/142/16127/Flint/New-Lothrop-restaurants";s:8:"baseName";s:23:"New-Lothrop-restaurants";s:5:"title";s:11:"New Lothrop";s:5:"count";s:1:"3";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:74:"http://www.urbanspoon.com/n/32/3124/Cincinnati/Campbell-County-restaurants";s:8:"baseName";s:27:"Campbell-County-restaurants";s:5:"title";s:15:"Campbell County";s:5:"count";s:3:"135";}

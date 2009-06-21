@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:64:"http://www.urbanspoon.com/n/13/1224/Dallas/Kennedale-restaurants";s:8:"baseName";s:21:"Kennedale-restaurants";s:5:"title";s:9:"Kennedale";s:5:"count";s:2:"73";}

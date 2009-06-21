@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/48/41747/Hartford/Sherman-CT-restaurants";s:8:"baseName";s:22:"Sherman-CT-restaurants";s:5:"title";s:7:"Sherman";s:5:"count";s:1:"3";}

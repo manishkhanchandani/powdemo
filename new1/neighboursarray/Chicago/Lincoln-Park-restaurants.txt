@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:66:"http://www.urbanspoon.com/n/2/125/Chicago/Lincoln-Park-restaurants";s:8:"baseName";s:24:"Lincoln-Park-restaurants";s:5:"title";s:12:"Lincoln Park";s:5:"count";s:3:"380";}

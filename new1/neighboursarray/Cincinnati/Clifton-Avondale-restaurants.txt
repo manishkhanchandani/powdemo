@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:75:"http://www.urbanspoon.com/n/32/3103/Cincinnati/Clifton-Avondale-restaurants";s:8:"baseName";s:28:"Clifton-Avondale-restaurants";s:5:"title";s:8:"Avondale";s:5:"count";s:3:"130";}

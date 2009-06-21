@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/160/18101/Harrisburg/Annville-restaurants";s:8:"baseName";s:20:"Annville-restaurants";s:5:"title";s:8:"Annville";s:5:"count";s:2:"14";}

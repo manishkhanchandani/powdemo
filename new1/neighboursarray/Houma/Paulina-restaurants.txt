@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:63:"http://www.urbanspoon.com/n/166/18916/Houma/Paulina-restaurants";s:8:"baseName";s:19:"Paulina-restaurants";s:5:"title";s:7:"Paulina";s:5:"count";s:1:"5";}

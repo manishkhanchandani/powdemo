@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:62:"http://www.urbanspoon.com/n/37/3626/Hawaii/Waikiki-restaurants";s:8:"baseName";s:19:"Waikiki-restaurants";s:5:"title";s:7:"Waikiki";s:5:"count";s:3:"242";}

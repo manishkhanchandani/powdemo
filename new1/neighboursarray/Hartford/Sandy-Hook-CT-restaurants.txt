@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/48/41744/Hartford/Sandy-Hook-CT-restaurants";s:8:"baseName";s:25:"Sandy-Hook-CT-restaurants";s:5:"title";s:10:"Sandy Hook";s:5:"count";s:1:"9";}

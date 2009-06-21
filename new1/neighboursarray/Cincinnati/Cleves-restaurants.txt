@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:66:"http://www.urbanspoon.com/n/32/12402/Cincinnati/Cleves-restaurants";s:8:"baseName";s:18:"Cleves-restaurants";s:5:"title";s:6:"Cleves";s:5:"count";s:2:"22";}

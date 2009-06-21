@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/180/20631/Johnstown/Ligonier-restaurants";s:8:"baseName";s:20:"Ligonier-restaurants";s:5:"title";s:8:"Ligonier";s:5:"count";s:2:"26";}

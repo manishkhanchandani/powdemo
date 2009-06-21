@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:66:"http://www.urbanspoon.com/n/185/21105/Kalispell/Somers-restaurants";s:8:"baseName";s:18:"Somers-restaurants";s:5:"title";s:6:"Somers";s:5:"count";s:1:"5";}

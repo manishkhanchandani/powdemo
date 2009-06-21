@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/160/18120/Harrisburg/Highspire-restaurants";s:8:"baseName";s:21:"Highspire-restaurants";s:5:"title";s:9:"Highspire";s:5:"count";s:2:"10";}

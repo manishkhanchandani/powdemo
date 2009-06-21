@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/63/41953/Green-Bay/Luxemburg-WI-restaurants";s:8:"baseName";s:24:"Luxemburg-WI-restaurants";s:5:"title";s:9:"Luxemburg";s:5:"count";s:2:"25";}

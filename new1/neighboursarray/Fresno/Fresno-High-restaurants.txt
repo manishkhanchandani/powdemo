@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:66:"http://www.urbanspoon.com/n/56/5604/Fresno/Fresno-High-restaurants";s:8:"baseName";s:23:"Fresno-High-restaurants";s:5:"title";s:11:"Fresno-High";s:5:"count";s:3:"152";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/88/9413/Bellingham/Lopez-Island-restaurants";s:8:"baseName";s:24:"Lopez-Island-restaurants";s:5:"title";s:12:"Lopez Island";s:5:"count";s:2:"12";}

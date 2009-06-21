@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:72:"http://www.urbanspoon.com/n/139/15819/Fayetteville/West-Fork-restaurants";s:8:"baseName";s:21:"West-Fork-restaurants";s:5:"title";s:9:"West Fork";s:5:"count";s:1:"3";}

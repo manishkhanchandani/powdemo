@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/48/18205/Hartford/New-London-restaurants";s:8:"baseName";s:22:"New-London-restaurants";s:5:"title";s:10:"New London";s:5:"count";s:3:"133";}

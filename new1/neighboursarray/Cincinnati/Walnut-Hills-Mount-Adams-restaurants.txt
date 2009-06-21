@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:83:"http://www.urbanspoon.com/n/32/3133/Cincinnati/Walnut-Hills-Mount-Adams-restaurants";s:8:"baseName";s:36:"Walnut-Hills-Mount-Adams-restaurants";s:5:"title";s:11:"Mount Adams";s:5:"count";s:2:"54";}

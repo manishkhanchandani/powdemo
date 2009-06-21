@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:84:"http://www.urbanspoon.com/n/124/14002/Daytona-Beach/Daytona-Beach-Shores-restaurants";s:8:"baseName";s:32:"Daytona-Beach-Shores-restaurants";s:5:"title";s:20:"Daytona Beach Shores";s:5:"count";s:1:"2";}

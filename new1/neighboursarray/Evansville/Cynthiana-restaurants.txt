@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/135/15402/Evansville/Cynthiana-restaurants";s:8:"baseName";s:21:"Cynthiana-restaurants";s:5:"title";s:9:"Cynthiana";s:5:"count";s:1:"2";}

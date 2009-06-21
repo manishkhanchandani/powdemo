@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:63:"http://www.urbanspoon.com/n/42/10800/Buffalo/Arcade-restaurants";s:8:"baseName";s:18:"Arcade-restaurants";s:5:"title";s:6:"Arcade";s:5:"count";s:2:"11";}

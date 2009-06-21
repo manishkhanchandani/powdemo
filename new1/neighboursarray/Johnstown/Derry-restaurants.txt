@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:65:"http://www.urbanspoon.com/n/180/20616/Johnstown/Derry-restaurants";s:8:"baseName";s:17:"Derry-restaurants";s:5:"title";s:5:"Derry";s:5:"count";s:1:"6";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/68/6817/Knoxville/Maplehurst-restaurants";s:8:"baseName";s:22:"Maplehurst-restaurants";s:5:"title";s:10:"Maplehurst";s:5:"count";s:2:"16";}

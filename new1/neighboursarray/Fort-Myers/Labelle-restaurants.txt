@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/146/16512/Fort-Myers/Labelle-restaurants";s:8:"baseName";s:19:"Labelle-restaurants";s:5:"title";s:7:"Labelle";s:5:"count";s:2:"28";}

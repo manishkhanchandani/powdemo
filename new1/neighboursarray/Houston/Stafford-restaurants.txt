@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:62:"http://www.urbanspoon.com/n/8/745/Houston/Stafford-restaurants";s:8:"baseName";s:20:"Stafford-restaurants";s:5:"title";s:8:"Stafford";s:5:"count";s:2:"92";}

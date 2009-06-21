@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/13/1236/Dallas/Oak-Lawn-Uptown-restaurants";s:8:"baseName";s:27:"Oak-Lawn-Uptown-restaurants";s:5:"title";s:8:"Oak Lawn";s:5:"count";s:3:"349";}

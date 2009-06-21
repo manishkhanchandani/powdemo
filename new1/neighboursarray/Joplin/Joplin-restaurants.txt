@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:56:"http://www.urbanspoon.com/n/181/20708/Joplin-restaurants";s:8:"baseName";s:18:"Joplin-restaurants";s:5:"title";s:6:"Joplin";s:5:"count";s:3:"252";}

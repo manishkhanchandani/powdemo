@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/62/6229/Des-Moines/Somerset-restaurants";s:8:"baseName";s:20:"Somerset-restaurants";s:5:"title";s:8:"Somerset";s:5:"count";s:2:"39";}

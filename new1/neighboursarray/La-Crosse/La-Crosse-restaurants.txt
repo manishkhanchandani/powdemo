@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:59:"http://www.urbanspoon.com/n/188/21611/La-Crosse-restaurants";s:8:"baseName";s:21:"La-Crosse-restaurants";s:5:"title";s:9:"La Crosse";s:5:"count";s:3:"244";}

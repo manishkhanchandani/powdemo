@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/161/18305/Hattiesburg/Lumberton-restaurants";s:8:"baseName";s:21:"Lumberton-restaurants";s:5:"title";s:9:"Lumberton";s:5:"count";s:1:"9";}

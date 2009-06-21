@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/147/16603/Fort-Smith/Charleston-restaurants";s:8:"baseName";s:22:"Charleston-restaurants";s:5:"title";s:10:"Charleston";s:5:"count";s:1:"5";}

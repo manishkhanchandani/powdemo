@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/48/41717/Hartford/Naugatuck-CT-restaurants";s:8:"baseName";s:24:"Naugatuck-CT-restaurants";s:5:"title";s:9:"Naugatuck";s:5:"count";s:2:"77";}

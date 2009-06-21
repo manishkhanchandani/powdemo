@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:61:"http://www.urbanspoon.com/n/13/1212/Dallas/Euless-restaurants";s:8:"baseName";s:18:"Euless-restaurants";s:5:"title";s:6:"Euless";s:5:"count";s:2:"68";}

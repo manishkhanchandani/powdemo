@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:72:"http://www.urbanspoon.com/n/154/17425/Grand-Rapids/Kent-City-restaurants";s:8:"baseName";s:21:"Kent-City-restaurants";s:5:"title";s:9:"Kent City";s:5:"count";s:1:"5";}

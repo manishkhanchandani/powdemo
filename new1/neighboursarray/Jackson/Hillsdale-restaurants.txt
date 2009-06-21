@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/175/20011/Jackson/Hillsdale-restaurants";s:8:"baseName";s:21:"Hillsdale-restaurants";s:5:"title";s:9:"Hillsdale";s:5:"count";s:2:"30";}

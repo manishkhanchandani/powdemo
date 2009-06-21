@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:91:"http://www.urbanspoon.com/n/16/1516/Cleveland/Highland-Heights-Mayfield-Heights-restaurants";s:8:"baseName";s:45:"Highland-Heights-Mayfield-Heights-restaurants";s:5:"title";s:16:"Highland Heights";s:5:"count";s:3:"146";}

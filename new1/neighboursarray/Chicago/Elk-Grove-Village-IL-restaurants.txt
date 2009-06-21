@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:76:"http://www.urbanspoon.com/n/2/40626/Chicago/Elk-Grove-Village-IL-restaurants";s:8:"baseName";s:32:"Elk-Grove-Village-IL-restaurants";s:5:"title";s:17:"Elk Grove Village";s:5:"count";s:3:"123";}

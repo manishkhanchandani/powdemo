@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:78:"http://www.urbanspoon.com/n/62/6212/Des-Moines/Downtown-Des-Moines-restaurants";s:8:"baseName";s:31:"Downtown-Des-Moines-restaurants";s:5:"title";s:8:"Downtown";s:5:"count";s:2:"96";}

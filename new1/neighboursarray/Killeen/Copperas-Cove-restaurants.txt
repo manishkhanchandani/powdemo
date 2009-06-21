@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/186/21302/Killeen/Copperas-Cove-restaurants";s:8:"baseName";s:25:"Copperas-Cove-restaurants";s:5:"title";s:13:"Copperas Cove";s:5:"count";s:2:"50";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/38/3716/Charlotte/Pineville-restaurants";s:8:"baseName";s:21:"Pineville-restaurants";s:5:"title";s:9:"Pineville";s:5:"count";s:2:"97";}

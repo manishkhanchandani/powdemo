@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:60:"http://www.urbanspoon.com/n/99/10700/Brownsville-restaurants";s:8:"baseName";s:23:"Brownsville-restaurants";s:5:"title";s:11:"Brownsville";s:5:"count";s:3:"441";}

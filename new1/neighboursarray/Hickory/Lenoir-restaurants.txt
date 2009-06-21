@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:64:"http://www.urbanspoon.com/n/163/18613/Hickory/Lenoir-restaurants";s:8:"baseName";s:18:"Lenoir-restaurants";s:5:"title";s:6:"Lenoir";s:5:"count";s:2:"92";}

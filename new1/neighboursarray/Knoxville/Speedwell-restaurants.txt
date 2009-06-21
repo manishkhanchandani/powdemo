@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/68/21408/Knoxville/Speedwell-restaurants";s:8:"baseName";s:21:"Speedwell-restaurants";s:5:"title";s:9:"Speedwell";s:5:"count";s:1:"1";}

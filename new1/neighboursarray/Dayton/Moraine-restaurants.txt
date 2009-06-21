@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:64:"http://www.urbanspoon.com/n/123/13925/Dayton/Moraine-restaurants";s:8:"baseName";s:19:"Moraine-restaurants";s:5:"title";s:7:"Moraine";s:5:"count";s:2:"35";}

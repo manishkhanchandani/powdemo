@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:62:"http://www.urbanspoon.com/n/142/16133/Flint/Owosso-restaurants";s:8:"baseName";s:18:"Owosso-restaurants";s:5:"title";s:6:"Owosso";s:5:"count";s:2:"58";}

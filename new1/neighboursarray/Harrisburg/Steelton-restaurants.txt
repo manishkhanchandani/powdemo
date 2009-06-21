@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/160/18143/Harrisburg/Steelton-restaurants";s:8:"baseName";s:20:"Steelton-restaurants";s:5:"title";s:8:"Steelton";s:5:"count";s:2:"21";}

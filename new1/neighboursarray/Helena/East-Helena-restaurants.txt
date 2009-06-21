@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/162/18502/Helena/East-Helena-restaurants";s:8:"baseName";s:23:"East-Helena-restaurants";s:5:"title";s:11:"East Helena";s:5:"count";s:1:"6";}

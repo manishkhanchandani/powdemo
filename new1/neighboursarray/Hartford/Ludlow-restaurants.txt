@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:63:"http://www.urbanspoon.com/n/48/4727/Hartford/Ludlow-restaurants";s:8:"baseName";s:18:"Ludlow-restaurants";s:5:"title";s:6:"Ludlow";s:5:"count";s:2:"20";}

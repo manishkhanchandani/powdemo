@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:65:"http://www.urbanspoon.com/n/33/3205/Columbus/Delaware-restaurants";s:8:"baseName";s:20:"Delaware-restaurants";s:5:"title";s:8:"Delaware";s:5:"count";s:2:"52";}

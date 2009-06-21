@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/150/17014/Gainesville/Waldo-restaurants";s:8:"baseName";s:17:"Waldo-restaurants";s:5:"title";s:5:"Waldo";s:5:"count";s:1:"5";}

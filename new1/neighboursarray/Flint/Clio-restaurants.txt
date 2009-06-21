@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:60:"http://www.urbanspoon.com/n/142/16104/Flint/Clio-restaurants";s:8:"baseName";s:16:"Clio-restaurants";s:5:"title";s:4:"Clio";s:5:"count";s:2:"38";}

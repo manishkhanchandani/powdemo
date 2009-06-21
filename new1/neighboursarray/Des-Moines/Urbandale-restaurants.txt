@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/62/6231/Des-Moines/Urbandale-restaurants";s:8:"baseName";s:21:"Urbandale-restaurants";s:5:"title";s:9:"Urbandale";s:5:"count";s:2:"99";}

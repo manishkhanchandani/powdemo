@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:75:"http://www.urbanspoon.com/n/44/4301/Jacksonville/Atlantic-Beach-restaurants";s:8:"baseName";s:26:"Atlantic-Beach-restaurants";s:5:"title";s:14:"Atlantic Beach";s:5:"count";s:2:"53";}

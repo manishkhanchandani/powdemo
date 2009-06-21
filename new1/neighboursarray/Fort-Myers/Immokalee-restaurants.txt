@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/146/16511/Fort-Myers/Immokalee-restaurants";s:8:"baseName";s:21:"Immokalee-restaurants";s:5:"title";s:9:"Immokalee";s:5:"count";s:2:"27";}

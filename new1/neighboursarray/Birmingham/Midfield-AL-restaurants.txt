@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/45/41641/Birmingham/Midfield-AL-restaurants";s:8:"baseName";s:23:"Midfield-AL-restaurants";s:5:"title";s:8:"Midfield";s:5:"count";s:1:"5";}

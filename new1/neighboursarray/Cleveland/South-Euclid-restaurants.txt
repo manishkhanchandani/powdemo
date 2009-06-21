@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/16/1535/Cleveland/South-Euclid-restaurants";s:8:"baseName";s:24:"South-Euclid-restaurants";s:5:"title";s:12:"South Euclid";s:5:"count";s:2:"70";}

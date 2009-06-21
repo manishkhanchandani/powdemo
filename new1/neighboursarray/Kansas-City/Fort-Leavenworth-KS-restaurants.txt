@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:80:"http://www.urbanspoon.com/n/34/41484/Kansas-City/Fort-Leavenworth-KS-restaurants";s:8:"baseName";s:31:"Fort-Leavenworth-KS-restaurants";s:5:"title";s:16:"Fort Leavenworth";s:5:"count";s:1:"8";}

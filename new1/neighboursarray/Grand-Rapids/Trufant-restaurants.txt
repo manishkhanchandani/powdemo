@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/154/17436/Grand-Rapids/Trufant-restaurants";s:8:"baseName";s:19:"Trufant-restaurants";s:5:"title";s:7:"Trufant";s:5:"count";s:1:"3";}

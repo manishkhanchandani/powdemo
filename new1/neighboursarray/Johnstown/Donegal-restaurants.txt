@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/180/20617/Johnstown/Donegal-restaurants";s:8:"baseName";s:19:"Donegal-restaurants";s:5:"title";s:7:"Donegal";s:5:"count";s:2:"10";}

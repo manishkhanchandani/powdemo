@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/154/17423/Grand-Rapids/Ionia-restaurants";s:8:"baseName";s:17:"Ionia-restaurants";s:5:"title";s:5:"Ionia";s:5:"count";s:2:"39";}

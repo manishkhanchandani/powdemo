@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/191/21901/Lake-Charles/Dequincy-restaurants";s:8:"baseName";s:20:"Dequincy-restaurants";s:5:"title";s:8:"Dequincy";s:5:"count";s:2:"17";}

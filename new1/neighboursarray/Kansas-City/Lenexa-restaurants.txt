@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:66:"http://www.urbanspoon.com/n/34/3316/Kansas-City/Lenexa-restaurants";s:8:"baseName";s:18:"Lenexa-restaurants";s:5:"title";s:6:"Lenexa";s:5:"count";s:2:"82";}

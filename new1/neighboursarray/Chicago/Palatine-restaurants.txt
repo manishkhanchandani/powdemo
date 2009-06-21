@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:64:"http://www.urbanspoon.com/n/2/12208/Chicago/Palatine-restaurants";s:8:"baseName";s:20:"Palatine-restaurants";s:5:"title";s:8:"Palatine";s:5:"count";s:3:"174";}

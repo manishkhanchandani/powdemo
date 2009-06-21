@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/93/10012/Bloomington/Minier-restaurants";s:8:"baseName";s:18:"Minier-restaurants";s:5:"title";s:6:"Minier";s:5:"count";s:1:"4";}

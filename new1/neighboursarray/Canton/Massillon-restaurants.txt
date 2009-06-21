@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:66:"http://www.urbanspoon.com/n/102/11126/Canton/Massillon-restaurants";s:8:"baseName";s:21:"Massillon-restaurants";s:5:"title";s:9:"Massillon";s:5:"count";s:3:"135";}

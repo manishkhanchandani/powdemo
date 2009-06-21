@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/139/15808/Fayetteville/Gentry-restaurants";s:8:"baseName";s:18:"Gentry-restaurants";s:5:"title";s:6:"Gentry";s:5:"count";s:2:"10";}

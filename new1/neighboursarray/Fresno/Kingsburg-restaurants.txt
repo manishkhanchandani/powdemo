@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:64:"http://www.urbanspoon.com/n/56/5607/Fresno/Kingsburg-restaurants";s:8:"baseName";s:21:"Kingsburg-restaurants";s:5:"title";s:9:"Kingsburg";s:5:"count";s:2:"24";}

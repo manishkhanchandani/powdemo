@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:61:"http://www.urbanspoon.com/n/174/19926/Ithaca/Ovid-restaurants";s:8:"baseName";s:16:"Ovid-restaurants";s:5:"title";s:4:"Ovid";s:5:"count";s:2:"10";}

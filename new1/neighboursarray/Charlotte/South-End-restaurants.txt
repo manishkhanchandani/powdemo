@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/38/3719/Charlotte/South-End-restaurants";s:8:"baseName";s:21:"South-End-restaurants";s:5:"title";s:9:"South End";s:5:"count";s:2:"47";}

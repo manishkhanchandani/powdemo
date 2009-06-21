@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:74:"http://www.urbanspoon.com/n/156/17734/Greensboro/Winston-Salem-restaurants";s:8:"baseName";s:25:"Winston-Salem-restaurants";s:5:"title";s:13:"Winston Salem";s:5:"count";s:3:"601";}

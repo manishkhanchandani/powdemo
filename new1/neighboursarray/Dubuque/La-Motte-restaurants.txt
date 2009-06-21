@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:66:"http://www.urbanspoon.com/n/128/14712/Dubuque/La-Motte-restaurants";s:8:"baseName";s:20:"La-Motte-restaurants";s:5:"title";s:8:"La Motte";s:5:"count";s:1:"4";}

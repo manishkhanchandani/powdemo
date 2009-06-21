@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/152/17206/Grand-Forks/Thompson-restaurants";s:8:"baseName";s:20:"Thompson-restaurants";s:5:"title";s:8:"Thompson";s:5:"count";s:1:"2";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:74:"http://www.urbanspoon.com/n/114/12806/College-Station/Navasota-restaurants";s:8:"baseName";s:20:"Navasota-restaurants";s:5:"title";s:8:"Navasota";s:5:"count";s:2:"39";}

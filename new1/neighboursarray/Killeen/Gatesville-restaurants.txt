@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/186/21305/Killeen/Gatesville-restaurants";s:8:"baseName";s:22:"Gatesville-restaurants";s:5:"title";s:10:"Gatesville";s:5:"count";s:2:"26";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/145/16400/Fort-Collins/Ault-restaurants";s:8:"baseName";s:16:"Ault-restaurants";s:5:"title";s:4:"Ault";s:5:"count";s:1:"5";}

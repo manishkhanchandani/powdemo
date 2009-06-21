@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:63:"http://www.urbanspoon.com/n/42/4120/Buffalo/Hamburg-restaurants";s:8:"baseName";s:19:"Hamburg-restaurants";s:5:"title";s:7:"Hamburg";s:5:"count";s:2:"91";}

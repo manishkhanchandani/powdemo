@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:63:"http://www.urbanspoon.com/n/48/4709/Hartford/Canton-restaurants";s:8:"baseName";s:18:"Canton-restaurants";s:5:"title";s:6:"Canton";s:5:"count";s:2:"42";}

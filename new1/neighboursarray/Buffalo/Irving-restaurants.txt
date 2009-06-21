@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:62:"http://www.urbanspoon.com/n/42/4121/Buffalo/Irving-restaurants";s:8:"baseName";s:18:"Irving-restaurants";s:5:"title";s:6:"Irving";s:5:"count";s:2:"17";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/156/17717/Greensboro/Mayodan-restaurants";s:8:"baseName";s:19:"Mayodan-restaurants";s:5:"title";s:7:"Mayodan";s:5:"count";s:2:"11";}

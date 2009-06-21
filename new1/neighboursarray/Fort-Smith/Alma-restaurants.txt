@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:65:"http://www.urbanspoon.com/n/147/16600/Fort-Smith/Alma-restaurants";s:8:"baseName";s:16:"Alma-restaurants";s:5:"title";s:4:"Alma";s:5:"count";s:2:"22";}

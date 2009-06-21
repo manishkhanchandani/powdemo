@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:75:"http://www.urbanspoon.com/n/160/18135/Harrisburg/New-Cumberland-restaurants";s:8:"baseName";s:26:"New-Cumberland-restaurants";s:5:"title";s:14:"New Cumberland";s:5:"count";s:2:"38";}

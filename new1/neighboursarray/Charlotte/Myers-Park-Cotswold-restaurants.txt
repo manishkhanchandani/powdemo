@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:77:"http://www.urbanspoon.com/n/38/3714/Charlotte/Myers-Park-Cotswold-restaurants";s:8:"baseName";s:31:"Myers-Park-Cotswold-restaurants";s:5:"title";s:8:"Cotswold";s:5:"count";s:2:"73";}

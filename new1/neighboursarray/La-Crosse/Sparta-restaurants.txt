@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:66:"http://www.urbanspoon.com/n/188/21615/La-Crosse/Sparta-restaurants";s:8:"baseName";s:18:"Sparta-restaurants";s:5:"title";s:6:"Sparta";s:5:"count";s:2:"51";}

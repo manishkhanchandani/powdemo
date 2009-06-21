@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:86:"http://www.urbanspoon.com/n/34/3313/Kansas-City/Lake-Waukomis-Platte-Woods-restaurants";s:8:"baseName";s:38:"Lake-Waukomis-Platte-Woods-restaurants";s:5:"title";s:13:"Lake Waukomis";s:5:"count";s:2:"76";}

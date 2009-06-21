@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/34/41490/Kansas-City/Linwood-KS-restaurants";s:8:"baseName";s:22:"Linwood-KS-restaurants";s:5:"title";s:7:"Linwood";s:5:"count";s:1:"2";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:66:"http://www.urbanspoon.com/n/122/13808/Davenport/Durant-restaurants";s:8:"baseName";s:18:"Durant-restaurants";s:5:"title";s:6:"Durant";s:5:"count";s:1:"6";}

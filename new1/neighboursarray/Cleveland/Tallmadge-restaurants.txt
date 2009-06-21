@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/16/12608/Cleveland/Tallmadge-restaurants";s:8:"baseName";s:21:"Tallmadge-restaurants";s:5:"title";s:9:"Tallmadge";s:5:"count";s:2:"41";}

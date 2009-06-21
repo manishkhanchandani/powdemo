@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:72:"http://www.urbanspoon.com/n/37/3603/Hawaii/Downtown-Honolulu-restaurants";s:8:"baseName";s:29:"Downtown-Honolulu-restaurants";s:5:"title";s:17:"Downtown Honolulu";s:5:"count";s:3:"138";}

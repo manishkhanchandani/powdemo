@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/34/3315/Kansas-City/Lees-Summit-restaurants";s:8:"baseName";s:23:"Lees-Summit-restaurants";s:5:"title";s:12:"Lee's Summit";s:5:"count";s:3:"120";}

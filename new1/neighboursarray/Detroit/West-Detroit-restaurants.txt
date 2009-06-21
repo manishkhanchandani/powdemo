@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/19/1864/Detroit/West-Detroit-restaurants";s:8:"baseName";s:24:"West-Detroit-restaurants";s:5:"title";s:12:"West Detroit";s:5:"count";s:3:"215";}

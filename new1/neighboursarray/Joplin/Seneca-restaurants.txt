@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:63:"http://www.urbanspoon.com/n/181/20713/Joplin/Seneca-restaurants";s:8:"baseName";s:18:"Seneca-restaurants";s:5:"title";s:6:"Seneca";s:5:"count";s:2:"13";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:92:"http://www.urbanspoon.com/n/32/3135/Cincinnati/Wyoming-Arlington-Heights-Reading-restaurants";s:8:"baseName";s:45:"Wyoming-Arlington-Heights-Reading-restaurants";s:5:"title";s:17:"Arlington Heights";s:5:"count";s:2:"57";}

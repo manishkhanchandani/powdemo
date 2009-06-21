@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:61:"http://www.urbanspoon.com/n/56/5609/Fresno/McLane-restaurants";s:8:"baseName";s:18:"McLane-restaurants";s:5:"title";s:6:"McLane";s:5:"count";s:2:"70";}

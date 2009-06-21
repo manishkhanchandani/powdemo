@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:74:"http://www.urbanspoon.com/n/179/20519/Johnson-City/Piney-Flats-restaurants";s:8:"baseName";s:23:"Piney-Flats-restaurants";s:5:"title";s:11:"Piney Flats";s:5:"count";s:1:"9";}

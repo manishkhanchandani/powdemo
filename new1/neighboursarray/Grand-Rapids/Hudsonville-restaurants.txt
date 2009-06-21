@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:74:"http://www.urbanspoon.com/n/154/17422/Grand-Rapids/Hudsonville-restaurants";s:8:"baseName";s:23:"Hudsonville-restaurants";s:5:"title";s:11:"Hudsonville";s:5:"count";s:2:"28";}

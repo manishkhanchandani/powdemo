@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/193/22134/Lancaster/Richland-restaurants";s:8:"baseName";s:20:"Richland-restaurants";s:5:"title";s:8:"Richland";s:5:"count";s:1:"7";}

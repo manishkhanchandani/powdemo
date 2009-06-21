@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/175/20021/Jackson/Manitou-Beach-restaurants";s:8:"baseName";s:25:"Manitou-Beach-restaurants";s:5:"title";s:13:"Manitou Beach";s:5:"count";s:1:"8";}

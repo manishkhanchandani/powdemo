@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/48/41667/Hartford/Baltic-CT-restaurants";s:8:"baseName";s:21:"Baltic-CT-restaurants";s:5:"title";s:6:"Baltic";s:5:"count";s:1:"4";}

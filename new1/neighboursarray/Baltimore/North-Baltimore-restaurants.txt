@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:73:"http://www.urbanspoon.com/n/31/3019/Baltimore/North-Baltimore-restaurants";s:8:"baseName";s:27:"North-Baltimore-restaurants";s:5:"title";s:15:"North Baltimore";s:5:"count";s:3:"142";}

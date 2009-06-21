@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:60:"http://www.urbanspoon.com/n/8/700/Houston/Aldine-restaurants";s:8:"baseName";s:18:"Aldine-restaurants";s:5:"title";s:6:"Aldine";s:5:"count";s:2:"54";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/189/21724/Lafayette/Rossville-restaurants";s:8:"baseName";s:21:"Rossville-restaurants";s:5:"title";s:9:"Rossville";s:5:"count";s:1:"8";}

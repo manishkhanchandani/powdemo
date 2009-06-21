@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:65:"http://www.urbanspoon.com/n/114/12803/College-Station-restaurants";s:8:"baseName";s:27:"College-Station-restaurants";s:5:"title";s:15:"College Station";s:5:"count";s:3:"235";}

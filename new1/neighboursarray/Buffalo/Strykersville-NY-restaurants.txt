@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:73:"http://www.urbanspoon.com/n/42/41600/Buffalo/Strykersville-NY-restaurants";s:8:"baseName";s:28:"Strykersville-NY-restaurants";s:5:"title";s:13:"Strykersville";s:5:"count";s:1:"3";}

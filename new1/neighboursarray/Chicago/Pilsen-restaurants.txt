@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:60:"http://www.urbanspoon.com/n/2/137/Chicago/Pilsen-restaurants";s:8:"baseName";s:18:"Pilsen-restaurants";s:5:"title";s:6:"Pilsen";s:5:"count";s:3:"171";}

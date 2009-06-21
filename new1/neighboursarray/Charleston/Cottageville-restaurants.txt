@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:72:"http://www.urbanspoon.com/n/61/11600/Charleston/Cottageville-restaurants";s:8:"baseName";s:24:"Cottageville-restaurants";s:5:"title";s:12:"Cottageville";s:5:"count";s:1:"1";}

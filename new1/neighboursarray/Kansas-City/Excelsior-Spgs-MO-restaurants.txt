@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:78:"http://www.urbanspoon.com/n/34/41483/Kansas-City/Excelsior-Spgs-MO-restaurants";s:8:"baseName";s:29:"Excelsior-Spgs-MO-restaurants";s:5:"title";s:14:"Excelsior Spgs";s:5:"count";s:2:"10";}

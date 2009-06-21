@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:83:"http://www.urbanspoon.com/n/16/1515/Cleveland/Gateway-District-E-4th-St-restaurants";s:8:"baseName";s:37:"Gateway-District-E-4th-St-restaurants";s:5:"title";s:8:"E 4th St";s:5:"count";s:2:"74";}

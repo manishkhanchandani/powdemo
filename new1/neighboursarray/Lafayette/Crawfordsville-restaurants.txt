@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:74:"http://www.urbanspoon.com/n/189/21707/Lafayette/Crawfordsville-restaurants";s:8:"baseName";s:26:"Crawfordsville-restaurants";s:5:"title";s:14:"Crawfordsville";s:5:"count";s:2:"55";}

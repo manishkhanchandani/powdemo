@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:74:"http://www.urbanspoon.com/n/139/15801/Fayetteville/Bentonville-restaurants";s:8:"baseName";s:23:"Bentonville-restaurants";s:5:"title";s:11:"Bentonville";s:5:"count";s:3:"105";}

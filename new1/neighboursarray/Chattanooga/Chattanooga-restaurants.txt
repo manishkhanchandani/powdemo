@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:61:"http://www.urbanspoon.com/n/109/12001/Chattanooga-restaurants";s:8:"baseName";s:23:"Chattanooga-restaurants";s:5:"title";s:11:"Chattanooga";s:5:"count";s:3:"745";}

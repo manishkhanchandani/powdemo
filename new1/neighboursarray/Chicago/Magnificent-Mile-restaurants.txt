@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/2/130/Chicago/Magnificent-Mile-restaurants";s:8:"baseName";s:28:"Magnificent-Mile-restaurants";s:5:"title";s:16:"Magnificent Mile";s:5:"count";s:2:"72";}

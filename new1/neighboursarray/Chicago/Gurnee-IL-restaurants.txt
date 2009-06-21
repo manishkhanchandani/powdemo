@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:65:"http://www.urbanspoon.com/n/2/40646/Chicago/Gurnee-IL-restaurants";s:8:"baseName";s:21:"Gurnee-IL-restaurants";s:5:"title";s:6:"Gurnee";s:5:"count";s:3:"122";}

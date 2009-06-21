@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/179/20505/Johnson-City/Chuckey-restaurants";s:8:"baseName";s:19:"Chuckey-restaurants";s:5:"title";s:7:"Chuckey";s:5:"count";s:1:"6";}

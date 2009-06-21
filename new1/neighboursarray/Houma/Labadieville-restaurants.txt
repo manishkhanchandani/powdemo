@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/166/18909/Houma/Labadieville-restaurants";s:8:"baseName";s:24:"Labadieville-restaurants";s:5:"title";s:12:"Labadieville";s:5:"count";s:1:"7";}

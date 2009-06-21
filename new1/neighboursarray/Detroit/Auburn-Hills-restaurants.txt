@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/19/1802/Detroit/Auburn-Hills-restaurants";s:8:"baseName";s:24:"Auburn-Hills-restaurants";s:5:"title";s:12:"Auburn Hills";s:5:"count";s:3:"111";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:65:"http://www.urbanspoon.com/n/2/40690/Chicago/Mokena-IL-restaurants";s:8:"baseName";s:21:"Mokena-IL-restaurants";s:5:"title";s:6:"Mokena";s:5:"count";s:2:"64";}

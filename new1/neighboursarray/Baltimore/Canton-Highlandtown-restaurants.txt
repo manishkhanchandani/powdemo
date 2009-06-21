@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:77:"http://www.urbanspoon.com/n/31/3000/Baltimore/Canton-Highlandtown-restaurants";s:8:"baseName";s:31:"Canton-Highlandtown-restaurants";s:5:"title";s:19:"Canton-Highlandtown";s:5:"count";s:3:"144";}

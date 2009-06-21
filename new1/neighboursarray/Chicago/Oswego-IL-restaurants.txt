@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:65:"http://www.urbanspoon.com/n/2/40713/Chicago/Oswego-IL-restaurants";s:8:"baseName";s:21:"Oswego-IL-restaurants";s:5:"title";s:6:"Oswego";s:5:"count";s:2:"46";}

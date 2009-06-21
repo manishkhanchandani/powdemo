@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:77:"http://www.urbanspoon.com/n/109/12015/Chattanooga/Signal-Mountain-restaurants";s:8:"baseName";s:27:"Signal-Mountain-restaurants";s:5:"title";s:15:"Signal Mountain";s:5:"count";s:2:"16";}

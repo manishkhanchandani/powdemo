@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/16/1537/Cleveland/Southeast-restaurants";s:8:"baseName";s:21:"Southeast-restaurants";s:5:"title";s:9:"Southeast";s:5:"count";s:3:"365";}

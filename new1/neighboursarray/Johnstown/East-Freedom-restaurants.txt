@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:72:"http://www.urbanspoon.com/n/180/20619/Johnstown/East-Freedom-restaurants";s:8:"baseName";s:24:"East-Freedom-restaurants";s:5:"title";s:12:"East Freedom";s:5:"count";s:1:"5";}

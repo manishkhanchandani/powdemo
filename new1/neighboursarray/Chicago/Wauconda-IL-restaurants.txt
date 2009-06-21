@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/2/40756/Chicago/Wauconda-IL-restaurants";s:8:"baseName";s:23:"Wauconda-IL-restaurants";s:5:"title";s:8:"Wauconda";s:5:"count";s:2:"40";}

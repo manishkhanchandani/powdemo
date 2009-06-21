@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/189/21712/Lafayette/Frankfort-restaurants";s:8:"baseName";s:21:"Frankfort-restaurants";s:5:"title";s:9:"Frankfort";s:5:"count";s:2:"49";}

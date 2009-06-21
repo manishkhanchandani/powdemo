@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:72:"http://www.urbanspoon.com/n/179/20516/Johnson-City/Kingsport-restaurants";s:8:"baseName";s:21:"Kingsport-restaurants";s:5:"title";s:9:"Kingsport";s:5:"count";s:3:"217";}

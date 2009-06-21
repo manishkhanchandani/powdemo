@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/48/18201/Hartford/Bridgeport-restaurants";s:8:"baseName";s:22:"Bridgeport-restaurants";s:5:"title";s:10:"Bridgeport";s:5:"count";s:1:"1";}

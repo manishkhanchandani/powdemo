@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/160/18105/Harrisburg/Carlisle-restaurants";s:8:"baseName";s:20:"Carlisle-restaurants";s:5:"title";s:8:"Carlisle";s:5:"count";s:3:"139";}

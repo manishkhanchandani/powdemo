@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:76:"http://www.urbanspoon.com/n/32/3100/Cincinnati/Anderson-Township-restaurants";s:8:"baseName";s:29:"Anderson-Township-restaurants";s:5:"title";s:17:"Anderson Township";s:5:"count";s:3:"158";}

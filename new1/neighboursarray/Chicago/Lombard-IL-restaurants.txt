@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:66:"http://www.urbanspoon.com/n/2/40678/Chicago/Lombard-IL-restaurants";s:8:"baseName";s:22:"Lombard-IL-restaurants";s:5:"title";s:7:"Lombard";s:5:"count";s:3:"175";}

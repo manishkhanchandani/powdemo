@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/180/20606/Johnstown/Bolivar-restaurants";s:8:"baseName";s:19:"Bolivar-restaurants";s:5:"title";s:7:"Bolivar";s:5:"count";s:1:"3";}

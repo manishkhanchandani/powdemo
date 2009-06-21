@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/148/16715/Fort-Wayne/Huntington-restaurants";s:8:"baseName";s:22:"Huntington-restaurants";s:5:"title";s:10:"Huntington";s:5:"count";s:2:"57";}

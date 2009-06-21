@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/114/12805/College-Station/Iola-restaurants";s:8:"baseName";s:16:"Iola-restaurants";s:5:"title";s:4:"Iola";s:5:"count";s:1:"3";}

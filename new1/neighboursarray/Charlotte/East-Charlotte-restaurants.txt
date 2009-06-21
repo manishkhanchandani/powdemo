@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:72:"http://www.urbanspoon.com/n/38/3706/Charlotte/East-Charlotte-restaurants";s:8:"baseName";s:26:"East-Charlotte-restaurants";s:5:"title";s:14:"East Charlotte";s:5:"count";s:3:"156";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/48/41665/Hartford/Ansonia-CT-restaurants";s:8:"baseName";s:22:"Ansonia-CT-restaurants";s:5:"title";s:7:"Ansonia";s:5:"count";s:2:"44";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/180/20633/Johnstown/Martinsburg-restaurants";s:8:"baseName";s:23:"Martinsburg-restaurants";s:5:"title";s:11:"Martinsburg";s:5:"count";s:2:"10";}

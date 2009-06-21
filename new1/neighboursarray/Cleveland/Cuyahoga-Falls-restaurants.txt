@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:72:"http://www.urbanspoon.com/n/16/1509/Cleveland/Cuyahoga-Falls-restaurants";s:8:"baseName";s:26:"Cuyahoga-Falls-restaurants";s:5:"title";s:14:"Cuyahoga Falls";s:5:"count";s:3:"117";}

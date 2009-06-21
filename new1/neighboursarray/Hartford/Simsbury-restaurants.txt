@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:65:"http://www.urbanspoon.com/n/48/4739/Hartford/Simsbury-restaurants";s:8:"baseName";s:20:"Simsbury-restaurants";s:5:"title";s:8:"Simsbury";s:5:"count";s:2:"40";}

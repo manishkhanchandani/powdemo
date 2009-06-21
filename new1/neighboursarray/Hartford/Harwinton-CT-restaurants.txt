@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/48/41700/Hartford/Harwinton-CT-restaurants";s:8:"baseName";s:24:"Harwinton-CT-restaurants";s:5:"title";s:9:"Harwinton";s:5:"count";s:1:"6";}

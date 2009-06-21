@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/135/15403/Evansville/Elberfeld-restaurants";s:8:"baseName";s:21:"Elberfeld-restaurants";s:5:"title";s:9:"Elberfeld";s:5:"count";s:1:"3";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:75:"http://www.urbanspoon.com/n/124/14011/Daytona-Beach/Ponce-Inlet-restaurants";s:8:"baseName";s:23:"Ponce-Inlet-restaurants";s:5:"title";s:11:"Ponce Inlet";s:5:"count";s:1:"4";}

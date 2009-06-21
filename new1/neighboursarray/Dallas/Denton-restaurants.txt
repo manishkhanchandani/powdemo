@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:62:"http://www.urbanspoon.com/n/13/13602/Dallas/Denton-restaurants";s:8:"baseName";s:18:"Denton-restaurants";s:5:"title";s:6:"Denton";s:5:"count";s:3:"259";}

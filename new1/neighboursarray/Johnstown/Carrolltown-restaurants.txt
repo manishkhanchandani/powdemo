@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/180/20608/Johnstown/Carrolltown-restaurants";s:8:"baseName";s:23:"Carrolltown-restaurants";s:5:"title";s:11:"Carrolltown";s:5:"count";s:1:"7";}

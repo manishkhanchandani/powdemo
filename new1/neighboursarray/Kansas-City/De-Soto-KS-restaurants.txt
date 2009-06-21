@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/34/41480/Kansas-City/De-Soto-KS-restaurants";s:8:"baseName";s:22:"De-Soto-KS-restaurants";s:5:"title";s:7:"De Soto";s:5:"count";s:2:"12";}

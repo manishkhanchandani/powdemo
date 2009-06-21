@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:64:"http://www.urbanspoon.com/n/16/1521/Cleveland/Lorain-restaurants";s:8:"baseName";s:18:"Lorain-restaurants";s:5:"title";s:6:"Lorain";s:5:"count";s:2:"83";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/93/10004/Bloomington/Dewitt-restaurants";s:8:"baseName";s:18:"Dewitt-restaurants";s:5:"title";s:6:"Dewitt";s:5:"count";s:1:"3";}

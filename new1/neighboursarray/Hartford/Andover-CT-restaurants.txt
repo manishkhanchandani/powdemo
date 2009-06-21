@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/48/41664/Hartford/Andover-CT-restaurants";s:8:"baseName";s:22:"Andover-CT-restaurants";s:5:"title";s:7:"Andover";s:5:"count";s:1:"3";}

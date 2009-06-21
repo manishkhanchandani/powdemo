@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:74:"http://www.urbanspoon.com/n/2/40667/Chicago/Lake-Barrington-IL-restaurants";s:8:"baseName";s:30:"Lake-Barrington-IL-restaurants";s:5:"title";s:15:"Lake Barrington";s:5:"count";s:1:"7";}

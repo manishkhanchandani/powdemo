@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/2/40768/Chicago/Winnetka-IL-restaurants";s:8:"baseName";s:23:"Winnetka-IL-restaurants";s:5:"title";s:8:"Winnetka";s:5:"count";s:2:"21";}

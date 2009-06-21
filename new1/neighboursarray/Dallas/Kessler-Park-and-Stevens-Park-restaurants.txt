@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:84:"http://www.urbanspoon.com/n/13/1225/Dallas/Kessler-Park-and-Stevens-Park-restaurants";s:8:"baseName";s:41:"Kessler-Park-and-Stevens-Park-restaurants";s:5:"title";s:29:"Kessler Park and Stevens Park";s:5:"count";s:2:"63";}

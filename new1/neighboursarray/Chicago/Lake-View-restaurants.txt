@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:63:"http://www.urbanspoon.com/n/2/123/Chicago/Lake-View-restaurants";s:8:"baseName";s:21:"Lake-View-restaurants";s:5:"title";s:9:"Lake View";s:5:"count";s:3:"450";}

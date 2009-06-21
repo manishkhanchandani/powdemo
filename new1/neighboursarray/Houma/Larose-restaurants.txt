@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:62:"http://www.urbanspoon.com/n/166/18910/Houma/Larose-restaurants";s:8:"baseName";s:18:"Larose-restaurants";s:5:"title";s:6:"Larose";s:5:"count";s:2:"16";}

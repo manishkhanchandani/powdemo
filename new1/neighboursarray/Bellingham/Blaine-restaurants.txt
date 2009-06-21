@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:65:"http://www.urbanspoon.com/n/88/9403/Bellingham/Blaine-restaurants";s:8:"baseName";s:18:"Blaine-restaurants";s:5:"title";s:6:"Blaine";s:5:"count";s:2:"40";}

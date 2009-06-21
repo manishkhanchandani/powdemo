@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:87:"http://www.urbanspoon.com/n/34/3319/Kansas-City/North-Kansas-City-Riverside-restaurants";s:8:"baseName";s:39:"North-Kansas-City-Riverside-restaurants";s:5:"title";s:17:"North Kansas City";s:5:"count";s:2:"45";}

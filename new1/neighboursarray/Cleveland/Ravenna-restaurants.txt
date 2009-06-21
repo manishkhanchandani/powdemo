@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:66:"http://www.urbanspoon.com/n/16/12607/Cleveland/Ravenna-restaurants";s:8:"baseName";s:19:"Ravenna-restaurants";s:5:"title";s:7:"Ravenna";s:5:"count";s:2:"52";}

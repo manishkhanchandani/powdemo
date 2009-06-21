@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/160/18106/Harrisburg/Cleona-restaurants";s:8:"baseName";s:18:"Cleona-restaurants";s:5:"title";s:6:"Cleona";s:5:"count";s:1:"8";}

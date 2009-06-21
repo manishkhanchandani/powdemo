@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:75:"http://www.urbanspoon.com/n/13/40994/Dallas/White-Settlement-TX-restaurants";s:8:"baseName";s:31:"White-Settlement-TX-restaurants";s:5:"title";s:16:"White Settlement";s:5:"count";s:2:"21";}

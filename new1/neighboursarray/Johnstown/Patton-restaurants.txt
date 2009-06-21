@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:66:"http://www.urbanspoon.com/n/180/20639/Johnstown/Patton-restaurants";s:8:"baseName";s:18:"Patton-restaurants";s:5:"title";s:6:"Patton";s:5:"count";s:1:"9";}

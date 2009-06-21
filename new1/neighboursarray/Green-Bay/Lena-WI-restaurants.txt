@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:66:"http://www.urbanspoon.com/n/63/41951/Green-Bay/Lena-WI-restaurants";s:8:"baseName";s:19:"Lena-WI-restaurants";s:5:"title";s:4:"Lena";s:5:"count";s:2:"12";}

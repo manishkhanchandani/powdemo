@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:78:"http://www.urbanspoon.com/n/38/3715/Charlotte/North-Charlotte-NoDa-restaurants";s:8:"baseName";s:32:"North-Charlotte-NoDa-restaurants";s:5:"title";s:4:"NoDa";s:5:"count";s:2:"78";}

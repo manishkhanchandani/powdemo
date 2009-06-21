@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/130/14913/Eau-Claire/Menomonie-restaurants";s:8:"baseName";s:21:"Menomonie-restaurants";s:5:"title";s:9:"Menomonie";s:5:"count";s:2:"68";}

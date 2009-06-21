@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/48/4725/Hartford/Indian-Orchard-restaurants";s:8:"baseName";s:26:"Indian-Orchard-restaurants";s:5:"title";s:14:"Indian Orchard";s:5:"count";s:2:"17";}

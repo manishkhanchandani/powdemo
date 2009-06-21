@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:73:"http://www.urbanspoon.com/n/160/18148/Harrisburg/Williamstown-restaurants";s:8:"baseName";s:24:"Williamstown-restaurants";s:5:"title";s:12:"Williamstown";s:5:"count";s:1:"7";}

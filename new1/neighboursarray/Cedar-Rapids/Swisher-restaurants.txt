@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/105/11428/Cedar-Rapids/Swisher-restaurants";s:8:"baseName";s:19:"Swisher-restaurants";s:5:"title";s:7:"Swisher";s:5:"count";s:1:"3";}

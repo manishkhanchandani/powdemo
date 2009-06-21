@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/13/40982/Dallas/Lake-Worth-TX-restaurants";s:8:"baseName";s:25:"Lake-Worth-TX-restaurants";s:5:"title";s:10:"Lake Worth";s:5:"count";s:1:"6";}

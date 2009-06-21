@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:62:"http://www.urbanspoon.com/n/56/16805/Fresno/Kerman-restaurants";s:8:"baseName";s:18:"Kerman-restaurants";s:5:"title";s:6:"Kerman";s:5:"count";s:2:"32";}

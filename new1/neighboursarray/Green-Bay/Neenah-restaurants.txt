@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:65:"http://www.urbanspoon.com/n/63/17605/Green-Bay/Neenah-restaurants";s:8:"baseName";s:18:"Neenah-restaurants";s:5:"title";s:6:"Neenah";s:5:"count";s:3:"104";}

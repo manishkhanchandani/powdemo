@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:79:"http://www.urbanspoon.com/n/44/4303/Jacksonville/Green-Cove-Springs-restaurants";s:8:"baseName";s:30:"Green-Cove-Springs-restaurants";s:5:"title";s:18:"Green Cove Springs";s:5:"count";s:2:"28";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:85:"http://www.urbanspoon.com/n/164/18707/Hilton-Head-Island/St-Helena-Island-restaurants";s:8:"baseName";s:28:"St-Helena-Island-restaurants";s:5:"title";s:16:"St Helena Island";s:5:"count";s:2:"11";}

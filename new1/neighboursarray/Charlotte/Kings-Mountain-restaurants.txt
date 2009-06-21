@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:73:"http://www.urbanspoon.com/n/38/11805/Charlotte/Kings-Mountain-restaurants";s:8:"baseName";s:26:"Kings-Mountain-restaurants";s:5:"title";s:14:"Kings Mountain";s:5:"count";s:2:"34";}

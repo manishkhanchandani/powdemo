@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:66:"http://www.urbanspoon.com/n/56/16803/Fresno/Coarsegold-restaurants";s:8:"baseName";s:22:"Coarsegold-restaurants";s:5:"title";s:10:"Coarsegold";s:5:"count";s:2:"16";}

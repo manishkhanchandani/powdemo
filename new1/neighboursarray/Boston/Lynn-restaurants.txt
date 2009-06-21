@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:59:"http://www.urbanspoon.com/n/4/10305/Boston/Lynn-restaurants";s:8:"baseName";s:16:"Lynn-restaurants";s:5:"title";s:4:"Lynn";s:5:"count";s:3:"189";}

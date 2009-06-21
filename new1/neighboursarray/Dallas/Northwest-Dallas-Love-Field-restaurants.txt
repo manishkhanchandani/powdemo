@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:82:"http://www.urbanspoon.com/n/13/1235/Dallas/Northwest-Dallas-Love-Field-restaurants";s:8:"baseName";s:39:"Northwest-Dallas-Love-Field-restaurants";s:5:"title";s:10:"Love Field";s:5:"count";s:3:"204";}

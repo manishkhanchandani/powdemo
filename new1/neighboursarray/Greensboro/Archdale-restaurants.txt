@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/156/17700/Greensboro/Archdale-restaurants";s:8:"baseName";s:20:"Archdale-restaurants";s:5:"title";s:8:"Archdale";s:5:"count";s:2:"27";}

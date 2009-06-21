@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/167/19101/Huntington/Branchland-restaurants";s:8:"baseName";s:22:"Branchland-restaurants";s:5:"title";s:10:"Branchland";s:5:"count";s:1:"3";}

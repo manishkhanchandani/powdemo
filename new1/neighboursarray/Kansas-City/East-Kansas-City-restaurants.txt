@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:76:"http://www.urbanspoon.com/n/34/3309/Kansas-City/East-Kansas-City-restaurants";s:8:"baseName";s:28:"East-Kansas-City-restaurants";s:5:"title";s:16:"East Kansas City";s:5:"count";s:3:"101";}

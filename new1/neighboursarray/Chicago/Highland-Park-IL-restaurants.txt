@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:72:"http://www.urbanspoon.com/n/2/40652/Chicago/Highland-Park-IL-restaurants";s:8:"baseName";s:28:"Highland-Park-IL-restaurants";s:5:"title";s:13:"Highland Park";s:5:"count";s:2:"84";}

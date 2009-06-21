@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:64:"http://www.urbanspoon.com/n/110/12100/Cheyenne/Burns-restaurants";s:8:"baseName";s:17:"Burns-restaurants";s:5:"title";s:5:"Burns";s:5:"count";s:1:"1";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/2/133/Chicago/Near-South-Side-restaurants";s:8:"baseName";s:27:"Near-South-Side-restaurants";s:5:"title";s:15:"Near South Side";s:5:"count";s:2:"25";}

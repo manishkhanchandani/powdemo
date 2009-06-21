@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:75:"http://www.urbanspoon.com/n/16/1536/Cleveland/South-of-the-City-restaurants";s:8:"baseName";s:29:"South-of-the-City-restaurants";s:5:"title";s:17:"South of the City";s:5:"count";s:3:"171";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:72:"http://www.urbanspoon.com/n/33/3230/Columbus/Upper-Arlington-restaurants";s:8:"baseName";s:27:"Upper-Arlington-restaurants";s:5:"title";s:15:"Upper Arlington";s:5:"count";s:2:"93";}

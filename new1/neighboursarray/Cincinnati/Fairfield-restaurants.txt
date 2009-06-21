@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/32/3113/Cincinnati/Fairfield-restaurants";s:8:"baseName";s:21:"Fairfield-restaurants";s:5:"title";s:9:"Fairfield";s:5:"count";s:3:"102";}

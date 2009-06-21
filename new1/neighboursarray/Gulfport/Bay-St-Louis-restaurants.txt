@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/159/18000/Gulfport/Bay-St-Louis-restaurants";s:8:"baseName";s:24:"Bay-St-Louis-restaurants";s:5:"title";s:12:"Bay St Louis";s:5:"count";s:2:"62";}

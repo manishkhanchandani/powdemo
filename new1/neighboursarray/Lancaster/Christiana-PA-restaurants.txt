@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:73:"http://www.urbanspoon.com/n/193/43158/Lancaster/Christiana-PA-restaurants";s:8:"baseName";s:25:"Christiana-PA-restaurants";s:5:"title";s:10:"Christiana";s:5:"count";s:1:"8";}

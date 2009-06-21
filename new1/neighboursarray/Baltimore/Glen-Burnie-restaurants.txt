@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/31/3013/Baltimore/Glen-Burnie-restaurants";s:8:"baseName";s:23:"Glen-Burnie-restaurants";s:5:"title";s:11:"Glen Burnie";s:5:"count";s:3:"101";}

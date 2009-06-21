@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:76:"http://www.urbanspoon.com/n/160/42409/Harrisburg/York-Springs-PA-restaurants";s:8:"baseName";s:27:"York-Springs-PA-restaurants";s:5:"title";s:12:"York Springs";s:5:"count";s:1:"3";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:63:"http://www.urbanspoon.com/n/129/14800/Duluth/Alborn-restaurants";s:8:"baseName";s:18:"Alborn-restaurants";s:5:"title";s:6:"Alborn";s:5:"count";s:1:"2";}
