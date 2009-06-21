@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:73:"http://www.urbanspoon.com/n/64/6414/Anchorage/University-Area-restaurants";s:8:"baseName";s:27:"University-Area-restaurants";s:5:"title";s:15:"University Area";s:5:"count";s:2:"10";}

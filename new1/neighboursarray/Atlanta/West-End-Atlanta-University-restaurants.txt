@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:81:"http://www.urbanspoon.com/n/9/849/Atlanta/West-End-Atlanta-University-restaurants";s:8:"baseName";s:39:"West-End-Atlanta-University-restaurants";s:5:"title";s:18:"Atlanta University";s:5:"count";s:3:"263";}

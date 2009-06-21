@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:64:"http://www.urbanspoon.com/n/82/8425/Asheville/Saluda-restaurants";s:8:"baseName";s:18:"Saluda-restaurants";s:5:"title";s:6:"Saluda";s:5:"count";s:2:"11";}

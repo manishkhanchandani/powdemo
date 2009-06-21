@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:73:"http://www.urbanspoon.com/n/9/40948/Atlanta/Lithia-Springs-GA-restaurants";s:8:"baseName";s:29:"Lithia-Springs-GA-restaurants";s:5:"title";s:14:"Lithia Springs";s:5:"count";s:2:"49";}

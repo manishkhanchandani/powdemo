@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:75:"http://www.urbanspoon.com/n/9/814/Atlanta/Gwinnett-Place-Duluth-restaurants";s:8:"baseName";s:33:"Gwinnett-Place-Duluth-restaurants";s:5:"title";s:6:"Duluth";s:5:"count";s:3:"383";}

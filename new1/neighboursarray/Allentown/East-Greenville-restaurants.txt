@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:73:"http://www.urbanspoon.com/n/80/8113/Allentown/East-Greenville-restaurants";s:8:"baseName";s:27:"East-Greenville-restaurants";s:5:"title";s:15:"East Greenville";s:5:"count";s:2:"17";}

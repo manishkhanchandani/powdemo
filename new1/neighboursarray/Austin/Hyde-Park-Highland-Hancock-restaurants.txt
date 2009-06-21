@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:81:"http://www.urbanspoon.com/n/11/1007/Austin/Hyde-Park-Highland-Hancock-restaurants";s:8:"baseName";s:38:"Hyde-Park-Highland-Hancock-restaurants";s:5:"title";s:7:"Hancock";s:5:"count";s:3:"117";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:65:"http://www.urbanspoon.com/n/64/6411/Anchorage/Spenard-restaurants";s:8:"baseName";s:19:"Spenard-restaurants";s:5:"title";s:7:"Spenard";s:5:"count";s:2:"34";}

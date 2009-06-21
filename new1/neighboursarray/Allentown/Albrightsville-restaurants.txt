@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:72:"http://www.urbanspoon.com/n/80/8100/Allentown/Albrightsville-restaurants";s:8:"baseName";s:26:"Albrightsville-restaurants";s:5:"title";s:14:"Albrightsville";s:5:"count";s:1:"6";}

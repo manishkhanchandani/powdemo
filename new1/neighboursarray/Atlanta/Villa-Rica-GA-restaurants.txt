@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/9/40962/Atlanta/Villa-Rica-GA-restaurants";s:8:"baseName";s:25:"Villa-Rica-GA-restaurants";s:5:"title";s:10:"Villa Rica";s:5:"count";s:2:"68";}

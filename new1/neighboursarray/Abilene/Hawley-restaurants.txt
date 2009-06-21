@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:62:"http://www.urbanspoon.com/n/77/7705/Abilene/Hawley-restaurants";s:8:"baseName";s:18:"Hawley-restaurants";s:5:"title";s:6:"Hawley";s:5:"count";s:1:"4";}

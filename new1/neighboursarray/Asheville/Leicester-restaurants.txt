@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/82/8419/Asheville/Leicester-restaurants";s:8:"baseName";s:21:"Leicester-restaurants";s:5:"title";s:9:"Leicester";s:5:"count";s:1:"2";}

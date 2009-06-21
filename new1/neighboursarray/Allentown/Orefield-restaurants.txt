@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:66:"http://www.urbanspoon.com/n/80/8134/Allentown/Orefield-restaurants";s:8:"baseName";s:20:"Orefield-restaurants";s:5:"title";s:8:"Orefield";s:5:"count";s:1:"9";}

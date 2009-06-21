@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:64:"http://www.urbanspoon.com/n/9/846/Atlanta/Union-City-restaurants";s:8:"baseName";s:22:"Union-City-restaurants";s:5:"title";s:10:"Union City";s:5:"count";s:2:"44";}
