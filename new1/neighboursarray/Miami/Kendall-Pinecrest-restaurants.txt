@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/12/1119/Miami/Kendall-Pinecrest-restaurants";s:8:"baseName";s:29:"Kendall-Pinecrest-restaurants";s:5:"title";s:7:"Kendall";s:5:"count";s:3:"431";}

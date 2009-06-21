@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/214/24505/Madison/Black-Earth-restaurants";s:8:"baseName";s:23:"Black-Earth-restaurants";s:5:"title";s:11:"Black Earth";s:5:"count";s:1:"7";}

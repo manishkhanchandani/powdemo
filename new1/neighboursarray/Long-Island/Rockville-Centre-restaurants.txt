@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:78:"http://www.urbanspoon.com/n/201/23139/Long-Island/Rockville-Centre-restaurants";s:8:"baseName";s:28:"Rockville-Centre-restaurants";s:5:"title";s:16:"Rockville Centre";s:5:"count";s:3:"111";}

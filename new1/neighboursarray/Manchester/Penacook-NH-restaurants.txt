@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:72:"http://www.urbanspoon.com/n/215/44063/Manchester/Penacook-NH-restaurants";s:8:"baseName";s:23:"Penacook-NH-restaurants";s:5:"title";s:8:"Penacook";s:5:"count";s:1:"3";}

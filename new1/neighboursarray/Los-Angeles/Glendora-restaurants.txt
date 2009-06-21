@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:58:"http://www.urbanspoon.com/n/5/7188/LA/Glendora-restaurants";s:8:"baseName";s:20:"Glendora-restaurants";s:5:"title";s:8:"Glendora";s:5:"count";s:2:"87";}

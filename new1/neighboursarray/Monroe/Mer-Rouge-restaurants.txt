@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:66:"http://www.urbanspoon.com/n/224/25806/Monroe/Mer-Rouge-restaurants";s:8:"baseName";s:21:"Mer-Rouge-restaurants";s:5:"title";s:9:"Mer Rouge";s:5:"count";s:1:"2";}

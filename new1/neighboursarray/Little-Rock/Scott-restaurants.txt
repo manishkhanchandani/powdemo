@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/200/23017/Little-Rock/Scott-restaurants";s:8:"baseName";s:17:"Scott-restaurants";s:5:"title";s:5:"Scott";s:5:"count";s:1:"2";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:64:"http://www.urbanspoon.com/n/5/440/LA/Manhattan-Beach-restaurants";s:8:"baseName";s:27:"Manhattan-Beach-restaurants";s:5:"title";s:15:"Manhattan Beach";s:5:"count";s:3:"153";}

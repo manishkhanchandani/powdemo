@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/200/23011/Little-Rock/Mabelvale-restaurants";s:8:"baseName";s:21:"Mabelvale-restaurants";s:5:"title";s:9:"Mabelvale";s:5:"count";s:1:"7";}

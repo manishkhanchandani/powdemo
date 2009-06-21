@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:62:"http://www.urbanspoon.com/n/5/7185/LA/Baldwin-Park-restaurants";s:8:"baseName";s:24:"Baldwin-Park-restaurants";s:5:"title";s:12:"Baldwin Park";s:5:"count";s:3:"105";}

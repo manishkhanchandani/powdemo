@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/43/41625/Milwaukee/Slinger-WI-restaurants";s:8:"baseName";s:22:"Slinger-WI-restaurants";s:5:"title";s:7:"Slinger";s:5:"count";s:2:"24";}

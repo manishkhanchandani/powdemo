@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/43/4236/Milwaukee/New-Berlin-restaurants";s:8:"baseName";s:22:"New-Berlin-restaurants";s:5:"title";s:10:"New Berlin";s:5:"count";s:2:"45";}

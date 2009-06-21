@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:80:"http://www.urbanspoon.com/n/201/43234/Long-Island/Massapequa-Park-NY-restaurants";s:8:"baseName";s:30:"Massapequa-Park-NY-restaurants";s:5:"title";s:15:"Massapequa Park";s:5:"count";s:2:"44";}

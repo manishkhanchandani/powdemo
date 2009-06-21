@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/43/7191/Milwaukee/Shorewood-restaurants";s:8:"baseName";s:21:"Shorewood-restaurants";s:5:"title";s:9:"Shorewood";s:5:"count";s:2:"28";}

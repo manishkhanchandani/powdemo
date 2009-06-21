@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:82:"http://www.urbanspoon.com/n/43/4224/Milwaukee/Historic-Mitchell-Street-restaurants";s:8:"baseName";s:36:"Historic-Mitchell-Street-restaurants";s:5:"title";s:24:"Historic Mitchell Street";s:5:"count";s:2:"21";}

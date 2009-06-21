@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:73:"http://www.urbanspoon.com/n/201/43269/Long-Island/Setauket-NY-restaurants";s:8:"baseName";s:23:"Setauket-NY-restaurants";s:5:"title";s:8:"Setauket";s:5:"count";s:1:"1";}

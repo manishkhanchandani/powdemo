@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:62:"http://www.urbanspoon.com/n/194/22224/Lansing/Ovid-restaurants";s:8:"baseName";s:16:"Ovid-restaurants";s:5:"title";s:4:"Ovid";s:5:"count";s:1:"5";}

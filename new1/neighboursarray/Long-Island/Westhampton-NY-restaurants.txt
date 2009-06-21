@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:76:"http://www.urbanspoon.com/n/201/43282/Long-Island/Westhampton-NY-restaurants";s:8:"baseName";s:26:"Westhampton-NY-restaurants";s:5:"title";s:11:"Westhampton";s:5:"count";s:1:"4";}

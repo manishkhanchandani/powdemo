@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:80:"http://www.urbanspoon.com/n/201/43228/Long-Island/Lake-Ronkonkoma-NY-restaurants";s:8:"baseName";s:30:"Lake-Ronkonkoma-NY-restaurants";s:5:"title";s:15:"Lake Ronkonkoma";s:5:"count";s:2:"25";}

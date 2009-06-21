@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:62:"http://www.urbanspoon.com/n/198/22823/Lima/Leipsic-restaurants";s:8:"baseName";s:19:"Leipsic-restaurants";s:5:"title";s:7:"Leipsic";s:5:"count";s:1:"6";}

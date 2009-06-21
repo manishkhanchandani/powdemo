@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/214/24525/Madison/Mazomanie-restaurants";s:8:"baseName";s:21:"Mazomanie-restaurants";s:5:"title";s:9:"Mazomanie";s:5:"count";s:1:"9";}

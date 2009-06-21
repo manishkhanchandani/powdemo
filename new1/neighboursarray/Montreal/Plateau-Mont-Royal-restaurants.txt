@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:75:"http://www.urbanspoon.com/n/67/6733/Montreal/Plateau-Mont-Royal-restaurants";s:8:"baseName";s:30:"Plateau-Mont-Royal-restaurants";s:5:"title";s:18:"Plateau Mont-Royal";s:5:"count";s:3:"428";}

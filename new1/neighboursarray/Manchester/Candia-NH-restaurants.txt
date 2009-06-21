@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/215/44057/Manchester/Candia-NH-restaurants";s:8:"baseName";s:21:"Candia-NH-restaurants";s:5:"title";s:6:"Candia";s:5:"count";s:1:"3";}

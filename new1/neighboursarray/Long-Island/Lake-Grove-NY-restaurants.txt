@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:75:"http://www.urbanspoon.com/n/201/43227/Long-Island/Lake-Grove-NY-restaurants";s:8:"baseName";s:25:"Lake-Grove-NY-restaurants";s:5:"title";s:10:"Lake Grove";s:5:"count";s:2:"31";}

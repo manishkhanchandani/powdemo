@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:75:"http://www.urbanspoon.com/n/12/1122/Miami/Lauderdale-by-the-Sea-restaurants";s:8:"baseName";s:33:"Lauderdale-by-the-Sea-restaurants";s:5:"title";s:21:"Lauderdale-by-the-Sea";s:5:"count";s:2:"80";}

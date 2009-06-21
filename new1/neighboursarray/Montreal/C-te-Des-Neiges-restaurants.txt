@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:72:"http://www.urbanspoon.com/n/67/6703/Montreal/C-te-Des-Neiges-restaurants";s:8:"baseName";s:27:"C-te-Des-Neiges-restaurants";s:5:"title";s:16:"Côte-Des-Neiges";s:5:"count";s:3:"106";}

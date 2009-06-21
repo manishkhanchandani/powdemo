@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/201/43190/Long-Island/Coram-NY-restaurants";s:8:"baseName";s:20:"Coram-NY-restaurants";s:5:"title";s:5:"Coram";s:5:"count";s:2:"46";}

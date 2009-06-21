@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:85:"http://www.urbanspoon.com/n/65/6515/Lexington/North-Broadway-Short-Street-restaurants";s:8:"baseName";s:39:"North-Broadway-Short-Street-restaurants";s:5:"title";s:14:"North Broadway";s:5:"count";s:2:"22";}

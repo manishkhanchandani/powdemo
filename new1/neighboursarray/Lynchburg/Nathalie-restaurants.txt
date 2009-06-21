@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/204/23513/Lynchburg/Nathalie-restaurants";s:8:"baseName";s:20:"Nathalie-restaurants";s:5:"title";s:8:"Nathalie";s:5:"count";s:1:"2";}

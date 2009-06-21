@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:75:"http://www.urbanspoon.com/n/220/25303/Middletown/Central-Valley-restaurants";s:8:"baseName";s:26:"Central-Valley-restaurants";s:5:"title";s:14:"Central Valley";s:5:"count";s:2:"29";}

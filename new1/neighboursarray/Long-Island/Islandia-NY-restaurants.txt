@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:73:"http://www.urbanspoon.com/n/201/43221/Long-Island/Islandia-NY-restaurants";s:8:"baseName";s:23:"Islandia-NY-restaurants";s:5:"title";s:8:"Islandia";s:5:"count";s:2:"23";}

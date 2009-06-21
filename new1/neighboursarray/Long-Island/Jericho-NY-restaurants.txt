@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:72:"http://www.urbanspoon.com/n/201/43225/Long-Island/Jericho-NY-restaurants";s:8:"baseName";s:22:"Jericho-NY-restaurants";s:5:"title";s:7:"Jericho";s:5:"count";s:2:"36";}

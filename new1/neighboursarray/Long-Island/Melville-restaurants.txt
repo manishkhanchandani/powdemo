@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/201/23128/Long-Island/Melville-restaurants";s:8:"baseName";s:20:"Melville-restaurants";s:5:"title";s:8:"Melville";s:5:"count";s:2:"64";}

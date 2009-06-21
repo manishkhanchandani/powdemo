@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:56:"http://www.urbanspoon.com/n/197/22608/Lawton-restaurants";s:8:"baseName";s:18:"Lawton-restaurants";s:5:"title";s:6:"Lawton";s:5:"count";s:3:"225";}

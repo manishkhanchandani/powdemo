@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:72:"http://www.urbanspoon.com/n/201/43174/Long-Island/Bayport-NY-restaurants";s:8:"baseName";s:22:"Bayport-NY-restaurants";s:5:"title";s:7:"Bayport";s:5:"count";s:2:"19";}

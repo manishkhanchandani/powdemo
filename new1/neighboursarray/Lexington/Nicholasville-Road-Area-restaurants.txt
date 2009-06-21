@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:81:"http://www.urbanspoon.com/n/65/6500/Lexington/Nicholasville-Road-Area-restaurants";s:8:"baseName";s:35:"Nicholasville-Road-Area-restaurants";s:5:"title";s:23:"Nicholasville Road Area";s:5:"count";s:2:"77";}

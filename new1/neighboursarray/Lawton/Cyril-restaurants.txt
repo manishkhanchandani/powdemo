@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:62:"http://www.urbanspoon.com/n/197/22603/Lawton/Cyril-restaurants";s:8:"baseName";s:17:"Cyril-restaurants";s:5:"title";s:5:"Cyril";s:5:"count";s:1:"2";}

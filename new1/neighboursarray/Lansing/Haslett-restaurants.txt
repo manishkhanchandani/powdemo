@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:65:"http://www.urbanspoon.com/n/194/22212/Lansing/Haslett-restaurants";s:8:"baseName";s:19:"Haslett-restaurants";s:5:"title";s:7:"Haslett";s:5:"count";s:2:"14";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:62:"http://www.urbanspoon.com/n/5/422/LA/Glassell-Park-restaurants";s:8:"baseName";s:25:"Glassell-Park-restaurants";s:5:"title";s:13:"Glassell Park";s:5:"count";s:2:"38";}

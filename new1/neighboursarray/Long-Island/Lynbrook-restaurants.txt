@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/201/23126/Long-Island/Lynbrook-restaurants";s:8:"baseName";s:20:"Lynbrook-restaurants";s:5:"title";s:8:"Lynbrook";s:5:"count";s:2:"90";}

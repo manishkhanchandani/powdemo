@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:65:"http://www.urbanspoon.com/n/217/24818/McAllen/Weslaco-restaurants";s:8:"baseName";s:19:"Weslaco-restaurants";s:5:"title";s:7:"Weslaco";s:5:"count";s:3:"115";}

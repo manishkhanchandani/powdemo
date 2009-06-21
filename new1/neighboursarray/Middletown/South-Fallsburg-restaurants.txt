@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:76:"http://www.urbanspoon.com/n/220/25337/Middletown/South-Fallsburg-restaurants";s:8:"baseName";s:27:"South-Fallsburg-restaurants";s:5:"title";s:15:"South Fallsburg";s:5:"count";s:2:"10";}

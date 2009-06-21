@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/216/24715/Mansfield/Lexington-restaurants";s:8:"baseName";s:21:"Lexington-restaurants";s:5:"title";s:9:"Lexington";s:5:"count";s:2:"10";}

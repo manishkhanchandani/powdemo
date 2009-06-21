@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:64:"http://www.urbanspoon.com/n/216/24724/Mansfield/Nova-restaurants";s:8:"baseName";s:16:"Nova-restaurants";s:5:"title";s:4:"Nova";s:5:"count";s:1:"3";}

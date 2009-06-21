@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/214/24526/Madison/Mc-Farland-restaurants";s:8:"baseName";s:22:"Mc-Farland-restaurants";s:5:"title";s:10:"Mc Farland";s:5:"count";s:2:"21";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:74:"http://www.urbanspoon.com/n/67/6713/Montreal/Sault-au-r-collet-restaurants";s:8:"baseName";s:29:"Sault-au-r-collet-restaurants";s:5:"title";s:18:"Sault-au-récollet";s:5:"count";s:2:"63";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:63:"http://www.urbanspoon.com/n/221/25503/Minot/Deering-restaurants";s:8:"baseName";s:19:"Deering-restaurants";s:5:"title";s:7:"Deering";s:5:"count";s:1:"2";}

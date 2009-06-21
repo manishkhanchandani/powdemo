@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:66:"http://www.urbanspoon.com/n/214/24542/Madison/Waterloo-restaurants";s:8:"baseName";s:20:"Waterloo-restaurants";s:5:"title";s:8:"Waterloo";s:5:"count";s:2:"13";}

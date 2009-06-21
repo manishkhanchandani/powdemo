@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:56:"http://www.urbanspoon.com/n/195/22300/Laredo-restaurants";s:8:"baseName";s:18:"Laredo-restaurants";s:5:"title";s:6:"Laredo";s:5:"count";s:3:"521";}

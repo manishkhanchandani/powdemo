@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/5/39821/LA/City-of-Commerce-restaurants";s:8:"baseName";s:28:"City-of-Commerce-restaurants";s:5:"title";s:16:"City of Commerce";s:5:"count";s:2:"36";}

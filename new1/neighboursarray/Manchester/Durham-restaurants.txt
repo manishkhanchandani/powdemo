@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/215/24614/Manchester/Durham-restaurants";s:8:"baseName";s:18:"Durham-restaurants";s:5:"title";s:6:"Durham";s:5:"count";s:2:"26";}

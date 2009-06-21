@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/203/23403/Lubbock/Levelland-restaurants";s:8:"baseName";s:21:"Levelland-restaurants";s:5:"title";s:9:"Levelland";s:5:"count";s:2:"37";}

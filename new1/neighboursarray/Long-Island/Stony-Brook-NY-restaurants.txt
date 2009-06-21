@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:76:"http://www.urbanspoon.com/n/201/43276/Long-Island/Stony-Brook-NY-restaurants";s:8:"baseName";s:26:"Stony-Brook-NY-restaurants";s:5:"title";s:11:"Stony Brook";s:5:"count";s:2:"42";}

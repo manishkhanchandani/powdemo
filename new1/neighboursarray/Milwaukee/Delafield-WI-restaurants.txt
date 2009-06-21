@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/43/41605/Milwaukee/Delafield-WI-restaurants";s:8:"baseName";s:24:"Delafield-WI-restaurants";s:5:"title";s:9:"Delafield";s:5:"count";s:2:"39";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:60:"http://www.urbanspoon.com/n/5/7175/LA/Bellflower-restaurants";s:8:"baseName";s:22:"Bellflower-restaurants";s:5:"title";s:10:"Bellflower";s:5:"count";s:3:"149";}

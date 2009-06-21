@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/12/1115/Miami/Fort-Lauderdale-restaurants";s:8:"baseName";s:27:"Fort-Lauderdale-restaurants";s:5:"title";s:15:"Fort Lauderdale";s:5:"count";s:3:"407";}

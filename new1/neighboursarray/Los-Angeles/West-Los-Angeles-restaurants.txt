@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:65:"http://www.urbanspoon.com/n/5/476/LA/West-Los-Angeles-restaurants";s:8:"baseName";s:28:"West-Los-Angeles-restaurants";s:5:"title";s:16:"West Los Angeles";s:5:"count";s:3:"359";}

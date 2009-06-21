@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/50/4926/Memphis/White-Station-restaurants";s:8:"baseName";s:25:"White-Station-restaurants";s:5:"title";s:13:"White Station";s:5:"count";s:2:"35";}

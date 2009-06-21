@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:75:"http://www.urbanspoon.com/n/201/43233/Long-Island/Manorville-NY-restaurants";s:8:"baseName";s:25:"Manorville-NY-restaurants";s:5:"title";s:10:"Manorville";s:5:"count";s:2:"15";}

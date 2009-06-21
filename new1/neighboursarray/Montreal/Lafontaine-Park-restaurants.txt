@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:72:"http://www.urbanspoon.com/n/67/6721/Montreal/Lafontaine-Park-restaurants";s:8:"baseName";s:27:"Lafontaine-Park-restaurants";s:5:"title";s:15:"Lafontaine Park";s:5:"count";s:2:"27";}

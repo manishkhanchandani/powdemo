@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:55:"http://www.urbanspoon.com/n/5/458/LA/Reseda-restaurants";s:8:"baseName";s:18:"Reseda-restaurants";s:5:"title";s:6:"Reseda";s:5:"count";s:3:"129";}

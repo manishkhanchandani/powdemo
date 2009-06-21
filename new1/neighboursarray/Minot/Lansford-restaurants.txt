@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:64:"http://www.urbanspoon.com/n/221/25506/Minot/Lansford-restaurants";s:8:"baseName";s:20:"Lansford-restaurants";s:5:"title";s:8:"Lansford";s:5:"count";s:1:"3";}

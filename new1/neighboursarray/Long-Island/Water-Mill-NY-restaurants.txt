@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:75:"http://www.urbanspoon.com/n/201/43279/Long-Island/Water-Mill-NY-restaurants";s:8:"baseName";s:25:"Water-Mill-NY-restaurants";s:5:"title";s:10:"Water Mill";s:5:"count";s:1:"9";}

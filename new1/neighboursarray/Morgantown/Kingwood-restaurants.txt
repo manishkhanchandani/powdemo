@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/226/26106/Morgantown/Kingwood-restaurants";s:8:"baseName";s:20:"Kingwood-restaurants";s:5:"title";s:8:"Kingwood";s:5:"count";s:2:"23";}

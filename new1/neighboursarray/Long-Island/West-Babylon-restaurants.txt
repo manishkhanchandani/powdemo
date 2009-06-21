@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:74:"http://www.urbanspoon.com/n/201/23148/Long-Island/West-Babylon-restaurants";s:8:"baseName";s:24:"West-Babylon-restaurants";s:5:"title";s:12:"West Babylon";s:5:"count";s:2:"81";}

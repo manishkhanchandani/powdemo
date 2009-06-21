@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:82:"http://www.urbanspoon.com/n/201/43205/Long-Island/Fire-Island-Pines-NY-restaurants";s:8:"baseName";s:32:"Fire-Island-Pines-NY-restaurants";s:5:"title";s:17:"Fire Island Pines";s:5:"count";s:1:"3";}

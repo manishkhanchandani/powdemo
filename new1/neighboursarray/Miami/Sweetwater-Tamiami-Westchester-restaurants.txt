@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:84:"http://www.urbanspoon.com/n/12/1144/Miami/Sweetwater-Tamiami-Westchester-restaurants";s:8:"baseName";s:42:"Sweetwater-Tamiami-Westchester-restaurants";s:5:"title";s:10:"Sweetwater";s:5:"count";s:3:"406";}

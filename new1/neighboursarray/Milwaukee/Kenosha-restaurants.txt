@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:66:"http://www.urbanspoon.com/n/43/25404/Milwaukee/Kenosha-restaurants";s:8:"baseName";s:19:"Kenosha-restaurants";s:5:"title";s:7:"Kenosha";s:5:"count";s:3:"335";}

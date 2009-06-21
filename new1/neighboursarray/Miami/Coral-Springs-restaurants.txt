@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/12/25201/Miami/Coral-Springs-restaurants";s:8:"baseName";s:25:"Coral-Springs-restaurants";s:5:"title";s:13:"Coral Springs";s:5:"count";s:3:"270";}

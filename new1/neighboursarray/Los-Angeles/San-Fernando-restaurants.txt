@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:61:"http://www.urbanspoon.com/n/5/459/LA/San-Fernando-restaurants";s:8:"baseName";s:24:"San-Fernando-restaurants";s:5:"title";s:12:"San Fernando";s:5:"count";s:3:"163";}

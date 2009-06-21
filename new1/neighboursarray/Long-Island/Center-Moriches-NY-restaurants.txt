@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:80:"http://www.urbanspoon.com/n/201/43191/Long-Island/Center-Moriches-NY-restaurants";s:8:"baseName";s:30:"Center-Moriches-NY-restaurants";s:5:"title";s:15:"Center Moriches";s:5:"count";s:2:"24";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:73:"http://www.urbanspoon.com/n/18/1705/Las-Vegas/North-Las-Vegas-restaurants";s:8:"baseName";s:27:"North-Las-Vegas-restaurants";s:5:"title";s:15:"North Las Vegas";s:5:"count";s:3:"174";}

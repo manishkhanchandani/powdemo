@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/201/43268/Long-Island/Selden-NY-restaurants";s:8:"baseName";s:21:"Selden-NY-restaurants";s:5:"title";s:6:"Selden";s:5:"count";s:2:"58";}

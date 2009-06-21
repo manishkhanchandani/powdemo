@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/43/4204/Milwaukee/Brookfield-restaurants";s:8:"baseName";s:22:"Brookfield-restaurants";s:5:"title";s:10:"Brookfield";s:5:"count";s:3:"114";}

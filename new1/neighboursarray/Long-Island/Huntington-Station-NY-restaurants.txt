@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:83:"http://www.urbanspoon.com/n/201/43217/Long-Island/Huntington-Station-NY-restaurants";s:8:"baseName";s:33:"Huntington-Station-NY-restaurants";s:5:"title";s:18:"Huntington Station";s:5:"count";s:3:"108";}

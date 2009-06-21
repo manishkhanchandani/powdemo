@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:73:"http://www.urbanspoon.com/n/51/41782/Louisville/Middletown-KY-restaurants";s:8:"baseName";s:25:"Middletown-KY-restaurants";s:5:"title";s:10:"Middletown";s:5:"count";s:1:"2";}

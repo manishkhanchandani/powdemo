@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:81:"http://www.urbanspoon.com/n/43/4233/Milwaukee/Milwaukee-River-Parkway-restaurants";s:8:"baseName";s:35:"Milwaukee-River-Parkway-restaurants";s:5:"title";s:23:"Milwaukee River Parkway";s:5:"count";s:2:"32";}

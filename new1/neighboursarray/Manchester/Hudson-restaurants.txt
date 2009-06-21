@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/215/24625/Manchester/Hudson-restaurants";s:8:"baseName";s:18:"Hudson-restaurants";s:5:"title";s:6:"Hudson";s:5:"count";s:2:"43";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/67/26008/Montreal/St-Jerome-restaurants";s:8:"baseName";s:21:"St-Jerome-restaurants";s:5:"title";s:9:"St-Jerome";s:5:"count";s:2:"14";}

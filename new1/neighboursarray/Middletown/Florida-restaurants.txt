@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/220/25309/Middletown/Florida-restaurants";s:8:"baseName";s:19:"Florida-restaurants";s:5:"title";s:7:"Florida";s:5:"count";s:2:"19";}

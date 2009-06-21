@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:59:"http://www.urbanspoon.com/n/5/7181/LA/La-Puente-restaurants";s:8:"baseName";s:21:"La-Puente-restaurants";s:5:"title";s:9:"La Puente";s:5:"count";s:3:"211";}

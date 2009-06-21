@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:66:"http://www.urbanspoon.com/n/217/24817/McAllen/San-Juan-restaurants";s:8:"baseName";s:20:"San-Juan-restaurants";s:5:"title";s:8:"San Juan";s:5:"count";s:2:"54";}

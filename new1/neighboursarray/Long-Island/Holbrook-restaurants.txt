@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/201/40532/Long-Island/Holbrook-restaurants";s:8:"baseName";s:20:"Holbrook-restaurants";s:5:"title";s:8:"Holbrook";s:5:"count";s:2:"53";}

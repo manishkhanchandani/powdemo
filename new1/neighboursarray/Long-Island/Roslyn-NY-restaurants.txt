@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/201/43262/Long-Island/Roslyn-NY-restaurants";s:8:"baseName";s:21:"Roslyn-NY-restaurants";s:5:"title";s:6:"Roslyn";s:5:"count";s:2:"32";}

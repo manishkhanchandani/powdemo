@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/220/25307/Middletown/Ellenville-restaurants";s:8:"baseName";s:22:"Ellenville-restaurants";s:5:"title";s:10:"Ellenville";s:5:"count";s:2:"32";}

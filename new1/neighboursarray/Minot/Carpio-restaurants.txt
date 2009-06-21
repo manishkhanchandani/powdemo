@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:62:"http://www.urbanspoon.com/n/221/25502/Minot/Carpio-restaurants";s:8:"baseName";s:18:"Carpio-restaurants";s:5:"title";s:6:"Carpio";s:5:"count";s:1:"2";}

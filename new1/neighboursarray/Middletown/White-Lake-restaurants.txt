@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/220/25347/Middletown/White-Lake-restaurants";s:8:"baseName";s:22:"White-Lake-restaurants";s:5:"title";s:10:"White Lake";s:5:"count";s:1:"6";}

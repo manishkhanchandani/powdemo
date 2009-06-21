@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/67/6714/Montreal/Vieux-Rosemont-restaurants";s:8:"baseName";s:26:"Vieux-Rosemont-restaurants";s:5:"title";s:14:"Vieux-Rosemont";s:5:"count";s:2:"44";}

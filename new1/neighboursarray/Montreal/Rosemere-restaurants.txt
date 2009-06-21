@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:66:"http://www.urbanspoon.com/n/67/39810/Montreal/Rosemere-restaurants";s:8:"baseName";s:20:"Rosemere-restaurants";s:5:"title";s:8:"Rosemere";s:5:"count";s:2:"21";}

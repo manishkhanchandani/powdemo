@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:75:"http://www.urbanspoon.com/n/201/43257/Long-Island/Pt-Lookout-NY-restaurants";s:8:"baseName";s:25:"Pt-Lookout-NY-restaurants";s:5:"title";s:10:"Pt Lookout";s:5:"count";s:1:"4";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/5/456/LA/Rancho-Palos-Verdes-restaurants";s:8:"baseName";s:31:"Rancho-Palos-Verdes-restaurants";s:5:"title";s:19:"Rancho Palos Verdes";s:5:"count";s:2:"58";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:79:"http://www.urbanspoon.com/n/51/41781/Louisville/Lebanon-Junction-KY-restaurants";s:8:"baseName";s:31:"Lebanon-Junction-KY-restaurants";s:5:"title";s:16:"Lebanon Junction";s:5:"count";s:1:"8";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:74:"http://www.urbanspoon.com/n/204/23514/Lynchburg/Natural-Bridge-restaurants";s:8:"baseName";s:26:"Natural-Bridge-restaurants";s:5:"title";s:14:"Natural Bridge";s:5:"count";s:1:"2";}

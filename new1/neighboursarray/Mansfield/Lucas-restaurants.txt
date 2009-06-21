@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:65:"http://www.urbanspoon.com/n/216/24717/Mansfield/Lucas-restaurants";s:8:"baseName";s:17:"Lucas-restaurants";s:5:"title";s:5:"Lucas";s:5:"count";s:1:"5";}

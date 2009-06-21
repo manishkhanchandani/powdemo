@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/203/23405/Lubbock/Petersburg-restaurants";s:8:"baseName";s:22:"Petersburg-restaurants";s:5:"title";s:10:"Petersburg";s:5:"count";s:1:"2";}

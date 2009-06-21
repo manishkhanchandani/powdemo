@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:65:"http://www.urbanspoon.com/n/67/6719/Montreal/Kirkland-restaurants";s:8:"baseName";s:20:"Kirkland-restaurants";s:5:"title";s:8:"Kirkland";s:5:"count";s:2:"43";}

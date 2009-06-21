@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:74:"http://www.urbanspoon.com/n/201/43209/Long-Island/Greenlawn-NY-restaurants";s:8:"baseName";s:24:"Greenlawn-NY-restaurants";s:5:"title";s:9:"Greenlawn";s:5:"count";s:2:"23";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:64:"http://www.urbanspoon.com/n/214/24530/Madison/Monona-restaurants";s:8:"baseName";s:18:"Monona-restaurants";s:5:"title";s:6:"Monona";s:5:"count";s:2:"47";}

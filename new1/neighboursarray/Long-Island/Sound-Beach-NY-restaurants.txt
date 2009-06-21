@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:76:"http://www.urbanspoon.com/n/201/43272/Long-Island/Sound-Beach-NY-restaurants";s:8:"baseName";s:26:"Sound-Beach-NY-restaurants";s:5:"title";s:11:"Sound Beach";s:5:"count";s:1:"9";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:66:"http://www.urbanspoon.com/n/12/1105/Miami/Coral-Gables-restaurants";s:8:"baseName";s:24:"Coral-Gables-restaurants";s:5:"title";s:12:"Coral Gables";s:5:"count";s:3:"206";}

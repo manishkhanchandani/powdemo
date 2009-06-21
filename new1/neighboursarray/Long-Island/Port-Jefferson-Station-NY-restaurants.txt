@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:87:"http://www.urbanspoon.com/n/201/43255/Long-Island/Port-Jefferson-Station-NY-restaurants";s:8:"baseName";s:37:"Port-Jefferson-Station-NY-restaurants";s:5:"title";s:22:"Port Jefferson Station";s:5:"count";s:2:"43";}

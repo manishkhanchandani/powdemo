@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:58:"http://www.urbanspoon.com/n/5/438/LA/Los-Feliz-restaurants";s:8:"baseName";s:21:"Los-Feliz-restaurants";s:5:"title";s:9:"Los Feliz";s:5:"count";s:3:"141";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:61:"http://www.urbanspoon.com/n/5/7186/LA/West-Covina-restaurants";s:8:"baseName";s:23:"West-Covina-restaurants";s:5:"title";s:11:"West Covina";s:5:"count";s:3:"197";}

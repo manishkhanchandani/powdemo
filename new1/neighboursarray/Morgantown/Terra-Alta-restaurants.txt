@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/226/26115/Morgantown/Terra-Alta-restaurants";s:8:"baseName";s:22:"Terra-Alta-restaurants";s:5:"title";s:10:"Terra Alta";s:5:"count";s:1:"7";}

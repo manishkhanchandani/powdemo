@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/67/6723/Montreal/Latin-Quarter-restaurants";s:8:"baseName";s:25:"Latin-Quarter-restaurants";s:5:"title";s:13:"Latin Quarter";s:5:"count";s:3:"203";}

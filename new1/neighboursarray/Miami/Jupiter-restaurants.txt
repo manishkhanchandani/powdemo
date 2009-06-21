@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:61:"http://www.urbanspoon.com/n/12/7166/Miami/Jupiter-restaurants";s:8:"baseName";s:19:"Jupiter-restaurants";s:5:"title";s:7:"Jupiter";s:5:"count";s:3:"200";}

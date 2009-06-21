@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:65:"http://www.urbanspoon.com/n/221/25510/Minot/Minot-Afb-restaurants";s:8:"baseName";s:21:"Minot-Afb-restaurants";s:5:"title";s:9:"Minot Afb";s:5:"count";s:1:"3";}

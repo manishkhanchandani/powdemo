@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:75:"http://www.urbanspoon.com/n/67/6725/Montreal/Golden-Square-Mile-restaurants";s:8:"baseName";s:30:"Golden-Square-Mile-restaurants";s:5:"title";s:18:"Golden Square Mile";s:5:"count";s:3:"338";}

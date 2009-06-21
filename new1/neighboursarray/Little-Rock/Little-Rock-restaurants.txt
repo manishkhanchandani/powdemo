@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:61:"http://www.urbanspoon.com/n/200/23008/Little-Rock-restaurants";s:8:"baseName";s:23:"Little-Rock-restaurants";s:5:"title";s:11:"Little Rock";s:5:"count";s:3:"684";}

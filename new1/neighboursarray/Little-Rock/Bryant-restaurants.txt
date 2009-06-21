@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/200/23001/Little-Rock/Bryant-restaurants";s:8:"baseName";s:18:"Bryant-restaurants";s:5:"title";s:6:"Bryant";s:5:"count";s:2:"41";}

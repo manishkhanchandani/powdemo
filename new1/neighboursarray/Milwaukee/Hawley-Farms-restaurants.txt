@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/43/4223/Milwaukee/Hawley-Farms-restaurants";s:8:"baseName";s:24:"Hawley-Farms-restaurants";s:5:"title";s:12:"Hawley Farms";s:5:"count";s:2:"23";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:72:"http://www.urbanspoon.com/n/201/23127/Long-Island/Massapequa-restaurants";s:8:"baseName";s:22:"Massapequa-restaurants";s:5:"title";s:10:"Massapequa";s:5:"count";s:3:"139";}

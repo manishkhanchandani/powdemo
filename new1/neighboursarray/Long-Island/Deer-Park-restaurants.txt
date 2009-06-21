@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/201/23108/Long-Island/Deer-Park-restaurants";s:8:"baseName";s:21:"Deer-Park-restaurants";s:5:"title";s:9:"Deer Park";s:5:"count";s:2:"94";}

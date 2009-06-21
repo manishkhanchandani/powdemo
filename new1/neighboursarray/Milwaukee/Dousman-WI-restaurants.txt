@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/43/41606/Milwaukee/Dousman-WI-restaurants";s:8:"baseName";s:22:"Dousman-WI-restaurants";s:5:"title";s:7:"Dousman";s:5:"count";s:1:"7";}

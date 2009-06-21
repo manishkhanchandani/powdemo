@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:56:"http://www.urbanspoon.com/n/5/406/LA/Burbank-restaurants";s:8:"baseName";s:19:"Burbank-restaurants";s:5:"title";s:7:"Burbank";s:5:"count";s:3:"396";}

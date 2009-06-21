@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:63:"http://www.urbanspoon.com/n/199/22904/Lincoln/Eagle-restaurants";s:8:"baseName";s:17:"Eagle-restaurants";s:5:"title";s:5:"Eagle";s:5:"count";s:1:"5";}

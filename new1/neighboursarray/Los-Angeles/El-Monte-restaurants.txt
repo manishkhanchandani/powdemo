@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:58:"http://www.urbanspoon.com/n/5/7174/LA/El-Monte-restaurants";s:8:"baseName";s:20:"El-Monte-restaurants";s:5:"title";s:8:"El Monte";s:5:"count";s:3:"329";}

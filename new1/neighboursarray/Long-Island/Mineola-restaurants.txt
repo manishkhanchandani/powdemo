@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/201/23130/Long-Island/Mineola-restaurants";s:8:"baseName";s:19:"Mineola-restaurants";s:5:"title";s:7:"Mineola";s:5:"count";s:2:"95";}

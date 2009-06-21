@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:74:"http://www.urbanspoon.com/n/12/1117/Miami/Hollywood-Hallandale-restaurants";s:8:"baseName";s:32:"Hollywood-Hallandale-restaurants";s:5:"title";s:10:"Hallandale";s:5:"count";s:3:"440";}

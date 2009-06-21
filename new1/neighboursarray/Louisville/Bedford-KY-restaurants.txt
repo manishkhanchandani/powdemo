@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/51/41777/Louisville/Bedford-KY-restaurants";s:8:"baseName";s:22:"Bedford-KY-restaurants";s:5:"title";s:7:"Bedford";s:5:"count";s:1:"3";}

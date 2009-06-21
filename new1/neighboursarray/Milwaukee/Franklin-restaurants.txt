@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:66:"http://www.urbanspoon.com/n/43/4218/Milwaukee/Franklin-restaurants";s:8:"baseName";s:20:"Franklin-restaurants";s:5:"title";s:8:"Franklin";s:5:"count";s:2:"49";}

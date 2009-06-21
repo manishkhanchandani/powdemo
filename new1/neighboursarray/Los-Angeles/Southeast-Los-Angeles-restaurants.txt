@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/5/467/LA/Southeast-Los-Angeles-restaurants";s:8:"baseName";s:33:"Southeast-Los-Angeles-restaurants";s:5:"title";s:21:"Southeast Los Angeles";s:5:"count";s:3:"212";}

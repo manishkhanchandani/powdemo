@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:59:"http://www.urbanspoon.com/n/12/1109/Miami/Davie-restaurants";s:8:"baseName";s:17:"Davie-restaurants";s:5:"title";s:5:"Davie";s:5:"count";s:3:"170";}

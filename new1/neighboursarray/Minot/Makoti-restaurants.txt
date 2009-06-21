@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:62:"http://www.urbanspoon.com/n/221/25507/Minot/Makoti-restaurants";s:8:"baseName";s:18:"Makoti-restaurants";s:5:"title";s:6:"Makoti";s:5:"count";s:1:"2";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:66:"http://www.urbanspoon.com/n/216/24704/Mansfield/Butler-restaurants";s:8:"baseName";s:18:"Butler-restaurants";s:5:"title";s:6:"Butler";s:5:"count";s:1:"6";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/5/39822/LA/Hacienda-Heights-restaurants";s:8:"baseName";s:28:"Hacienda-Heights-restaurants";s:5:"title";s:16:"Hacienda Heights";s:5:"count";s:3:"107";}

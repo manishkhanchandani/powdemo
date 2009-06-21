@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/12/1110/Miami/Deerfield-Beach-restaurants";s:8:"baseName";s:27:"Deerfield-Beach-restaurants";s:5:"title";s:15:"Deerfield Beach";s:5:"count";s:3:"174";}

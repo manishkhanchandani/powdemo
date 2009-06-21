@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:62:"http://www.urbanspoon.com/n/5/446/LA/Monterey-Park-restaurants";s:8:"baseName";s:25:"Monterey-Park-restaurants";s:5:"title";s:13:"Monterey Park";s:5:"count";s:3:"246";}

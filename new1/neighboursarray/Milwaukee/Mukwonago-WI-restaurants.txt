@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/43/41617/Milwaukee/Mukwonago-WI-restaurants";s:8:"baseName";s:24:"Mukwonago-WI-restaurants";s:5:"title";s:9:"Mukwonago";s:5:"count";s:2:"33";}

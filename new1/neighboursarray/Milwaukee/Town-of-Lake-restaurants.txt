@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/43/4247/Milwaukee/Town-of-Lake-restaurants";s:8:"baseName";s:24:"Town-of-Lake-restaurants";s:5:"title";s:12:"Town of Lake";s:5:"count";s:2:"42";}

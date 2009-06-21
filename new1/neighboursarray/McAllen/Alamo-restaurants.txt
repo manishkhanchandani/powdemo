@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:63:"http://www.urbanspoon.com/n/217/24800/McAllen/Alamo-restaurants";s:8:"baseName";s:17:"Alamo-restaurants";s:5:"title";s:5:"Alamo";s:5:"count";s:2:"36";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/201/23105/Long-Island/Brentwood-restaurants";s:8:"baseName";s:21:"Brentwood-restaurants";s:5:"title";s:9:"Brentwood";s:5:"count";s:2:"81";}

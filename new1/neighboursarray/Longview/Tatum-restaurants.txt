@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:64:"http://www.urbanspoon.com/n/202/23213/Longview/Tatum-restaurants";s:8:"baseName";s:17:"Tatum-restaurants";s:5:"title";s:5:"Tatum";s:5:"count";s:1:"6";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/215/24600/Manchester/Allenstown-restaurants";s:8:"baseName";s:22:"Allenstown-restaurants";s:5:"title";s:10:"Allenstown";s:5:"count";s:1:"6";}

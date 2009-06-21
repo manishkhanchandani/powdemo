@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/214/24533/Madison/New-Glarus-restaurants";s:8:"baseName";s:22:"New-Glarus-restaurants";s:5:"title";s:10:"New Glarus";s:5:"count";s:2:"16";}

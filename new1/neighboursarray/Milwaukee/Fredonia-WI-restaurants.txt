@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/43/41610/Milwaukee/Fredonia-WI-restaurants";s:8:"baseName";s:23:"Fredonia-WI-restaurants";s:5:"title";s:8:"Fredonia";s:5:"count";s:1:"8";}

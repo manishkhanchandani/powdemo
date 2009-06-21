@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:72:"http://www.urbanspoon.com/n/65/6513/Lexington/Meadows-Loudon-restaurants";s:8:"baseName";s:26:"Meadows-Loudon-restaurants";s:5:"title";s:14:"Meadows-Loudon";s:5:"count";s:2:"34";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:77:"http://www.urbanspoon.com/n/201/43236/Long-Island/Mastic-Beach-NY-restaurants";s:8:"baseName";s:27:"Mastic-Beach-NY-restaurants";s:5:"title";s:12:"Mastic Beach";s:5:"count";s:2:"17";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:66:"http://www.urbanspoon.com/n/12/7165/Miami/Delray-Beach-restaurants";s:8:"baseName";s:24:"Delray-Beach-restaurants";s:5:"title";s:12:"Delray Beach";s:5:"count";s:3:"237";}

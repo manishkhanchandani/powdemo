@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:64:"http://www.urbanspoon.com/n/12/7162/Miami/Lake-Worth-restaurants";s:8:"baseName";s:22:"Lake-Worth-restaurants";s:5:"title";s:10:"Lake Worth";s:5:"count";s:3:"339";}

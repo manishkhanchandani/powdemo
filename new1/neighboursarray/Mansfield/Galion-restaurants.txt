@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:66:"http://www.urbanspoon.com/n/216/24710/Mansfield/Galion-restaurants";s:8:"baseName";s:18:"Galion-restaurants";s:5:"title";s:6:"Galion";s:5:"count";s:2:"38";}

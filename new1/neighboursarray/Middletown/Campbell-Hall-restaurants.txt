@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:74:"http://www.urbanspoon.com/n/220/25302/Middletown/Campbell-Hall-restaurants";s:8:"baseName";s:25:"Campbell-Hall-restaurants";s:5:"title";s:13:"Campbell Hall";s:5:"count";s:1:"7";}

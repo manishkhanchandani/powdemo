@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:78:"http://www.urbanspoon.com/n/67/6737/Montreal/Wellington-de-L-glise-restaurants";s:8:"baseName";s:33:"Wellington-de-L-glise-restaurants";s:5:"title";s:23:"Wellington-de-L'Église";s:5:"count";s:2:"37";}

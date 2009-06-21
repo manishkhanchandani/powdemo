@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:56:"http://www.urbanspoon.com/n/5/439/LA/Lynwood-restaurants";s:8:"baseName";s:19:"Lynwood-restaurants";s:5:"title";s:7:"Lynwood";s:5:"count";s:3:"145";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:66:"http://www.urbanspoon.com/n/5/466/LA/South-Los-Angeles-restaurants";s:8:"baseName";s:29:"South-Los-Angeles-restaurants";s:5:"title";s:17:"South Los Angeles";s:5:"count";s:3:"366";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:73:"http://www.urbanspoon.com/n/215/44056/Manchester/Brentwood-NH-restaurants";s:8:"baseName";s:24:"Brentwood-NH-restaurants";s:5:"title";s:9:"Brentwood";s:5:"count";s:1:"3";}

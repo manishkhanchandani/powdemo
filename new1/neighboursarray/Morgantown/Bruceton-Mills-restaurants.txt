@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:75:"http://www.urbanspoon.com/n/226/26102/Morgantown/Bruceton-Mills-restaurants";s:8:"baseName";s:26:"Bruceton-Mills-restaurants";s:5:"title";s:14:"Bruceton Mills";s:5:"count";s:1:"8";}

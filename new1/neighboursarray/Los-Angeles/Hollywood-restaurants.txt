@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:58:"http://www.urbanspoon.com/n/5/428/LA/Hollywood-restaurants";s:8:"baseName";s:21:"Hollywood-restaurants";s:5:"title";s:9:"Hollywood";s:5:"count";s:3:"477";}

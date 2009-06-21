@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:66:"http://www.urbanspoon.com/n/12/1132/Miami/Miami-Shores-restaurants";s:8:"baseName";s:24:"Miami-Shores-restaurants";s:5:"title";s:12:"Miami Shores";s:5:"count";s:2:"28";}

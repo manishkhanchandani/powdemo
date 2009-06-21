@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:66:"http://www.urbanspoon.com/n/67/26000/Montreal/Brossard-restaurants";s:8:"baseName";s:20:"Brossard-restaurants";s:5:"title";s:8:"Brossard";s:5:"count";s:2:"34";}

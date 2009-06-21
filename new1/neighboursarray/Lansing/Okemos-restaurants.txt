@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:64:"http://www.urbanspoon.com/n/194/22221/Lansing/Okemos-restaurants";s:8:"baseName";s:18:"Okemos-restaurants";s:5:"title";s:6:"Okemos";s:5:"count";s:2:"98";}

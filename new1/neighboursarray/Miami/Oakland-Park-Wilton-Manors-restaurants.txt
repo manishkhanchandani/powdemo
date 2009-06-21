@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:80:"http://www.urbanspoon.com/n/12/1136/Miami/Oakland-Park-Wilton-Manors-restaurants";s:8:"baseName";s:38:"Oakland-Park-Wilton-Manors-restaurants";s:5:"title";s:12:"Oakland Park";s:5:"count";s:3:"254";}

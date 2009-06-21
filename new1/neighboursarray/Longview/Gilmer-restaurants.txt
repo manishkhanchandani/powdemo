@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:65:"http://www.urbanspoon.com/n/202/23203/Longview/Gilmer-restaurants";s:8:"baseName";s:18:"Gilmer-restaurants";s:5:"title";s:6:"Gilmer";s:5:"count";s:2:"21";}

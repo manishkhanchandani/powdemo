@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:74:"http://www.urbanspoon.com/n/65/22704/Lexington/Stamping-Ground-restaurants";s:8:"baseName";s:27:"Stamping-Ground-restaurants";s:5:"title";s:15:"Stamping Ground";s:5:"count";s:1:"4";}

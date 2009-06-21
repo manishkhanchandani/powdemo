@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/218/24903/Medford/Eagle-Point-restaurants";s:8:"baseName";s:23:"Eagle-Point-restaurants";s:5:"title";s:11:"Eagle Point";s:5:"count";s:2:"16";}

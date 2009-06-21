@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:59:"http://www.urbanspoon.com/n/5/7178/LA/La-Mirada-restaurants";s:8:"baseName";s:21:"La-Mirada-restaurants";s:5:"title";s:9:"La Mirada";s:5:"count";s:2:"87";}

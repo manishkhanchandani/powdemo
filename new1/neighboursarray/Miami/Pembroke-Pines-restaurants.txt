@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/12/1139/Miami/Pembroke-Pines-restaurants";s:8:"baseName";s:26:"Pembroke-Pines-restaurants";s:5:"title";s:14:"Pembroke Pines";s:5:"count";s:3:"204";}

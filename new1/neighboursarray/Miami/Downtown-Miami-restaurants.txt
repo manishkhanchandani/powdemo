@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/12/1113/Miami/Downtown-Miami-restaurants";s:8:"baseName";s:26:"Downtown-Miami-restaurants";s:5:"title";s:14:"Downtown Miami";s:5:"count";s:3:"273";}

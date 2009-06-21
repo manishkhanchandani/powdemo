@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/220/25349/Middletown/Woodridge-restaurants";s:8:"baseName";s:21:"Woodridge-restaurants";s:5:"title";s:9:"Woodridge";s:5:"count";s:1:"3";}

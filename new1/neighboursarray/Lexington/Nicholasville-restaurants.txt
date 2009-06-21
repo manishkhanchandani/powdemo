@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/65/6514/Lexington/Nicholasville-restaurants";s:8:"baseName";s:25:"Nicholasville-restaurants";s:5:"title";s:13:"Nicholasville";s:5:"count";s:2:"67";}

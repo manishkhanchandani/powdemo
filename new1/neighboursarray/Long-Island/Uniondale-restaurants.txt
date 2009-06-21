@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/201/23145/Long-Island/Uniondale-restaurants";s:8:"baseName";s:21:"Uniondale-restaurants";s:5:"title";s:9:"Uniondale";s:5:"count";s:2:"75";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/43/41631/Milwaukee/Waubeka-WI-restaurants";s:8:"baseName";s:22:"Waubeka-WI-restaurants";s:5:"title";s:7:"Waubeka";s:5:"count";s:1:"3";}

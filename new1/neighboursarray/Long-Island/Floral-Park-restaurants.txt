@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:73:"http://www.urbanspoon.com/n/201/23114/Long-Island/Floral-Park-restaurants";s:8:"baseName";s:23:"Floral-Park-restaurants";s:5:"title";s:11:"Floral Park";s:5:"count";s:2:"79";}

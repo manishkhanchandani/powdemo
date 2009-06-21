@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:66:"http://www.urbanspoon.com/n/216/24730/Mansfield/Shreve-restaurants";s:8:"baseName";s:18:"Shreve-restaurants";s:5:"title";s:6:"Shreve";s:5:"count";s:1:"6";}

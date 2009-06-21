@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:76:"http://www.urbanspoon.com/n/67/6757/Montreal/Notre-Dame-de-Gr-ce-restaurants";s:8:"baseName";s:31:"Notre-Dame-de-Gr-ce-restaurants";s:5:"title";s:20:"Notre-Dame-de-Grâce";s:5:"count";s:2:"65";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/202/23212/Longview/Ore-City-restaurants";s:8:"baseName";s:20:"Ore-City-restaurants";s:5:"title";s:8:"Ore City";s:5:"count";s:1:"6";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:66:"http://www.urbanspoon.com/n/194/22223/Lansing/Onondaga-restaurants";s:8:"baseName";s:20:"Onondaga-restaurants";s:5:"title";s:8:"Onondaga";s:5:"count";s:1:"3";}
