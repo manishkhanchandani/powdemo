@@ -181,10 +181,13 @@ class Crawler {
 		$regexp = "<span class=\"locality\">(.*)<\/span>";
 		$matches = $this->regexp($regexp, $info);
 		$arr['locality'] = $matches[0][1];
+		$arr['city'] = $matches[0][1];
+		$arr['country'] = "US";
 		
 		$regexp = "<span class=\"region\">(.*)<\/span>";
 		$matches = $this->regexp($regexp, $info);
 		$arr['region'] = $matches[0][1];
+		$arr['province'] = $matches[0][1];
 		
 		$regexp = "<a href=\"(.*)\" class=\".*postal\-code\">(.*)<\/a>";
 		$matches = $this->regexp($regexp, $info);
@@ -197,6 +200,21 @@ class Crawler {
 		$regexp = "<span class=\"pricerange\">(.*)<\/span>";
 		$matches = $this->regexp($regexp, $input);
 		$arr['pricerange'] = $matches[0][1];
+		
+		$regexp = "<img alt=\"\\\$\" src=\"http:\/\/static\.urbanspoon\.com\/1\/dollar\.gif\" style=\"width:8px;height:10px\" \/>";
+		$matches = $this->regexp($regexp, $input);
+		$arr['dollarcount'] = count($matches);
+		$tmp3 = explode("<!-- MENU TAB -->", $input);
+		$tmp4 = explode("<!-- FRIENDS TAB -->", $tmp3[1]);
+		$inputMenu = $tmp4[0];
+		
+		$regexp = "<b><a href=\".*\">(.*)<\/a><\/b>";
+		$matches = $this->regexp($regexp, $inputMenu);
+		if($matches) {
+			foreach($matches as $match) {
+				$arr['cusine'][] = $match[1];
+			}
+		}
 		
 		$tmp1 = explode("<!-- REVIEWS TAB -->", $input);
 		$tmp2 = explode("<!-- POSTS TAB -->", $tmp1[1]);
@@ -219,9 +237,6 @@ class Crawler {
 				$arr['critic-reviews'][$k]['desc'] = trim($matches2[0][2]);
 			}
 		}
-		echo "<pre>";
-		print_r($arr);
-		exit;
 		return $arr;
 	}
 }

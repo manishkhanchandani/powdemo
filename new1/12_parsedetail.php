@@ -65,6 +65,10 @@ if ($handle = opendir($dirname)) {
 						echo $baseName = str_replace(".html", ".txt", basename($file3));
 						echo "<br>";
 						$array = $Crawler->parseDetails($input);
+						
+						echo "<pre>";
+						print_r($array);
+						continue;
 						exit;
 						if(!file_exists('rest/details/'.$folder.'/'.$baseName)) {
 							$string = $Crawler->parseDetails($input);
@@ -82,7 +86,6 @@ if ($handle = opendir($dirname)) {
 						echo "<br>";
 						echo "<br>";
 					}
-					exit;
 				}
 				exit;
 			}
