@@ -64,7 +64,7 @@ if ($handle = opendir($dirname)) {
 						$input = file_get_contents($file3);	
 						echo $baseName = str_replace(".html", ".txt", basename($file3));
 						echo "<br>";
-						echo $input;
+						$array = $Crawler->parseDetails($input);
 						exit;
 						if(!file_exists('rest/details/'.$folder.'/'.$baseName)) {
 							$string = $Crawler->parseDetails($input);
