@@ -40,6 +40,18 @@ if ($handle = opendir($dirname)) {
 				mkdir('rest/description/'.$folder,0777);
 				chmod('rest/description/'.$folder,0777);
 			}
+			if(!is_dir('rest/detailpages/'.$folder)) {
+				echo 'Creating folder '.$folder.' in detailpages folder';
+				echo '<br>';
+				mkdir('rest/detailpages/'.$folder,0777);
+				chmod('rest/detailpages/'.$folder,0777);
+			}
+			if(!is_dir('rest/finalxml/'.$folder)) {
+				echo 'Creating folder '.$folder.' in finalxml folder';
+				echo '<br>';
+				mkdir('rest/finalxml/'.$folder,0777);
+				chmod('rest/finalxml/'.$folder,0777);
+			}
 			
 			if ($handle = opendir($dirname2)) {
 				/* This is the correct way to loop over the directory. */
