@@ -67,7 +67,7 @@ if ($handle = opendir($dirname)) {
 						$url = $array['url'];
 						echo $url;
 						echo "<br>";
-						echo $baseName = basename($file3);
+						echo $baseName = str_replace(".txt", ".html", basename($file3));
 						echo "<br>";
 						if(!file_exists('rest/detailpages/'.$folder.'/'.$baseName)) {
 							$string = @file_get_contents($url);
