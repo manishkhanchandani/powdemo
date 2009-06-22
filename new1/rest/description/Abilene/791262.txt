@@ -1,0 +1,3 @@
+a:6:{s:3:"url";s:84:"http://www.urbanspoon.com/r/77/791262/restaurant/Tamollys-Mexican-Restaurant-Abilene";s:4:"name";s:28:"Tamolly's Mexican Restaurant";s:2:"id";s:6:"791262";s:4:"info";s:84:"Mexican - <br />
+                <br />
+                  4400 Ridgemont Dr, Abilene";s:5:"info2";s:7:"Mexican";s:7:"address";s:26:"4400 Ridgemont Dr, Abilene";}

@@ -1,0 +1,3 @@
+a:6:{s:3:"url";s:72:"http://www.urbanspoon.com/r/77/791012/restaurant/Americas-Buffet-Abilene";s:4:"name";s:16:"America's Buffet";s:2:"id";s:6:"791012";s:4:"info";s:82:"Buffet - <br />
+                <br />
+                  31 Rue Maison St, Abilene";s:5:"info2";s:6:"Buffet";s:7:"address";s:25:"31 Rue Maison St, Abilene";}

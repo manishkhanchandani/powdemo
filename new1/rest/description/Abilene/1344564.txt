@@ -1,0 +1,3 @@
+a:6:{s:3:"url";s:72:"http://www.urbanspoon.com/r/77/1344564/restaurant/Seafood-Tavern-Abilene";s:4:"name";s:14:"Seafood Tavern";s:2:"id";s:7:"1344564";s:4:"info";s:82:"Seafood - <br />
+                <br />
+                  1882 S Clack St, Abilene";s:5:"info2";s:7:"Seafood";s:7:"address";s:24:"1882 S Clack St, Abilene";}

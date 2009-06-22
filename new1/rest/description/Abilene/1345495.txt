@@ -1,0 +1,1 @@
+a:5:{s:3:"url";s:74:"http://www.urbanspoon.com/r/77/1345495/restaurant/Chilis-Grill-Bar-Abilene";s:4:"name";s:23:"Chili's Grill &amp; Bar";s:2:"id";s:7:"1345495";s:4:"info";s:24:"4302 S Clack St, Abilene";s:7:"address";s:24:"4302 S Clack St, Abilene";}

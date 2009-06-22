@@ -1,0 +1,3 @@
+a:6:{s:3:"url";s:74:"http://www.urbanspoon.com/r/77/791157/restaurant/Long-John-Silvers-Abilene";s:4:"name";s:18:"Long John Silver's";s:2:"id";s:6:"791157";s:4:"info";s:82:"Seafood - <br />
+                <br />
+                  301 Westwood Dr, Abilene";s:5:"info2";s:7:"Seafood";s:7:"address";s:24:"301 Westwood Dr, Abilene";}

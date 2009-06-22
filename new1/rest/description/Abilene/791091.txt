@@ -1,0 +1,1 @@
+a:5:{s:3:"url";s:95:"http://www.urbanspoon.com/r/77/791091/restaurant/David-N-Beard-Enterprises-Incorporated-Abilene";s:4:"name";s:38:"David N Beard Enterprises Incorporated";s:2:"id";s:6:"791091";s:4:"info";s:19:"841 Oak St, Abilene";s:7:"address";s:19:"841 Oak St, Abilene";}

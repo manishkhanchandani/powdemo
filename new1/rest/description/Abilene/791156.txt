@@ -1,0 +1,1 @@
+a:5:{s:3:"url";s:68:"http://www.urbanspoon.com/r/77/791156/restaurant/Long-Branch-Abilene";s:4:"name";s:11:"Long Branch";s:2:"id";s:6:"791156";s:4:"info";s:22:"3525 N 6th St, Abilene";s:7:"address";s:22:"3525 N 6th St, Abilene";}

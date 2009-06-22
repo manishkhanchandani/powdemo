@@ -1,0 +1,1 @@
+a:5:{s:3:"url";s:73:"http://www.urbanspoon.com/r/77/791154/restaurant/Logans-Roadhouse-Abilene";s:4:"name";s:17:"Logan's Roadhouse";s:2:"id";s:6:"791154";s:4:"info";s:24:"3126 S Clack St, Abilene";s:7:"address";s:24:"3126 S Clack St, Abilene";}

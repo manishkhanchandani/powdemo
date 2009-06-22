@@ -1,0 +1,1 @@
+a:5:{s:3:"url";s:75:"http://www.urbanspoon.com/r/77/791329/restaurant/Abilene/Jiffy-Lunch-Hawley";s:4:"name";s:11:"Jiffy Lunch";s:2:"id";s:6:"791329";s:4:"info";s:18:"765 3RD St, Hawley";s:7:"address";s:18:"765 3RD St, Hawley";}

@@ -1,0 +1,1 @@
+a:5:{s:3:"url";s:84:"http://www.urbanspoon.com/r/77/791310/restaurant/Abilene/Deepn-The-Heart-Buffalo-Gap";s:4:"name";s:16:"Deep'n The Heart";s:2:"id";s:6:"791310";s:4:"info";s:31:"402 North St Ste A, Buffalo Gap";s:7:"address";s:31:"402 North St Ste A, Buffalo Gap";}

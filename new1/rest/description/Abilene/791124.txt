@@ -1,0 +1,1 @@
+a:5:{s:3:"url";s:84:"http://www.urbanspoon.com/r/77/791124/restaurant/J-C-Harwells-Restaurant-Bar-Abilene";s:4:"name";s:34:"J C Harwell's Restaurant &amp; Bar";s:2:"id";s:6:"791124";s:4:"info";s:22:"3370 N 1st St, Abilene";s:7:"address";s:22:"3370 N 1st St, Abilene";}

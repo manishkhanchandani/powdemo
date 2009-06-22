@@ -1,0 +1,1 @@
+a:5:{s:3:"url";s:69:"http://www.urbanspoon.com/r/77/791121/restaurant/Hitchin-Post-Abilene";s:4:"name";s:13:"Hitchin' Post";s:2:"id";s:6:"791121";s:4:"info";s:30:"2534 S Treadaway Blvd, Abilene";s:7:"address";s:30:"2534 S Treadaway Blvd, Abilene";}

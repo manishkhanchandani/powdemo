@@ -1,0 +1,1 @@
+a:5:{s:3:"url";s:66:"http://www.urbanspoon.com/r/77/791155/restaurant/Lone-Star-Abilene";s:4:"name";s:9:"Lone Star";s:2:"id";s:6:"791155";s:4:"info";s:24:"541 Arnold Blvd, Abilene";s:7:"address";s:24:"541 Arnold Blvd, Abilene";}

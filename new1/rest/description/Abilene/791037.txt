@@ -1,0 +1,3 @@
+a:6:{s:3:"url";s:68:"http://www.urbanspoon.com/r/77/791037/restaurant/Buffet-City-Abilene";s:4:"name";s:11:"Buffet City";s:2:"id";s:6:"791037";s:4:"info";s:93:"Buffet and Chinese - <br />
+                <br />
+                  3226 S Clack St, Abilene";s:5:"info2";s:18:"Buffet and Chinese";s:7:"address";s:24:"3226 S Clack St, Abilene";}

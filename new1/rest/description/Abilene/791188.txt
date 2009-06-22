@@ -1,0 +1,1 @@
+a:5:{s:3:"url";s:84:"http://www.urbanspoon.com/r/77/791188/restaurant/Patterson-Family-Restaurant-Abilene";s:4:"name";s:27:"Patterson Family Restaurant";s:2:"id";s:6:"791188";s:4:"info";s:22:"4116 N 1st St, Abilene";s:7:"address";s:22:"4116 N 1st St, Abilene";}

@@ -1,0 +1,3 @@
+a:6:{s:3:"url";s:79:"http://www.urbanspoon.com/r/77/791275/restaurant/Towne-Crier-Steakhouse-Abilene";s:4:"name";s:22:"Towne Crier Steakhouse";s:2:"id";s:6:"791275";s:4:"info";s:89:"Steakhouse - <br />
+                <br />
+                  818 Us Highway 80 E, Abilene";s:5:"info2";s:10:"Steakhouse";s:7:"address";s:28:"818 Us Highway 80 E, Abilene";}

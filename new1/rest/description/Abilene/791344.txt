@@ -1,0 +1,3 @@
+a:6:{s:3:"url";s:74:"http://www.urbanspoon.com/r/77/791344/restaurant/Abilene/Homeplace-Tuscola";s:4:"name";s:9:"Homeplace";s:2:"id";s:6:"791344";s:4:"info";s:88:"American - <br />
+                <br />
+                  2034 County Road 131, Tuscola";s:5:"info2";s:8:"American";s:7:"address";s:29:"2034 County Road 131, Tuscola";}

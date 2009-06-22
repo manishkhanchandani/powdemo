@@ -1,0 +1,3 @@
+a:6:{s:3:"url";s:71:"http://www.urbanspoon.com/r/77/791226/restaurant/Sonic-Drive-in-Abilene";s:4:"name";s:14:"Sonic Drive-in";s:2:"id";s:6:"791226";s:4:"info";s:110:"Burgers and Fast Food - <br />
+                <br />
+                  202 North Judge Ely Boulevard, Abilene";s:5:"info2";s:21:"Burgers and Fast Food";s:7:"address";s:38:"202 North Judge Ely Boulevard, Abilene";}

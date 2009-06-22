@@ -1,0 +1,1 @@
+a:5:{s:3:"url";s:81:"http://www.urbanspoon.com/r/77/791341/restaurant/Abilene/Skeet-Texas-Grill-Merkel";s:4:"name";s:17:"Skeet Texas Grill";s:2:"id";s:6:"791341";s:4:"info";s:21:"1207 N 7th St, Merkel";s:7:"address";s:21:"1207 N 7th St, Merkel";}

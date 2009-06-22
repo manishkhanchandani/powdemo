@@ -1,0 +1,1 @@
+a:5:{s:3:"url";s:79:"http://www.urbanspoon.com/r/77/791327/restaurant/Abilene/Grannys-Kitchen-Hawley";s:4:"name";s:16:"Granny's Kitchen";s:2:"id";s:6:"791327";s:4:"info";s:20:"735 Avenue E, Hawley";s:7:"address";s:20:"735 Avenue E, Hawley";}

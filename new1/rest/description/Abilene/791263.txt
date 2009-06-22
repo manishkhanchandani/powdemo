@@ -1,0 +1,3 @@
+a:6:{s:3:"url";s:72:"http://www.urbanspoon.com/r/77/791263/restaurant/Taqueria-Mexico-Abilene";s:4:"name";s:15:"Taqueria Mexico";s:2:"id";s:6:"791263";s:4:"info";s:86:"Tacos - <br />
+                <br />
+                  1220 N Treadaway Blvd, Abilene";s:5:"info2";s:5:"Tacos";s:7:"address";s:30:"1220 N Treadaway Blvd, Abilene";}

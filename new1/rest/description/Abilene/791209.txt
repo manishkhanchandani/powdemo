@@ -1,0 +1,1 @@
+a:5:{s:3:"url";s:68:"http://www.urbanspoon.com/r/77/791209/restaurant/Redmoon-Bar-Abilene";s:4:"name";s:11:"Redmoon Bar";s:2:"id";s:6:"791209";s:4:"info";s:22:"2442 S 7th St, Abilene";s:7:"address";s:22:"2442 S 7th St, Abilene";}

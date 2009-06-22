@@ -1,0 +1,3 @@
+a:6:{s:3:"url";s:93:"http://www.urbanspoon.com/r/77/791297/restaurant/Abilene/Maggies-Authentic-Mexican-Cafe-Anson";s:4:"name";s:31:"Maggie's Authentic Mexican Cafe";s:2:"id";s:6:"791297";s:4:"info";s:83:"Mexican - <br />
+                <br />
+                  132 Commercial Ave, Anson";s:5:"info2";s:7:"Mexican";s:7:"address";s:25:"132 Commercial Ave, Anson";}

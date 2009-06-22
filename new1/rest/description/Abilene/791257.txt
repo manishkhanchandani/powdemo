@@ -1,0 +1,3 @@
+a:6:{s:3:"url";s:66:"http://www.urbanspoon.com/r/77/791257/restaurant/Taco-Bell-Abilene";s:4:"name";s:9:"Taco Bell";s:2:"id";s:6:"791257";s:4:"info";s:106:"Tacos, Mexican and Fast Food - <br />
+                <br />
+                  4165 S Danville Dr, Abilene";s:5:"info2";s:28:"Tacos, Mexican and Fast Food";s:7:"address";s:27:"4165 S Danville Dr, Abilene";}

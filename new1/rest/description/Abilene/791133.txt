@@ -1,0 +1,1 @@
+a:5:{s:3:"url";s:66:"http://www.urbanspoon.com/r/77/791133/restaurant/Java-City-Abilene";s:4:"name";s:9:"Java City";s:2:"id";s:6:"791133";s:4:"info";s:24:"1265 Ambler Ave, Abilene";s:7:"address";s:24:"1265 Ambler Ave, Abilene";}

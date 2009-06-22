@@ -1,0 +1,1 @@
+a:5:{s:3:"url";s:93:"http://www.urbanspoon.com/r/77/791199/restaurant/Powers-Jack-Branding-Iron-Restaurant-Abilene";s:4:"name";s:39:"Powers, Jack - Branding Iron Restaurant";s:2:"id";s:6:"791199";s:4:"info";s:30:"2234 N Treadaway Blvd, Abilene";s:7:"address";s:30:"2234 N Treadaway Blvd, Abilene";}

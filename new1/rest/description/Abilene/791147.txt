@@ -1,0 +1,1 @@
+a:5:{s:3:"url";s:68:"http://www.urbanspoon.com/r/77/791147/restaurant/La-Ranchera-Abilene";s:4:"name";s:11:"La Ranchera";s:2:"id";s:6:"791147";s:4:"info";s:24:"2550 Ambler Ave, Abilene";s:7:"address";s:24:"2550 Ambler Ave, Abilene";}

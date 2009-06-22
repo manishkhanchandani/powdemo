@@ -1,0 +1,1 @@
+a:5:{s:3:"url";s:71:"http://www.urbanspoon.com/r/77/791023/restaurant/Bedford-Street-Abilene";s:4:"name";s:14:"Bedford Street";s:2:"id";s:6:"791023";s:4:"info";s:24:"1882 S Clack St, Abilene";s:7:"address";s:24:"1882 S Clack St, Abilene";}

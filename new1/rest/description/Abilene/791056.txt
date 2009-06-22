@@ -1,0 +1,3 @@
+a:6:{s:3:"url";s:68:"http://www.urbanspoon.com/r/77/791056/restaurant/Chick-fil-A-Abilene";s:4:"name";s:11:"Chick-fil-A";s:2:"id";s:6:"791056";s:4:"info";s:97:"Fast Food - <br />
+                <br />
+                  4310 Buffalo Gap Rd Ste 1442, Abilene";s:5:"info2";s:9:"Fast Food";s:7:"address";s:37:"4310 Buffalo Gap Rd Ste 1442, Abilene";}

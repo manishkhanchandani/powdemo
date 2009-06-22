@@ -1,0 +1,3 @@
+a:6:{s:3:"url";s:68:"http://www.urbanspoon.com/r/77/791201/restaurant/Quiznos-Sub-Abilene";s:4:"name";s:11:"Quiznos Sub";s:2:"id";s:6:"791201";s:4:"info";s:83:"Fast Food - <br />
+                <br />
+                  3365 S 14th St, Abilene";s:5:"info2";s:9:"Fast Food";s:7:"address";s:23:"3365 S 14th St, Abilene";}

@@ -1,0 +1,3 @@
+a:6:{s:3:"url";s:87:"http://www.urbanspoon.com/r/77/791145/restaurant/La-Popular-Bakery-Burrito-Stop-Abilene";s:4:"name";s:30:"La Popular Bakery Burrito Stop";s:2:"id";s:6:"791145";s:4:"info";s:99:"Bakery and Mexican - <br />
+                <br />
+                  3001 S Treadaway Blvd, Abilene";s:5:"info2";s:18:"Bakery and Mexican";s:7:"address";s:30:"3001 S Treadaway Blvd, Abilene";}

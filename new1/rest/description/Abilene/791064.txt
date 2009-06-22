@@ -1,0 +1,3 @@
+a:6:{s:3:"url";s:72:"http://www.urbanspoon.com/r/77/791064/restaurant/Chinese-Kitchen-Abilene";s:4:"name";s:15:"Chinese Kitchen";s:2:"id";s:6:"791064";s:4:"info";s:80:"Chinese - <br />
+                <br />
+                  3398 N 1st St, Abilene";s:5:"info2";s:7:"Chinese";s:7:"address";s:22:"3398 N 1st St, Abilene";}

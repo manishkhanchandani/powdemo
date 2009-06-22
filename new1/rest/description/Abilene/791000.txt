@@ -1,0 +1,3 @@
+a:6:{s:3:"url";s:73:"http://www.urbanspoon.com/r/77/791000/restaurant/814-Texas-Bistro-Abilene";s:4:"name";s:16:"814 Texas Bistro";s:2:"id";s:6:"791000";s:4:"info";s:77:"French - <br />
+                <br />
+                  713 High St, Abilene";s:5:"info2";s:6:"French";s:7:"address";s:20:"713 High St, Abilene";}

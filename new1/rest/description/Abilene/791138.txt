@@ -1,0 +1,1 @@
+a:5:{s:3:"url";s:78:"http://www.urbanspoon.com/r/77/791138/restaurant/Johnnies-Po-Boy-Shack-Abilene";s:4:"name";s:21:"Johnnies Po-Boy Shack";s:2:"id";s:6:"791138";s:4:"info";s:23:"6117 Texas Ave, Abilene";s:7:"address";s:23:"6117 Texas Ave, Abilene";}

@@ -1,0 +1,1 @@
+a:5:{s:3:"url";s:76:"http://www.urbanspoon.com/r/77/791080/restaurant/Country-Corner-Cafe-Abilene";s:4:"name";s:19:"Country Corner Cafe";s:2:"id";s:6:"791080";s:4:"info";s:31:"743 E State Highway 36, Abilene";s:7:"address";s:31:"743 E State Highway 36, Abilene";}
