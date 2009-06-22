@@ -86,6 +86,7 @@ if ($handle = opendir($dirname)) {
 						echo "<br>";
 					}
 				}
+				exit;
 			}
 		}
 	}
