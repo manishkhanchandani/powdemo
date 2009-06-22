@@ -110,5 +110,11 @@ class Crawler {
 			exit;
 		}
 	}
+	
+	public function getHotelListingHTML($input) {
+		$regexp = "<table.*id=\"r\-t\".*>(.*)<\/table>";
+		$matches = $this->regexp($regexp, $input);
+		return $matches[0][1];
+	}
 }
 ?>
