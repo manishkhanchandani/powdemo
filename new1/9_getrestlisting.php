@@ -16,29 +16,29 @@ if ($handle = opendir($dirname)) {
 			$dirname2 = $dirname."/".$file;
 			
 			$folder = $file;
-			if(!is_dir('restaurants/listing/'.$folder)) {
+			if(!is_dir('rest/listing/'.$folder)) {
 				echo 'Creating folder '.$folder.' in listing folder';
 				echo '<br>';
-				mkdir('restaurants/listing/'.$folder,0777);
-				chmod('restaurants/listing/'.$folder,0777);
+				mkdir('rest/listing/'.$folder,0777);
+				chmod('rest/listing/'.$folder,0777);
 			}
-			if(!is_dir('restaurants/pages/'.$folder)) {
+			if(!is_dir('rest/pages/'.$folder)) {
 				echo 'Creating folder '.$folder.' in pages folder';
 				echo '<br>';
-				mkdir('restaurants/pages/'.$folder,0777);
-				chmod('restaurants/pages/'.$folder,0777);
+				mkdir('rest/pages/'.$folder,0777);
+				chmod('rest/pages/'.$folder,0777);
 			}
-			if(!is_dir('restaurants/details/'.$folder)) {
+			if(!is_dir('rest/details/'.$folder)) {
 				echo 'Creating folder '.$folder.' in details folder';
 				echo '<br>';
-				mkdir('restaurants/details/'.$folder,0777);
-				chmod('restaurants/details/'.$folder,0777);
+				mkdir('rest/details/'.$folder,0777);
+				chmod('rest/details/'.$folder,0777);
 			}
-			if(!is_dir('restaurants/description/'.$folder)) {
+			if(!is_dir('rest/description/'.$folder)) {
 				echo 'Creating folder '.$folder.' in description folder';
 				echo '<br>';
-				mkdir('restaurants/description/'.$folder,0777);
-				chmod('restaurants/description/'.$folder,0777);
+				mkdir('rest/description/'.$folder,0777);
+				chmod('rest/description/'.$folder,0777);
 			}
 			
 			if ($handle = opendir($dirname2)) {
@@ -81,19 +81,22 @@ if ($handle = opendir($dirname)) {
 							echo $pgUrl."<br>";				
 							flush();
 							if($page>0) {
-								if(!file_exists('restaurants/listing/'.$folder."/".$baseName."-".$page.".html")) {
+								if(!file_exists('rest/listing/'.$folder."/".$baseName."-".$page.".html")) {
 									$input3 = file_get_contents($pgUrl);
-									file_put_contents('restaurants/listing/'.$folder."/".$baseName."-".$page.".html", $input3);
+									if(!$input3) {
+										echo 'cannot get file '.$pgUrl.' <br>';exit;
+									}
+									file_put_contents('rest/listing/'.$folder."/".$baseName."-".$page.".html", $input3);
 								}					
 								$input4 = $Crawler->getHotelListingHTML($input3);
 							} else {
-								if(!file_exists('restaurants/listing/'.$folder."/".$baseName."-".$page.".html")) {
-									file_put_contents('restaurants/listing/'.$folder."/".$baseName."-".$page.".html", $input);
+								if(!file_exists('rest/listing/'.$folder."/".$baseName."-".$page.".html")) {
+									file_put_contents('rest/listing/'.$folder."/".$baseName."-".$page.".html", $input);
 								}
 								$input4 = $Crawler->getHotelListingHTML($input);				
 							}
-							if(!file_exists('restaurants/pages/'.$folder."/".$baseName."-".$page.".html")) {
-								file_put_contents('restaurants/pages/'.$folder."/".$baseName."-".$page.".html", $input4);
+							if(!file_exists('rest/pages/'.$folder."/".$baseName."-".$page.".html")) {
+								file_put_contents('rest/pages/'.$folder."/".$baseName."-".$page.".html", $input4);
 							}
 						}	
 						//echo '<h1>sleeping for 15 secs</h1>';
