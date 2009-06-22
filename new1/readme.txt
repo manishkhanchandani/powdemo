@@ -12,6 +12,9 @@ run following php file to get pagination listing of all neighbours and save it i
 script to save restaurant listing in array in folder rest/description
 10_gethotellistinglimited.php
 
+script to fetch detail page
+11_getdetail.php
+
 
 
 write a script to get description of restaurants and save it in description folder
