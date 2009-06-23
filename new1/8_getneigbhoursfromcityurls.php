@@ -57,7 +57,7 @@ if ($handle = opendir($dirname)) {
 							echo "ITEM ($item): ";
 							$Crawler->changeip();
 						} else {
-							echo "ITEMs ($item): ";
+							echo "items ($item): ";
 						}
 						echo "<br>";
 						$fs = file_get_contents($arr[$k]['url']);
