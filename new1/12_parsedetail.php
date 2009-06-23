@@ -51,8 +51,13 @@ if ($handle = opendir($dirname)) {
 				echo '<br>';
 				mkdir('rest/finalxml/'.$folder,0777);
 				chmod('rest/finalxml/'.$folder,0777);
+			}			
+			if(!is_dir('rest/finalxmlreviews/'.$folder)) {
+				echo 'Creating folder '.$folder.' in finalxmlreviews folder';
+				echo '<br>';
+				mkdir('rest/finalxmlreviews/'.$folder,0777);
+				chmod('rest/finalxmlreviews/'.$folder,0777);
 			}
-			
 			if ($handle = opendir($dirname2)) {
 				/* This is the correct way to loop over the directory. */
 				while (false !== ($file2 = readdir($handle))) {
@@ -62,31 +67,44 @@ if ($handle = opendir($dirname)) {
 						echo $file3 = $dirname2."/".$file2;
 						echo "<br>";	
 						$input = file_get_contents($file3);	
-						echo $baseName = str_replace(".html", ".txt", basename($file3));
-						echo $baseName2 = str_replace(".html", "", basename($file3));
+						$baseName = str_replace(".html", ".txt", basename($file3));
+						$baseNameXML = str_replace(".html", ".xml", basename($file3));
+						$baseName2 = str_replace(".html", "", basename($file3));
 						echo "<br>";
 						$array = $Crawler->parseDetails($input);
+						
+						if(!$array) {
+							echo 'could not parse on line '.__LINE__;
+							exit;
+						}
+						
+						$array['folder'] = $folder;
 						$array['id'] = $baseName2;
 						$array['rid'] = $array['country']."/".$array['province']."/".$array['city']."/".$array['folder'];
 						$string = serialize($array);
-						echo $string;
-						echo "<pre>";
 						print_r($array);
+						$Crawler->insertRestaurant($array);
 						$xml = $Crawler->createXmlString($array);
-						echo htmlentities($xml);
-						exit;
-						continue;
-						exit;
+						
 						if(!file_exists('rest/details/'.$folder.'/'.$baseName)) {
-							$string = $Crawler->parseDetails($input);
-							if(!$string) {
-								echo 'could not parse on line '.__LINE__;
-								exit;
-							}
 							file_put_contents('rest/details/'.$folder.'/'.$baseName, $string);
-							echo 'rest/detailpages/'.$folder.'/'.$baseName.' created.<br>';
+							echo 'rest/detail/'.$folder.'/'.$baseName.' created.<br>';
 						} else {
-							echo 'rest/detailpages/'.$folder.'/'.$baseName.' already exists.<br>';
+							echo 'rest/detail/'.$folder.'/'.$baseName.' already exists.<br>';
+						}
+						if(!file_exists('rest/finalxml/'.$folder.'/'.$baseNameXML)) {
+							file_put_contents('rest/finalxml/'.$folder.'/'.$baseNameXML, $xml['data']);
+							echo 'rest/finalxml/'.$folder.'/'.$baseNameXML.' created.<br>';
+						} else {
+							echo 'rest/finalxml/'.$folder.'/'.$baseNameXML.' already exists.<br>';
+						}
+						if($xml['criticreviews']) {
+							if(!file_exists('rest/finalxmlreviews/'.$folder.'/'.$baseNameXML)) {
+								file_put_contents('rest/finalxmlreviews/'.$folder.'/'.$baseNameXML, $xml['criticreviews']);
+								echo 'rest/finalxmlreviews/'.$folder.'/'.$baseNameXML.' created.<br>';
+							} else {
+								echo 'rest/finalxmlreviews/'.$folder.'/'.$baseNameXML.' already exists.<br>';
+							}
 						}
 						flush();
 						//sleep(15);

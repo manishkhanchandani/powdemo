@@ -235,13 +235,31 @@ class Crawler {
 				$matches2 = $this->regexp($regexp, $info2);
 				$arr['critic-reviews'][$k]['date'] = $matches2[0][1];
 				$arr['critic-reviews'][$k]['desc'] = trim($matches2[0][2]);
+				if(!$arr['critic-reviews'][$k]['desc']) {
+					$regexp = "<\/span>.*<br\/>(.*)<br\/>";
+					$matches2 = $Crawler->regexp($regexp, $info2);
+					$arr['critic-reviews'][$k]['desc'] = trim($matches2[0][1]);
+				}
 			}
 		}
 		return $arr;
 	}
+	public function insertRestaurant($post) {
+		// insert into restaurant
+		if($post['cusine']) {
+			$cuisine = implode("|",$post['cusine']);
+		} else {
+			$cuisine = "";
+		}
+		$sql = "INSERT INTO `restaurants` ( `id` , `rid` , `state` , `city` , `address` , `neighborhood` , `country` , `location` ,`phone` , `zip` , `linktext` , `title` ,`full_neighborhood` , `full_city` , `pricerange` , `dollarcount` , `cusine` ) VALUES ( '".addslashes(stripslashes(trim($post['id'])))."', '".addslashes(stripslashes(trim($post['rid'])))."' , '".addslashes(stripslashes(trim($post['province'])))."' , '".addslashes(stripslashes(trim($post['city'])))."' , '".addslashes(stripslashes(trim($post['streeaddr'])))."' , '".addslashes(stripslashes(trim($post['folder'])))."' , '".addslashes(stripslashes(trim($post['country'])))."' , '".addslashes(stripslashes(trim($post['city']))).", ".addslashes(stripslashes(trim($post['province'])))."', '".addslashes(stripslashes(trim($post['phone'])))."' , '".addslashes(stripslashes(trim($post['zip'])))."' , '".addslashes(stripslashes(trim($post['linktext'])))."' , '".addslashes(stripslashes(trim($post['title'])))."' , '".addslashes(stripslashes(trim($post['folder'].", ".$post['city'].", ".$post['province'])))."' , '".addslashes(stripslashes(trim($post['city'].", ".$post['province'])))."' , '".addslashes(stripslashes(trim($post['pricerange'])))."' , '".addslashes(stripslashes(trim($post['dollarcount'])))."' , '".addslashes(stripslashes(trim($cuisine)))."' )";
+		echo $sql;
+		@mysql_query($sql);
+		$ID = mysql_insert_id();
+		// insert into reviews
+	}
 	
 	public function createXmlString($post) {
-$xml = "<add>
+$xml['data'] = "<add>
 <doc>
 <field name='id'>".$post['id']."</field>
 <field name='rid'>".$post['rid']."</field>
@@ -252,26 +270,36 @@ $xml = "<add>
 ";
 if($post['cusine']) {
 	foreach($post['cusine'] as $cuisine) {
-		$xml .= "<field name='cuisine'>".$cuisine."</field>
+		$xml['data'] .= "<field name='cuisine'>".$cuisine."</field>
 ";
 	}
 }
-$xml .= "<field name='country'>".$post['country']."</field>
+$xml['data'] .= "<field name='country'>".$post['country']."</field>
 <field name='location'>".$post['country']."/".$post['province']."/".$post['city']."</field>
 <field name='phone'>".$post['phone']."</field>
 <field name='zip'>".$post['zip']."</field>
+<field name='linktext'>".$post['linktext']."</field>
 <field name='title'>".$post['title']."</field>
 <field name='full_neighborhood'>".$post['folder'].", ".$post['city'].", ".$post['province']."</field>
 <field name='full_city'>".$post['city'].", ".$post['province']."</field>
 ";
+$xml['data'] .="</doc>
+</add>";
 if($post['critic-reviews']) {
+$xml['criticreviews'] = "<add>
+<doc>
+<field name='id'>".$post['id']."</field>
+";
 	foreach($post['critic-reviews'] as $reviews) {
-		$xml .= "<field name='critic-reviews'>".$reviews['score']."/".$reviews['date']."/".$reviews['date']."/".$reviews['date']."</field>
+		$xml['criticreviews'] .= "<field name='score'>".$reviews['score']."</field>
+<field name='date'>".$reviews['date']."</field>
+<field name='url'>".$reviews['title']."</field>
+<field name='desc'>".$reviews['desc']."</field>
 ";
 	}
-}
-$xml .="</doc>
+$xml['criticreviews'] .="</doc>
 </add>";
+}
 		return $xml;
 	}
 }
