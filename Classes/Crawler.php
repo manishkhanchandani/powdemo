@@ -32,8 +32,8 @@ class Crawler {
 		echo "<br>";
 		$ipfilename = "c:\ip\rel".($this->counter).'.txt';
 		echo $ipfilename;
+		exec("netsh -f c:\\\ip\\\rel".($this->counter).".txt");
 		exit;
-		exec("netsh -f $ipfilename");
 	}
 
 	public function getListing($input) {
