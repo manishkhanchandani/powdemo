@@ -1,3 +1,0 @@
-a:7:{s:3:"url";s:77:"http://www.urbanspoon.com/r/77/791152/restaurant/Little-Caesars-Pizza-Abilene";s:4:"name";s:20:"Little Caesars Pizza";s:2:"id";s:6:"791152";s:4:"info";s:78:"Pizza - <br />
-                <br />
-                  4565 S 1st St, Abilene";s:5:"info2";s:5:"Pizza";s:7:"address";s:22:"4565 S 1st St, Abilene";s:6:"folder";s:7:"Abilene";}

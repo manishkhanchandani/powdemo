@@ -1,3 +1,0 @@
-a:7:{s:3:"url";s:82:"http://www.urbanspoon.com/r/77/1348085/restaurant/Abilene/Big-Gs-Steak-BBQ-Tuscola";s:4:"name";s:23:"Big G's Steak &amp; BBQ";s:2:"id";s:7:"1348085";s:4:"info";s:81:"Barbecue - <br />
-                <br />
-                  802 Garza Ave, Tuscola";s:5:"info2";s:8:"Barbecue";s:7:"address";s:22:"802 Garza Ave, Tuscola";s:6:"folder";s:7:"Abilene";}

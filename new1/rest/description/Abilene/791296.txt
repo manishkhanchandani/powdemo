@@ -1,1 +1,0 @@
-a:6:{s:3:"url";s:74:"http://www.urbanspoon.com/r/77/791296/restaurant/Abilene/La-Pasadita-Anson";s:4:"name";s:11:"La Pasadita";s:2:"id";s:6:"791296";s:4:"info";s:25:"132 Commercial Ave, Anson";s:7:"address";s:25:"132 Commercial Ave, Anson";s:6:"folder";s:7:"Abilene";}

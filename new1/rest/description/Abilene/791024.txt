@@ -1,3 +1,0 @@
-a:7:{s:3:"url";s:95:"http://www.urbanspoon.com/r/77/791024/restaurant/Bedford-William-Abilene-Deli-Coffee-Co-Abilene";s:4:"name";s:47:"Bedford, William - Abilene Deli &amp; Coffee Co";s:2:"id";s:6:"791024";s:4:"info";s:101:"Coffee and Sandwiches/Subs - <br />
-                <br />
-                  4717 Catclaw Dr, Abilene";s:5:"info2";s:26:"Coffee and Sandwiches/Subs";s:7:"address";s:24:"4717 Catclaw Dr, Abilene";s:6:"folder";s:7:"Abilene";}

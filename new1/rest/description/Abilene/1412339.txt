@@ -1,3 +1,0 @@
-a:7:{s:3:"url";s:83:"http://www.urbanspoon.com/r/77/1412339/restaurant/Oscars-Mexican-Restaurant-Abilene";s:4:"name";s:26:"Oscar's Mexican Restaurant";s:2:"id";s:7:"1412339";s:4:"info";s:78:"Mexican - <br />
-                <br />
-                  1665 Hwy 31, Abilene";s:5:"info2";s:7:"Mexican";s:7:"address";s:20:"1665 Hwy 31, Abilene";s:6:"folder";s:7:"Abilene";}

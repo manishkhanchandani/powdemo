@@ -1,1 +1,0 @@
-a:6:{s:3:"url";s:76:"http://www.urbanspoon.com/r/77/791331/restaurant/Abilene/Brew-Buckets-Merkel";s:4:"name";s:12:"Brew Buckets";s:2:"id";s:6:"791331";s:4:"info";s:27:"407 County Road 287, Merkel";s:7:"address";s:27:"407 County Road 287, Merkel";s:6:"folder";s:7:"Abilene";}

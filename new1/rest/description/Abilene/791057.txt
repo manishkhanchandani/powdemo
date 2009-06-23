@@ -1,1 +1,0 @@
-a:6:{s:3:"url";s:72:"http://www.urbanspoon.com/r/77/791057/restaurant/Chicken-Express-Abilene";s:4:"name";s:15:"Chicken Express";s:2:"id";s:6:"791057";s:4:"info";s:23:"1034 N 10TH St, Abilene";s:7:"address";s:23:"1034 N 10TH St, Abilene";s:6:"folder";s:7:"Abilene";}

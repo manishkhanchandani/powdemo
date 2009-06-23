@@ -1,3 +1,0 @@
-a:7:{s:3:"url";s:63:"http://www.urbanspoon.com/r/77/791247/restaurant/Subway-Abilene";s:4:"name";s:6:"Subway";s:2:"id";s:6:"791247";s:4:"info";s:108:"Sandwiches/Subs and Fast Food - <br />
-                <br />
-                  4498 Buffalo Gap Rd, Abilene";s:5:"info2";s:29:"Sandwiches/Subs and Fast Food";s:7:"address";s:28:"4498 Buffalo Gap Rd, Abilene";s:6:"folder";s:7:"Abilene";}

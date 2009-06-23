@@ -1,3 +1,0 @@
-a:7:{s:3:"url";s:95:"http://www.urbanspoon.com/r/77/791216/restaurant/Rosas-Cafe-Tortilla-Factory-Catclaw-Dr-Abilene";s:4:"name";s:48:"Rosa's Cafe &amp; Tortilla Factory (Catclaw Dr.)";s:2:"id";s:6:"791216";s:4:"info";s:82:"Mexican - <br />
-                <br />
-                  3333 Catclaw Dr, Abilene";s:5:"info2";s:7:"Mexican";s:7:"address";s:24:"3333 Catclaw Dr, Abilene";s:6:"folder";s:7:"Abilene";}

@@ -1,3 +1,0 @@
-a:7:{s:3:"url";s:85:"http://www.urbanspoon.com/r/77/791009/restaurant/Alfredos-Mexican-Food-S-14th-Abilene";s:4:"name";s:32:"Alfredo's Mexican Food (S. 14th)";s:2:"id";s:6:"791009";s:4:"info";s:81:"Mexican - <br />
-                <br />
-                  2849 S 14th St, Abilene";s:5:"info2";s:7:"Mexican";s:7:"address";s:23:"2849 S 14th St, Abilene";s:6:"folder";s:7:"Abilene";}

@@ -1,1 +1,0 @@
-a:6:{s:3:"url";s:65:"http://www.urbanspoon.com/r/77/791070/restaurant/Club-325-Abilene";s:4:"name";s:8:"Club 325";s:2:"id";s:6:"791070";s:4:"info";s:21:"201 CEDAR St, Abilene";s:7:"address";s:21:"201 CEDAR St, Abilene";s:6:"folder";s:7:"Abilene";}

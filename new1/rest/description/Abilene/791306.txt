@@ -1,1 +1,0 @@
-a:6:{s:3:"url";s:84:"http://www.urbanspoon.com/r/77/791306/restaurant/Abilene/Shady-Oaks-Restaurant-Baird";s:4:"name";s:21:"Shady Oaks Restaurant";s:2:"id";s:6:"791306";s:4:"info";s:27:"3542 County Road 268, Baird";s:7:"address";s:27:"3542 County Road 268, Baird";s:6:"folder";s:7:"Abilene";}

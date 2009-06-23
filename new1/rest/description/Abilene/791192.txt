@@ -1,3 +1,0 @@
-a:7:{s:3:"url";s:66:"http://www.urbanspoon.com/r/77/791192/restaurant/Pizza-Hut-Abilene";s:4:"name";s:9:"Pizza Hut";s:2:"id";s:6:"791192";s:4:"info";s:94:"Pizza and Fast Food - <br />
-                <br />
-                  4304 S Clack St, Abilene";s:5:"info2";s:19:"Pizza and Fast Food";s:7:"address";s:24:"4304 S Clack St, Abilene";s:6:"folder";s:7:"Abilene";}

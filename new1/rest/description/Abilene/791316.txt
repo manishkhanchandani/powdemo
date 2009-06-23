@@ -1,3 +1,0 @@
-a:7:{s:3:"url";s:74:"http://www.urbanspoon.com/r/77/791316/restaurant/Abilene/Dairy-Queen-Clyde";s:4:"name";s:11:"Dairy Queen";s:2:"id";s:6:"791316";s:4:"info";s:84:"Fast Food - <br />
-                <br />
-                  I-20 AT Cherry Ln, Clyde";s:5:"info2";s:9:"Fast Food";s:7:"address";s:24:"I-20 AT Cherry Ln, Clyde";s:6:"folder";s:7:"Abilene";}

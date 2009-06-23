@@ -1,3 +1,0 @@
-a:7:{s:3:"url";s:68:"http://www.urbanspoon.com/r/77/791207/restaurant/Red-Lobster-Abilene";s:4:"name";s:11:"Red Lobster";s:2:"id";s:6:"791207";s:4:"info";s:82:"Seafood - <br />
-                <br />
-                  1280 S Clack St, Abilene";s:5:"info2";s:7:"Seafood";s:7:"address";s:24:"1280 S Clack St, Abilene";s:6:"folder";s:7:"Abilene";}

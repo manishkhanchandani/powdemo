@@ -1,3 +1,0 @@
-a:7:{s:3:"url";s:67:"http://www.urbanspoon.com/r/77/1420109/restaurant/Blue-Taco-Abilene";s:4:"name";s:9:"Blue Taco";s:2:"id";s:7:"1420109";s:4:"info";s:86:"Mexican - <br />
-                <br />
-                  4500 Buffalo Gap Rd, Abilene";s:5:"info2";s:7:"Mexican";s:7:"address";s:28:"4500 Buffalo Gap Rd, Abilene";s:6:"folder";s:7:"Abilene";}

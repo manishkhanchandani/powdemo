@@ -1,1 +1,0 @@
-a:6:{s:3:"url";s:69:"http://www.urbanspoon.com/r/77/791111/restaurant/Golden-Chick-Abilene";s:4:"name";s:12:"Golden Chick";s:2:"id";s:6:"791111";s:4:"info";s:28:"5125 Buffalo Gap Rd, Abilene";s:7:"address";s:28:"5125 Buffalo Gap Rd, Abilene";s:6:"folder";s:7:"Abilene";}

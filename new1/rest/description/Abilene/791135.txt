@@ -1,3 +1,0 @@
-a:7:{s:3:"url";s:75:"http://www.urbanspoon.com/r/77/791135/restaurant/Joes-Italian-Grill-Abilene";s:4:"name";s:19:"Joe's Italian Grill";s:2:"id";s:6:"791135";s:4:"info";s:80:"Italian - <br />
-                <br />
-                  3905 S 1ST St, Abilene";s:5:"info2";s:7:"Italian";s:7:"address";s:22:"3905 S 1ST St, Abilene";s:6:"folder";s:7:"Abilene";}

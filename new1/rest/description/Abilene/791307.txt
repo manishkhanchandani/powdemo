@@ -1,3 +1,0 @@
-a:7:{s:3:"url";s:79:"http://www.urbanspoon.com/r/77/791307/restaurant/Abilene/U-Bar-Steakhouse-Baird";s:4:"name";s:16:"U Bar Steakhouse";s:2:"id";s:6:"791307";s:4:"info";s:90:"Steakhouse and Soups - <br />
-                <br />
-                  825 W 4TH St, Baird";s:5:"info2";s:20:"Steakhouse and Soups";s:7:"address";s:19:"825 W 4TH St, Baird";s:6:"folder";s:7:"Abilene";}

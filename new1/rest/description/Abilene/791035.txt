@@ -1,3 +1,0 @@
-a:7:{s:3:"url";s:87:"http://www.urbanspoon.com/r/77/791035/restaurant/Brick-Oven-Pizza-Co-of-Abilene-Abilene";s:4:"name";s:30:"Brick Oven Pizza Co of Abilene";s:2:"id";s:6:"791035";s:4:"info";s:79:"Pizza - <br />
-                <br />
-                  4714 S 14th St, Abilene";s:5:"info2";s:5:"Pizza";s:7:"address";s:23:"4714 S 14th St, Abilene";s:6:"folder";s:7:"Abilene";}

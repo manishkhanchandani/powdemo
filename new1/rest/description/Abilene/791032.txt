@@ -1,1 +1,0 @@
-a:6:{s:3:"url";s:72:"http://www.urbanspoon.com/r/77/791032/restaurant/Blue-Green-Cafe-Abilene";s:4:"name";s:15:"Blue Green Cafe";s:2:"id";s:6:"791032";s:4:"info";s:33:"1665 Antilley Rd Ste 220, Abilene";s:7:"address";s:33:"1665 Antilley Rd Ste 220, Abilene";s:6:"folder";s:7:"Abilene";}

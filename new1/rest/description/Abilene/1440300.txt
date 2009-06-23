@@ -1,3 +1,0 @@
-a:7:{s:3:"url";s:69:"http://www.urbanspoon.com/r/77/1440300/restaurant/Cajun-Cones-Abilene";s:4:"name";s:11:"Cajun Cones";s:2:"id";s:7:"1440300";s:4:"info";s:104:"Desserts/Ice Cream - <br />
-                <br />
-                  1001-1199 n judge ely blvd, Abilene";s:5:"info2";s:18:"Desserts/Ice Cream";s:7:"address";s:35:"1001-1199 n judge ely blvd, Abilene";s:6:"folder";s:7:"Abilene";}

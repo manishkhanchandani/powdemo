@@ -1,1 +1,0 @@
-a:6:{s:3:"url";s:61:"http://www.urbanspoon.com/r/77/791126/restaurant/J-Tz-Abilene";s:4:"name";s:5:"J T'z";s:2:"id";s:6:"791126";s:4:"info";s:22:"5477 S 7TH St, Abilene";s:7:"address";s:22:"5477 S 7TH St, Abilene";s:6:"folder";s:7:"Abilene";}

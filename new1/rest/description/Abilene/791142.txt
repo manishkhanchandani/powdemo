@@ -1,3 +1,0 @@
-a:7:{s:3:"url";s:70:"http://www.urbanspoon.com/r/77/791142/restaurant/Kaleidoscoops-Abilene";s:4:"name";s:13:"Kaleidoscoops";s:2:"id";s:6:"791142";s:4:"info";s:93:"Desserts/Ice Cream - <br />
-                <br />
-                  824 Westwood Dr, Abilene";s:5:"info2";s:18:"Desserts/Ice Cream";s:7:"address";s:24:"824 Westwood Dr, Abilene";s:6:"folder";s:7:"Abilene";}

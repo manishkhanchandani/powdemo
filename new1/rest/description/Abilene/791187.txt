@@ -1,3 +1,0 @@
-a:7:{s:3:"url";s:73:"http://www.urbanspoon.com/r/77/791187/restaurant/Papa-Johns-Pizza-Abilene";s:4:"name";s:17:"Papa John's Pizza";s:2:"id";s:6:"791187";s:4:"info";s:98:"Pizza and Fast Food - <br />
-                <br />
-                  3900 N 1st St Ste 3, Abilene";s:5:"info2";s:19:"Pizza and Fast Food";s:7:"address";s:28:"3900 N 1st St Ste 3, Abilene";s:6:"folder";s:7:"Abilene";}

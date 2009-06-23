@@ -1,3 +1,0 @@
-a:7:{s:3:"url";s:66:"http://www.urbanspoon.com/r/77/791174/restaurant/McDonalds-Abilene";s:4:"name";s:10:"McDonald's";s:2:"id";s:6:"791174";s:4:"info";s:97:"Burgers and American - <br />
-                <br />
-                  4350 Southwest Dr, Abilene";s:5:"info2";s:20:"Burgers and American";s:7:"address";s:26:"4350 Southwest Dr, Abilene";s:6:"folder";s:7:"Abilene";}

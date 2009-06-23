@@ -1,3 +1,0 @@
-a:7:{s:3:"url";s:73:"http://www.urbanspoon.com/r/77/791231/restaurant/Spanos-Trattoria-Abilene";s:4:"name";s:17:"Spano's Trattoria";s:2:"id";s:6:"791231";s:4:"info";s:78:"Italian - <br />
-                <br />
-                  216 Pine St, Abilene";s:5:"info2";s:7:"Italian";s:7:"address";s:20:"216 Pine St, Abilene";s:6:"folder";s:7:"Abilene";}
