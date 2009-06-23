@@ -53,7 +53,7 @@ if ($handle = opendir($dirname)) {
 						@unlink("neighboursurl/".$arr[$k]['baseName'].".html");
 					} else {
 						static $item=0; $item++;
-						if($item%2==0) {
+						if($item%3==0) {
 							echo "ITEM ($item): ";
 							$Crawler->changeip();
 						} else {
