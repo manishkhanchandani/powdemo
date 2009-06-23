@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:64:"http://www.urbanspoon.com/n/249/29014/Oshkosh/Malone-restaurants";s:8:"baseName";s:18:"Malone-restaurants";s:5:"title";s:6:"Malone";s:5:"count";s:2:"10";}
