@@ -6,7 +6,7 @@ include_once('../Connections/conn.php');
 include('../Classes/Crawler.php');
 $Crawler = new Crawler;
 $base = "http://www.urbanspoon.com";
-
+$Crawler->changeip();
 $dirname = "cityurls/seeall";
 if ($handle = opendir($dirname)) {
 	/* This is the correct way to loop over the directory. */
