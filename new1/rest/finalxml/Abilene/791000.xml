@@ -1,0 +1,19 @@
+<add>
+<doc>
+<field name='id'>791000</field>
+<field name='rid'>United States/TX/Abilene/Abilene</field>
+<field name='state'>TX</field>
+<field name='city'>Abilene</field>
+<field name='address'>713 High St</field>
+<field name='neighborhood'>Abilene</field>
+<field name='cuisine'>French</field>
+<field name='country'>United States</field>
+<field name='location'>United States/TX/Abilene</field>
+<field name='phone'>(830) 995-4990</field>
+<field name='zip'>79603</field>
+<field name='linktext'></field>
+<field name='title'>814 Texas Bistro</field>
+<field name='full_neighborhood'>Abilene, Abilene, TX</field>
+<field name='full_city'>Abilene, TX</field>
+</doc>
+</add>

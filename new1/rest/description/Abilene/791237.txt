@@ -1,0 +1,3 @@
+a:7:{s:3:"url";s:63:"http://www.urbanspoon.com/r/77/791237/restaurant/Subway-Abilene";s:4:"name";s:6:"Subway";s:2:"id";s:6:"791237";s:4:"info";s:110:"Sandwiches/Subs and Fast Food - <br />
+                <br />
+                  1149 N Mockingbird Ln, Abilene";s:5:"info2";s:29:"Sandwiches/Subs and Fast Food";s:7:"address";s:30:"1149 N Mockingbird Ln, Abilene";s:6:"folder";s:7:"Abilene";}

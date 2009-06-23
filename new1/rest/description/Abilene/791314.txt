@@ -1,0 +1,3 @@
+a:7:{s:3:"url";s:90:"http://www.urbanspoon.com/r/77/791314/restaurant/Abilene/Rick-Carolyns-Burgers-Buffalo-Gap";s:4:"name";s:27:"Rick &amp; Carolyns Burgers";s:2:"id";s:6:"791314";s:4:"info";s:91:"Burgers and Pizza - <br />
+                <br />
+                  2026 Fm 89, Buffalo Gap";s:5:"info2";s:17:"Burgers and Pizza";s:7:"address";s:23:"2026 Fm 89, Buffalo Gap";s:6:"folder";s:7:"Abilene";}

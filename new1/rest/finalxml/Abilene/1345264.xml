@@ -1,0 +1,19 @@
+<add>
+<doc>
+<field name='id'>1345264</field>
+<field name='rid'>United States/TX/Abilene/Abilene</field>
+<field name='state'>TX</field>
+<field name='city'>Abilene</field>
+<field name='address'>1702 State Hwy 351</field>
+<field name='neighborhood'>Abilene</field>
+<field name='cuisine'>American</field>
+<field name='country'>United States</field>
+<field name='location'>United States/TX/Abilene</field>
+<field name='phone'>(325) 672-1424</field>
+<field name='zip'>79601</field>
+<field name='linktext'>www.chilis.com</field>
+<field name='title'>Chili's Grill &amp; Bar</field>
+<field name='full_neighborhood'>Abilene, Abilene, TX</field>
+<field name='full_city'>Abilene, TX</field>
+</doc>
+</add>

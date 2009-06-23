@@ -1,0 +1,3 @@
+a:7:{s:3:"url";s:73:"http://www.urbanspoon.com/r/77/791217/restaurant/Schlotzskys-Deli-Abilene";s:4:"name";s:17:"Schlotzsky's Deli";s:2:"id";s:6:"791217";s:4:"info";s:103:"Sandwiches/Subs and Fast Food - <br />
+                <br />
+                  4518 S 14th St, Abilene";s:5:"info2";s:29:"Sandwiches/Subs and Fast Food";s:7:"address";s:23:"4518 S 14th St, Abilene";s:6:"folder";s:7:"Abilene";}

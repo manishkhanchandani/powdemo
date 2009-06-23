@@ -1,0 +1,1 @@
+a:6:{s:3:"url";s:70:"http://www.urbanspoon.com/r/77/791072/restaurant/Club-Platinum-Abilene";s:4:"name";s:13:"Club Platinum";s:2:"id";s:6:"791072";s:4:"info";s:23:"3112 S 27th St, Abilene";s:7:"address";s:23:"3112 S 27th St, Abilene";s:6:"folder";s:7:"Abilene";}

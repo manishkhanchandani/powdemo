@@ -1,0 +1,1 @@
+a:6:{s:3:"url";s:82:"http://www.urbanspoon.com/r/77/791108/restaurant/G-Ws-Homestyle-Hamburgers-Abilene";s:4:"name";s:26:"G W's Homestyle Hamburgers";s:2:"id";s:6:"791108";s:4:"info";s:24:"101 Sayles Blvd, Abilene";s:7:"address";s:24:"101 Sayles Blvd, Abilene";s:6:"folder";s:7:"Abilene";}

@@ -1,0 +1,3 @@
+a:7:{s:3:"url";s:68:"http://www.urbanspoon.com/r/77/791284/restaurant/Whataburger-Abilene";s:4:"name";s:11:"Whataburger";s:2:"id";s:6:"791284";s:4:"info";s:100:"Burgers and Fast Food - <br />
+                <br />
+                  893 Us Highway 80 E, Abilene";s:5:"info2";s:21:"Burgers and Fast Food";s:7:"address";s:28:"893 Us Highway 80 E, Abilene";s:6:"folder";s:7:"Abilene";}

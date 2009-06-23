@@ -1,0 +1,1 @@
+a:6:{s:3:"url";s:81:"http://www.urbanspoon.com/r/77/791025/restaurant/Belyeu-Judy-Hideway-Club-Abilene";s:4:"name";s:27:"Belyeu, Judy - Hideway Club";s:2:"id";s:6:"791025";s:4:"info";s:30:"1021 N Mockingbird Ln, Abilene";s:7:"address";s:30:"1021 N Mockingbird Ln, Abilene";s:6:"folder";s:7:"Abilene";}

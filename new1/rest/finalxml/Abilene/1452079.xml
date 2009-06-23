@@ -1,0 +1,20 @@
+<add>
+<doc>
+<field name='id'>1452079</field>
+<field name='rid'>United States/TX/Tuscola/Abilene</field>
+<field name='state'>TX</field>
+<field name='city'>Tuscola</field>
+<field name='address'>12580 Us Hwy 277 S</field>
+<field name='neighborhood'>Abilene</field>
+<field name='cuisine'>Breakfast/Brunch</field>
+<field name='cuisine'>Burgers</field>
+<field name='country'>United States</field>
+<field name='location'>United States/TX/Tuscola</field>
+<field name='phone'>(325) 572-3985</field>
+<field name='zip'>79562</field>
+<field name='linktext'></field>
+<field name='title'>Cornado's Camp</field>
+<field name='full_neighborhood'>Abilene, Tuscola, TX</field>
+<field name='full_city'>Tuscola, TX</field>
+</doc>
+</add>

@@ -1,0 +1,3 @@
+a:7:{s:3:"url";s:71:"http://www.urbanspoon.com/r/77/791265/restaurant/Taqueria-Oxaca-Abilene";s:4:"name";s:14:"Taqueria Oxaca";s:2:"id";s:6:"791265";s:4:"info";s:92:"Tacos and Mexican - <br />
+                <br />
+                  3413 Ambler Ave, Abilene";s:5:"info2";s:17:"Tacos and Mexican";s:7:"address";s:24:"3413 Ambler Ave, Abilene";s:6:"folder";s:7:"Abilene";}

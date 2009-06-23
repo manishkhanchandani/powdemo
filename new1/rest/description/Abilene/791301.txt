@@ -1,0 +1,3 @@
+a:7:{s:3:"url";s:79:"http://www.urbanspoon.com/r/77/791301/restaurant/Abilene/Alexs-Taco-Stand-Baird";s:4:"name";s:17:"Alex's Taco Stand";s:2:"id";s:6:"791301";s:4:"info";s:87:"Tacos and Mexican - <br />
+                <br />
+                  417 E 7th St, Baird";s:5:"info2";s:17:"Tacos and Mexican";s:7:"address";s:19:"417 E 7th St, Baird";s:6:"folder";s:7:"Abilene";}

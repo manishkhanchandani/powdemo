@@ -1,0 +1,3 @@
+a:7:{s:3:"url";s:67:"http://www.urbanspoon.com/r/77/791059/restaurant/China-Bowl-Abilene";s:4:"name";s:10:"China Bowl";s:2:"id";s:6:"791059";s:4:"info";s:88:"Chinese - <br />
+                <br />
+                  5001 Us Highway 277 S, Abilene";s:5:"info2";s:7:"Chinese";s:7:"address";s:30:"5001 Us Highway 277 S, Abilene";s:6:"folder";s:7:"Abilene";}

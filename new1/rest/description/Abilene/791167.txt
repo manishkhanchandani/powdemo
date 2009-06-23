@@ -1,0 +1,3 @@
+a:7:{s:3:"url";s:81:"http://www.urbanspoon.com/r/77/791167/restaurant/McKays-Bakery-Cypress-St-Abilene";s:4:"name";s:28:"McKay's Bakery (Cypress St.)";s:2:"id";s:6:"791167";s:4:"info";s:80:"Bakery - <br />
+                <br />
+                  266 Cypress St, Abilene";s:5:"info2";s:6:"Bakery";s:7:"address";s:23:"266 Cypress St, Abilene";s:6:"folder";s:7:"Abilene";}

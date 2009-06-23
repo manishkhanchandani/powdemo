@@ -1,0 +1,3 @@
+a:7:{s:3:"url";s:85:"http://www.urbanspoon.com/r/77/791197/restaurant/Popeyes-Chicken-and-Biscuits-Abilene";s:4:"name";s:28:"Popeyes Chicken and Biscuits";s:2:"id";s:6:"791197";s:4:"info";s:110:"Southern &amp; Soul and Fast Food - <br />
+                <br />
+                  4425 Ridgemont Dr, Abilene";s:5:"info2";s:33:"Southern &amp; Soul and Fast Food";s:7:"address";s:26:"4425 Ridgemont Dr, Abilene";s:6:"folder";s:7:"Abilene";}

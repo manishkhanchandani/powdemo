@@ -1,0 +1,3 @@
+a:7:{s:3:"url";s:88:"http://www.urbanspoon.com/r/77/791335/restaurant/Abilene/Kats-CAMS-BB-Que-Burgers-Merkel";s:4:"name";s:36:"Kats &amp; CAMS BB Que &amp; Burgers";s:2:"id";s:6:"791335";s:4:"info";s:89:"Burgers and Barbecue - <br />
+                <br />
+                  512 Ash St, Merkel";s:5:"info2";s:20:"Burgers and Barbecue";s:7:"address";s:18:"512 Ash St, Merkel";s:6:"folder";s:7:"Abilene";}

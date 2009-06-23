@@ -1,0 +1,1 @@
+a:6:{s:3:"url";s:70:"http://www.urbanspoon.com/r/77/791020/restaurant/Barreras-Cafe-Abilene";s:4:"name";s:14:"Barrera's Cafe";s:2:"id";s:6:"791020";s:4:"info";s:21:"2233 Pine St, Abilene";s:7:"address";s:21:"2233 Pine St, Abilene";s:6:"folder";s:7:"Abilene";}

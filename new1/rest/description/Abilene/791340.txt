@@ -1,0 +1,1 @@
+a:6:{s:3:"url";s:82:"http://www.urbanspoon.com/r/77/791340/restaurant/Abilene/Second-Street-Cafe-Merkel";s:4:"name";s:18:"Second Street Cafe";s:2:"id";s:6:"791340";s:4:"info";s:21:"1021 N 2ND St, Merkel";s:7:"address";s:21:"1021 N 2ND St, Merkel";s:6:"folder";s:7:"Abilene";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/26/28911/Orlando/Winter-Haven-restaurants";s:8:"baseName";s:24:"Winter-Haven-restaurants";s:5:"title";s:12:"Winter Haven";s:5:"count";s:3:"202";}

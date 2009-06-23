@@ -1,0 +1,1 @@
+a:6:{s:3:"url";s:73:"http://www.urbanspoon.com/r/77/791054/restaurant/Charolettes-Cove-Abilene";s:4:"name";s:16:"Charolettes Cove";s:2:"id";s:6:"791054";s:4:"info";s:26:"493 Crows Nest Rd, Abilene";s:7:"address";s:26:"493 Crows Nest Rd, Abilene";s:6:"folder";s:7:"Abilene";}

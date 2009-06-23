@@ -1,0 +1,1 @@
+a:6:{s:3:"url";s:85:"http://www.urbanspoon.com/r/77/791185/restaurant/Oxford-Street-Restaurant-Pub-Abilene";s:4:"name";s:34:"Oxford Street Restaurant &amp; Pub";s:2:"id";s:6:"791185";s:4:"info";s:24:"1882 S Clack St, Abilene";s:7:"address";s:24:"1882 S Clack St, Abilene";s:6:"folder";s:7:"Abilene";}

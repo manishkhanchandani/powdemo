@@ -1,0 +1,3 @@
+a:7:{s:3:"url";s:73:"http://www.urbanspoon.com/r/77/791186/restaurant/Paleteria-Garcia-Abilene";s:4:"name";s:16:"Paleteria Garcia";s:2:"id";s:6:"791186";s:4:"info";s:94:"Desserts/Ice Cream - <br />
+                <br />
+                  701 S Leggett Dr, Abilene";s:5:"info2";s:18:"Desserts/Ice Cream";s:7:"address";s:25:"701 S Leggett Dr, Abilene";s:6:"folder";s:7:"Abilene";}

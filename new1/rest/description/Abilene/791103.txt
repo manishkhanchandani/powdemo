@@ -1,0 +1,1 @@
+a:6:{s:3:"url";s:65:"http://www.urbanspoon.com/r/77/791103/restaurant/Fastlane-Abilene";s:4:"name";s:8:"Fastlane";s:2:"id";s:6:"791103";s:4:"info";s:21:"721 S 1st St, Abilene";s:7:"address";s:21:"721 S 1st St, Abilene";s:6:"folder";s:7:"Abilene";}

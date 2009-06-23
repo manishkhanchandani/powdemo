@@ -1,0 +1,1 @@
+a:6:{s:3:"url";s:67:"http://www.urbanspoon.com/r/77/791002/restaurant/ACA-Chavez-Abilene";s:4:"name";s:10:"ACA Chavez";s:2:"id";s:6:"791002";s:4:"info";s:21:"1001 Pine St, Abilene";s:7:"address";s:21:"1001 Pine St, Abilene";s:6:"folder";s:7:"Abilene";}

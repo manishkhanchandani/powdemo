@@ -1,0 +1,1 @@
+a:6:{s:3:"url";s:85:"http://www.urbanspoon.com/r/77/791270/restaurant/Thomsons-Kountry-Fried-Chckn-Abilene";s:4:"name";s:29:"Thomson's Kountry Fried Chckn";s:2:"id";s:6:"791270";s:4:"info";s:22:"3514 N 1st St, Abilene";s:7:"address";s:22:"3514 N 1st St, Abilene";s:6:"folder";s:7:"Abilene";}

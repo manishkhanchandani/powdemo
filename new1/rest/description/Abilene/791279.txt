@@ -1,0 +1,3 @@
+a:7:{s:3:"url";s:72:"http://www.urbanspoon.com/r/77/791279/restaurant/Wal-Mart-Bakery-Abilene";s:4:"name";s:15:"Wal-Mart Bakery";s:2:"id";s:6:"791279";s:4:"info";s:88:"Bakery - <br />
+                <br />
+                  1650 State Highway 351, Abilene";s:5:"info2";s:6:"Bakery";s:7:"address";s:31:"1650 State Highway 351, Abilene";s:6:"folder";s:7:"Abilene";}

@@ -1,0 +1,3 @@
+a:7:{s:3:"url";s:90:"http://www.urbanspoon.com/r/77/791008/restaurant/Alfredos-Mexican-Food-N-Judge-Ely-Abilene";s:4:"name";s:37:"Alfredo's Mexican Food (N. Judge Ely)";s:2:"id";s:6:"791008";s:4:"info";s:88:"Mexican - <br />
+                <br />
+                  1009 N Judge Ely Blvd, Abilene";s:5:"info2";s:7:"Mexican";s:7:"address";s:30:"1009 N Judge Ely Blvd, Abilene";s:6:"folder";s:7:"Abilene";}

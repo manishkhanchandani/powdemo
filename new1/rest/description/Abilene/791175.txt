@@ -1,0 +1,3 @@
+a:7:{s:3:"url";s:82:"http://www.urbanspoon.com/r/77/791175/restaurant/Mezamiz-Deux-Coffee-House-Abilene";s:4:"name";s:25:"Mezamiz Deux Coffee House";s:2:"id";s:6:"791175";s:4:"info";s:85:"Coffee - <br />
+                <br />
+                  3909 S 7th St Ste C, Abilene";s:5:"info2";s:6:"Coffee";s:7:"address";s:28:"3909 S 7th St Ste C, Abilene";s:6:"folder";s:7:"Abilene";}

@@ -1,0 +1,3 @@
+a:7:{s:3:"url";s:74:"http://www.urbanspoon.com/r/77/791176/restaurant/Monks-Coffee-Shop-Abilene";s:4:"name";s:18:"Monk's Coffee Shop";s:2:"id";s:6:"791176";s:4:"info";s:80:"Coffee - <br />
+                <br />
+                  233 Cypress St, Abilene";s:5:"info2";s:6:"Coffee";s:7:"address";s:23:"233 Cypress St, Abilene";s:6:"folder";s:7:"Abilene";}
