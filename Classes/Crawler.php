@@ -1,6 +1,6 @@
 <?php
 class Crawler {
-	private $counter=0;
+	private $counter=1;
 	public function regexp($regexp, $input) {
 		if(preg_match_all("/$regexp/siU", $input, $matches, PREG_SET_ORDER)) {
 			return $matches;
@@ -28,12 +28,13 @@ class Crawler {
 	public function changeip(){
 		$this->counter++;
 		if($this->counter==5) $this->counter = 1;
-		echo $this->counter=2;
+		echo $this->counter;
 		echo "<br>";
 		$ipfilename = "c:\ip\\rel".$this->counter.".txt";
 		echo $ipfilename;
 		exec("netsh -f $ipfilename");
-		exit;
+		echo "<br>";
+
 	}
 
 	public function getListing($input) {
