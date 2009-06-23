@@ -6,7 +6,7 @@ include_once('../Connections/conn.php');
 include('../Classes/Crawler.php');
 $Crawler = new Crawler;
 $base = "http://www.urbanspoon.com";
-$Crawler->changeip();
+
 $dirname = "cityurls/seeall";
 if ($handle = opendir($dirname)) {
 	/* This is the correct way to loop over the directory. */
@@ -58,8 +58,8 @@ if ($handle = opendir($dirname)) {
 							$Crawler->changeip();
 						} else {
 							echo "ITEM ($item): ";
-							$Crawler->changeip();
 						}
+						echo "<br>";
 						$fs = file_get_contents($arr[$k]['url']);
 						if(!$fs) {
 							echo 'could not get '.$arr[$k]['url'];
