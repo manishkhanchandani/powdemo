@@ -1,5 +1,6 @@
 <?php
 class Crawler {
+	private $counter=0;
 	public function regexp($regexp, $input) {
 		if(preg_match_all("/$regexp/siU", $input, $matches, PREG_SET_ORDER)) {
 			return $matches;
@@ -24,6 +25,13 @@ class Crawler {
 		header("Expires: 0");
 		print "$excel"; 
 	}
+	public function changeip(){
+		$this->counter++;
+		if($this->counter==5) $this->counter = 1;
+		$ipfilename = "c:\ip\rel".($this->counter).'.txt';
+		exec("netsh -f $ipfilename");
+	}
+
 	public function getListing($input) {
 		$arr = explode("<h1 class=\"small-title\">Recent critic reviews", $input);
 		$inp1 = $arr[1];

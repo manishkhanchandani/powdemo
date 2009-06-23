@@ -52,6 +52,10 @@ if ($handle = opendir($dirname)) {
 						copy("neighboursurl/".$arr[$k]['baseName'].".html", "neighboursurl/".$folder."/".$arr[$k]['baseName'].".html");
 						@unlink("neighboursurl/".$arr[$k]['baseName'].".html");
 					} else {
+						static $item=0; $item++;
+						if($item%5==0) {
+							$Crawler->changeip();
+						}
 						$fs = file_get_contents($arr[$k]['url']);
 						if(!$fs) {
 							echo 'could not get '.$arr[$k]['url'];
@@ -78,35 +82,6 @@ if ($handle = opendir($dirname)) {
 						echo $arr[$k]['baseName'].' file saved';
 						echo "<br>";
 					}
-					
-					/*
-					if(!file_exists("neighboursurl/".$arr[$k]['baseName'].".html")) {
-						$fs = file_get_contents($arr[$k]['url']);
-						if(!$fs) {
-							echo 'could not get '.$arr[$k]['url'];
-							echo "<br>";
-							exit;
-						}
-						file_put_contents("neighboursurl/".$arr[$k]['baseName'].".html", $fs);
-						echo $arr[$k]['url'].' file saved';
-						echo "<br>";
-						echo '<h1>sleeping for 15 seconds</h1>';
-						echo '<br>';
-						sleep(15);
-					} else {
-						echo $arr[$k]['url'].' file already existed';
-						echo "<br>";
-					}
-					
-					if(!file_exists("neighboursarray/".$arr[$k]['baseName'].".txt")) {
-						$fs2 = serialize($arr[$k]);
-						file_put_contents("neighboursarray/".$arr[$k]['baseName'].".txt", $fs2);
-						echo $arr[$k]['baseName'].' file saved';
-						echo "<br>";
-					} else {
-						echo $arr[$k]['baseName'].' file already existed';
-						echo "<br>";
-					}*/
 					flush();
 				}
 			}
