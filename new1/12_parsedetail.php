@@ -63,11 +63,18 @@ if ($handle = opendir($dirname)) {
 						echo "<br>";	
 						$input = file_get_contents($file3);	
 						echo $baseName = str_replace(".html", ".txt", basename($file3));
+						echo $baseName2 = str_replace(".html", "", basename($file3));
 						echo "<br>";
 						$array = $Crawler->parseDetails($input);
-						
+						$array['id'] = $baseName2;
+						$array['rid'] = $array['country']."/".$array['province']."/".$array['city']."/".$array['folder'];
+						$string = serialize($array);
+						echo $string;
 						echo "<pre>";
 						print_r($array);
+						$xml = $Crawler->createXmlString($array);
+						echo htmlentities($xml);
+						exit;
 						continue;
 						exit;
 						if(!file_exists('rest/details/'.$folder.'/'.$baseName)) {

@@ -182,7 +182,7 @@ class Crawler {
 		$matches = $this->regexp($regexp, $info);
 		$arr['locality'] = $matches[0][1];
 		$arr['city'] = $matches[0][1];
-		$arr['country'] = "US";
+		$arr['country'] = "United States";
 		
 		$regexp = "<span class=\"region\">(.*)<\/span>";
 		$matches = $this->regexp($regexp, $info);
@@ -238,6 +238,41 @@ class Crawler {
 			}
 		}
 		return $arr;
+	}
+	
+	public function createXmlString($post) {
+$xml = "<add>
+<doc>
+<field name='id'>".$post['id']."</field>
+<field name='rid'>".$post['rid']."</field>
+<field name='state'>".$post['province']."</field>
+<field name='city'>".$post['city']."</field>
+<field name='address'>".$post['streeaddr']."</field>
+<field name='neighborhood'>".$post['folder']."</field>
+";
+if($post['cusine']) {
+	foreach($post['cusine'] as $cuisine) {
+		$xml .= "<field name='cuisine'>".$cuisine."</field>
+";
+	}
+}
+$xml .= "<field name='country'>".$post['country']."</field>
+<field name='location'>".$post['country']."/".$post['province']."/".$post['city']."</field>
+<field name='phone'>".$post['phone']."</field>
+<field name='zip'>".$post['zip']."</field>
+<field name='title'>".$post['title']."</field>
+<field name='full_neighborhood'>".$post['folder'].", ".$post['city'].", ".$post['province']."</field>
+<field name='full_city'>".$post['city'].", ".$post['province']."</field>
+";
+if($post['critic-reviews']) {
+	foreach($post['critic-reviews'] as $reviews) {
+		$xml .= "<field name='critic-reviews'>".$reviews['score']."/".$reviews['date']."/".$reviews['date']."/".$reviews['date']."</field>
+";
+	}
+}
+$xml .="</doc>
+</add>";
+		return $xml;
 	}
 }
 ?>

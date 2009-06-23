@@ -64,6 +64,7 @@ if ($handle = opendir($dirname)) {
 						$info = $Crawler->getHotelListingDetailsLimited($input, $base);
 						if($info) {
 							foreach($info as $k=>$v) {
+								$v['folder'] = $folder;
 								if(!file_exists('rest/description/'.$folder.'/'.$v['id'].'.txt')) {
 									$string = serialize($v);
 									file_put_contents('rest/description/'.$folder.'/'.$v['id'].'.txt', $string);
