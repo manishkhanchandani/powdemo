@@ -65,9 +65,9 @@ if ($handle = opendir($dirname)) {
 						file_put_contents("neighboursurl/".$folder."/".$arr[$k]['baseName'].".html", $fs);
 						echo $arr[$k]['url'].' file saved';
 						echo "<br>";
-						echo '<h1>sleeping for 2 seconds</h1>';
+						echo '<h1>sleeping for 10 seconds</h1>';
 						echo '<br>';
-						sleep(2);
+						sleep(10);
 					}
 					
 					if(file_exists("neighboursarray/".$folder."/".$arr[$k]['baseName'].".txt")) {
