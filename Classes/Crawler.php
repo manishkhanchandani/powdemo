@@ -253,9 +253,20 @@ class Crawler {
 		}
 		$sql = "INSERT INTO `restaurants` ( `id` , `rid` , `state` , `city` , `address` , `neighborhood` , `country` , `location` ,`phone` , `zip` , `linktext` , `title` ,`full_neighborhood` , `full_city` , `pricerange` , `dollarcount` , `cusine` ) VALUES ( '".addslashes(stripslashes(trim($post['id'])))."', '".addslashes(stripslashes(trim($post['rid'])))."' , '".addslashes(stripslashes(trim($post['province'])))."' , '".addslashes(stripslashes(trim($post['city'])))."' , '".addslashes(stripslashes(trim($post['streeaddr'])))."' , '".addslashes(stripslashes(trim($post['folder'])))."' , '".addslashes(stripslashes(trim($post['country'])))."' , '".addslashes(stripslashes(trim($post['city']))).", ".addslashes(stripslashes(trim($post['province'])))."', '".addslashes(stripslashes(trim($post['phone'])))."' , '".addslashes(stripslashes(trim($post['zip'])))."' , '".addslashes(stripslashes(trim($post['linktext'])))."' , '".addslashes(stripslashes(trim($post['title'])))."' , '".addslashes(stripslashes(trim($post['folder'].", ".$post['city'].", ".$post['province'])))."' , '".addslashes(stripslashes(trim($post['city'].", ".$post['province'])))."' , '".addslashes(stripslashes(trim($post['pricerange'])))."' , '".addslashes(stripslashes(trim($post['dollarcount'])))."' , '".addslashes(stripslashes(trim($cuisine)))."' )";
 		echo $sql;
-		@mysql_query($sql);
+		echo "<br>";
+		mysql_query($sql) or die(__LINE__." ".mysql_error());
 		$ID = mysql_insert_id();
-		// insert into reviews
+		if($ID) {
+			// insert into reviews
+			if($post['critic-reviews']) {
+				foreach($post['critic-reviews'] as $reviews) {
+					$sql = "INSERT INTO `reviews` (`restaurant_id` , `id` ,`score` ,`rdate` ,`url` ,`desc`) VALUES ('".$ID."', '".addslashes(stripslashes(trim($post['id'])))."' , '".addslashes(stripslashes(trim($reviews['score'])))."' , '".addslashes(stripslashes(trim($reviews['date'])))."' , '".addslashes(stripslashes(trim($reviews['title'])))."' , '".addslashes(stripslashes(trim($reviews['desc'])))."')";
+					echo $sql;
+					echo "<br>";
+					mysql_query($sql) or die(__LINE__." ".mysql_error());
+				}
+			}
+		}
 	}
 	
 	public function createXmlString($post) {
