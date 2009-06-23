@@ -28,7 +28,7 @@ class Crawler {
 	public function changeip(){
 		$this->counter++;
 		if($this->counter==5) $this->counter = 1;
-		echo $this->counter;
+		echo $this->counter=2;
 		echo "<br>";
 		$ip = "rel.".$this->counter.".txt";
 		$ipfilename = "c:\ip\{$ip}"
