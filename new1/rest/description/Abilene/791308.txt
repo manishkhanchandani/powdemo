@@ -1,1 +1,1 @@
-a:5:{s:3:"url";s:80:"http://www.urbanspoon.com/r/77/791308/restaurant/Abilene/Whistle-Stop-Cafe-Baird";s:4:"name";s:17:"Whistle Stop Cafe";s:2:"id";s:6:"791308";s:4:"info";s:20:"228 Market St, Baird";s:7:"address";s:20:"228 Market St, Baird";}
+a:6:{s:3:"url";s:80:"http://www.urbanspoon.com/r/77/791308/restaurant/Abilene/Whistle-Stop-Cafe-Baird";s:4:"name";s:17:"Whistle Stop Cafe";s:2:"id";s:6:"791308";s:4:"info";s:20:"228 Market St, Baird";s:7:"address";s:20:"228 Market St, Baird";s:6:"folder";s:7:"Abilene";}

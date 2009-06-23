@@ -1,3 +1,3 @@
-a:6:{s:3:"url";s:83:"http://www.urbanspoon.com/r/77/791112/restaurant/Golden-Corral-Buffet-Grill-Abilene";s:4:"name";s:32:"Golden Corral Buffet &amp; Grill";s:2:"id";s:6:"791112";s:4:"info";s:109:"Buffet, American and Steakhouse - <br />
+a:7:{s:3:"url";s:83:"http://www.urbanspoon.com/r/77/791112/restaurant/Golden-Corral-Buffet-Grill-Abilene";s:4:"name";s:32:"Golden Corral Buffet &amp; Grill";s:2:"id";s:6:"791112";s:4:"info";s:109:"Buffet, American and Steakhouse - <br />
                 <br />
-                  4100 S Danville Dr, Abilene";s:5:"info2";s:31:"Buffet, American and Steakhouse";s:7:"address";s:27:"4100 S Danville Dr, Abilene";}
+                  4100 S Danville Dr, Abilene";s:5:"info2";s:31:"Buffet, American and Steakhouse";s:7:"address";s:27:"4100 S Danville Dr, Abilene";s:6:"folder";s:7:"Abilene";}

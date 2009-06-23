@@ -1,3 +1,3 @@
-a:6:{s:3:"url";s:85:"http://www.urbanspoon.com/r/77/791146/restaurant/La-Popular-Bakery-Quick-Stop-Abilene";s:4:"name";s:28:"La Popular Bakery Quick Stop";s:2:"id";s:6:"791146";s:4:"info";s:80:"Bakery - <br />
+a:7:{s:3:"url";s:85:"http://www.urbanspoon.com/r/77/791146/restaurant/La-Popular-Bakery-Quick-Stop-Abilene";s:4:"name";s:28:"La Popular Bakery Quick Stop";s:2:"id";s:6:"791146";s:4:"info";s:80:"Bakery - <br />
                 <br />
-                  3102 S 14th St, Abilene";s:5:"info2";s:6:"Bakery";s:7:"address";s:23:"3102 S 14th St, Abilene";}
+                  3102 S 14th St, Abilene";s:5:"info2";s:6:"Bakery";s:7:"address";s:23:"3102 S 14th St, Abilene";s:6:"folder";s:7:"Abilene";}

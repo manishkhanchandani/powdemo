@@ -1,3 +1,3 @@
-a:6:{s:3:"url";s:77:"http://www.urbanspoon.com/r/77/791300/restaurant/Abilene/Sonic-Drive-in-Anson";s:4:"name";s:14:"Sonic Drive-in";s:2:"id";s:6:"791300";s:4:"info";s:101:"Burgers and Fast Food - <br />
+a:7:{s:3:"url";s:77:"http://www.urbanspoon.com/r/77/791300/restaurant/Abilene/Sonic-Drive-in-Anson";s:4:"name";s:14:"Sonic Drive-in";s:2:"id";s:6:"791300";s:4:"info";s:101:"Burgers and Fast Food - <br />
                 <br />
-                  1715 Commercial Avenue, Anson";s:5:"info2";s:21:"Burgers and Fast Food";s:7:"address";s:29:"1715 Commercial Avenue, Anson";}
+                  1715 Commercial Avenue, Anson";s:5:"info2";s:21:"Burgers and Fast Food";s:7:"address";s:29:"1715 Commercial Avenue, Anson";s:6:"folder";s:7:"Abilene";}

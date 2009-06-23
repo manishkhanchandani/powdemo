@@ -1,3 +1,3 @@
-a:6:{s:3:"url";s:74:"http://www.urbanspoon.com/r/77/791158/restaurant/Long-John-Silvers-Abilene";s:4:"name";s:18:"Long John Silver's";s:2:"id";s:6:"791158";s:4:"info";s:86:"Seafood - <br />
+a:7:{s:3:"url";s:74:"http://www.urbanspoon.com/r/77/791158/restaurant/Long-John-Silvers-Abilene";s:4:"name";s:18:"Long John Silver's";s:2:"id";s:6:"791158";s:4:"info";s:86:"Seafood - <br />
                 <br />
-                  4424 Buffalo Gap Rd, Abilene";s:5:"info2";s:7:"Seafood";s:7:"address";s:28:"4424 Buffalo Gap Rd, Abilene";}
+                  4424 Buffalo Gap Rd, Abilene";s:5:"info2";s:7:"Seafood";s:7:"address";s:28:"4424 Buffalo Gap Rd, Abilene";s:6:"folder";s:7:"Abilene";}

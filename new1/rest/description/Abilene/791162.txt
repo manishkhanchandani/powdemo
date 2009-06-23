@@ -1,1 +1,1 @@
-a:5:{s:3:"url";s:76:"http://www.urbanspoon.com/r/77/791162/restaurant/MI-Gente-Night-Club-Abilene";s:4:"name";s:19:"MI Gente Night Club";s:2:"id";s:6:"791162";s:4:"info";s:22:"157 Burger St, Abilene";s:7:"address";s:22:"157 Burger St, Abilene";}
+a:6:{s:3:"url";s:76:"http://www.urbanspoon.com/r/77/791162/restaurant/MI-Gente-Night-Club-Abilene";s:4:"name";s:19:"MI Gente Night Club";s:2:"id";s:6:"791162";s:4:"info";s:22:"157 Burger St, Abilene";s:7:"address";s:22:"157 Burger St, Abilene";s:6:"folder";s:7:"Abilene";}

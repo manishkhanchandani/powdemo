@@ -1,3 +1,3 @@
-a:6:{s:3:"url";s:66:"http://www.urbanspoon.com/r/77/791191/restaurant/Pizza-Hut-Abilene";s:4:"name";s:9:"Pizza Hut";s:2:"id";s:6:"791191";s:4:"info";s:92:"Pizza and Fast Food - <br />
+a:7:{s:3:"url";s:66:"http://www.urbanspoon.com/r/77/791191/restaurant/Pizza-Hut-Abilene";s:4:"name";s:9:"Pizza Hut";s:2:"id";s:6:"791191";s:4:"info";s:92:"Pizza and Fast Food - <br />
                 <br />
-                  3533 N 1st St, Abilene";s:5:"info2";s:19:"Pizza and Fast Food";s:7:"address";s:22:"3533 N 1st St, Abilene";}
+                  3533 N 1st St, Abilene";s:5:"info2";s:19:"Pizza and Fast Food";s:7:"address";s:22:"3533 N 1st St, Abilene";s:6:"folder";s:7:"Abilene";}

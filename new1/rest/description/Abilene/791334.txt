@@ -1,1 +1,1 @@
-a:5:{s:3:"url";s:81:"http://www.urbanspoon.com/r/77/791334/restaurant/Abilene/Hollidays-Kitchen-Merkel";s:4:"name";s:17:"Hollidays Kitchen";s:2:"id";s:6:"791334";s:4:"info";s:19:"207 Kent St, Merkel";s:7:"address";s:19:"207 Kent St, Merkel";}
+a:6:{s:3:"url";s:81:"http://www.urbanspoon.com/r/77/791334/restaurant/Abilene/Hollidays-Kitchen-Merkel";s:4:"name";s:17:"Hollidays Kitchen";s:2:"id";s:6:"791334";s:4:"info";s:19:"207 Kent St, Merkel";s:7:"address";s:19:"207 Kent St, Merkel";s:6:"folder";s:7:"Abilene";}

@@ -1,1 +1,1 @@
-a:5:{s:3:"url";s:87:"http://www.urbanspoon.com/r/77/791336/restaurant/Abilene/Merkel-Restaurant-Motel-Merkel";s:4:"name";s:29:"Merkel Restaurant &amp; Motel";s:2:"id";s:6:"791336";s:4:"info";s:21:"1405 N 7th St, Merkel";s:7:"address";s:21:"1405 N 7th St, Merkel";}
+a:6:{s:3:"url";s:87:"http://www.urbanspoon.com/r/77/791336/restaurant/Abilene/Merkel-Restaurant-Motel-Merkel";s:4:"name";s:29:"Merkel Restaurant &amp; Motel";s:2:"id";s:6:"791336";s:4:"info";s:21:"1405 N 7th St, Merkel";s:7:"address";s:21:"1405 N 7th St, Merkel";s:6:"folder";s:7:"Abilene";}

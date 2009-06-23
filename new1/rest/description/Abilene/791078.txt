@@ -1,1 +1,1 @@
-a:5:{s:3:"url";s:65:"http://www.urbanspoon.com/r/77/791078/restaurant/Corn-Dog-Abilene";s:4:"name";s:8:"Corn Dog";s:2:"id";s:6:"791078";s:4:"info";s:37:"4310 Buffalo Gap Rd Ste 1198, Abilene";s:7:"address";s:37:"4310 Buffalo Gap Rd Ste 1198, Abilene";}
+a:6:{s:3:"url";s:65:"http://www.urbanspoon.com/r/77/791078/restaurant/Corn-Dog-Abilene";s:4:"name";s:8:"Corn Dog";s:2:"id";s:6:"791078";s:4:"info";s:37:"4310 Buffalo Gap Rd Ste 1198, Abilene";s:7:"address";s:37:"4310 Buffalo Gap Rd Ste 1198, Abilene";s:6:"folder";s:7:"Abilene";}

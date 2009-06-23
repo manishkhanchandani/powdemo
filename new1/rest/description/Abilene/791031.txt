@@ -1,3 +1,3 @@
-a:6:{s:3:"url";s:69:"http://www.urbanspoon.com/r/77/791031/restaurant/Bills-Burger-Abilene";s:4:"name";s:13:"Bill's Burger";s:2:"id";s:6:"791031";s:4:"info";s:80:"Burgers - <br />
+a:7:{s:3:"url";s:69:"http://www.urbanspoon.com/r/77/791031/restaurant/Bills-Burger-Abilene";s:4:"name";s:13:"Bill's Burger";s:2:"id";s:6:"791031";s:4:"info";s:80:"Burgers - <br />
                 <br />
-                  834 S 11th St, Abilene";s:5:"info2";s:7:"Burgers";s:7:"address";s:22:"834 S 11th St, Abilene";}
+                  834 S 11th St, Abilene";s:5:"info2";s:7:"Burgers";s:7:"address";s:22:"834 S 11th St, Abilene";s:6:"folder";s:7:"Abilene";}

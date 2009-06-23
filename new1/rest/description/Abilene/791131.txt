@@ -1,3 +1,3 @@
-a:6:{s:3:"url";s:91:"http://www.urbanspoon.com/r/77/791131/restaurant/Jack-N-Jill-Donut-Shop-N-Judge-Ely-Abilene";s:4:"name";s:37:"Jack N Jill Donut Shop (N. Judge Ely)";s:2:"id";s:6:"791131";s:4:"info";s:86:"Donuts - <br />
+a:7:{s:3:"url";s:91:"http://www.urbanspoon.com/r/77/791131/restaurant/Jack-N-Jill-Donut-Shop-N-Judge-Ely-Abilene";s:4:"name";s:37:"Jack N Jill Donut Shop (N. Judge Ely)";s:2:"id";s:6:"791131";s:4:"info";s:86:"Donuts - <br />
                 <br />
-                  572 N Judge Ely Blvd, Abilene";s:5:"info2";s:6:"Donuts";s:7:"address";s:29:"572 N Judge Ely Blvd, Abilene";}
+                  572 N Judge Ely Blvd, Abilene";s:5:"info2";s:6:"Donuts";s:7:"address";s:29:"572 N Judge Ely Blvd, Abilene";s:6:"folder";s:7:"Abilene";}

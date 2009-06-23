@@ -1,3 +1,3 @@
-a:6:{s:3:"url";s:66:"http://www.urbanspoon.com/r/77/791290/restaurant/Zoo-Kinis-Abilene";s:4:"name";s:10:"Zoo Kini's";s:2:"id";s:6:"791290";s:4:"info";s:104:"American, Burgers and Tex-Mex - <br />
+a:7:{s:3:"url";s:66:"http://www.urbanspoon.com/r/77/791290/restaurant/Zoo-Kinis-Abilene";s:4:"name";s:10:"Zoo Kini's";s:2:"id";s:6:"791290";s:4:"info";s:104:"American, Burgers and Tex-Mex - <br />
                 <br />
-                  3218 S Clack St, Abilene";s:5:"info2";s:25:"American, Burgers and Tex";s:7:"address";s:24:"3218 S Clack St, Abilene";}
+                  3218 S Clack St, Abilene";s:5:"info2";s:25:"American, Burgers and Tex";s:7:"address";s:24:"3218 S Clack St, Abilene";s:6:"folder";s:7:"Abilene";}

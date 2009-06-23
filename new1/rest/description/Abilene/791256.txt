@@ -1,3 +1,3 @@
-a:6:{s:3:"url";s:66:"http://www.urbanspoon.com/r/77/791256/restaurant/Taco-Bell-Abilene";s:4:"name";s:9:"Taco Bell";s:2:"id";s:6:"791256";s:4:"info";s:101:"Tacos, Mexican and Fast Food - <br />
+a:7:{s:3:"url";s:66:"http://www.urbanspoon.com/r/77/791256/restaurant/Taco-Bell-Abilene";s:4:"name";s:9:"Taco Bell";s:2:"id";s:6:"791256";s:4:"info";s:101:"Tacos, Mexican and Fast Food - <br />
                 <br />
-                  3509 N 1st St, Abilene";s:5:"info2";s:28:"Tacos, Mexican and Fast Food";s:7:"address";s:22:"3509 N 1st St, Abilene";}
+                  3509 N 1st St, Abilene";s:5:"info2";s:28:"Tacos, Mexican and Fast Food";s:7:"address";s:22:"3509 N 1st St, Abilene";s:6:"folder";s:7:"Abilene";}

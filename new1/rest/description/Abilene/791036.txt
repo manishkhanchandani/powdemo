@@ -1,3 +1,3 @@
-a:6:{s:3:"url";s:75:"http://www.urbanspoon.com/r/77/791036/restaurant/Buffalo-Wild-Wings-Abilene";s:4:"name";s:18:"Buffalo Wild Wings";s:2:"id";s:6:"791036";s:4:"info";s:98:"Barbecue and American - <br />
+a:7:{s:3:"url";s:75:"http://www.urbanspoon.com/r/77/791036/restaurant/Buffalo-Wild-Wings-Abilene";s:4:"name";s:18:"Buffalo Wild Wings";s:2:"id";s:6:"791036";s:4:"info";s:98:"Barbecue and American - <br />
                 <br />
-                  4401 Ridgemont Dr, Abilene";s:5:"info2";s:21:"Barbecue and American";s:7:"address";s:26:"4401 Ridgemont Dr, Abilene";}
+                  4401 Ridgemont Dr, Abilene";s:5:"info2";s:21:"Barbecue and American";s:7:"address";s:26:"4401 Ridgemont Dr, Abilene";s:6:"folder";s:7:"Abilene";}

@@ -1,3 +1,3 @@
-a:6:{s:3:"url";s:66:"http://www.urbanspoon.com/r/77/791179/restaurant/Mr-Gattis-Abilene";s:4:"name";s:10:"Mr Gatti's";s:2:"id";s:6:"791179";s:4:"info";s:84:"Pizza - <br />
+a:7:{s:3:"url";s:66:"http://www.urbanspoon.com/r/77/791179/restaurant/Mr-Gattis-Abilene";s:4:"name";s:10:"Mr Gatti's";s:2:"id";s:6:"791179";s:4:"info";s:84:"Pizza - <br />
                 <br />
-                  2665 Buffalo Gap Rd, Abilene";s:5:"info2";s:5:"Pizza";s:7:"address";s:28:"2665 Buffalo Gap Rd, Abilene";}
+                  2665 Buffalo Gap Rd, Abilene";s:5:"info2";s:5:"Pizza";s:7:"address";s:28:"2665 Buffalo Gap Rd, Abilene";s:6:"folder";s:7:"Abilene";}

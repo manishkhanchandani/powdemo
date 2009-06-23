@@ -1,3 +1,3 @@
-a:6:{s:3:"url";s:92:"http://www.urbanspoon.com/r/77/791312/restaurant/Abilene/Lolas-Mexican-Food-Cafe-Buffalo-Gap";s:4:"name";s:24:"Lola's Mexican Food Cafe";s:2:"id";s:6:"791312";s:4:"info";s:81:"Mexican - <br />
+a:7:{s:3:"url";s:92:"http://www.urbanspoon.com/r/77/791312/restaurant/Abilene/Lolas-Mexican-Food-Cafe-Buffalo-Gap";s:4:"name";s:24:"Lola's Mexican Food Cafe";s:2:"id";s:6:"791312";s:4:"info";s:81:"Mexican - <br />
                 <br />
-                  2709 FM 89, Buffalo Gap";s:5:"info2";s:7:"Mexican";s:7:"address";s:23:"2709 FM 89, Buffalo Gap";}
+                  2709 FM 89, Buffalo Gap";s:5:"info2";s:7:"Mexican";s:7:"address";s:23:"2709 FM 89, Buffalo Gap";s:6:"folder";s:7:"Abilene";}

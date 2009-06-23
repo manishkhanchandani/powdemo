@@ -1,3 +1,3 @@
-a:6:{s:3:"url";s:97:"http://www.urbanspoon.com/r/77/791311/restaurant/Abilene/Deutschlander-Freshwater-Cat-Buffalo-Gap";s:4:"name";s:28:"Deutschlander Freshwater Cat";s:2:"id";s:6:"791311";s:4:"info";s:85:"Seafood - <br />
+a:7:{s:3:"url";s:97:"http://www.urbanspoon.com/r/77/791311/restaurant/Abilene/Deutschlander-Freshwater-Cat-Buffalo-Gap";s:4:"name";s:28:"Deutschlander Freshwater Cat";s:2:"id";s:6:"791311";s:4:"info";s:85:"Seafood - <br />
                 <br />
-                  502 Houston St, Buffalo Gap";s:5:"info2";s:7:"Seafood";s:7:"address";s:27:"502 Houston St, Buffalo Gap";}
+                  502 Houston St, Buffalo Gap";s:5:"info2";s:7:"Seafood";s:7:"address";s:27:"502 Houston St, Buffalo Gap";s:6:"folder";s:7:"Abilene";}

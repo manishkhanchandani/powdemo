@@ -1,1 +1,1 @@
-a:5:{s:3:"url";s:78:"http://www.urbanspoon.com/r/77/791210/restaurant/Remingtons-Restaurant-Abilene";s:4:"name";s:22:"Remington's Restaurant";s:2:"id";s:6:"791210";s:4:"info";s:26:"4250 Ridgemont Dr, Abilene";s:7:"address";s:26:"4250 Ridgemont Dr, Abilene";}
+a:6:{s:3:"url";s:78:"http://www.urbanspoon.com/r/77/791210/restaurant/Remingtons-Restaurant-Abilene";s:4:"name";s:22:"Remington's Restaurant";s:2:"id";s:6:"791210";s:4:"info";s:26:"4250 Ridgemont Dr, Abilene";s:7:"address";s:26:"4250 Ridgemont Dr, Abilene";s:6:"folder";s:7:"Abilene";}

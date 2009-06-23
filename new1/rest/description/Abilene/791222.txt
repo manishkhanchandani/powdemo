@@ -1,3 +1,3 @@
-a:6:{s:3:"url";s:72:"http://www.urbanspoon.com/r/77/791222/restaurant/Snowhite-Bakery-Abilene";s:4:"name";s:15:"Snowhite Bakery";s:2:"id";s:6:"791222";s:4:"info";s:81:"Bakery - <br />
+a:7:{s:3:"url";s:72:"http://www.urbanspoon.com/r/77/791222/restaurant/Snowhite-Bakery-Abilene";s:4:"name";s:15:"Snowhite Bakery";s:2:"id";s:6:"791222";s:4:"info";s:81:"Bakery - <br />
                 <br />
-                  155 Sayles Blvd, Abilene";s:5:"info2";s:6:"Bakery";s:7:"address";s:24:"155 Sayles Blvd, Abilene";}
+                  155 Sayles Blvd, Abilene";s:5:"info2";s:6:"Bakery";s:7:"address";s:24:"155 Sayles Blvd, Abilene";s:6:"folder";s:7:"Abilene";}

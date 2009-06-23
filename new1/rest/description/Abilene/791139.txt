@@ -1,3 +1,3 @@
-a:6:{s:3:"url";s:79:"http://www.urbanspoon.com/r/77/791139/restaurant/Johnny-Carinos-Italian-Abilene";s:4:"name";s:23:"Johnny Carino's Italian";s:2:"id";s:6:"791139";s:4:"info";s:86:"Italian - <br />
+a:7:{s:3:"url";s:79:"http://www.urbanspoon.com/r/77/791139/restaurant/Johnny-Carinos-Italian-Abilene";s:4:"name";s:23:"Johnny Carino's Italian";s:2:"id";s:6:"791139";s:4:"info";s:86:"Italian - <br />
                 <br />
-                  4157 Buffalo Gap Rd, Abilene";s:5:"info2";s:7:"Italian";s:7:"address";s:28:"4157 Buffalo Gap Rd, Abilene";}
+                  4157 Buffalo Gap Rd, Abilene";s:5:"info2";s:7:"Italian";s:7:"address";s:28:"4157 Buffalo Gap Rd, Abilene";s:6:"folder";s:7:"Abilene";}

@@ -1,1 +1,1 @@
-a:5:{s:3:"url";s:77:"http://www.urbanspoon.com/r/77/791273/restaurant/Touch-of-Class-Cakes-Abilene";s:4:"name";s:20:"Touch of Class Cakes";s:2:"id";s:6:"791273";s:4:"info";s:25:"1125 Kirkwood St, Abilene";s:7:"address";s:25:"1125 Kirkwood St, Abilene";}
+a:6:{s:3:"url";s:77:"http://www.urbanspoon.com/r/77/791273/restaurant/Touch-of-Class-Cakes-Abilene";s:4:"name";s:20:"Touch of Class Cakes";s:2:"id";s:6:"791273";s:4:"info";s:25:"1125 Kirkwood St, Abilene";s:7:"address";s:25:"1125 Kirkwood St, Abilene";s:6:"folder";s:7:"Abilene";}

@@ -1,1 +1,1 @@
-a:5:{s:3:"url";s:62:"http://www.urbanspoon.com/r/77/791205/restaurant/Ranch-Abilene";s:4:"name";s:5:"Ranch";s:2:"id";s:6:"791205";s:4:"info";s:24:"1802 S Clack St, Abilene";s:7:"address";s:24:"1802 S Clack St, Abilene";}
+a:6:{s:3:"url";s:62:"http://www.urbanspoon.com/r/77/791205/restaurant/Ranch-Abilene";s:4:"name";s:5:"Ranch";s:2:"id";s:6:"791205";s:4:"info";s:24:"1802 S Clack St, Abilene";s:7:"address";s:24:"1802 S Clack St, Abilene";s:6:"folder";s:7:"Abilene";}

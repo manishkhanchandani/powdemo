@@ -1,3 +1,3 @@
-a:6:{s:3:"url";s:77:"http://www.urbanspoon.com/r/77/791161/restaurant/Lytle-Land-Cattle-Co-Abilene";s:4:"name";s:26:"Lytle Land &amp; Cattle Co";s:2:"id";s:6:"791161";s:4:"info";s:90:"Steakhouse - <br />
+a:7:{s:3:"url";s:77:"http://www.urbanspoon.com/r/77/791161/restaurant/Lytle-Land-Cattle-Co-Abilene";s:4:"name";s:26:"Lytle Land &amp; Cattle Co";s:2:"id";s:6:"791161";s:4:"info";s:90:"Steakhouse - <br />
                 <br />
-                  1150 E South 11th St, Abilene";s:5:"info2";s:10:"Steakhouse";s:7:"address";s:29:"1150 E South 11th St, Abilene";}
+                  1150 E South 11th St, Abilene";s:5:"info2";s:10:"Steakhouse";s:7:"address";s:29:"1150 E South 11th St, Abilene";s:6:"folder";s:7:"Abilene";}

@@ -1,3 +1,3 @@
-a:6:{s:3:"url";s:83:"http://www.urbanspoon.com/r/77/791119/restaurant/Hernandez-Daniel-Paleteria-Abilene";s:4:"name";s:29:"Hernandez, Daniel - Paleteria";s:2:"id";s:6:"791119";s:4:"info";s:91:"Desserts/Ice Cream - <br />
+a:7:{s:3:"url";s:83:"http://www.urbanspoon.com/r/77/791119/restaurant/Hernandez-Daniel-Paleteria-Abilene";s:4:"name";s:29:"Hernandez, Daniel - Paleteria";s:2:"id";s:6:"791119";s:4:"info";s:91:"Desserts/Ice Cream - <br />
                 <br />
-                  3510 N 1st St, Abilene";s:5:"info2";s:18:"Desserts/Ice Cream";s:7:"address";s:22:"3510 N 1st St, Abilene";}
+                  3510 N 1st St, Abilene";s:5:"info2";s:18:"Desserts/Ice Cream";s:7:"address";s:22:"3510 N 1st St, Abilene";s:6:"folder";s:7:"Abilene";}

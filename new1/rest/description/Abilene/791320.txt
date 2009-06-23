@@ -1,3 +1,3 @@
-a:6:{s:3:"url";s:82:"http://www.urbanspoon.com/r/77/791320/restaurant/Abilene/Little-Pit-BBQ-More-Clyde";s:4:"name";s:25:"Little Pit BBQ &amp; More";s:2:"id";s:6:"791320";s:4:"info";s:84:"Barbecue - <br />
+a:7:{s:3:"url";s:82:"http://www.urbanspoon.com/r/77/791320/restaurant/Abilene/Little-Pit-BBQ-More-Clyde";s:4:"name";s:25:"Little Pit BBQ &amp; More";s:2:"id";s:6:"791320";s:4:"info";s:84:"Barbecue - <br />
                 <br />
-                  1725 S Access Rd W, Clyde";s:5:"info2";s:8:"Barbecue";s:7:"address";s:25:"1725 S Access Rd W, Clyde";}
+                  1725 S Access Rd W, Clyde";s:5:"info2";s:8:"Barbecue";s:7:"address";s:25:"1725 S Access Rd W, Clyde";s:6:"folder";s:7:"Abilene";}

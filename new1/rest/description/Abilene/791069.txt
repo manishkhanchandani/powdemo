@@ -1,3 +1,3 @@
-a:6:{s:3:"url";s:68:"http://www.urbanspoon.com/r/77/791069/restaurant/CiCis-Pizza-Abilene";s:4:"name";s:12:"CiCi's Pizza";s:2:"id";s:6:"791069";s:4:"info";s:92:"Pizza and Italian - <br />
+a:7:{s:3:"url";s:68:"http://www.urbanspoon.com/r/77/791069/restaurant/CiCis-Pizza-Abilene";s:4:"name";s:12:"CiCi's Pizza";s:2:"id";s:6:"791069";s:4:"info";s:92:"Pizza and Italian - <br />
                 <br />
-                  3366 Turner Plz, Abilene";s:5:"info2";s:17:"Pizza and Italian";s:7:"address";s:24:"3366 Turner Plz, Abilene";}
+                  3366 Turner Plz, Abilene";s:5:"info2";s:17:"Pizza and Italian";s:7:"address";s:24:"3366 Turner Plz, Abilene";s:6:"folder";s:7:"Abilene";}

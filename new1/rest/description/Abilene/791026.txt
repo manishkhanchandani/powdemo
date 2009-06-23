@@ -1,3 +1,3 @@
-a:6:{s:3:"url";s:95:"http://www.urbanspoon.com/r/77/791026/restaurant/Betty-Roses-Little-Brisket-N-Judge-Ely-Abilene";s:4:"name";s:42:"Betty Rose's Little Brisket (N. Judge Ely)";s:2:"id";s:6:"791026";s:4:"info";s:89:"Barbecue - <br />
+a:7:{s:3:"url";s:95:"http://www.urbanspoon.com/r/77/791026/restaurant/Betty-Roses-Little-Brisket-N-Judge-Ely-Abilene";s:4:"name";s:42:"Betty Rose's Little Brisket (N. Judge Ely)";s:2:"id";s:6:"791026";s:4:"info";s:89:"Barbecue - <br />
                 <br />
-                  1055 N Judge Ely Blvd, Abilene";s:5:"info2";s:8:"Barbecue";s:7:"address";s:30:"1055 N Judge Ely Blvd, Abilene";}
+                  1055 N Judge Ely Blvd, Abilene";s:5:"info2";s:8:"Barbecue";s:7:"address";s:30:"1055 N Judge Ely Blvd, Abilene";s:6:"folder";s:7:"Abilene";}

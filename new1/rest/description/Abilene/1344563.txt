@@ -1,3 +1,3 @@
-a:6:{s:3:"url";s:84:"http://www.urbanspoon.com/r/77/1344563/restaurant/Bonzai-Japanese-Steakhouse-Abilene";s:4:"name";s:26:"Bonzai Japanese Steakhouse";s:2:"id";s:7:"1344563";s:4:"info";s:83:"Japanese - <br />
+a:7:{s:3:"url";s:84:"http://www.urbanspoon.com/r/77/1344563/restaurant/Bonzai-Japanese-Steakhouse-Abilene";s:4:"name";s:26:"Bonzai Japanese Steakhouse";s:2:"id";s:7:"1344563";s:4:"info";s:83:"Japanese - <br />
                 <br />
-                  1802 S Clack St, Abilene";s:5:"info2";s:8:"Japanese";s:7:"address";s:24:"1802 S Clack St, Abilene";}
+                  1802 S Clack St, Abilene";s:5:"info2";s:8:"Japanese";s:7:"address";s:24:"1802 S Clack St, Abilene";s:6:"folder";s:7:"Abilene";}

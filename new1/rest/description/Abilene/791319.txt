@@ -1,1 +1,1 @@
-a:5:{s:3:"url";s:84:"http://www.urbanspoon.com/r/77/791319/restaurant/Abilene/Grannys-Bates-Kitchen-Clyde";s:4:"name";s:22:"Granny's Bates Kitchen";s:2:"id";s:6:"791319";s:4:"info";s:19:"205 S 1st St, Clyde";s:7:"address";s:19:"205 S 1st St, Clyde";}
+a:6:{s:3:"url";s:84:"http://www.urbanspoon.com/r/77/791319/restaurant/Abilene/Grannys-Bates-Kitchen-Clyde";s:4:"name";s:22:"Granny's Bates Kitchen";s:2:"id";s:6:"791319";s:4:"info";s:19:"205 S 1st St, Clyde";s:7:"address";s:19:"205 S 1st St, Clyde";s:6:"folder";s:7:"Abilene";}

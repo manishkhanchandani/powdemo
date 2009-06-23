@@ -1,3 +1,3 @@
-a:6:{s:3:"url";s:86:"http://www.urbanspoon.com/r/77/791164/restaurant/Marys-Paletereia-Incorporated-Abilene";s:4:"name";s:30:"Mary's Paletereia Incorporated";s:2:"id";s:6:"791164";s:4:"info";s:110:"Desserts/Ice Cream and Mexican - <br />
+a:7:{s:3:"url";s:86:"http://www.urbanspoon.com/r/77/791164/restaurant/Marys-Paletereia-Incorporated-Abilene";s:4:"name";s:30:"Mary's Paletereia Incorporated";s:2:"id";s:6:"791164";s:4:"info";s:110:"Desserts/Ice Cream and Mexican - <br />
                 <br />
-                  601 S Treadaway Blvd, Abilene";s:5:"info2";s:30:"Desserts/Ice Cream and Mexican";s:7:"address";s:29:"601 S Treadaway Blvd, Abilene";}
+                  601 S Treadaway Blvd, Abilene";s:5:"info2";s:30:"Desserts/Ice Cream and Mexican";s:7:"address";s:29:"601 S Treadaway Blvd, Abilene";s:6:"folder";s:7:"Abilene";}

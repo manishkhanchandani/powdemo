@@ -1,3 +1,3 @@
-a:6:{s:3:"url";s:79:"http://www.urbanspoon.com/r/77/791010/restaurant/AM-Donuts-Croissants-2-Abilene";s:4:"name";s:28:"AM Donuts &amp; Croissants 2";s:2:"id";s:6:"791010";s:4:"info";s:87:"Donuts - <br />
+a:7:{s:3:"url";s:79:"http://www.urbanspoon.com/r/77/791010/restaurant/AM-Donuts-Croissants-2-Abilene";s:4:"name";s:28:"AM Donuts &amp; Croissants 2";s:2:"id";s:6:"791010";s:4:"info";s:87:"Donuts - <br />
                 <br />
-                  2510 S Treadaway Blvd, Abilene";s:5:"info2";s:6:"Donuts";s:7:"address";s:30:"2510 S Treadaway Blvd, Abilene";}
+                  2510 S Treadaway Blvd, Abilene";s:5:"info2";s:6:"Donuts";s:7:"address";s:30:"2510 S Treadaway Blvd, Abilene";s:6:"folder";s:7:"Abilene";}
