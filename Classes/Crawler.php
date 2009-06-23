@@ -28,7 +28,11 @@ class Crawler {
 	public function changeip(){
 		$this->counter++;
 		if($this->counter==5) $this->counter = 1;
+		echo $this->counter;
+		echo "<br>";
 		$ipfilename = "c:\ip\rel".($this->counter).'.txt';
+		echo $ipfilename;
+		exit;
 		exec("netsh -f $ipfilename");
 	}
 
