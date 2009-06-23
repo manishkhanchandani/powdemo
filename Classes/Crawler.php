@@ -30,7 +30,7 @@ class Crawler {
 		if($this->counter==5) $this->counter = 1;
 		echo $this->counter;
 		echo "<br>";
-		$ipfilename = 'c:\\\ip\\\rel'.($this->counter).'.txt';
+		$ipfilename = 'c:\\ip\\rel'.($this->counter).'.txt';
 		echo $ipfilename;
 		exec("netsh -f $ipfilename");
 		exit;
