@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/249/29028/Oshkosh/Weyauwega-restaurants";s:8:"baseName";s:21:"Weyauwega-restaurants";s:5:"title";s:9:"Weyauwega";s:5:"count";s:2:"15";}

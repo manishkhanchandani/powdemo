@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/249/29029/Oshkosh/Winneconne-restaurants";s:8:"baseName";s:22:"Winneconne-restaurants";s:5:"title";s:10:"Winneconne";s:5:"count";s:2:"12";}
