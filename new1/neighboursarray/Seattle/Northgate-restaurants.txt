@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:62:"http://www.urbanspoon.com/n/1/25/Seattle/Northgate-restaurants";s:8:"baseName";s:21:"Northgate-restaurants";s:5:"title";s:9:"Northgate";s:5:"count";s:2:"62";}

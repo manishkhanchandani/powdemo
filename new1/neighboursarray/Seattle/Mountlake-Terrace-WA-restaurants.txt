@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:76:"http://www.urbanspoon.com/n/1/40566/Seattle/Mountlake-Terrace-WA-restaurants";s:8:"baseName";s:32:"Mountlake-Terrace-WA-restaurants";s:5:"title";s:17:"Mountlake Terrace";s:5:"count";s:2:"38";}
