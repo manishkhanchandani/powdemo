@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:59:"http://www.urbanspoon.com/n/6/520/SF-Bay/Haight-restaurants";s:8:"baseName";s:18:"Haight-restaurants";s:5:"title";s:6:"Haight";s:5:"count";s:2:"83";}

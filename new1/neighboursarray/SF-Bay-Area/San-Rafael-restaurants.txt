@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:63:"http://www.urbanspoon.com/n/6/553/SF-Bay/San-Rafael-restaurants";s:8:"baseName";s:22:"San-Rafael-restaurants";s:5:"title";s:10:"San Rafael";s:5:"count";s:3:"292";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/6/7144/SF-Bay/Lafayette-Orinda-restaurants";s:8:"baseName";s:28:"Lafayette-Orinda-restaurants";s:5:"title";s:9:"Lafayette";s:5:"count";s:3:"111";}

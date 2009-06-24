@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:62:"http://www.urbanspoon.com/n/6/513/SF-Bay/Daly-City-restaurants";s:8:"baseName";s:21:"Daly-City-restaurants";s:5:"title";s:9:"Daly City";s:5:"count";s:3:"234";}

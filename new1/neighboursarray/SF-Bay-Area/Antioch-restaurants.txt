@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:61:"http://www.urbanspoon.com/n/6/7143/SF-Bay/Antioch-restaurants";s:8:"baseName";s:19:"Antioch-restaurants";s:5:"title";s:7:"Antioch";s:5:"count";s:3:"325";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:60:"http://www.urbanspoon.com/n/6/7147/SF-Bay/Sonoma-restaurants";s:8:"baseName";s:18:"Sonoma-restaurants";s:5:"title";s:6:"Sonoma";s:5:"count";s:2:"96";}

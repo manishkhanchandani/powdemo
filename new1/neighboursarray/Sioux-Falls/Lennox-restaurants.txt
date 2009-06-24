@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/287/34310/Sioux-Falls/Lennox-restaurants";s:8:"baseName";s:18:"Lennox-restaurants";s:5:"title";s:6:"Lennox";s:5:"count";s:1:"5";}

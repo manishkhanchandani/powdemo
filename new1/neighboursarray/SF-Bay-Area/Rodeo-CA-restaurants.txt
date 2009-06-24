@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:63:"http://www.urbanspoon.com/n/6/40932/SF-Bay/Rodeo-CA-restaurants";s:8:"baseName";s:20:"Rodeo-CA-restaurants";s:5:"title";s:5:"Rodeo";s:5:"count";s:2:"12";}

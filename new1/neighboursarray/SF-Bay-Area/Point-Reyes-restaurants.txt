@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:66:"http://www.urbanspoon.com/n/6/39807/SF-Bay/Point-Reyes-restaurants";s:8:"baseName";s:23:"Point-Reyes-restaurants";s:5:"title";s:11:"Point Reyes";s:5:"count";s:2:"32";}

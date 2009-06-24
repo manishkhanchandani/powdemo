@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:62:"http://www.urbanspoon.com/n/6/552/SF-Bay/San-Mateo-restaurants";s:8:"baseName";s:21:"San-Mateo-restaurants";s:5:"title";s:9:"San Mateo";s:5:"count";s:3:"300";}

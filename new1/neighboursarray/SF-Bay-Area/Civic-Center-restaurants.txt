@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:65:"http://www.urbanspoon.com/n/6/510/SF-Bay/Civic-Center-restaurants";s:8:"baseName";s:24:"Civic-Center-restaurants";s:5:"title";s:12:"Civic Center";s:5:"count";s:3:"338";}

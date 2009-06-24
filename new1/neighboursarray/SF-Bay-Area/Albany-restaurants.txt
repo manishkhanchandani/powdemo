@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:59:"http://www.urbanspoon.com/n/6/501/SF-Bay/Albany-restaurants";s:8:"baseName";s:18:"Albany-restaurants";s:5:"title";s:6:"Albany";s:5:"count";s:2:"79";}

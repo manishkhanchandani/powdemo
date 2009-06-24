@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:64:"http://www.urbanspoon.com/n/6/562/SF-Bay/West-Portal-restaurants";s:8:"baseName";s:23:"West-Portal-restaurants";s:5:"title";s:11:"West Portal";s:5:"count";s:2:"97";}

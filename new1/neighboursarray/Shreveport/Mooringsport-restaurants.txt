@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:73:"http://www.urbanspoon.com/n/285/34111/Shreveport/Mooringsport-restaurants";s:8:"baseName";s:24:"Mooringsport-restaurants";s:5:"title";s:12:"Mooringsport";s:5:"count";s:1:"3";}

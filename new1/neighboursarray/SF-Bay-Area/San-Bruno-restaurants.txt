@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:62:"http://www.urbanspoon.com/n/6/548/SF-Bay/San-Bruno-restaurants";s:8:"baseName";s:21:"San-Bruno-restaurants";s:5:"title";s:9:"San Bruno";s:5:"count";s:3:"119";}

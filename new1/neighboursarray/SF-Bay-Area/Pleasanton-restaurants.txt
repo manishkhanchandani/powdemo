@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:64:"http://www.urbanspoon.com/n/6/7141/SF-Bay/Pleasanton-restaurants";s:8:"baseName";s:22:"Pleasanton-restaurants";s:5:"title";s:10:"Pleasanton";s:5:"count";s:3:"281";}

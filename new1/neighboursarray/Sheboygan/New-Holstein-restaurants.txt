@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:72:"http://www.urbanspoon.com/n/284/34013/Sheboygan/New-Holstein-restaurants";s:8:"baseName";s:24:"New-Holstein-restaurants";s:5:"title";s:12:"New Holstein";s:5:"count";s:2:"17";}

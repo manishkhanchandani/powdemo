@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/6/544/SF-Bay/Richmond-San-Pablo-restaurants";s:8:"baseName";s:30:"Richmond-San-Pablo-restaurants";s:5:"title";s:18:"Richmond-San Pablo";s:5:"count";s:3:"183";}

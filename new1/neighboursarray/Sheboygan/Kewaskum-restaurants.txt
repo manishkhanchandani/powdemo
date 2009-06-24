@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/284/34009/Sheboygan/Kewaskum-restaurants";s:8:"baseName";s:20:"Kewaskum-restaurants";s:5:"title";s:8:"Kewaskum";s:5:"count";s:2:"20";}

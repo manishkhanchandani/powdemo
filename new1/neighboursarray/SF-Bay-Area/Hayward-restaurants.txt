@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:60:"http://www.urbanspoon.com/n/6/523/SF-Bay/Hayward-restaurants";s:8:"baseName";s:19:"Hayward-restaurants";s:5:"title";s:7:"Hayward";s:5:"count";s:3:"350";}

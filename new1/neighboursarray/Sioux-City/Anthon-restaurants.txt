@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/286/34201/Sioux-City/Anthon-restaurants";s:8:"baseName";s:18:"Anthon-restaurants";s:5:"title";s:6:"Anthon";s:5:"count";s:1:"4";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/287/34308/Sioux-Falls/Hartford-restaurants";s:8:"baseName";s:20:"Hartford-restaurants";s:5:"title";s:8:"Hartford";s:5:"count";s:1:"6";}

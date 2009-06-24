@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/6/563/SF-Bay/Western-Addition-restaurants";s:8:"baseName";s:28:"Western-Addition-restaurants";s:5:"title";s:16:"Western Addition";s:5:"count";s:2:"63";}

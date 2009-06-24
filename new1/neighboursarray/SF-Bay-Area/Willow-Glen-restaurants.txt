@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:65:"http://www.urbanspoon.com/n/6/6746/SF-Bay/Willow-Glen-restaurants";s:8:"baseName";s:23:"Willow-Glen-restaurants";s:5:"title";s:11:"Willow Glen";s:5:"count";s:3:"102";}

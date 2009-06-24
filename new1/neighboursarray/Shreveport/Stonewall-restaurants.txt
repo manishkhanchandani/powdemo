@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/285/34115/Shreveport/Stonewall-restaurants";s:8:"baseName";s:21:"Stonewall-restaurants";s:5:"title";s:9:"Stonewall";s:5:"count";s:1:"2";}

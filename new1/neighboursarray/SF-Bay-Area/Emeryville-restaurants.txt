@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:63:"http://www.urbanspoon.com/n/6/515/SF-Bay/Emeryville-restaurants";s:8:"baseName";s:22:"Emeryville-restaurants";s:5:"title";s:10:"Emeryville";s:5:"count";s:3:"108";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:61:"http://www.urbanspoon.com/n/6/550/SF-Bay/San-Jose-restaurants";s:8:"baseName";s:20:"San-Jose-restaurants";s:5:"title";s:8:"San Jose";s:5:"count";s:4:"1519";}

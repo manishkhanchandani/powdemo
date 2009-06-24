@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:64:"http://www.urbanspoon.com/n/6/6747/SF-Bay/Alameda-SJ-restaurants";s:8:"baseName";s:22:"Alameda-SJ-restaurants";s:5:"title";s:7:"Alameda";s:5:"count";s:7:"SJ) (65";}
