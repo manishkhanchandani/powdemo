@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:72:"http://www.urbanspoon.com/n/29/2801/Twin-Cities/Apple-Valley-restaurants";s:8:"baseName";s:24:"Apple-Valley-restaurants";s:5:"title";s:12:"Apple Valley";s:5:"count";s:2:"53";}

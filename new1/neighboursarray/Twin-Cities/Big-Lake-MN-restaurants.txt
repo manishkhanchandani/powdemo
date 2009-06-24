@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:72:"http://www.urbanspoon.com/n/29/41323/Twin-Cities/Big-Lake-MN-restaurants";s:8:"baseName";s:23:"Big-Lake-MN-restaurants";s:5:"title";s:8:"Big Lake";s:5:"count";s:2:"21";}

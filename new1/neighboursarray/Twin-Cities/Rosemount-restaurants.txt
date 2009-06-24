@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/29/2848/Twin-Cities/Rosemount-restaurants";s:8:"baseName";s:21:"Rosemount-restaurants";s:5:"title";s:9:"Rosemount";s:5:"count";s:2:"21";}

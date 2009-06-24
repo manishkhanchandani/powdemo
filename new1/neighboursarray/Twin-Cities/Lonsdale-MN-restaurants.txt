@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:72:"http://www.urbanspoon.com/n/29/41346/Twin-Cities/Lonsdale-MN-restaurants";s:8:"baseName";s:23:"Lonsdale-MN-restaurants";s:5:"title";s:8:"Lonsdale";s:5:"count";s:1:"7";}

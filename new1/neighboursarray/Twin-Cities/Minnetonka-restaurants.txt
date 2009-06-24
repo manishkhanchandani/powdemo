@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/29/2835/Twin-Cities/Minnetonka-restaurants";s:8:"baseName";s:22:"Minnetonka-restaurants";s:5:"title";s:10:"Minnetonka";s:5:"count";s:3:"135";}

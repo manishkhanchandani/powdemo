@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:73:"http://www.urbanspoon.com/n/29/2824/Twin-Cities/Golden-Valley-restaurants";s:8:"baseName";s:25:"Golden-Valley-restaurants";s:5:"title";s:13:"Golden Valley";s:5:"count";s:2:"28";}

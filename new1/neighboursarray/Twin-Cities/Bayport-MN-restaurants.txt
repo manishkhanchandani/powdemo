@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/29/41320/Twin-Cities/Bayport-MN-restaurants";s:8:"baseName";s:22:"Bayport-MN-restaurants";s:5:"title";s:7:"Bayport";s:5:"count";s:1:"9";}

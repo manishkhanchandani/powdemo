@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:76:"http://www.urbanspoon.com/n/29/41321/Twin-Cities/Belle-Plaine-MN-restaurants";s:8:"baseName";s:27:"Belle-Plaine-MN-restaurants";s:5:"title";s:12:"Belle Plaine";s:5:"count";s:2:"17";}

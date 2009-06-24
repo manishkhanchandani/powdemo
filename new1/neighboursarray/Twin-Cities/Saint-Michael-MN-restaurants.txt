@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:77:"http://www.urbanspoon.com/n/29/41362/Twin-Cities/Saint-Michael-MN-restaurants";s:8:"baseName";s:28:"Saint-Michael-MN-restaurants";s:5:"title";s:13:"Saint Michael";s:5:"count";s:2:"11";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/29/41366/Twin-Cities/Stacy-MN-restaurants";s:8:"baseName";s:20:"Stacy-MN-restaurants";s:5:"title";s:5:"Stacy";s:5:"count";s:1:"7";}

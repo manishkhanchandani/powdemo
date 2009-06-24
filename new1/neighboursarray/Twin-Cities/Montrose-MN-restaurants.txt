@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:72:"http://www.urbanspoon.com/n/29/41351/Twin-Cities/Montrose-MN-restaurants";s:8:"baseName";s:23:"Montrose-MN-restaurants";s:5:"title";s:8:"Montrose";s:5:"count";s:1:"4";}

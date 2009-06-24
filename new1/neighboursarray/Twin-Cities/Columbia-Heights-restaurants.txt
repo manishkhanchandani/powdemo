@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:76:"http://www.urbanspoon.com/n/29/2810/Twin-Cities/Columbia-Heights-restaurants";s:8:"baseName";s:28:"Columbia-Heights-restaurants";s:5:"title";s:16:"Columbia Heights";s:5:"count";s:2:"36";}

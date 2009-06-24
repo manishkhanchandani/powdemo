@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:75:"http://www.urbanspoon.com/n/29/2865/Twin-Cities/White-Bear-Lake-restaurants";s:8:"baseName";s:27:"White-Bear-Lake-restaurants";s:5:"title";s:15:"White Bear Lake";s:5:"count";s:2:"73";}

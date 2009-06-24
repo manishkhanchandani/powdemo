@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/29/37002/Twin-Cities/Chaska-restaurants";s:8:"baseName";s:18:"Chaska-restaurants";s:5:"title";s:6:"Chaska";s:5:"count";s:2:"41";}

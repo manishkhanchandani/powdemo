@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/29/41331/Twin-Cities/Delano-MN-restaurants";s:8:"baseName";s:21:"Delano-MN-restaurants";s:5:"title";s:6:"Delano";s:5:"count";s:2:"14";}

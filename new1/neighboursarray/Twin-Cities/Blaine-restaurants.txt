@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:66:"http://www.urbanspoon.com/n/29/2802/Twin-Cities/Blaine-restaurants";s:8:"baseName";s:18:"Blaine-restaurants";s:5:"title";s:6:"Blaine";s:5:"count";s:2:"70";}

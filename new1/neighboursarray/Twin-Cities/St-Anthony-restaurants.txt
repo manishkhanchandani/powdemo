@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/29/2855/Twin-Cities/St-Anthony-restaurants";s:8:"baseName";s:22:"St-Anthony-restaurants";s:5:"title";s:10:"St Anthony";s:5:"count";s:2:"12";}

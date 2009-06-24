@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:73:"http://www.urbanspoon.com/n/29/2828/Twin-Cities/Little-Canada-restaurants";s:8:"baseName";s:25:"Little-Canada-restaurants";s:5:"title";s:13:"Little Canada";s:5:"count";s:2:"10";}

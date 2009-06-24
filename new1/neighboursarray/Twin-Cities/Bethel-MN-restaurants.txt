@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/29/41322/Twin-Cities/Bethel-MN-restaurants";s:8:"baseName";s:21:"Bethel-MN-restaurants";s:5:"title";s:6:"Bethel";s:5:"count";s:1:"3";}

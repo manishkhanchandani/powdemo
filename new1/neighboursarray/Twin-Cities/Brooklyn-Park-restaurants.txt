@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:73:"http://www.urbanspoon.com/n/29/2805/Twin-Cities/Brooklyn-Park-restaurants";s:8:"baseName";s:25:"Brooklyn-Park-restaurants";s:5:"title";s:13:"Brooklyn Park";s:5:"count";s:2:"57";}
