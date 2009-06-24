@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:65:"http://www.urbanspoon.com/n/1/40574/Seattle/Sammamish-restaurants";s:8:"baseName";s:21:"Sammamish-restaurants";s:5:"title";s:9:"Sammamish";s:5:"count";s:2:"35";}

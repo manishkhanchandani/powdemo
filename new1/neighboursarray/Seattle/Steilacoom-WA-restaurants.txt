@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/1/40579/Seattle/Steilacoom-WA-restaurants";s:8:"baseName";s:25:"Steilacoom-WA-restaurants";s:5:"title";s:10:"Steilacoom";s:5:"count";s:1:"8";}

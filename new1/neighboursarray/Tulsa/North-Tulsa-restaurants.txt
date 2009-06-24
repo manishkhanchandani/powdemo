@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:65:"http://www.urbanspoon.com/n/58/5818/Tulsa/North-Tulsa-restaurants";s:8:"baseName";s:23:"North-Tulsa-restaurants";s:5:"title";s:11:"North Tulsa";s:5:"count";s:2:"55";}

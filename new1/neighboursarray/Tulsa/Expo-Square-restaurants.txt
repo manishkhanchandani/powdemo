@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:65:"http://www.urbanspoon.com/n/58/5812/Tulsa/Expo-Square-restaurants";s:8:"baseName";s:23:"Expo-Square-restaurants";s:5:"title";s:11:"Expo Square";s:5:"count";s:2:"71";}

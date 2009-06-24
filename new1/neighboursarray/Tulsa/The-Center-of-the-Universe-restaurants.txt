@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:80:"http://www.urbanspoon.com/n/58/5825/Tulsa/The-Center-of-the-Universe-restaurants";s:8:"baseName";s:38:"The-Center-of-the-Universe-restaurants";s:5:"title";s:26:"The Center of the Universe";s:5:"count";s:2:"18";}

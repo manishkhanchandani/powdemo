@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:63:"http://www.urbanspoon.com/n/58/5808/Tulsa/Claremore-restaurants";s:8:"baseName";s:21:"Claremore-restaurants";s:5:"title";s:9:"Claremore";s:5:"count";s:2:"46";}

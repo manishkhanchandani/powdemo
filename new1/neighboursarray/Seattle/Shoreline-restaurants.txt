@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:62:"http://www.urbanspoon.com/n/1/31/Seattle/Shoreline-restaurants";s:8:"baseName";s:21:"Shoreline-restaurants";s:5:"title";s:9:"Shoreline";s:5:"count";s:2:"91";}

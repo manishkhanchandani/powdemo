@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:64:"http://www.urbanspoon.com/n/58/5811/Tulsa/East-Tulsa-restaurants";s:8:"baseName";s:22:"East-Tulsa-restaurants";s:5:"title";s:10:"East Tulsa";s:5:"count";s:3:"167";}
