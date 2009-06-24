@@ -59,12 +59,19 @@ if ($handle = opendir($dirname)) {
 					$filetype2 = filetype($dirname2."/".$file2);
 					if($filetype2 == "file") {
 						echo $file3 = $dirname2."/".$file2;
-						echo "<br>";						
-						$input = file_get_contents($file3);						
+						echo "<br>";		
+						echo $baseName = basename($file3);
+						echo "<br>";		
+						$input = file_get_contents($file3);	
+						$input2 = file_get_contents("rest/listing/".$folder."/".$baseName);		
+						$infoMore = $Crawler->listingPage($input2);
 						$info = $Crawler->getHotelListingDetailsLimited($input, $base);
 						if($info) {
 							foreach($info as $k=>$v) {
-								$v['folder'] = $folder;
+								$v['folder'] = $folder;		
+								$v['lat'] = $infoMore[$v['id']]['lat'];
+								$v['lon'] = $infoMore[$v['id']]['lon'];
+								$v['neighbour'] = $infoMore[$v['id']]['neighbour'];
 								if(!file_exists('rest/description/'.$folder.'/'.$v['id'].'.txt')) {
 									$string = serialize($v);
 									file_put_contents('rest/description/'.$folder.'/'.$v['id'].'.txt', $string);

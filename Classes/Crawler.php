@@ -264,7 +264,7 @@ class Crawler {
 		} else {
 			$cuisine = "";
 		}
-		$sql = "INSERT INTO `restaurants` ( `id` , `rid` , `state` , `city` , `address` , `neighborhood` , `country` , `location` ,`phone` , `zip` , `linktext` , `title` ,`full_neighborhood` , `full_city` , `pricerange` , `dollarcount` , `cusine` ) VALUES ( '".addslashes(stripslashes(trim($post['id'])))."', '".addslashes(stripslashes(trim($post['rid'])))."' , '".addslashes(stripslashes(trim($post['province'])))."' , '".addslashes(stripslashes(trim($post['city'])))."' , '".addslashes(stripslashes(trim($post['streeaddr'])))."' , '".addslashes(stripslashes(trim($post['folder'])))."' , '".addslashes(stripslashes(trim($post['country'])))."' , '".addslashes(stripslashes(trim($post['city']))).", ".addslashes(stripslashes(trim($post['province'])))."', '".addslashes(stripslashes(trim($post['phone'])))."' , '".addslashes(stripslashes(trim($post['zip'])))."' , '".addslashes(stripslashes(trim($post['linktext'])))."' , '".addslashes(stripslashes(trim($post['title'])))."' , '".addslashes(stripslashes(trim($post['folder'].", ".$post['city'].", ".$post['province'])))."' , '".addslashes(stripslashes(trim($post['city'].", ".$post['province'])))."' , '".addslashes(stripslashes(trim($post['pricerange'])))."' , '".addslashes(stripslashes(trim($post['dollarcount'])))."' , '".addslashes(stripslashes(trim($cuisine)))."' )";
+		$sql = "INSERT INTO `restaurants` ( `id` , `rid` , `state` , `city` , `address` , `neighborhood` , `country` , `location` ,`phone` , `zip` , `linktext` , `title` ,`full_neighborhood` , `full_city` , `pricerange` , `dollarcount` , `cusine`, `lat`, `lon` ) VALUES ( '".addslashes(stripslashes(trim($post['id'])))."', '".addslashes(stripslashes(trim($post['rid'])))."' , '".addslashes(stripslashes(trim($post['province'])))."' , '".addslashes(stripslashes(trim($post['city'])))."' , '".addslashes(stripslashes(trim($post['streeaddr'])))."' , '".addslashes(stripslashes(trim($post['folder'])))."' , '".addslashes(stripslashes(trim($post['country'])))."' , '".addslashes(stripslashes(trim($post['city']))).", ".addslashes(stripslashes(trim($post['province'])))."', '".addslashes(stripslashes(trim($post['phone'])))."' , '".addslashes(stripslashes(trim($post['zip'])))."' , '".addslashes(stripslashes(trim($post['linktext'])))."' , '".addslashes(stripslashes(trim($post['title'])))."' , '".addslashes(stripslashes(trim($post['folder'].", ".$post['city'].", ".$post['province'])))."' , '".addslashes(stripslashes(trim($post['city'].", ".$post['province'])))."' , '".addslashes(stripslashes(trim($post['pricerange'])))."' , '".addslashes(stripslashes(trim($post['dollarcount'])))."' , '".addslashes(stripslashes(trim($cuisine)))."', '".addslashes(stripslashes(trim($post['lat'])))."', '".addslashes(stripslashes(trim($post['lon'])))."' )";
 		echo $sql;
 		echo "<br>";
 		@mysql_query($sql);
@@ -325,6 +325,27 @@ $xml['criticreviews'] .="</doc>
 </add>";
 }
 		return $xml;
+	}
+	public function listingPage($input2) {
+		$regexp = "<h1 style=\"margin\-bottom:0px\" class=\"page\-title\">(.*) Restaurants<\/h1>";
+		$matches = $this->regexp($regexp, $input2);
+		if($matches) {
+			foreach($matches as $match) {
+				$neighbour = $match[1];
+			}
+		}
+		$regexp = "cM\(([0-9\.\-]*), ([0-9\.\-]*), icon, '<strong><a href=\\\\\"\/r\/77\/(.*)\/restaurant\/(.*)\\\\\">(.*)<\/a><\/strong><br\/>(.*)'\);";
+		$matches = $this->regexp($regexp, $input2);
+		if($matches) {
+			foreach($matches as $match) {
+				$id = $match[3];
+				$arr[$id]['lat'] = $match[1];
+				$arr[$id]['lon'] = $match[2];
+				$arr[$id]['id'] = $match[3];
+				$arr[$id]['neighbour'] = $neighbour;
+			}
+		}
+		return $arr;
 	}
 }
 ?>
