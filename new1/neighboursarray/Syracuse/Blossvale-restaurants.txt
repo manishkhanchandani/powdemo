@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/299/35503/Syracuse/Blossvale-restaurants";s:8:"baseName";s:21:"Blossvale-restaurants";s:5:"title";s:9:"Blossvale";s:5:"count";s:1:"3";}

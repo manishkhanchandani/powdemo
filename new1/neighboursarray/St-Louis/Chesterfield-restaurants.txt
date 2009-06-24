@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/28/35200/St-Louis/Chesterfield-restaurants";s:8:"baseName";s:24:"Chesterfield-restaurants";s:5:"title";s:12:"Chesterfield";s:5:"count";s:3:"200";}

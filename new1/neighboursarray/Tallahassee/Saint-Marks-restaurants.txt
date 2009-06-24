@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:73:"http://www.urbanspoon.com/n/302/35806/Tallahassee/Saint-Marks-restaurants";s:8:"baseName";s:23:"Saint-Marks-restaurants";s:5:"title";s:11:"Saint Marks";s:5:"count";s:1:"4";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/299/35548/Syracuse/Verona-Beach-restaurants";s:8:"baseName";s:24:"Verona-Beach-restaurants";s:5:"title";s:12:"Verona Beach";s:5:"count";s:1:"4";}

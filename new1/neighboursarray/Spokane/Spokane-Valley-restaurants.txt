@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:72:"http://www.urbanspoon.com/n/291/34715/Spokane/Spokane-Valley-restaurants";s:8:"baseName";s:26:"Spokane-Valley-restaurants";s:5:"title";s:14:"Spokane Valley";s:5:"count";s:3:"207";}

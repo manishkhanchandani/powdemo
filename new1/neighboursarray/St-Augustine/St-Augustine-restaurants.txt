@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:62:"http://www.urbanspoon.com/n/294/35006/St-Augustine-restaurants";s:8:"baseName";s:24:"St-Augustine-restaurants";s:5:"title";s:12:"St Augustine";s:5:"count";s:3:"378";}

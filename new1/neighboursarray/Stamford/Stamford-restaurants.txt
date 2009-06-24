@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:58:"http://www.urbanspoon.com/n/297/35320/Stamford-restaurants";s:8:"baseName";s:20:"Stamford-restaurants";s:5:"title";s:8:"Stamford";s:5:"count";s:3:"371";}

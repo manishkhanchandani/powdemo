@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/288/34402/South-Bend/Bristol-restaurants";s:8:"baseName";s:19:"Bristol-restaurants";s:5:"title";s:7:"Bristol";s:5:"count";s:1:"7";}

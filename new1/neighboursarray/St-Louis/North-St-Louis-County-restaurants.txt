@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:78:"http://www.urbanspoon.com/n/28/2718/St-Louis/North-St-Louis-County-restaurants";s:8:"baseName";s:33:"North-St-Louis-County-restaurants";s:5:"title";s:21:"North St Louis County";s:5:"count";s:2:"99";}

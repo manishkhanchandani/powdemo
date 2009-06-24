@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:74:"http://www.urbanspoon.com/n/28/2708/St-Louis/Downtown-St-Louis-restaurants";s:8:"baseName";s:29:"Downtown-St-Louis-restaurants";s:5:"title";s:8:"Downtown";s:5:"count";s:3:"198";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:72:"http://www.urbanspoon.com/n/292/34814/Springfield/Middletown-restaurants";s:8:"baseName";s:22:"Middletown-restaurants";s:5:"title";s:10:"Middletown";s:5:"count";s:1:"3";}

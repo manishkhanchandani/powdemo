@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:72:"http://www.urbanspoon.com/n/299/35501/Syracuse/Baldwinsville-restaurants";s:8:"baseName";s:25:"Baldwinsville-restaurants";s:5:"title";s:13:"Baldwinsville";s:5:"count";s:2:"52";}

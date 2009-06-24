@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:73:"http://www.urbanspoon.com/n/28/2720/St-Louis/Richmond-Heights-restaurants";s:8:"baseName";s:28:"Richmond-Heights-restaurants";s:5:"title";s:16:"Richmond Heights";s:5:"count";s:2:"60";}

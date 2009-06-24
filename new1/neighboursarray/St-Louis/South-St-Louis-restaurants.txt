@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/28/2722/St-Louis/South-St-Louis-restaurants";s:8:"baseName";s:26:"South-St-Louis-restaurants";s:5:"title";s:5:"South";s:5:"count";s:2:"58";}

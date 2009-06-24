@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:57:"http://www.urbanspoon.com/n/291/34714/Spokane-restaurants";s:8:"baseName";s:19:"Spokane-restaurants";s:5:"title";s:7:"Spokane";s:5:"count";s:3:"710";}

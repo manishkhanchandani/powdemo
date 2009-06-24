@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/288/34405/South-Bend/Goshen-restaurants";s:8:"baseName";s:18:"Goshen-restaurants";s:5:"title";s:6:"Goshen";s:5:"count";s:2:"93";}

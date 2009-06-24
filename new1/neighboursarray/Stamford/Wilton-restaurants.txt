@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:65:"http://www.urbanspoon.com/n/297/35326/Stamford/Wilton-restaurants";s:8:"baseName";s:18:"Wilton-restaurants";s:5:"title";s:6:"Wilton";s:5:"count";s:2:"42";}

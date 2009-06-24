@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/28/35201/St-Louis/Crystal-City-restaurants";s:8:"baseName";s:24:"Crystal-City-restaurants";s:5:"title";s:12:"Crystal City";s:5:"count";s:2:"20";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/28/2727/St-Louis/Tower-Grove-restaurants";s:8:"baseName";s:23:"Tower-Grove-restaurants";s:5:"title";s:11:"Tower Grove";s:5:"count";s:2:"75";}

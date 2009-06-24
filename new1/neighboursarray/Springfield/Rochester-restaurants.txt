@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/292/34821/Springfield/Rochester-restaurants";s:8:"baseName";s:21:"Rochester-restaurants";s:5:"title";s:9:"Rochester";s:5:"count";s:1:"4";}

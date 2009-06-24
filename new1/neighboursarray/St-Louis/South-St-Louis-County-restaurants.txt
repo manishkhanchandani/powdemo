@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:78:"http://www.urbanspoon.com/n/28/2724/St-Louis/South-St-Louis-County-restaurants";s:8:"baseName";s:33:"South-St-Louis-County-restaurants";s:5:"title";s:21:"South St Louis County";s:5:"count";s:3:"171";}

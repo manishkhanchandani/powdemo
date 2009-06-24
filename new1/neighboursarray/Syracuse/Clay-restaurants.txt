@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:63:"http://www.urbanspoon.com/n/299/35514/Syracuse/Clay-restaurants";s:8:"baseName";s:16:"Clay-restaurants";s:5:"title";s:4:"Clay";s:5:"count";s:2:"17";}

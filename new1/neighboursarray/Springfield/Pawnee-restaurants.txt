@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/292/34817/Springfield/Pawnee-restaurants";s:8:"baseName";s:18:"Pawnee-restaurants";s:5:"title";s:6:"Pawnee";s:5:"count";s:1:"7";}

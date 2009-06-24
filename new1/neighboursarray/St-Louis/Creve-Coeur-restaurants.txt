@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/28/2706/St-Louis/Creve-Coeur-restaurants";s:8:"baseName";s:23:"Creve-Coeur-restaurants";s:5:"title";s:11:"Creve Coeur";s:5:"count";s:2:"96";}

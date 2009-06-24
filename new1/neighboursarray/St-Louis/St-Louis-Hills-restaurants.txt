@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/28/2726/St-Louis/St-Louis-Hills-restaurants";s:8:"baseName";s:26:"St-Louis-Hills-restaurants";s:5:"title";s:14:"St Louis Hills";s:5:"count";s:2:"71";}

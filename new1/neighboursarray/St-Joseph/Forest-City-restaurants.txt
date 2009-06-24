@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/295/35102/St-Joseph/Forest-City-restaurants";s:8:"baseName";s:23:"Forest-City-restaurants";s:5:"title";s:11:"Forest City";s:5:"count";s:1:"2";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:66:"http://www.urbanspoon.com/n/297/35302/Stamford/Cos-Cob-restaurants";s:8:"baseName";s:19:"Cos-Cob-restaurants";s:5:"title";s:7:"Cos Cob";s:5:"count";s:2:"14";}

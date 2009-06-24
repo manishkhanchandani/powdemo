@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:58:"http://www.urbanspoon.com/n/299/35545/Syracuse-restaurants";s:8:"baseName";s:20:"Syracuse-restaurants";s:5:"title";s:8:"Syracuse";s:5:"count";s:3:"782";}

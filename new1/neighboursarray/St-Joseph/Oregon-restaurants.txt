@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:66:"http://www.urbanspoon.com/n/295/35106/St-Joseph/Oregon-restaurants";s:8:"baseName";s:18:"Oregon-restaurants";s:5:"title";s:6:"Oregon";s:5:"count";s:1:"3";}

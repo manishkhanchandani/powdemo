@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/292/34812/Springfield/Lincoln-restaurants";s:8:"baseName";s:19:"Lincoln-restaurants";s:5:"title";s:7:"Lincoln";s:5:"count";s:2:"54";}

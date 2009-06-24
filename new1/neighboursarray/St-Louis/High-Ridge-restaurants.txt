@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/28/35205/St-Louis/High-Ridge-restaurants";s:8:"baseName";s:22:"High-Ridge-restaurants";s:5:"title";s:10:"High Ridge";s:5:"count";s:2:"20";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/288/34409/South-Bend/Lakeville-restaurants";s:8:"baseName";s:21:"Lakeville-restaurants";s:5:"title";s:9:"Lakeville";s:5:"count";s:1:"5";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:73:"http://www.urbanspoon.com/n/295/35112/St-Joseph/Stewartsville-restaurants";s:8:"baseName";s:25:"Stewartsville-restaurants";s:5:"title";s:13:"Stewartsville";s:5:"count";s:1:"3";}
