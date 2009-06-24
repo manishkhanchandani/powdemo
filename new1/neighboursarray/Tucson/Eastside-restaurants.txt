@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:63:"http://www.urbanspoon.com/n/59/5908/Tucson/Eastside-restaurants";s:8:"baseName";s:20:"Eastside-restaurants";s:5:"title";s:8:"Eastside";s:5:"count";s:2:"78";}

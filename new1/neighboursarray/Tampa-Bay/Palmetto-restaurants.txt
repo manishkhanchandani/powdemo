@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/30/35905/Tampa-Bay/Palmetto-restaurants";s:8:"baseName";s:20:"Palmetto-restaurants";s:5:"title";s:8:"Palmetto";s:5:"count";s:2:"60";}

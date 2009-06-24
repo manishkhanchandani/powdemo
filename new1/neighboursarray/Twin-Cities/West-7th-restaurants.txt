@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/29/2862/Twin-Cities/West-7th-restaurants";s:8:"baseName";s:20:"West-7th-restaurants";s:5:"title";s:8:"West 7th";s:5:"count";s:2:"39";}

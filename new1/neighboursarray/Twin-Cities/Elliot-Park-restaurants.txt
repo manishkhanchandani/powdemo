@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/29/2821/Twin-Cities/Elliot-Park-restaurants";s:8:"baseName";s:23:"Elliot-Park-restaurants";s:5:"title";s:11:"Elliot Park";s:5:"count";s:2:"11";}

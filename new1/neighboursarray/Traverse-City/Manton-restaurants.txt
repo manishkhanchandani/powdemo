@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/307/36521/Traverse-City/Manton-restaurants";s:8:"baseName";s:18:"Manton-restaurants";s:5:"title";s:6:"Manton";s:5:"count";s:1:"5";}

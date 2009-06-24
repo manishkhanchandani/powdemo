@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:74:"http://www.urbanspoon.com/n/30/2905/Tampa-Bay/Clearwater-Beach-restaurants";s:8:"baseName";s:28:"Clearwater-Beach-restaurants";s:5:"title";s:16:"Clearwater Beach";s:5:"count";s:2:"75";}

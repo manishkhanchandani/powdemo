@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:80:"http://www.urbanspoon.com/n/30/2907/Tampa-Bay/Downtown-St-Petersburg-restaurants";s:8:"baseName";s:34:"Downtown-St-Petersburg-restaurants";s:5:"title";s:22:"Downtown St Petersburg";s:5:"count";s:3:"154";}

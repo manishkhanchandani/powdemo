@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:64:"http://www.urbanspoon.com/n/10/935/Toronto/Yorkville-restaurants";s:8:"baseName";s:21:"Yorkville-restaurants";s:5:"title";s:9:"Yorkville";s:5:"count";s:3:"188";}

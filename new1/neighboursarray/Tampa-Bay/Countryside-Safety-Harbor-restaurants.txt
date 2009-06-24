@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:83:"http://www.urbanspoon.com/n/30/2906/Tampa-Bay/Countryside-Safety-Harbor-restaurants";s:8:"baseName";s:37:"Countryside-Safety-Harbor-restaurants";s:5:"title";s:11:"Countryside";s:5:"count";s:3:"167";}

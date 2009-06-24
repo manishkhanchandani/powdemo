@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:73:"http://www.urbanspoon.com/n/30/2927/Tampa-Bay/Northwest-Tampa-restaurants";s:8:"baseName";s:27:"Northwest-Tampa-restaurants";s:5:"title";s:15:"Northwest Tampa";s:5:"count";s:2:"76";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/29/2818/Twin-Cities/Eat-Street-restaurants";s:8:"baseName";s:22:"Eat-Street-restaurants";s:5:"title";s:10:"Eat Street";s:5:"count";s:2:"45";}

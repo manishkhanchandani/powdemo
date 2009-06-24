@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:65:"http://www.urbanspoon.com/n/30/35909/Tampa-Bay/Venice-restaurants";s:8:"baseName";s:18:"Venice-restaurants";s:5:"title";s:6:"Venice";s:5:"count";s:3:"159";}

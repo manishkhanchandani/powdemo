@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:75:"http://www.urbanspoon.com/n/29/2856/Twin-Cities/St-Anthony-Park-restaurants";s:8:"baseName";s:27:"St-Anthony-Park-restaurants";s:5:"title";s:15:"St Anthony Park";s:5:"count";s:2:"24";}

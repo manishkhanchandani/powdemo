@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:76:"http://www.urbanspoon.com/n/308/36601/Treasure-Coast/Fort-Pierce-restaurants";s:8:"baseName";s:23:"Fort-Pierce-restaurants";s:5:"title";s:11:"Fort Pierce";s:5:"count";s:3:"208";}

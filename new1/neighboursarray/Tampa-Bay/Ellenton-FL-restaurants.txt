@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/30/41380/Tampa-Bay/Ellenton-FL-restaurants";s:8:"baseName";s:23:"Ellenton-FL-restaurants";s:5:"title";s:8:"Ellenton";s:5:"count";s:2:"34";}

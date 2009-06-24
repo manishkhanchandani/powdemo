@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:66:"http://www.urbanspoon.com/n/304/36104/Terre-Haute/Dana-restaurants";s:8:"baseName";s:16:"Dana-restaurants";s:5:"title";s:4:"Dana";s:5:"count";s:1:"2";}

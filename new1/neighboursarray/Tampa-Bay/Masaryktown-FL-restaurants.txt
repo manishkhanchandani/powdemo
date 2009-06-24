@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:73:"http://www.urbanspoon.com/n/30/41387/Tampa-Bay/Masaryktown-FL-restaurants";s:8:"baseName";s:26:"Masaryktown-FL-restaurants";s:5:"title";s:11:"Masaryktown";s:5:"count";s:1:"3";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:66:"http://www.urbanspoon.com/n/30/2935/Tampa-Bay/Seminole-restaurants";s:8:"baseName";s:20:"Seminole-restaurants";s:5:"title";s:8:"Seminole";s:5:"count";s:3:"109";}

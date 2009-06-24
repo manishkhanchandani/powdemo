@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/30/35906/Tampa-Bay/Plant-City-restaurants";s:8:"baseName";s:22:"Plant-City-restaurants";s:5:"title";s:10:"Plant City";s:5:"count";s:3:"130";}

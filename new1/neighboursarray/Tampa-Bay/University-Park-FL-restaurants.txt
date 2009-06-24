@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:77:"http://www.urbanspoon.com/n/30/41397/Tampa-Bay/University-Park-FL-restaurants";s:8:"baseName";s:30:"University-Park-FL-restaurants";s:5:"title";s:15:"University Park";s:5:"count";s:2:"12";}

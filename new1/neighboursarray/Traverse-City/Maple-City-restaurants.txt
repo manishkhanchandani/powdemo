@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:74:"http://www.urbanspoon.com/n/307/36522/Traverse-City/Maple-City-restaurants";s:8:"baseName";s:22:"Maple-City-restaurants";s:5:"title";s:10:"Maple City";s:5:"count";s:1:"9";}

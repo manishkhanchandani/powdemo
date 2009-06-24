@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:74:"http://www.urbanspoon.com/n/30/41396/Tampa-Bay/Thonotosassa-FL-restaurants";s:8:"baseName";s:27:"Thonotosassa-FL-restaurants";s:5:"title";s:12:"Thonotosassa";s:5:"count";s:1:"6";}

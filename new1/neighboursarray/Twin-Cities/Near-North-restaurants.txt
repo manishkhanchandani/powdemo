@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/29/2837/Twin-Cities/Near-North-restaurants";s:8:"baseName";s:22:"Near-North-restaurants";s:5:"title";s:10:"Near North";s:5:"count";s:2:"27";}

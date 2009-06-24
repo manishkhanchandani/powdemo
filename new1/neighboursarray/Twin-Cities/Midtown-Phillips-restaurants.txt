@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:76:"http://www.urbanspoon.com/n/29/2833/Twin-Cities/Midtown-Phillips-restaurants";s:8:"baseName";s:28:"Midtown-Phillips-restaurants";s:5:"title";s:7:"Midtown";s:5:"count";s:2:"84";}

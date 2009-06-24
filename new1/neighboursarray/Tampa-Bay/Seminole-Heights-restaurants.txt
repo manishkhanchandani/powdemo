@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:74:"http://www.urbanspoon.com/n/30/2936/Tampa-Bay/Seminole-Heights-restaurants";s:8:"baseName";s:28:"Seminole-Heights-restaurants";s:5:"title";s:16:"Seminole Heights";s:5:"count";s:2:"37";}

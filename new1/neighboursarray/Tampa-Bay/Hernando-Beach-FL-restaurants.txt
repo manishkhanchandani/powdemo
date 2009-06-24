@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:76:"http://www.urbanspoon.com/n/30/41382/Tampa-Bay/Hernando-Beach-FL-restaurants";s:8:"baseName";s:29:"Hernando-Beach-FL-restaurants";s:5:"title";s:14:"Hernando Beach";s:5:"count";s:1:"8";}

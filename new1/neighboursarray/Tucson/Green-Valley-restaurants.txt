@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/59/5913/Tucson/Green-Valley-restaurants";s:8:"baseName";s:24:"Green-Valley-restaurants";s:5:"title";s:12:"Green Valley";s:5:"count";s:2:"29";}

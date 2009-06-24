@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:64:"http://www.urbanspoon.com/n/59/36700/Tucson/Catalina-restaurants";s:8:"baseName";s:20:"Catalina-restaurants";s:5:"title";s:8:"Catalina";s:5:"count";s:1:"2";}

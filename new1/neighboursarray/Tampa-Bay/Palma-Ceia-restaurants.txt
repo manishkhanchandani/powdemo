@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/30/2930/Tampa-Bay/Palma-Ceia-restaurants";s:8:"baseName";s:22:"Palma-Ceia-restaurants";s:5:"title";s:10:"Palma Ceia";s:5:"count";s:3:"125";}

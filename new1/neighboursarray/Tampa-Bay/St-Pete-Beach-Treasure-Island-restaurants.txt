@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:87:"http://www.urbanspoon.com/n/30/2939/Tampa-Bay/St-Pete-Beach-Treasure-Island-restaurants";s:8:"baseName";s:41:"St-Pete-Beach-Treasure-Island-restaurants";s:5:"title";s:13:"St Pete Beach";s:5:"count";s:3:"139";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:65:"http://www.urbanspoon.com/n/305/36215/Toledo/Mc-Clure-restaurants";s:8:"baseName";s:20:"Mc-Clure-restaurants";s:5:"title";s:8:"Mc Clure";s:5:"count";s:1:"2";}

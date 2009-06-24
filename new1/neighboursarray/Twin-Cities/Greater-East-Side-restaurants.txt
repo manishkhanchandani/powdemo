@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:77:"http://www.urbanspoon.com/n/29/2825/Twin-Cities/Greater-East-Side-restaurants";s:8:"baseName";s:29:"Greater-East-Side-restaurants";s:5:"title";s:17:"Greater East Side";s:5:"count";s:2:"33";}

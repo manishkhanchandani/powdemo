@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/307/36520/Traverse-City/Leland-restaurants";s:8:"baseName";s:18:"Leland-restaurants";s:5:"title";s:6:"Leland";s:5:"count";s:1:"8";}

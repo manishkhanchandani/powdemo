@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/30/2949/Tampa-Bay/Ybor-City-restaurants";s:8:"baseName";s:21:"Ybor-City-restaurants";s:5:"title";s:9:"Ybor City";s:5:"count";s:3:"104";}

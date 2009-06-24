@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:84:"http://www.urbanspoon.com/n/30/2917/Tampa-Bay/Indian-Rocks-Indian-Shores-restaurants";s:8:"baseName";s:38:"Indian-Rocks-Indian-Shores-restaurants";s:5:"title";s:12:"Indian Rocks";s:5:"count";s:2:"48";}

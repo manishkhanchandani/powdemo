@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/305/36228/Toledo/Waterville-restaurants";s:8:"baseName";s:22:"Waterville-restaurants";s:5:"title";s:10:"Waterville";s:5:"count";s:2:"19";}

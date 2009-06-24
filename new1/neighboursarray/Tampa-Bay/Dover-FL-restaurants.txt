@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/30/41379/Tampa-Bay/Dover-FL-restaurants";s:8:"baseName";s:20:"Dover-FL-restaurants";s:5:"title";s:5:"Dover";s:5:"count";s:1:"4";}

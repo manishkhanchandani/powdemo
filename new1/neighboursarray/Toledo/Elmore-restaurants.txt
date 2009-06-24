@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:63:"http://www.urbanspoon.com/n/305/36205/Toledo/Elmore-restaurants";s:8:"baseName";s:18:"Elmore-restaurants";s:5:"title";s:6:"Elmore";s:5:"count";s:1:"4";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/304/36113/Terre-Haute/Sullivan-restaurants";s:8:"baseName";s:20:"Sullivan-restaurants";s:5:"title";s:8:"Sullivan";s:5:"count";s:2:"25";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:62:"http://www.urbanspoon.com/n/305/36206/Toledo/Genoa-restaurants";s:8:"baseName";s:17:"Genoa-restaurants";s:5:"title";s:5:"Genoa";s:5:"count";s:2:"15";}

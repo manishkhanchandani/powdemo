@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:63:"http://www.urbanspoon.com/n/10/923/Toronto/Oakville-restaurants";s:8:"baseName";s:20:"Oakville-restaurants";s:5:"title";s:8:"Oakville";s:5:"count";s:3:"182";}

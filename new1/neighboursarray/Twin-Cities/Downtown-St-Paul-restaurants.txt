@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:76:"http://www.urbanspoon.com/n/29/2816/Twin-Cities/Downtown-St-Paul-restaurants";s:8:"baseName";s:28:"Downtown-St-Paul-restaurants";s:5:"title";s:16:"Downtown St Paul";s:5:"count";s:2:"99";}

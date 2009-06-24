@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:75:"http://www.urbanspoon.com/n/30/2920/Tampa-Bay/Lutz-Land-O-Lakes-restaurants";s:8:"baseName";s:29:"Lutz-Land-O-Lakes-restaurants";s:5:"title";s:13:"Land O' Lakes";s:5:"count";s:2:"91";}

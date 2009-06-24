@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/29/2814/Twin-Cities/Dinkytown-restaurants";s:8:"baseName";s:21:"Dinkytown-restaurants";s:5:"title";s:9:"Dinkytown";s:5:"count";s:2:"38";}

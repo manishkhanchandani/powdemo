@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:63:"http://www.urbanspoon.com/n/307/36527/Traverse-City-restaurants";s:8:"baseName";s:25:"Traverse-City-restaurants";s:5:"title";s:13:"Traverse City";s:5:"count";s:3:"254";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/30/41391/Tampa-Bay/Osprey-FL-restaurants";s:8:"baseName";s:21:"Osprey-FL-restaurants";s:5:"title";s:6:"Osprey";s:5:"count";s:2:"11";}

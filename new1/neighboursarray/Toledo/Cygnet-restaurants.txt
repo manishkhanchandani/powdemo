@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:63:"http://www.urbanspoon.com/n/305/36203/Toledo/Cygnet-restaurants";s:8:"baseName";s:18:"Cygnet-restaurants";s:5:"title";s:6:"Cygnet";s:5:"count";s:1:"3";}

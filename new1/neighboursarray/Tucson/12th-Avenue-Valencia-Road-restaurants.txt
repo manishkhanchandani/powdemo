@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:80:"http://www.urbanspoon.com/n/59/5900/Tucson/12th-Avenue-Valencia-Road-restaurants";s:8:"baseName";s:37:"12th-Avenue-Valencia-Road-restaurants";s:5:"title";s:25:"12th Avenue-Valencia Road";s:5:"count";s:2:"43";}

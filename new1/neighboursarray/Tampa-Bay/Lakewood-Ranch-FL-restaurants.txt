@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:76:"http://www.urbanspoon.com/n/30/41384/Tampa-Bay/Lakewood-Ranch-FL-restaurants";s:8:"baseName";s:29:"Lakewood-Ranch-FL-restaurants";s:5:"title";s:14:"Lakewood Ranch";s:5:"count";s:2:"13";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/30/2945/Tampa-Bay/University-restaurants";s:8:"baseName";s:22:"University-restaurants";s:5:"title";s:10:"University";s:5:"count";s:3:"188";}

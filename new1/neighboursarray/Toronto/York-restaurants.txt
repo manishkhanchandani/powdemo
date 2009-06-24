@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:59:"http://www.urbanspoon.com/n/10/934/Toronto/York-restaurants";s:8:"baseName";s:16:"York-restaurants";s:5:"title";s:4:"York";s:5:"count";s:3:"295";}

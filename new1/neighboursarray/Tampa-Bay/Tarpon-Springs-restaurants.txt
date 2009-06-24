@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:72:"http://www.urbanspoon.com/n/30/2940/Tampa-Bay/Tarpon-Springs-restaurants";s:8:"baseName";s:26:"Tarpon-Springs-restaurants";s:5:"title";s:14:"Tarpon Springs";s:5:"count";s:2:"99";}

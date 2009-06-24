@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/59/5907/Tucson/Downtown-Tucson-restaurants";s:8:"baseName";s:27:"Downtown-Tucson-restaurants";s:5:"title";s:8:"Downtown";s:5:"count";s:2:"38";}

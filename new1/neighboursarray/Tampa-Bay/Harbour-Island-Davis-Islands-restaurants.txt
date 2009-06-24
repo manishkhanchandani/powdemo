@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:86:"http://www.urbanspoon.com/n/30/2914/Tampa-Bay/Harbour-Island-Davis-Islands-restaurants";s:8:"baseName";s:40:"Harbour-Island-Davis-Islands-restaurants";s:5:"title";s:30:"Harbour Island - Davis Islands";s:5:"count";s:2:"22";}
