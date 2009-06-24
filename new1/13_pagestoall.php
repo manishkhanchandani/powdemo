@@ -69,6 +69,7 @@ if ($handle = opendir($dirname)) {
 						$txtfile = $baseName.".txt";
 						$input2 = file_get_contents("neighboursarray/".$folder."/".$txtfile);
 						$array = unserialize($input2);
+
 						$urlToTake = $array['url'];
 						$regexp = "<span class=\"muted\">\(Showing 1\-50 of (.*)\)<\/span>";
 						$matches = $Crawler->regexp($regexp, $input);
