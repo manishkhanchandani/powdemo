@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:63:"http://www.urbanspoon.com/n/55/31702/Rochester/Kent-restaurants";s:8:"baseName";s:16:"Kent-restaurants";s:5:"title";s:4:"Kent";s:5:"count";s:1:"2";}

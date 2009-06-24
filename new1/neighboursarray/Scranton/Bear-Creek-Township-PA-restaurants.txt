@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:81:"http://www.urbanspoon.com/n/283/45139/Scranton/Bear-Creek-Township-PA-restaurants";s:8:"baseName";s:34:"Bear-Creek-Township-PA-restaurants";s:5:"title";s:19:"Bear Creek Township";s:5:"count";s:1:"6";}

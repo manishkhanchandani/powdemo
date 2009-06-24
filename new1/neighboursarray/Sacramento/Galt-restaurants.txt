@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:63:"http://www.urbanspoon.com/n/36/3520/Sacramento/Galt-restaurants";s:8:"baseName";s:16:"Galt-restaurants";s:5:"title";s:4:"Galt";s:5:"count";s:2:"31";}

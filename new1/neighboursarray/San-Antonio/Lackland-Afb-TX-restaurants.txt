@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:76:"http://www.urbanspoon.com/n/39/41544/San-Antonio/Lackland-Afb-TX-restaurants";s:8:"baseName";s:27:"Lackland-Afb-TX-restaurants";s:5:"title";s:12:"Lackland Afb";s:5:"count";s:1:"5";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/260/30520/Poughkeepsie/Marlboro-restaurants";s:8:"baseName";s:20:"Marlboro-restaurants";s:5:"title";s:8:"Marlboro";s:5:"count";s:2:"11";}

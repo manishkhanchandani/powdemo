@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:79:"http://www.urbanspoon.com/n/25/41292/Research-Triangle/Pittsboro-NC-restaurants";s:8:"baseName";s:24:"Pittsboro-NC-restaurants";s:5:"title";s:9:"Pittsboro";s:5:"count";s:2:"20";}

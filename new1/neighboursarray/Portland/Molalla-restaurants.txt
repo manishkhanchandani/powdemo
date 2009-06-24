@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:65:"http://www.urbanspoon.com/n/24/30305/Portland/Molalla-restaurants";s:8:"baseName";s:19:"Molalla-restaurants";s:5:"title";s:7:"Molalla";s:5:"count";s:2:"38";}

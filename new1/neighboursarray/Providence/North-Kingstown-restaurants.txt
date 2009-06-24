@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:74:"http://www.urbanspoon.com/n/41/4018/Providence/North-Kingstown-restaurants";s:8:"baseName";s:27:"North-Kingstown-restaurants";s:5:"title";s:15:"North Kingstown";s:5:"count";s:2:"47";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/24/41272/Portland/Lafayette-OR-restaurants";s:8:"baseName";s:24:"Lafayette-OR-restaurants";s:5:"title";s:9:"Lafayette";s:5:"count";s:1:"8";}

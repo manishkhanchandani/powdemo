@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:75:"http://www.urbanspoon.com/n/25/41288/Research-Triangle/Coats-NC-restaurants";s:8:"baseName";s:20:"Coats-NC-restaurants";s:5:"title";s:5:"Coats";s:5:"count";s:1:"6";}

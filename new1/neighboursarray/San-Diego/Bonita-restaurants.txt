@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:64:"http://www.urbanspoon.com/n/27/2604/San-Diego/Bonita-restaurants";s:8:"baseName";s:18:"Bonita-restaurants";s:5:"title";s:6:"Bonita";s:5:"count";s:2:"36";}

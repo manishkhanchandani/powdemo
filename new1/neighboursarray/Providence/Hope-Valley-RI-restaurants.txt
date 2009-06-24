@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:74:"http://www.urbanspoon.com/n/41/41583/Providence/Hope-Valley-RI-restaurants";s:8:"baseName";s:26:"Hope-Valley-RI-restaurants";s:5:"title";s:11:"Hope Valley";s:5:"count";s:1:"4";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/49/4816/Richmond/Mechanicsville-restaurants";s:8:"baseName";s:26:"Mechanicsville-restaurants";s:5:"title";s:14:"Mechanicsville";s:5:"count";s:2:"64";}

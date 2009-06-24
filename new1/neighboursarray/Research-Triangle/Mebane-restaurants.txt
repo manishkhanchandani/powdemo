@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:73:"http://www.urbanspoon.com/n/25/31305/Research-Triangle/Mebane-restaurants";s:8:"baseName";s:18:"Mebane-restaurants";s:5:"title";s:6:"Mebane";s:5:"count";s:2:"62";}

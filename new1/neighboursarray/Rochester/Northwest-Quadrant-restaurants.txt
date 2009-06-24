@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:76:"http://www.urbanspoon.com/n/55/5520/Rochester/Northwest-Quadrant-restaurants";s:8:"baseName";s:30:"Northwest-Quadrant-restaurants";s:5:"title";s:18:"Northwest Quadrant";s:5:"count";s:3:"138";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/36/41511/Sacramento/Plymouth-CA-restaurants";s:8:"baseName";s:23:"Plymouth-CA-restaurants";s:5:"title";s:8:"Plymouth";s:5:"count";s:2:"11";}

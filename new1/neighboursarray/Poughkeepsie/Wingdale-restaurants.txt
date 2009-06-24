@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/260/30549/Poughkeepsie/Wingdale-restaurants";s:8:"baseName";s:20:"Wingdale-restaurants";s:5:"title";s:8:"Wingdale";s:5:"count";s:2:"14";}

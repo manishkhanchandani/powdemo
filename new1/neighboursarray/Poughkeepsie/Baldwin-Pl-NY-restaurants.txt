@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:76:"http://www.urbanspoon.com/n/260/45009/Poughkeepsie/Baldwin-Pl-NY-restaurants";s:8:"baseName";s:25:"Baldwin-Pl-NY-restaurants";s:5:"title";s:10:"Baldwin Pl";s:5:"count";s:1:"7";}

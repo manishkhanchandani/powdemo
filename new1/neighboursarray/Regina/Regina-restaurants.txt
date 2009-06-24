@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:56:"http://www.urbanspoon.com/n/265/31100/Regina-restaurants";s:8:"baseName";s:18:"Regina-restaurants";s:5:"title";s:6:"Regina";s:5:"count";s:3:"216";}

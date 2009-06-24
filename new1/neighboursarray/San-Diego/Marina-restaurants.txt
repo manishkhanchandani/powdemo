@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:64:"http://www.urbanspoon.com/n/27/2637/San-Diego/Marina-restaurants";s:8:"baseName";s:18:"Marina-restaurants";s:5:"title";s:6:"Marina";s:5:"count";s:2:"82";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:66:"http://www.urbanspoon.com/n/27/2630/San-Diego/La-Jolla-restaurants";s:8:"baseName";s:20:"La-Jolla-restaurants";s:5:"title";s:8:"La Jolla";s:5:"count";s:3:"191";}

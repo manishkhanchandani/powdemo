@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/24/2319/Portland/Oregon-City-restaurants";s:8:"baseName";s:23:"Oregon-City-restaurants";s:5:"title";s:11:"Oregon City";s:5:"count";s:2:"62";}

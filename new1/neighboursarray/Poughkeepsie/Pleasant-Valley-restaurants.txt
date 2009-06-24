@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:78:"http://www.urbanspoon.com/n/260/30532/Poughkeepsie/Pleasant-Valley-restaurants";s:8:"baseName";s:27:"Pleasant-Valley-restaurants";s:5:"title";s:15:"Pleasant Valley";s:5:"count";s:2:"14";}

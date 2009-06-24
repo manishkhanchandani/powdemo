@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/24/41276/Portland/Ridgefield-WA-restaurants";s:8:"baseName";s:25:"Ridgefield-WA-restaurants";s:5:"title";s:10:"Ridgefield";s:5:"count";s:2:"19";}

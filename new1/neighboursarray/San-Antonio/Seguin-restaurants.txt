@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/39/33109/San-Antonio/Seguin-restaurants";s:8:"baseName";s:18:"Seguin-restaurants";s:5:"title";s:6:"Seguin";s:5:"count";s:3:"103";}

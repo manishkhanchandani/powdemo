@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/54/32907/Salt-Lake-City/Provo-restaurants";s:8:"baseName";s:17:"Provo-restaurants";s:5:"title";s:5:"Provo";s:5:"count";s:3:"256";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:78:"http://www.urbanspoon.com/n/25/2421/Research-Triangle/South-Durham-restaurants";s:8:"baseName";s:24:"South-Durham-restaurants";s:5:"title";s:12:"South Durham";s:5:"count";s:2:"80";}

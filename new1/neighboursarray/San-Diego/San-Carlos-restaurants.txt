@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/27/2662/San-Diego/San-Carlos-restaurants";s:8:"baseName";s:22:"San-Carlos-restaurants";s:5:"title";s:10:"San Carlos";s:5:"count";s:2:"12";}

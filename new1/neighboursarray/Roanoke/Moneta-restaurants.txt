@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:64:"http://www.urbanspoon.com/n/268/31611/Roanoke/Moneta-restaurants";s:8:"baseName";s:18:"Moneta-restaurants";s:5:"title";s:6:"Moneta";s:5:"count";s:2:"32";}

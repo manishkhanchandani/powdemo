@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/41/4024/Providence/Smithfield-restaurants";s:8:"baseName";s:22:"Smithfield-restaurants";s:5:"title";s:10:"Smithfield";s:5:"count";s:2:"34";}

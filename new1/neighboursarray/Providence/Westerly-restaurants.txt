@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/41/30609/Providence/Westerly-restaurants";s:8:"baseName";s:20:"Westerly-restaurants";s:5:"title";s:8:"Westerly";s:5:"count";s:2:"90";}

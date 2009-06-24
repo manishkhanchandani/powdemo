@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/283/33839/Scranton/Plymouth-restaurants";s:8:"baseName";s:20:"Plymouth-restaurants";s:5:"title";s:8:"Plymouth";s:5:"count";s:2:"34";}

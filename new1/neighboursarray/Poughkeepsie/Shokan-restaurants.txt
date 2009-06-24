@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/260/30540/Poughkeepsie/Shokan-restaurants";s:8:"baseName";s:18:"Shokan-restaurants";s:5:"title";s:6:"Shokan";s:5:"count";s:1:"9";}

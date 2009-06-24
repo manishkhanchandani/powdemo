@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/283/33834/Scranton/Olyphant-restaurants";s:8:"baseName";s:20:"Olyphant-restaurants";s:5:"title";s:8:"Olyphant";s:5:"count";s:2:"20";}

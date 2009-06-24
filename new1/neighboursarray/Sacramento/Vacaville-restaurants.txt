@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/36/32508/Sacramento/Vacaville-restaurants";s:8:"baseName";s:21:"Vacaville-restaurants";s:5:"title";s:9:"Vacaville";s:5:"count";s:3:"220";}

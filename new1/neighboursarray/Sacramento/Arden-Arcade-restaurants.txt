@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/36/3501/Sacramento/Arden-Arcade-restaurants";s:8:"baseName";s:24:"Arden-Arcade-restaurants";s:5:"title";s:12:"Arden-Arcade";s:5:"count";s:3:"217";}

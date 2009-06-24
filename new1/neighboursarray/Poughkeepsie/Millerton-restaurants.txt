@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:72:"http://www.urbanspoon.com/n/260/30522/Poughkeepsie/Millerton-restaurants";s:8:"baseName";s:21:"Millerton-restaurants";s:5:"title";s:9:"Millerton";s:5:"count";s:2:"14";}

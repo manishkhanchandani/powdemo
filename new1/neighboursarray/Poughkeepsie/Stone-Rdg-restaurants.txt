@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:72:"http://www.urbanspoon.com/n/260/30544/Poughkeepsie/Stone-Rdg-restaurants";s:8:"baseName";s:21:"Stone-Rdg-restaurants";s:5:"title";s:9:"Stone Rdg";s:5:"count";s:2:"14";}

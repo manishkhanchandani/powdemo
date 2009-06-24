@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/39/3809/San-Antonio/Southtown-restaurants";s:8:"baseName";s:21:"Southtown-restaurants";s:5:"title";s:9:"Southtown";s:5:"count";s:2:"73";}

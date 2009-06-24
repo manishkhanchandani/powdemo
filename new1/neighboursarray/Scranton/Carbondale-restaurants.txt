@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/283/33804/Scranton/Carbondale-restaurants";s:8:"baseName";s:22:"Carbondale-restaurants";s:5:"title";s:10:"Carbondale";s:5:"count";s:2:"39";}

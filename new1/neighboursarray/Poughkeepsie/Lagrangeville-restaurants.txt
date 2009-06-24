@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:76:"http://www.urbanspoon.com/n/260/30518/Poughkeepsie/Lagrangeville-restaurants";s:8:"baseName";s:25:"Lagrangeville-restaurants";s:5:"title";s:13:"Lagrangeville";s:5:"count";s:2:"20";}

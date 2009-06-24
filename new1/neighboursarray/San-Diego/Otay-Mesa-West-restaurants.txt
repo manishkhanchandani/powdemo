@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:72:"http://www.urbanspoon.com/n/27/2652/San-Diego/Otay-Mesa-West-restaurants";s:8:"baseName";s:26:"Otay-Mesa-West-restaurants";s:5:"title";s:14:"Otay Mesa West";s:5:"count";s:2:"54";}

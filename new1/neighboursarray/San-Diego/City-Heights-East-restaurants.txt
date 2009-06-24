@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:75:"http://www.urbanspoon.com/n/27/2610/San-Diego/City-Heights-East-restaurants";s:8:"baseName";s:29:"City-Heights-East-restaurants";s:5:"title";s:17:"City Heights East";s:5:"count";s:3:"125";}

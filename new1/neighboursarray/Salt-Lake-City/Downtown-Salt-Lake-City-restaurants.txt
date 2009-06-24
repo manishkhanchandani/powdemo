@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:86:"http://www.urbanspoon.com/n/54/5406/Salt-Lake-City/Downtown-Salt-Lake-City-restaurants";s:8:"baseName";s:35:"Downtown-Salt-Lake-City-restaurants";s:5:"title";s:8:"Downtown";s:5:"count";s:3:"158";}

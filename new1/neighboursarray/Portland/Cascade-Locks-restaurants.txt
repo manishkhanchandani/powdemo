@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/24/41260/Portland/Cascade-Locks-restaurants";s:8:"baseName";s:25:"Cascade-Locks-restaurants";s:5:"title";s:13:"Cascade Locks";s:5:"count";s:1:"1";}

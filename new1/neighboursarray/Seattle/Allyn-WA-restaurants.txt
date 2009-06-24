@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:64:"http://www.urbanspoon.com/n/1/40537/Seattle/Allyn-WA-restaurants";s:8:"baseName";s:20:"Allyn-WA-restaurants";s:5:"title";s:5:"Allyn";s:5:"count";s:1:"4";}

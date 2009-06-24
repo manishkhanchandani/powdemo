@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/24/2310/Portland/Happy-Valley-restaurants";s:8:"baseName";s:24:"Happy-Valley-restaurants";s:5:"title";s:12:"Happy Valley";s:5:"count";s:2:"40";}

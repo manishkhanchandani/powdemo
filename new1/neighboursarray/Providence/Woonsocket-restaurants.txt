@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/41/30610/Providence/Woonsocket-restaurants";s:8:"baseName";s:22:"Woonsocket-restaurants";s:5:"title";s:10:"Woonsocket";s:5:"count";s:3:"108";}

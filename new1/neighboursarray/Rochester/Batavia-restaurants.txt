@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:66:"http://www.urbanspoon.com/n/55/31701/Rochester/Batavia-restaurants";s:8:"baseName";s:19:"Batavia-restaurants";s:5:"title";s:7:"Batavia";s:5:"count";s:2:"75";}

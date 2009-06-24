@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:81:"http://www.urbanspoon.com/n/1/39803/Seattle/Bainbridge-Island-Poulsbo-restaurants";s:8:"baseName";s:37:"Bainbridge-Island-Poulsbo-restaurants";s:5:"title";s:17:"Bainbridge Island";s:5:"count";s:3:"160";}

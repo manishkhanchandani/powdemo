@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:66:"http://www.urbanspoon.com/n/24/2314/Portland/Milwaukie-restaurants";s:8:"baseName";s:21:"Milwaukie-restaurants";s:5:"title";s:9:"Milwaukie";s:5:"count";s:2:"81";}

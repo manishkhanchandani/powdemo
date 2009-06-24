@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:64:"http://www.urbanspoon.com/n/275/32626/Saginaw/Vassar-restaurants";s:8:"baseName";s:18:"Vassar-restaurants";s:5:"title";s:6:"Vassar";s:5:"count";s:2:"12";}

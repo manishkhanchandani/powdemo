@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:73:"http://www.urbanspoon.com/n/260/30510/Poughkeepsie/High-Falls-restaurants";s:8:"baseName";s:22:"High-Falls-restaurants";s:5:"title";s:10:"High Falls";s:5:"count";s:1:"9";}

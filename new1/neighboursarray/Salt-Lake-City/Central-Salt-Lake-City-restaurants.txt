@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:85:"http://www.urbanspoon.com/n/54/5404/Salt-Lake-City/Central-Salt-Lake-City-restaurants";s:8:"baseName";s:34:"Central-Salt-Lake-City-restaurants";s:5:"title";s:7:"Central";s:5:"count";s:2:"43";}

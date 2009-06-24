@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:65:"http://www.urbanspoon.com/n/36/3518/Sacramento/Folsom-restaurants";s:8:"baseName";s:18:"Folsom-restaurants";s:5:"title";s:6:"Folsom";s:5:"count";s:3:"128";}

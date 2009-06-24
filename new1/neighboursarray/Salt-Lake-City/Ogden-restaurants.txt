@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/54/5421/Salt-Lake-City/Ogden-restaurants";s:8:"baseName";s:17:"Ogden-restaurants";s:5:"title";s:5:"Ogden";s:5:"count";s:3:"385";}

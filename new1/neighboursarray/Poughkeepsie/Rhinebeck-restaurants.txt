@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:72:"http://www.urbanspoon.com/n/260/30537/Poughkeepsie/Rhinebeck-restaurants";s:8:"baseName";s:21:"Rhinebeck-restaurants";s:5:"title";s:9:"Rhinebeck";s:5:"count";s:2:"43";}

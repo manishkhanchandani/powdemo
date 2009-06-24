@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:65:"http://www.urbanspoon.com/n/27/2631/San-Diego/La-Mesa-restaurants";s:8:"baseName";s:19:"La-Mesa-restaurants";s:5:"title";s:7:"La Mesa";s:5:"count";s:3:"155";}

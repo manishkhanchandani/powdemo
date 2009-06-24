@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/36/32510/Sacramento/Yuba-City-restaurants";s:8:"baseName";s:21:"Yuba-City-restaurants";s:5:"title";s:9:"Yuba City";s:5:"count";s:3:"163";}

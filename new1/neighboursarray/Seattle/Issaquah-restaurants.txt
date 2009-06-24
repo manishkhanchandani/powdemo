@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:61:"http://www.urbanspoon.com/n/1/16/Seattle/Issaquah-restaurants";s:8:"baseName";s:20:"Issaquah-restaurants";s:5:"title";s:8:"Issaquah";s:5:"count";s:3:"100";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:61:"http://www.urbanspoon.com/n/266/31211/Reno/Sparks-restaurants";s:8:"baseName";s:18:"Sparks-restaurants";s:5:"title";s:6:"Sparks";s:5:"count";s:3:"240";}

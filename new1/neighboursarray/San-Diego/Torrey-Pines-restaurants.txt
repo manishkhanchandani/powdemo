@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/27/2672/San-Diego/Torrey-Pines-restaurants";s:8:"baseName";s:24:"Torrey-Pines-restaurants";s:5:"title";s:12:"Torrey Pines";s:5:"count";s:2:"27";}

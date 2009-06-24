@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/27/2608/San-Diego/Carmel-Valley-restaurants";s:8:"baseName";s:25:"Carmel-Valley-restaurants";s:5:"title";s:13:"Carmel Valley";s:5:"count";s:2:"43";}

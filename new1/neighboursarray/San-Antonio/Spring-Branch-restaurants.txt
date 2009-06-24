@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:74:"http://www.urbanspoon.com/n/39/33110/San-Antonio/Spring-Branch-restaurants";s:8:"baseName";s:25:"Spring-Branch-restaurants";s:5:"title";s:13:"Spring Branch";s:5:"count";s:2:"24";}

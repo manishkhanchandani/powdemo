@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/283/33819/Scranton/Honesdale-restaurants";s:8:"baseName";s:21:"Honesdale-restaurants";s:5:"title";s:9:"Honesdale";s:5:"count";s:2:"47";}

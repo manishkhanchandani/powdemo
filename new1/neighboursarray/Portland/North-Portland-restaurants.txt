@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/24/2316/Portland/North-Portland-restaurants";s:8:"baseName";s:26:"North-Portland-restaurants";s:5:"title";s:5:"North";s:5:"count";s:3:"177";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:72:"http://www.urbanspoon.com/n/39/33104/San-Antonio/Floresville-restaurants";s:8:"baseName";s:23:"Floresville-restaurants";s:5:"title";s:11:"Floresville";s:5:"count";s:2:"39";}

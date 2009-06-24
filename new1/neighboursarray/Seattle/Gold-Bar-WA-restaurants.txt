@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/1/40554/Seattle/Gold-Bar-WA-restaurants";s:8:"baseName";s:23:"Gold-Bar-WA-restaurants";s:5:"title";s:8:"Gold Bar";s:5:"count";s:1:"8";}

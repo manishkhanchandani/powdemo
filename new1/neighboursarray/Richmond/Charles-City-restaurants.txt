@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/49/41770/Richmond/Charles-City-restaurants";s:8:"baseName";s:24:"Charles-City-restaurants";s:5:"title";s:12:"Charles City";s:5:"count";s:1:"2";}

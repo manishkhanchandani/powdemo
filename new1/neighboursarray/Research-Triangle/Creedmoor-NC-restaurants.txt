@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:79:"http://www.urbanspoon.com/n/25/41289/Research-Triangle/Creedmoor-NC-restaurants";s:8:"baseName";s:24:"Creedmoor-NC-restaurants";s:5:"title";s:9:"Creedmoor";s:5:"count";s:2:"22";}

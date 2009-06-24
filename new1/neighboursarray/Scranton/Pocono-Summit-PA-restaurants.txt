@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:75:"http://www.urbanspoon.com/n/283/45159/Scranton/Pocono-Summit-PA-restaurants";s:8:"baseName";s:28:"Pocono-Summit-PA-restaurants";s:5:"title";s:13:"Pocono Summit";s:5:"count";s:1:"5";}

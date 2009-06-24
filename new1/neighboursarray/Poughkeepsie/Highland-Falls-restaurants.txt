@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:77:"http://www.urbanspoon.com/n/260/30512/Poughkeepsie/Highland-Falls-restaurants";s:8:"baseName";s:26:"Highland-Falls-restaurants";s:5:"title";s:14:"Highland Falls";s:5:"count";s:2:"34";}

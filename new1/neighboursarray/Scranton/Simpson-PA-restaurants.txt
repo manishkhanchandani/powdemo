@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/283/45161/Scranton/Simpson-PA-restaurants";s:8:"baseName";s:22:"Simpson-PA-restaurants";s:5:"title";s:7:"Simpson";s:5:"count";s:1:"5";}

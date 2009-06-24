@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:74:"http://www.urbanspoon.com/n/36/3515/Sacramento/El-Dorado-Hills-restaurants";s:8:"baseName";s:27:"El-Dorado-Hills-restaurants";s:5:"title";s:15:"El Dorado Hills";s:5:"count";s:2:"35";}

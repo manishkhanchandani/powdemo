@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/266/31210/Reno/South-Lake-Tahoe-restaurants";s:8:"baseName";s:28:"South-Lake-Tahoe-restaurants";s:5:"title";s:16:"South Lake Tahoe";s:5:"count";s:3:"137";}

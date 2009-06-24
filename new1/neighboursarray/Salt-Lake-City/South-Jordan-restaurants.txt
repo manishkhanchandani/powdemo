@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:75:"http://www.urbanspoon.com/n/54/5428/Salt-Lake-City/South-Jordan-restaurants";s:8:"baseName";s:24:"South-Jordan-restaurants";s:5:"title";s:12:"South Jordan";s:5:"count";s:2:"26";}

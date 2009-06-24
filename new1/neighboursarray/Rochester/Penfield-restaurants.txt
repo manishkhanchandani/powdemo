@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:66:"http://www.urbanspoon.com/n/55/5524/Rochester/Penfield-restaurants";s:8:"baseName";s:20:"Penfield-restaurants";s:5:"title";s:8:"Penfield";s:5:"count";s:2:"43";}

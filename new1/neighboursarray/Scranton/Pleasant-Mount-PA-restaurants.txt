@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:76:"http://www.urbanspoon.com/n/283/45156/Scranton/Pleasant-Mount-PA-restaurants";s:8:"baseName";s:29:"Pleasant-Mount-PA-restaurants";s:5:"title";s:14:"Pleasant Mount";s:5:"count";s:1:"3";}

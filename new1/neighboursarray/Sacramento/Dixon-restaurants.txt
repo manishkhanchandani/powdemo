@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:64:"http://www.urbanspoon.com/n/36/3512/Sacramento/Dixon-restaurants";s:8:"baseName";s:17:"Dixon-restaurants";s:5:"title";s:5:"Dixon";s:5:"count";s:2:"33";}

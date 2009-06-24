@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/36/3516/Sacramento/Elk-Grove-restaurants";s:8:"baseName";s:21:"Elk-Grove-restaurants";s:5:"title";s:9:"Elk Grove";s:5:"count";s:3:"182";}

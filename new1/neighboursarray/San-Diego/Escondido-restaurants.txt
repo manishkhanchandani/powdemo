@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/27/2621/San-Diego/Escondido-restaurants";s:8:"baseName";s:21:"Escondido-restaurants";s:5:"title";s:9:"Escondido";s:5:"count";s:3:"237";}

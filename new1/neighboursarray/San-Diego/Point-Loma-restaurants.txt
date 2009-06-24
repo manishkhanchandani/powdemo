@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/27/2655/San-Diego/Point-Loma-restaurants";s:8:"baseName";s:22:"Point-Loma-restaurants";s:5:"title";s:10:"Point Loma";s:5:"count";s:3:"191";}

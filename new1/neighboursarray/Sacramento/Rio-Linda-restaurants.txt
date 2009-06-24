@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/36/3539/Sacramento/Rio-Linda-restaurants";s:8:"baseName";s:21:"Rio-Linda-restaurants";s:5:"title";s:9:"Rio Linda";s:5:"count";s:2:"39";}

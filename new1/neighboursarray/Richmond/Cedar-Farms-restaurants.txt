@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/49/4803/Richmond/Cedar-Farms-restaurants";s:8:"baseName";s:23:"Cedar-Farms-restaurants";s:5:"title";s:11:"Cedar Farms";s:5:"count";s:2:"22";}

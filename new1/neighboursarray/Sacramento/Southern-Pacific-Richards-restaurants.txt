@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:84:"http://www.urbanspoon.com/n/36/3543/Sacramento/Southern-Pacific-Richards-restaurants";s:8:"baseName";s:37:"Southern-Pacific-Richards-restaurants";s:5:"title";s:8:"Richards";s:5:"count";s:1:"7";}

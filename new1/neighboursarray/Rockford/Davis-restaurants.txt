@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:64:"http://www.urbanspoon.com/n/271/32007/Rockford/Davis-restaurants";s:8:"baseName";s:17:"Davis-restaurants";s:5:"title";s:5:"Davis";s:5:"count";s:1:"3";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:77:"http://www.urbanspoon.com/n/41/41590/Providence/West-Greenwich-RI-restaurants";s:8:"baseName";s:29:"West-Greenwich-RI-restaurants";s:5:"title";s:14:"West Greenwich";s:5:"count";s:1:"9";}

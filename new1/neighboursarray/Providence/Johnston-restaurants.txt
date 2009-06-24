@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/41/4015/Providence/Johnston-restaurants";s:8:"baseName";s:20:"Johnston-restaurants";s:5:"title";s:8:"Johnston";s:5:"count";s:3:"109";}

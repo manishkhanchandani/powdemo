@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:76:"http://www.urbanspoon.com/n/260/45013/Poughkeepsie/Germantown-NY-restaurants";s:8:"baseName";s:25:"Germantown-NY-restaurants";s:5:"title";s:10:"Germantown";s:5:"count";s:1:"7";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:72:"http://www.urbanspoon.com/n/24/2315/Portland/Nob-Hill-Uptown-restaurants";s:8:"baseName";s:27:"Nob-Hill-Uptown-restaurants";s:5:"title";s:8:"Nob Hill";s:5:"count";s:3:"108";}

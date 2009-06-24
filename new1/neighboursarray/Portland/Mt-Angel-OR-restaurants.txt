@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/24/41273/Portland/Mt-Angel-OR-restaurants";s:8:"baseName";s:23:"Mt-Angel-OR-restaurants";s:5:"title";s:8:"Mt Angel";s:5:"count";s:2:"15";}

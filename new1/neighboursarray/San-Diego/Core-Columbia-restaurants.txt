@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/27/2613/San-Diego/Core-Columbia-restaurants";s:8:"baseName";s:25:"Core-Columbia-restaurants";s:5:"title";s:13:"Core-Columbia";s:5:"count";s:3:"120";}

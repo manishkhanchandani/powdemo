@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/49/31400/Richmond/Amelia-Ct-Hse-restaurants";s:8:"baseName";s:25:"Amelia-Ct-Hse-restaurants";s:5:"title";s:13:"Amelia Ct Hse";s:5:"count";s:2:"10";}

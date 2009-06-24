@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:64:"http://www.urbanspoon.com/n/276/32711/Salem/Monmouth-restaurants";s:8:"baseName";s:20:"Monmouth-restaurants";s:5:"title";s:8:"Monmouth";s:5:"count";s:2:"17";}

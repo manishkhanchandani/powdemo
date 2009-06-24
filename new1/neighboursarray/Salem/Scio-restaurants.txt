@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:60:"http://www.urbanspoon.com/n/276/32713/Salem/Scio-restaurants";s:8:"baseName";s:16:"Scio-restaurants";s:5:"title";s:4:"Scio";s:5:"count";s:1:"6";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:74:"http://www.urbanspoon.com/n/283/45166/Scranton/Swoyersville-PA-restaurants";s:8:"baseName";s:27:"Swoyersville-PA-restaurants";s:5:"title";s:12:"Swoyersville";s:5:"count";s:1:"8";}

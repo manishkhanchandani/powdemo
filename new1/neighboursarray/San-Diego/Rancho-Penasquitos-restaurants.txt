@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:76:"http://www.urbanspoon.com/n/27/2659/San-Diego/Rancho-Penasquitos-restaurants";s:8:"baseName";s:30:"Rancho-Penasquitos-restaurants";s:5:"title";s:18:"Rancho Penasquitos";s:5:"count";s:2:"28";}

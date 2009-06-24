@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:79:"http://www.urbanspoon.com/n/25/2412/Research-Triangle/Holly-Springs-restaurants";s:8:"baseName";s:25:"Holly-Springs-restaurants";s:5:"title";s:13:"Holly Springs";s:5:"count";s:2:"24";}

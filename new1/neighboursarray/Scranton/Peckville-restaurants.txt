@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/283/33836/Scranton/Peckville-restaurants";s:8:"baseName";s:21:"Peckville-restaurants";s:5:"title";s:9:"Peckville";s:5:"count";s:2:"19";}

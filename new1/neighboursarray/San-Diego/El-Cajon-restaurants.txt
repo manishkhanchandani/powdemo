@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:66:"http://www.urbanspoon.com/n/27/2618/San-Diego/El-Cajon-restaurants";s:8:"baseName";s:20:"El-Cajon-restaurants";s:5:"title";s:8:"El Cajon";s:5:"count";s:3:"262";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:76:"http://www.urbanspoon.com/n/54/41927/Salt-Lake-City/Coalville-UT-restaurants";s:8:"baseName";s:24:"Coalville-UT-restaurants";s:5:"title";s:9:"Coalville";s:5:"count";s:1:"5";}

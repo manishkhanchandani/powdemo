@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/54/5412/Salt-Lake-City/Holladay-restaurants";s:8:"baseName";s:20:"Holladay-restaurants";s:5:"title";s:8:"Holladay";s:5:"count";s:2:"94";}

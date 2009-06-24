@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:77:"http://www.urbanspoon.com/n/25/2408/Research-Triangle/Franklin-St-restaurants";s:8:"baseName";s:23:"Franklin-St-restaurants";s:5:"title";s:11:"Franklin St";s:5:"count";s:2:"93";}

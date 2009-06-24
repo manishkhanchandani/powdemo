@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:65:"http://www.urbanspoon.com/n/49/31409/Richmond/Quinton-restaurants";s:8:"baseName";s:19:"Quinton-restaurants";s:5:"title";s:7:"Quinton";s:5:"count";s:1:"8";}

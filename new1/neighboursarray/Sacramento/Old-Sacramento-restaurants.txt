@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:73:"http://www.urbanspoon.com/n/36/3535/Sacramento/Old-Sacramento-restaurants";s:8:"baseName";s:26:"Old-Sacramento-restaurants";s:5:"title";s:14:"Old Sacramento";s:5:"count";s:2:"39";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/271/32004/Rockford/Caledonia-restaurants";s:8:"baseName";s:21:"Caledonia-restaurants";s:5:"title";s:9:"Caledonia";s:5:"count";s:1:"2";}

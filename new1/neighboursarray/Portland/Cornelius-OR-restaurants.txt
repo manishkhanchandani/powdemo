@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/24/41262/Portland/Cornelius-OR-restaurants";s:8:"baseName";s:24:"Cornelius-OR-restaurants";s:5:"title";s:9:"Cornelius";s:5:"count";s:2:"13";}

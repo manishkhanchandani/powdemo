@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/263/30904/Rapid-City/Keystone-restaurants";s:8:"baseName";s:20:"Keystone-restaurants";s:5:"title";s:8:"Keystone";s:5:"count";s:2:"19";}

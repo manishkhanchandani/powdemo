@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:79:"http://www.urbanspoon.com/n/260/30515/Poughkeepsie/Jefferson-Valley-restaurants";s:8:"baseName";s:28:"Jefferson-Valley-restaurants";s:5:"title";s:16:"Jefferson Valley";s:5:"count";s:2:"14";}

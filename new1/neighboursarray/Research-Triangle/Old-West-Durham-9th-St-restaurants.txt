@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:88:"http://www.urbanspoon.com/n/25/2419/Research-Triangle/Old-West-Durham-9th-St-restaurants";s:8:"baseName";s:34:"Old-West-Durham-9th-St-restaurants";s:5:"title";s:6:"9th St";s:5:"count";s:2:"44";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/55/5533/Rochester/Williamson-restaurants";s:8:"baseName";s:22:"Williamson-restaurants";s:5:"title";s:10:"Williamson";s:5:"count";s:2:"19";}

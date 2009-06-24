@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/49/41775/Richmond/New-Kent-VA-restaurants";s:8:"baseName";s:23:"New-Kent-VA-restaurants";s:5:"title";s:8:"New Kent";s:5:"count";s:1:"3";}

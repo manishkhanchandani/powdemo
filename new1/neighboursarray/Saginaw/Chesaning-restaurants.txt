@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/275/32608/Saginaw/Chesaning-restaurants";s:8:"baseName";s:21:"Chesaning-restaurants";s:5:"title";s:9:"Chesaning";s:5:"count";s:2:"20";}

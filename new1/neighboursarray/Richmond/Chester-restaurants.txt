@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:64:"http://www.urbanspoon.com/n/49/4805/Richmond/Chester-restaurants";s:8:"baseName";s:19:"Chester-restaurants";s:5:"title";s:7:"Chester";s:5:"count";s:2:"68";}

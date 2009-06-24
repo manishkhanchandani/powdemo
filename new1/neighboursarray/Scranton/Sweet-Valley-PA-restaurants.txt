@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:74:"http://www.urbanspoon.com/n/283/45164/Scranton/Sweet-Valley-PA-restaurants";s:8:"baseName";s:27:"Sweet-Valley-PA-restaurants";s:5:"title";s:12:"Sweet Valley";s:5:"count";s:1:"4";}

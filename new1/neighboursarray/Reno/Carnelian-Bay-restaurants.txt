@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/266/31200/Reno/Carnelian-Bay-restaurants";s:8:"baseName";s:25:"Carnelian-Bay-restaurants";s:5:"title";s:13:"Carnelian Bay";s:5:"count";s:1:"5";}

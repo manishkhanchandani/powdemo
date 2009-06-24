@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:63:"http://www.urbanspoon.com/n/1/13/Seattle/Green-Lake-restaurants";s:8:"baseName";s:22:"Green-Lake-restaurants";s:5:"title";s:10:"Green Lake";s:5:"count";s:2:"56";}

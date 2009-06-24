@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:72:"http://www.urbanspoon.com/n/260/30538/Poughkeepsie/Rosendale-restaurants";s:8:"baseName";s:21:"Rosendale-restaurants";s:5:"title";s:9:"Rosendale";s:5:"count";s:2:"11";}

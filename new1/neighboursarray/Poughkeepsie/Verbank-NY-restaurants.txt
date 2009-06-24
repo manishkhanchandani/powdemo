@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:73:"http://www.urbanspoon.com/n/260/45021/Poughkeepsie/Verbank-NY-restaurants";s:8:"baseName";s:22:"Verbank-NY-restaurants";s:5:"title";s:7:"Verbank";s:5:"count";s:1:"3";}

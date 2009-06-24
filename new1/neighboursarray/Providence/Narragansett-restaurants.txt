@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:72:"http://www.urbanspoon.com/n/41/30602/Providence/Narragansett-restaurants";s:8:"baseName";s:24:"Narragansett-restaurants";s:5:"title";s:12:"Narragansett";s:5:"count";s:2:"72";}

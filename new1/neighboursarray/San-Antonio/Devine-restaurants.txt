@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/39/33103/San-Antonio/Devine-restaurants";s:8:"baseName";s:18:"Devine-restaurants";s:5:"title";s:6:"Devine";s:5:"count";s:2:"20";}

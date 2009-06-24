@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:81:"http://www.urbanspoon.com/n/27/2661/San-Diego/Rolando-Redwood-Village-restaurants";s:8:"baseName";s:35:"Rolando-Redwood-Village-restaurants";s:5:"title";s:15:"Redwood Village";s:5:"count";s:2:"16";}

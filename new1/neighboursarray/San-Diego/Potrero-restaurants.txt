@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:66:"http://www.urbanspoon.com/n/27/33205/San-Diego/Potrero-restaurants";s:8:"baseName";s:19:"Potrero-restaurants";s:5:"title";s:7:"Potrero";s:5:"count";s:1:"2";}

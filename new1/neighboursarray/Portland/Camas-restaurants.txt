@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:63:"http://www.urbanspoon.com/n/24/30301/Portland/Camas-restaurants";s:8:"baseName";s:17:"Camas-restaurants";s:5:"title";s:5:"Camas";s:5:"count";s:2:"33";}

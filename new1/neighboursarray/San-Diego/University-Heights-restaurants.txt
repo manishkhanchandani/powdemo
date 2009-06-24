@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:76:"http://www.urbanspoon.com/n/27/2674/San-Diego/University-Heights-restaurants";s:8:"baseName";s:30:"University-Heights-restaurants";s:5:"title";s:18:"University Heights";s:5:"count";s:2:"41";}

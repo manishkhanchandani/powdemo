@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:64:"http://www.urbanspoon.com/n/271/32013/Rockford/Genoa-restaurants";s:8:"baseName";s:17:"Genoa-restaurants";s:5:"title";s:5:"Genoa";s:5:"count";s:2:"12";}

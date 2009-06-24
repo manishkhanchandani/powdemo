@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:75:"http://www.urbanspoon.com/n/41/41576/Providence/Block-Island-RI-restaurants";s:8:"baseName";s:27:"Block-Island-RI-restaurants";s:5:"title";s:12:"Block Island";s:5:"count";s:2:"19";}

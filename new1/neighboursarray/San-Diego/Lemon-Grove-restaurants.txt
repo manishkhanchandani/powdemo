@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/27/2633/San-Diego/Lemon-Grove-restaurants";s:8:"baseName";s:23:"Lemon-Grove-restaurants";s:5:"title";s:11:"Lemon Grove";s:5:"count";s:2:"42";}

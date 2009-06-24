@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:75:"http://www.urbanspoon.com/n/260/30507/Poughkeepsie/Dover-Plains-restaurants";s:8:"baseName";s:24:"Dover-Plains-restaurants";s:5:"title";s:12:"Dover Plains";s:5:"count";s:2:"14";}

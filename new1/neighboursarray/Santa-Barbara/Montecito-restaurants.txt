@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/69/6903/Santa-Barbara/Montecito-restaurants";s:8:"baseName";s:21:"Montecito-restaurants";s:5:"title";s:9:"Montecito";s:5:"count";s:2:"47";}

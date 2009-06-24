@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/55/5511/Rochester/Four-Corners-restaurants";s:8:"baseName";s:24:"Four-Corners-restaurants";s:5:"title";s:12:"Four Corners";s:5:"count";s:2:"27";}

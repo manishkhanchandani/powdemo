@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/41/41581/Providence/Foster-RI-restaurants";s:8:"baseName";s:21:"Foster-RI-restaurants";s:5:"title";s:6:"Foster";s:5:"count";s:1:"4";}

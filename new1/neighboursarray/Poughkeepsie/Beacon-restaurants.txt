@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/260/30501/Poughkeepsie/Beacon-restaurants";s:8:"baseName";s:18:"Beacon-restaurants";s:5:"title";s:6:"Beacon";s:5:"count";s:2:"65";}

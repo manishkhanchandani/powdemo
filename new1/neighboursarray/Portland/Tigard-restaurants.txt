@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:63:"http://www.urbanspoon.com/n/24/2324/Portland/Tigard-restaurants";s:8:"baseName";s:18:"Tigard-restaurants";s:5:"title";s:6:"Tigard";s:5:"count";s:3:"152";}

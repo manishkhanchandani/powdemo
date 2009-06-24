@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:87:"http://www.urbanspoon.com/n/27/2636/San-Diego/Logan-Heights-Sherman-Heights-restaurants";s:8:"baseName";s:41:"Logan-Heights-Sherman-Heights-restaurants";s:5:"title";s:13:"Logan Heights";s:5:"count";s:2:"45";}

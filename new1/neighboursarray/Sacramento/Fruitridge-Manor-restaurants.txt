@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:75:"http://www.urbanspoon.com/n/36/3519/Sacramento/Fruitridge-Manor-restaurants";s:8:"baseName";s:28:"Fruitridge-Manor-restaurants";s:5:"title";s:16:"Fruitridge Manor";s:5:"count";s:2:"25";}

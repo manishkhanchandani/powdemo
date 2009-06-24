@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:73:"http://www.urbanspoon.com/n/39/3803/San-Antonio/Far-West-Side-restaurants";s:8:"baseName";s:25:"Far-West-Side-restaurants";s:5:"title";s:13:"Far West Side";s:5:"count";s:3:"188";}

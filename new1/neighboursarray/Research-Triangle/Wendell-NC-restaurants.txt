@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:77:"http://www.urbanspoon.com/n/25/41296/Research-Triangle/Wendell-NC-restaurants";s:8:"baseName";s:22:"Wendell-NC-restaurants";s:5:"title";s:7:"Wendell";s:5:"count";s:2:"10";}

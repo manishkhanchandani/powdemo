@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/27/2602/San-Diego/Barrio-Logan-restaurants";s:8:"baseName";s:24:"Barrio-Logan-restaurants";s:5:"title";s:12:"Barrio Logan";s:5:"count";s:2:"31";}

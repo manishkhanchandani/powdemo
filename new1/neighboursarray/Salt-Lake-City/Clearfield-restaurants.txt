@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:73:"http://www.urbanspoon.com/n/54/5405/Salt-Lake-City/Clearfield-restaurants";s:8:"baseName";s:22:"Clearfield-restaurants";s:5:"title";s:10:"Clearfield";s:5:"count";s:2:"46";}

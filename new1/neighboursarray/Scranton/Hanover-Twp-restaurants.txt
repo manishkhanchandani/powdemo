@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/283/33817/Scranton/Hanover-Twp-restaurants";s:8:"baseName";s:23:"Hanover-Twp-restaurants";s:5:"title";s:11:"Hanover Twp";s:5:"count";s:2:"38";}

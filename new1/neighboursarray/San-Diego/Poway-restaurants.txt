@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:63:"http://www.urbanspoon.com/n/27/2656/San-Diego/Poway-restaurants";s:8:"baseName";s:17:"Poway-restaurants";s:5:"title";s:5:"Poway";s:5:"count";s:2:"92";}

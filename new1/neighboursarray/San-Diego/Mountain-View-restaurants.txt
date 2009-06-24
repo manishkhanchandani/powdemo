@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/27/2644/San-Diego/Mountain-View-restaurants";s:8:"baseName";s:25:"Mountain-View-restaurants";s:5:"title";s:13:"Mountain View";s:5:"count";s:2:"25";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:79:"http://www.urbanspoon.com/n/25/41295/Research-Triangle/Snow-Camp-NC-restaurants";s:8:"baseName";s:24:"Snow-Camp-NC-restaurants";s:5:"title";s:9:"Snow Camp";s:5:"count";s:1:"4";}

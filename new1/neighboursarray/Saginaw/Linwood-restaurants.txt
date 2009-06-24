@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:65:"http://www.urbanspoon.com/n/275/32615/Saginaw/Linwood-restaurants";s:8:"baseName";s:19:"Linwood-restaurants";s:5:"title";s:7:"Linwood";s:5:"count";s:1:"9";}

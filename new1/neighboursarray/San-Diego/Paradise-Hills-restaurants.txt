@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:72:"http://www.urbanspoon.com/n/27/2654/San-Diego/Paradise-Hills-restaurants";s:8:"baseName";s:26:"Paradise-Hills-restaurants";s:5:"title";s:14:"Paradise Hills";s:5:"count";s:2:"17";}

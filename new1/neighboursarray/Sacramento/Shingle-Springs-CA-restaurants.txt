@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:78:"http://www.urbanspoon.com/n/36/41513/Sacramento/Shingle-Springs-CA-restaurants";s:8:"baseName";s:30:"Shingle-Springs-CA-restaurants";s:5:"title";s:15:"Shingle Springs";s:5:"count";s:2:"11";}

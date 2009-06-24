@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:63:"http://www.urbanspoon.com/n/1/40552/Seattle/Fife-WA-restaurants";s:8:"baseName";s:19:"Fife-WA-restaurants";s:5:"title";s:4:"Fife";s:5:"count";s:2:"40";}

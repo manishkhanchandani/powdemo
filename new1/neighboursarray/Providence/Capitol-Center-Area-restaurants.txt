@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:78:"http://www.urbanspoon.com/n/41/4001/Providence/Capitol-Center-Area-restaurants";s:8:"baseName";s:31:"Capitol-Center-Area-restaurants";s:5:"title";s:19:"Capitol Center Area";s:5:"count";s:2:"27";}

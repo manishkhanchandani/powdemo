@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/27/2612/San-Diego/College-Area-restaurants";s:8:"baseName";s:24:"College-Area-restaurants";s:5:"title";s:12:"College Area";s:5:"count";s:2:"57";}

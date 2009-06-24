@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:72:"http://www.urbanspoon.com/n/27/2646/San-Diego/Normal-Heights-restaurants";s:8:"baseName";s:26:"Normal-Heights-restaurants";s:5:"title";s:14:"Normal Heights";s:5:"count";s:2:"22";}

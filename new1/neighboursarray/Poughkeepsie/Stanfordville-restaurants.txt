@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:76:"http://www.urbanspoon.com/n/260/30543/Poughkeepsie/Stanfordville-restaurants";s:8:"baseName";s:25:"Stanfordville-restaurants";s:5:"title";s:13:"Stanfordville";s:5:"count";s:1:"8";}

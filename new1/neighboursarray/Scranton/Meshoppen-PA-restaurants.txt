@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/283/45153/Scranton/Meshoppen-PA-restaurants";s:8:"baseName";s:24:"Meshoppen-PA-restaurants";s:5:"title";s:9:"Meshoppen";s:5:"count";s:1:"6";}

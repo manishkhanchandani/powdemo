@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:72:"http://www.urbanspoon.com/n/54/5401/Salt-Lake-City/Bountiful-restaurants";s:8:"baseName";s:21:"Bountiful-restaurants";s:5:"title";s:9:"Bountiful";s:5:"count";s:2:"59";}
