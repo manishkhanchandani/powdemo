@@ -98,15 +98,15 @@ if ($handle = opendir($dirname)) {
 							flush();
 							if($page>0) {
 								if(!file_exists('rest/listing/'.$folder."/".$baseName."-".$page.".html")) {
-									echo '<h1>sleeping for 15 secs</h1>';
-									sleep(15);
-									static $item=0; $item++;
-									if($item%3==0) {
-										echo "ITEM ($item): ";
-										$Crawler->changeip();
-									} else {
-										echo "items ($item): ";
-									}
+									//echo '<h1>sleeping for 15 secs</h1>';
+									//sleep(15);
+									//static $item=0; $item++;
+									//if($item%3==0) {
+										//echo "ITEM ($item): ";
+										//$Crawler->changeip();
+									//} else {
+										//echo "items ($item): ";
+									//}
 									echo "<br>";
 									$input3 = file_get_contents($pgUrl);
 									
@@ -145,7 +145,6 @@ if ($handle = opendir($dirname)) {
 									} else {
 										echo 'rest/description/'.$folder.'/'.$v['id'].'.txt already exists.<br>';
 									}
-									
 									// another script starts here 11
 									$input = file_get_contents('rest/description/'.$folder.'/'.$v['id'].'.txt');	
 									$array = unserialize($input);
@@ -157,15 +156,15 @@ if ($handle = opendir($dirname)) {
 									echo $baseName = str_replace(".txt", ".html", basename($file3));
 									echo "<br>";
 									if(!file_exists('rest/detailpages/'.$folder.'/'.$baseName)) {
-										echo '<h1>sleeping for 15 secs</h1>';
-										sleep(15);
-										static $item=0; $item++;
-										if($item%3==0) {
-											echo "ITEM ($item): ";
-											$Crawler->changeip();
-										} else {
-											echo "items ($item): ";
-										}
+										//echo '<h1>sleeping for 15 secs</h1>';
+										//sleep(15);
+										//static $item=0; $item++;
+										//if($item%3==0) {
+											//echo "ITEM ($item): ";
+											//$Crawler->changeip();
+										//} else {
+											//echo "items ($item): ";
+										//}
 										echo "<br>";
 										$string = @file_get_contents($url);
 										if(!$string) {
@@ -177,8 +176,7 @@ if ($handle = opendir($dirname)) {
 									} else {
 										echo 'rest/detailpages/'.$folder.'/'.$baseName.' already exists.<br>';
 									}
-									
-									$input = file_get_contents('rest/detailpages/'.$folder.'/'.$baseName);	
+																		$input = file_get_contents('rest/detailpages/'.$folder.'/'.$baseName);	
 									$baseName = str_replace(".html", ".txt", basename($file3));
 									$baseNameXML = str_replace(".html", ".xml", basename($file3));
 									$baseName2 = str_replace(".html", "", basename($file3));
@@ -194,6 +192,7 @@ if ($handle = opendir($dirname)) {
 									$array['rid'] = $array['country']."/".$array['province']."/".$array['city']."/".$array['folder'];
 									$array['lat'] = $v['lat'];
 									$array['lon'] = $v['lat'];
+									$array['neighbour'] = $v['neighbour'];
 									$string = serialize($array);
 									print_r($array);
 									$Crawler->insertRestaurant($array);
@@ -218,7 +217,7 @@ if ($handle = opendir($dirname)) {
 											echo 'rest/finalxmlreviews/'.$folder.'/'.$baseNameXML.' already exists.<br>';
 										}
 									}
-									
+									exit;
 									flush();
 								}
 							} else {
@@ -226,11 +225,12 @@ if ($handle = opendir($dirname)) {
 								exit;
 							}
 							
-															
+								exit;							
 						}
 						flush();
 						echo "<br>";
 						echo "<br>";
+exit;
 					}
 				}
 			}
