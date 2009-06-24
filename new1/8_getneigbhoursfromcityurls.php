@@ -52,14 +52,14 @@ if ($handle = opendir($dirname)) {
 						copy("neighboursurl/".$arr[$k]['baseName'].".html", "neighboursurl/".$folder."/".$arr[$k]['baseName'].".html");
 						@unlink("neighboursurl/".$arr[$k]['baseName'].".html");
 					} else {
-						//static $item=0; $item++;
-						//if($item%3==0) {
-							//echo "ITEM ($item): ";
-							//$Crawler->changeip();
-						//} else {
-							//echo "items ($item): ";
-						//}
-						//echo "<br>";
+						static $item=0; $item++;
+						if($item%3==0) {
+							echo "ITEM ($item): ";
+							$Crawler->changeip();
+						} else {
+							echo "items ($item): ";
+						}
+						echo "<br>";
 						$fs = file_get_contents($arr[$k]['url']);
 						if(!$fs) {
 							echo 'could not get '.$arr[$k]['url'];
