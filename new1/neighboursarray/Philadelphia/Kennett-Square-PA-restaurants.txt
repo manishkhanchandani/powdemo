@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:79:"http://www.urbanspoon.com/n/21/41085/Philadelphia/Kennett-Square-PA-restaurants";s:8:"baseName";s:29:"Kennett-Square-PA-restaurants";s:5:"title";s:14:"Kennett Square";s:5:"count";s:2:"47";}

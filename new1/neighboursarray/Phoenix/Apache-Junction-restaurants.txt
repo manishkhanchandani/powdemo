@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/22/2102/Phoenix/Apache-Junction-restaurants";s:8:"baseName";s:27:"Apache-Junction-restaurants";s:5:"title";s:15:"Apache Junction";s:5:"count";s:2:"38";}

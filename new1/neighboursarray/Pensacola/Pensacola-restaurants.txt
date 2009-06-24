@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:59:"http://www.urbanspoon.com/n/256/29706/Pensacola-restaurants";s:8:"baseName";s:21:"Pensacola-restaurants";s:5:"title";s:9:"Pensacola";s:5:"count";s:3:"647";}

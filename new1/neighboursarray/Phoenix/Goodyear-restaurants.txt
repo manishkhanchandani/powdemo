@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:64:"http://www.urbanspoon.com/n/22/2114/Phoenix/Goodyear-restaurants";s:8:"baseName";s:20:"Goodyear-restaurants";s:5:"title";s:8:"Goodyear";s:5:"count";s:2:"71";}

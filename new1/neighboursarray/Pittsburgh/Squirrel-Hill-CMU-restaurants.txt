@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:76:"http://www.urbanspoon.com/n/23/2226/Pittsburgh/Squirrel-Hill-CMU-restaurants";s:8:"baseName";s:29:"Squirrel-Hill-CMU-restaurants";s:5:"title";s:3:"CMU";s:5:"count";s:2:"66";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/21/2016/Philadelphia/Germantown-restaurants";s:8:"baseName";s:22:"Germantown-restaurants";s:5:"title";s:10:"Germantown";s:5:"count";s:2:"95";}

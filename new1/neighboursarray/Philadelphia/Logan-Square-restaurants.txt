@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:73:"http://www.urbanspoon.com/n/21/2025/Philadelphia/Logan-Square-restaurants";s:8:"baseName";s:24:"Logan-Square-restaurants";s:5:"title";s:12:"Logan Square";s:5:"count";s:2:"79";}

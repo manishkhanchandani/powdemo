@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/21/2007/Philadelphia/Chinatown-restaurants";s:8:"baseName";s:21:"Chinatown-restaurants";s:5:"title";s:9:"Chinatown";s:5:"count";s:3:"146";}

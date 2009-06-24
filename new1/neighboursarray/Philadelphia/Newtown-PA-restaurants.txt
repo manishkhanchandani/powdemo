@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:72:"http://www.urbanspoon.com/n/21/41095/Philadelphia/Newtown-PA-restaurants";s:8:"baseName";s:22:"Newtown-PA-restaurants";s:5:"title";s:7:"Newtown";s:5:"count";s:2:"60";}

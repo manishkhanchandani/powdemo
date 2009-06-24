@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:72:"http://www.urbanspoon.com/n/23/2219/Pittsburgh/Mt-Washington-restaurants";s:8:"baseName";s:25:"Mt-Washington-restaurants";s:5:"title";s:13:"Mt Washington";s:5:"count";s:2:"26";}

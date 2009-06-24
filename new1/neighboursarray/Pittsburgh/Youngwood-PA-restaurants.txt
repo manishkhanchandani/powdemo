@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:72:"http://www.urbanspoon.com/n/23/41251/Pittsburgh/Youngwood-PA-restaurants";s:8:"baseName";s:24:"Youngwood-PA-restaurants";s:5:"title";s:9:"Youngwood";s:5:"count";s:2:"12";}

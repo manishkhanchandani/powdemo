@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:77:"http://www.urbanspoon.com/n/21/41106/Philadelphia/Sicklerville-NJ-restaurants";s:8:"baseName";s:27:"Sicklerville-NJ-restaurants";s:5:"title";s:12:"Sicklerville";s:5:"count";s:2:"42";}

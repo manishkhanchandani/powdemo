@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:72:"http://www.urbanspoon.com/n/21/2008/Philadelphia/Cobbs-Creek-restaurants";s:8:"baseName";s:23:"Cobbs-Creek-restaurants";s:5:"title";s:11:"Cobbs Creek";s:5:"count";s:2:"69";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:77:"http://www.urbanspoon.com/n/23/41201/Pittsburgh/New-Alexandria-PA-restaurants";s:8:"baseName";s:29:"New-Alexandria-PA-restaurants";s:5:"title";s:14:"New Alexandria";s:5:"count";s:1:"8";}

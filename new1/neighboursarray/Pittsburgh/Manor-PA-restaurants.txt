@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/23/41185/Pittsburgh/Manor-PA-restaurants";s:8:"baseName";s:20:"Manor-PA-restaurants";s:5:"title";s:5:"Manor";s:5:"count";s:1:"4";}

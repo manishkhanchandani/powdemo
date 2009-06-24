@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:72:"http://www.urbanspoon.com/n/23/41203/Pittsburgh/New-Eagle-PA-restaurants";s:8:"baseName";s:24:"New-Eagle-PA-restaurants";s:5:"title";s:9:"New Eagle";s:5:"count";s:1:"3";}

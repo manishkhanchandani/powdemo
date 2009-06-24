@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:76:"http://www.urbanspoon.com/n/21/41093/Philadelphia/New-Britain-PA-restaurants";s:8:"baseName";s:26:"New-Britain-PA-restaurants";s:5:"title";s:11:"New Britain";s:5:"count";s:1:"8";}

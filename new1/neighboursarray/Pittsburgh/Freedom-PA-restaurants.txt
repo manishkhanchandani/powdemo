@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/23/41164/Pittsburgh/Freedom-PA-restaurants";s:8:"baseName";s:22:"Freedom-PA-restaurants";s:5:"title";s:7:"Freedom";s:5:"count";s:1:"7";}

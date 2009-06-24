@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:64:"http://www.urbanspoon.com/n/253/29400/Paducah/Barlow-restaurants";s:8:"baseName";s:18:"Barlow-restaurants";s:5:"title";s:6:"Barlow";s:5:"count";s:1:"2";}

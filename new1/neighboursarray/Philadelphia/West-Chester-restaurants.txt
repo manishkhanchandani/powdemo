@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:74:"http://www.urbanspoon.com/n/21/29910/Philadelphia/West-Chester-restaurants";s:8:"baseName";s:24:"West-Chester-restaurants";s:5:"title";s:12:"West Chester";s:5:"count";s:3:"195";}

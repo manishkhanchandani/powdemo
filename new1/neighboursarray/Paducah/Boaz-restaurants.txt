@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:62:"http://www.urbanspoon.com/n/253/29402/Paducah/Boaz-restaurants";s:8:"baseName";s:16:"Boaz-restaurants";s:5:"title";s:4:"Boaz";s:5:"count";s:1:"2";}

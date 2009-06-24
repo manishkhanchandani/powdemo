@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:75:"http://www.urbanspoon.com/n/23/2212/Pittsburgh/Homewood-Larimer-restaurants";s:8:"baseName";s:28:"Homewood-Larimer-restaurants";s:5:"title";s:8:"Homewood";s:5:"count";s:2:"28";}

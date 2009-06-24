@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:73:"http://www.urbanspoon.com/n/23/41221/Pittsburgh/Russellton-PA-restaurants";s:8:"baseName";s:25:"Russellton-PA-restaurants";s:5:"title";s:10:"Russellton";s:5:"count";s:1:"3";}

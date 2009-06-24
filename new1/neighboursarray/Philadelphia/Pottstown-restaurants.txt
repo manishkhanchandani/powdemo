@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/21/29908/Philadelphia/Pottstown-restaurants";s:8:"baseName";s:21:"Pottstown-restaurants";s:5:"title";s:9:"Pottstown";s:5:"count";s:3:"134";}

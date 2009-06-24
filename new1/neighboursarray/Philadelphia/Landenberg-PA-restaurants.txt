@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:75:"http://www.urbanspoon.com/n/21/41087/Philadelphia/Landenberg-PA-restaurants";s:8:"baseName";s:25:"Landenberg-PA-restaurants";s:5:"title";s:10:"Landenberg";s:5:"count";s:1:"6";}

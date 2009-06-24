@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:77:"http://www.urbanspoon.com/n/23/41204/Pittsburgh/New-Kensington-PA-restaurants";s:8:"baseName";s:29:"New-Kensington-PA-restaurants";s:5:"title";s:14:"New Kensington";s:5:"count";s:2:"65";}

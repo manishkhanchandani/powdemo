@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/23/30109/Pittsburgh/Washington-restaurants";s:8:"baseName";s:22:"Washington-restaurants";s:5:"title";s:10:"Washington";s:5:"count";s:3:"163";}

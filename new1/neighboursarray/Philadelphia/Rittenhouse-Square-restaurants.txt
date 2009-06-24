@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:79:"http://www.urbanspoon.com/n/21/2040/Philadelphia/Rittenhouse-Square-restaurants";s:8:"baseName";s:30:"Rittenhouse-Square-restaurants";s:5:"title";s:18:"Rittenhouse Square";s:5:"count";s:3:"302";}

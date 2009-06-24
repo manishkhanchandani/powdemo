@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/21/41071/Philadelphia/Dublin-PA-restaurants";s:8:"baseName";s:21:"Dublin-PA-restaurants";s:5:"title";s:6:"Dublin";s:5:"count";s:2:"10";}

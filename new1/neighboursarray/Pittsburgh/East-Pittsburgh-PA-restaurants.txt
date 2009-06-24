@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:78:"http://www.urbanspoon.com/n/23/41155/Pittsburgh/East-Pittsburgh-PA-restaurants";s:8:"baseName";s:30:"East-Pittsburgh-PA-restaurants";s:5:"title";s:15:"East Pittsburgh";s:5:"count";s:2:"12";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/21/29902/Philadelphia/Exton-restaurants";s:8:"baseName";s:17:"Exton-restaurants";s:5:"title";s:5:"Exton";s:5:"count";s:3:"109";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:97:"http://www.urbanspoon.com/n/21/2020/Philadelphia/Italian-Market-Bella-Vista-Southwark-restaurants";s:8:"baseName";s:48:"Italian-Market-Bella-Vista-Southwark-restaurants";s:5:"title";s:11:"Bella Vista";s:5:"count";s:3:"198";}

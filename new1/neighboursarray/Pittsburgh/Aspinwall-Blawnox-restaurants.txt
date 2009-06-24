@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:76:"http://www.urbanspoon.com/n/23/2201/Pittsburgh/Aspinwall-Blawnox-restaurants";s:8:"baseName";s:29:"Aspinwall-Blawnox-restaurants";s:5:"title";s:9:"Aspinwall";s:5:"count";s:2:"54";}

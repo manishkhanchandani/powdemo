@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/253/29406/Paducah/Grand-Rivers-restaurants";s:8:"baseName";s:24:"Grand-Rivers-restaurants";s:5:"title";s:12:"Grand Rivers";s:5:"count";s:2:"12";}

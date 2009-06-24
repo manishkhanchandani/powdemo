@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:79:"http://www.urbanspoon.com/n/23/41207/Pittsburgh/North-Huntingdon-PA-restaurants";s:8:"baseName";s:31:"North-Huntingdon-PA-restaurants";s:5:"title";s:16:"North Huntingdon";s:5:"count";s:2:"12";}

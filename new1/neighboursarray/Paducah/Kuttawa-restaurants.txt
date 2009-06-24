@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:65:"http://www.urbanspoon.com/n/253/29408/Paducah/Kuttawa-restaurants";s:8:"baseName";s:19:"Kuttawa-restaurants";s:5:"title";s:7:"Kuttawa";s:5:"count";s:1:"4";}

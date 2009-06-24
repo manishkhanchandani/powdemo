@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/23/41252/Pittsburgh/Yukon-PA-restaurants";s:8:"baseName";s:20:"Yukon-PA-restaurants";s:5:"title";s:5:"Yukon";s:5:"count";s:1:"3";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:74:"http://www.urbanspoon.com/n/21/2035/Philadelphia/Oxford-Circle-restaurants";s:8:"baseName";s:25:"Oxford-Circle-restaurants";s:5:"title";s:13:"Oxford Circle";s:5:"count";s:2:"88";}

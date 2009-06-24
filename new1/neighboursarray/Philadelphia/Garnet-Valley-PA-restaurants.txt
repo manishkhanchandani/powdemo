@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:78:"http://www.urbanspoon.com/n/21/41075/Philadelphia/Garnet-Valley-PA-restaurants";s:8:"baseName";s:28:"Garnet-Valley-PA-restaurants";s:5:"title";s:13:"Garnet Valley";s:5:"count";s:2:"11";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:72:"http://www.urbanspoon.com/n/255/29609/Panama-City/Youngstown-restaurants";s:8:"baseName";s:22:"Youngstown-restaurants";s:5:"title";s:10:"Youngstown";s:5:"count";s:1:"3";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:73:"http://www.urbanspoon.com/n/21/41088/Philadelphia/Limerick-PA-restaurants";s:8:"baseName";s:23:"Limerick-PA-restaurants";s:5:"title";s:8:"Limerick";s:5:"count";s:2:"22";}

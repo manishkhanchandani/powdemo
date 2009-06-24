@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:74:"http://www.urbanspoon.com/n/23/41134/Pittsburgh/Brownsville-PA-restaurants";s:8:"baseName";s:26:"Brownsville-PA-restaurants";s:5:"title";s:11:"Brownsville";s:5:"count";s:2:"19";}
