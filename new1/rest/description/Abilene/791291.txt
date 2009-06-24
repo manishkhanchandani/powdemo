@@ -1,1 +1,0 @@
-a:6:{s:3:"url";s:78:"http://www.urbanspoon.com/r/77/791291/restaurant/Abilene/66-Sirloin-Cafe-Anson";s:4:"name";s:15:"66 Sirloin Cafe";s:2:"id";s:6:"791291";s:4:"info";s:19:"1631 17th St, Anson";s:7:"address";s:19:"1631 17th St, Anson";s:6:"folder";s:7:"Abilene";}

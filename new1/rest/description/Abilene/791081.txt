@@ -1,3 +1,0 @@
-a:7:{s:3:"url";s:89:"http://www.urbanspoon.com/r/77/791081/restaurant/Cracker-Barrel-Old-Country-Store-Abilene";s:4:"name";s:32:"Cracker Barrel Old Country Store";s:2:"id";s:6:"791081";s:4:"info";s:98:"Breakfast/Brunch - <br />
-                <br />
-                  1602 State Highway 351, Abilene";s:5:"info2";s:16:"Breakfast/Brunch";s:7:"address";s:31:"1602 State Highway 351, Abilene";s:6:"folder";s:7:"Abilene";}

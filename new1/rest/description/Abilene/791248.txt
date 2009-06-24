@@ -1,1 +1,0 @@
-a:6:{s:3:"url";s:80:"http://www.urbanspoon.com/r/77/791248/restaurant/Swanzys-Homestyle-Meals-Abilene";s:4:"name";s:24:"Swanzy's Homestyle Meals";s:2:"id";s:6:"791248";s:4:"info";s:22:"4021 S 7th St, Abilene";s:7:"address";s:22:"4021 S 7th St, Abilene";s:6:"folder";s:7:"Abilene";}

@@ -1,3 +1,0 @@
-a:7:{s:3:"url";s:73:"http://www.urbanspoon.com/r/77/791339/restaurant/Abilene/Pizza-Pro-Merkel";s:4:"name";s:9:"Pizza Pro";s:2:"id";s:6:"791339";s:4:"info";s:75:"Pizza - <br />
-                <br />
-                  131 Kent St, Merkel";s:5:"info2";s:5:"Pizza";s:7:"address";s:19:"131 Kent St, Merkel";s:6:"folder";s:7:"Abilene";}

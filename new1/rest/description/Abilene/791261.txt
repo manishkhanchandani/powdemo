@@ -1,3 +1,0 @@
-a:7:{s:3:"url";s:67:"http://www.urbanspoon.com/r/77/791261/restaurant/Taco-Bueno-Abilene";s:4:"name";s:10:"Taco Bueno";s:2:"id";s:6:"791261";s:4:"info";s:101:"Fast Food and Mexican - <br />
-                <br />
-                  825 N Judge Ely Blvd, Abilene";s:5:"info2";s:21:"Fast Food and Mexican";s:7:"address";s:29:"825 N Judge Ely Blvd, Abilene";s:6:"folder";s:7:"Abilene";}

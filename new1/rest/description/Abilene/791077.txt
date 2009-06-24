@@ -1,3 +1,0 @@
-a:7:{s:3:"url";s:80:"http://www.urbanspoon.com/r/77/791077/restaurant/Copper-Creek-Restaurant-Abilene";s:4:"name";s:23:"Copper Creek Restaurant";s:2:"id";s:6:"791077";s:4:"info";s:81:"American - <br />
-                <br />
-                  4401 Loop 322, Abilene";s:5:"info2";s:8:"American";s:7:"address";s:22:"4401 Loop 322, Abilene";s:6:"folder";s:7:"Abilene";}

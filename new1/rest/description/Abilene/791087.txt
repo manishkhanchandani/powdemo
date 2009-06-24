@@ -1,3 +1,0 @@
-a:7:{s:3:"url";s:68:"http://www.urbanspoon.com/r/77/791087/restaurant/Dairy-Queen-Abilene";s:4:"name";s:11:"Dairy Queen";s:2:"id";s:6:"791087";s:4:"info";s:90:"Fast Food - <br />
-                <br />
-                  5110 Us Highway 277 S, Abilene";s:5:"info2";s:9:"Fast Food";s:7:"address";s:30:"5110 Us Highway 277 S, Abilene";s:6:"folder";s:7:"Abilene";}

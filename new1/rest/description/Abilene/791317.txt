@@ -1,1 +1,0 @@
-a:6:{s:3:"url";s:80:"http://www.urbanspoon.com/r/77/791317/restaurant/Abilene/Good-Morning-Shop-Clyde";s:4:"name";s:17:"Good Morning Shop";s:2:"id";s:6:"791317";s:4:"info";s:19:"104 N 1ST St, Clyde";s:7:"address";s:19:"104 N 1ST St, Clyde";s:6:"folder";s:7:"Abilene";}

@@ -1,3 +1,0 @@
-a:7:{s:3:"url";s:62:"http://www.urbanspoon.com/r/77/791016/restaurant/Arbys-Abilene";s:4:"name";s:6:"Arby's";s:2:"id";s:6:"791016";s:4:"info";s:84:"Fast Food - <br />
-                <br />
-                  3824 S Clack St, Abilene";s:5:"info2";s:9:"Fast Food";s:7:"address";s:24:"3824 S Clack St, Abilene";s:6:"folder";s:7:"Abilene";}

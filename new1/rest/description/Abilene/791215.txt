@@ -1,3 +1,0 @@
-a:7:{s:3:"url";s:96:"http://www.urbanspoon.com/r/77/791215/restaurant/Rosas-Cafe-Tortilla-Factory-N-Judge-Ely-Abilene";s:4:"name";s:49:"Rosa's Cafe &amp; Tortilla Factory (N. Judge Ely)";s:2:"id";s:6:"791215";s:4:"info";s:88:"Mexican - <br />
-                <br />
-                  1026 N Judge Ely Blvd, Abilene";s:5:"info2";s:7:"Mexican";s:7:"address";s:30:"1026 N Judge Ely Blvd, Abilene";s:6:"folder";s:7:"Abilene";}

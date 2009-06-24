@@ -1,3 +1,0 @@
-a:7:{s:3:"url";s:68:"http://www.urbanspoon.com/r/77/791132/restaurant/Jasons-Deli-Abilene";s:4:"name";s:12:"Jason's Deli";s:2:"id";s:6:"791132";s:4:"info";s:100:"Sandwiches/Subs and Soups - <br />
-                <br />
-                  3490 Catclaw Dr, Abilene";s:5:"info2";s:25:"Sandwiches/Subs and Soups";s:7:"address";s:24:"3490 Catclaw Dr, Abilene";s:6:"folder";s:7:"Abilene";}

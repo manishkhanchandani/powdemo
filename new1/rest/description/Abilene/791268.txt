@@ -1,3 +1,0 @@
-a:7:{s:3:"url";s:72:"http://www.urbanspoon.com/r/77/791268/restaurant/Texas-Roadhouse-Abilene";s:4:"name";s:15:"Texas Roadhouse";s:2:"id";s:6:"791268";s:4:"info";s:101:"American and Steakhouse - <br />
-                <br />
-                  1381 S Danville Dr, Abilene";s:5:"info2";s:23:"American and Steakhouse";s:7:"address";s:27:"1381 S Danville Dr, Abilene";s:6:"folder";s:7:"Abilene";}

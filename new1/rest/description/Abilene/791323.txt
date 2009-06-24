@@ -1,3 +1,0 @@
-a:7:{s:3:"url";s:69:"http://www.urbanspoon.com/r/77/791323/restaurant/Abilene/Subway-Clyde";s:4:"name";s:6:"Subway";s:2:"id";s:6:"791323";s:4:"info";s:103:"Sandwiches/Subs and Fast Food - <br />
-                <br />
-                  1634 N Access Rd, Clyde";s:5:"info2";s:29:"Sandwiches/Subs and Fast Food";s:7:"address";s:23:"1634 N Access Rd, Clyde";s:6:"folder";s:7:"Abilene";}

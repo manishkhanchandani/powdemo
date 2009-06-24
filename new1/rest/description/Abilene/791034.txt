@@ -1,3 +1,0 @@
-a:7:{s:3:"url";s:79:"http://www.urbanspoon.com/r/77/791034/restaurant/Bogies-Specialty-Delis-Abilene";s:4:"name";s:24:"Bogie's Specialty Deli's";s:2:"id";s:6:"791034";s:4:"info";s:89:"Sandwiches/Subs - <br />
-                <br />
-                  241 Cypress St, Abilene";s:5:"info2";s:15:"Sandwiches/Subs";s:7:"address";s:23:"241 Cypress St, Abilene";s:6:"folder";s:7:"Abilene";}

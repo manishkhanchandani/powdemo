@@ -1,3 +1,0 @@
-a:7:{s:3:"url";s:91:"http://www.urbanspoon.com/r/77/1452079/restaurant/Abilene/Buffalo-Gap/Cornados-Camp-Tuscola";s:4:"name";s:14:"Cornado's Camp";s:2:"id";s:7:"1452079";s:4:"info";s:106:"Breakfast/Brunch and Burgers - <br />
-                <br />
-                  12580 Us Hwy 277 S, Tuscola";s:5:"info2";s:28:"Breakfast/Brunch and Burgers";s:7:"address";s:27:"12580 Us Hwy 277 S, Tuscola";s:6:"folder";s:7:"Abilene";}

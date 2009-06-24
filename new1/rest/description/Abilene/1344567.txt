@@ -1,3 +1,0 @@
-a:7:{s:3:"url";s:70:"http://www.urbanspoon.com/r/77/1344567/restaurant/Little-Italy-Abilene";s:4:"name";s:12:"Little Italy";s:2:"id";s:7:"1344567";s:4:"info";s:85:"Italian - <br />
-                <br />
-                  1417 S Danville Dr, Abilene";s:5:"info2";s:7:"Italian";s:7:"address";s:27:"1417 S Danville Dr, Abilene";s:6:"folder";s:7:"Abilene";}

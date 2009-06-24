@@ -1,3 +1,0 @@
-a:7:{s:3:"url";s:75:"http://www.urbanspoon.com/r/77/791184/restaurant/Outback-Steakhouse-Abilene";s:4:"name";s:18:"Outback Steakhouse";s:2:"id";s:6:"791184";s:4:"info";s:87:"Steakhouse - <br />
-                <br />
-                  4142 Ridgemont Dr, Abilene";s:5:"info2";s:10:"Steakhouse";s:7:"address";s:26:"4142 Ridgemont Dr, Abilene";s:6:"folder";s:7:"Abilene";}

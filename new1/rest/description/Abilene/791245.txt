@@ -1,3 +1,0 @@
-a:7:{s:3:"url";s:63:"http://www.urbanspoon.com/r/77/791245/restaurant/Subway-Abilene";s:4:"name";s:6:"Subway";s:2:"id";s:6:"791245";s:4:"info";s:109:"Sandwiches/Subs, Fast Food and Soups - <br />
-                <br />
-                  4102 Loop 322, Abilene";s:5:"info2";s:36:"Sandwiches/Subs, Fast Food and Soups";s:7:"address";s:22:"4102 Loop 322, Abilene";s:6:"folder";s:7:"Abilene";}

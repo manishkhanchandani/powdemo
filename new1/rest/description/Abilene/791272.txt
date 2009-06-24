@@ -1,1 +1,0 @@
-a:6:{s:3:"url";s:73:"http://www.urbanspoon.com/r/77/791272/restaurant/Top-Cat-Catering-Abilene";s:4:"name";s:16:"Top Cat Catering";s:2:"id";s:6:"791272";s:4:"info";s:33:"500 Chestnut St Ste B100, Abilene";s:7:"address";s:33:"500 Chestnut St Ste B100, Abilene";s:6:"folder";s:7:"Abilene";}

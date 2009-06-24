@@ -1,3 +1,0 @@
-a:7:{s:3:"url";s:70:"http://www.urbanspoon.com/r/77/1344555/restaurant/Double-Daves-Abilene";s:4:"name";s:12:"Double Daves";s:2:"id";s:7:"1344555";s:4:"info";s:82:"Pizza - <br />
-                <br />
-                  4001 John Knox Dr, Abilene";s:5:"info2";s:5:"Pizza";s:7:"address";s:26:"4001 John Knox Dr, Abilene";s:6:"folder";s:7:"Abilene";}

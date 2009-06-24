@@ -1,3 +1,0 @@
-a:7:{s:3:"url";s:66:"http://www.urbanspoon.com/r/77/791253/restaurant/Taco-Bell-Abilene";s:4:"name";s:9:"Taco Bell";s:2:"id";s:6:"791253";s:4:"info";s:108:"Tacos, Mexican and Fast Food - <br />
-                <br />
-                  1902 Industrial Blvd, Abilene";s:5:"info2";s:28:"Tacos, Mexican and Fast Food";s:7:"address";s:29:"1902 Industrial Blvd, Abilene";s:6:"folder";s:7:"Abilene";}

@@ -1,3 +1,0 @@
-a:7:{s:3:"url";s:66:"http://www.urbanspoon.com/r/77/791193/restaurant/Pizza-Hut-Abilene";s:4:"name";s:9:"Pizza Hut";s:2:"id";s:6:"791193";s:4:"info";s:95:"Pizza and Fast Food - <br />
-                <br />
-                  550 E Ambler Ave, Abilene";s:5:"info2";s:19:"Pizza and Fast Food";s:7:"address";s:25:"550 E Ambler Ave, Abilene";s:6:"folder";s:7:"Abilene";}

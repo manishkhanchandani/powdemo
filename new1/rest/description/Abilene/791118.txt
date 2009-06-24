@@ -1,3 +1,0 @@
-a:7:{s:3:"url";s:73:"http://www.urbanspoon.com/r/77/791118/restaurant/Hernandez-Bakery-Abilene";s:4:"name";s:16:"Hernandez Bakery";s:2:"id";s:6:"791118";s:4:"info";s:76:"Bakery - <br />
-                <br />
-                  642 Oak St, Abilene";s:5:"info2";s:6:"Bakery";s:7:"address";s:19:"642 Oak St, Abilene";s:6:"folder";s:7:"Abilene";}

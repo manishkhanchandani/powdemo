@@ -1,3 +1,0 @@
-a:7:{s:3:"url";s:84:"http://www.urbanspoon.com/r/77/791249/restaurant/Szechuan-Chinese-Restaurant-Abilene";s:4:"name";s:27:"Szechuan Chinese Restaurant";s:2:"id";s:6:"791249";s:4:"info";s:80:"Chinese - <br />
-                <br />
-                  3309 S 1st St, Abilene";s:5:"info2";s:7:"Chinese";s:7:"address";s:22:"3309 S 1st St, Abilene";s:6:"folder";s:7:"Abilene";}

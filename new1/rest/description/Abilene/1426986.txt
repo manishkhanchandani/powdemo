@@ -1,3 +1,0 @@
-a:7:{s:3:"url";s:87:"http://www.urbanspoon.com/r/77/1426986/restaurant/Larrys-Better-Burger-Drive-in-Abilene";s:4:"name";s:30:"Larry's Better Burger Drive-in";s:2:"id";s:7:"1426986";s:4:"info";s:87:"Burgers - <br />
-                <br />
-                  1233 N Treadway Blvd, Abilene";s:5:"info2";s:7:"Burgers";s:7:"address";s:29:"1233 N Treadway Blvd, Abilene";s:6:"folder";s:7:"Abilene";}

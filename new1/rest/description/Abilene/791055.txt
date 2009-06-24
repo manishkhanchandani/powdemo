@@ -1,3 +1,0 @@
-a:7:{s:3:"url";s:68:"http://www.urbanspoon.com/r/77/791055/restaurant/Chick-Fil-A-Abilene";s:4:"name";s:11:"Chick-Fil-A";s:2:"id";s:6:"791055";s:4:"info";s:84:"Fast Food - <br />
-                <br />
-                  3130 S Clack St, Abilene";s:5:"info2";s:9:"Fast Food";s:7:"address";s:24:"3130 S Clack St, Abilene";s:6:"folder";s:7:"Abilene";}

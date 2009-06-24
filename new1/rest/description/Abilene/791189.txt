@@ -1,3 +1,0 @@
-a:7:{s:3:"url";s:88:"http://www.urbanspoon.com/r/77/791189/restaurant/Peking-House-Chinese-Restaurant-Abilene";s:4:"name";s:31:"Peking House Chinese Restaurant";s:2:"id";s:6:"791189";s:4:"info";s:84:"Chinese - <br />
-                <br />
-                  5001 US Hwy 277 S, Abilene";s:5:"info2";s:7:"Chinese";s:7:"address";s:26:"5001 US Hwy 277 S, Abilene";s:6:"folder";s:7:"Abilene";}

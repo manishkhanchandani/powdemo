@@ -1,1 +1,0 @@
-a:6:{s:3:"url";s:78:"http://www.urbanspoon.com/r/77/791169/restaurant/Mc-Kays-General-Store-Abilene";s:4:"name";s:22:"Mc Kay's General Store";s:2:"id";s:6:"791169";s:4:"info";s:23:"274 Cypress St, Abilene";s:7:"address";s:23:"274 Cypress St, Abilene";s:6:"folder";s:7:"Abilene";}

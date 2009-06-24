@@ -1,3 +1,0 @@
-a:7:{s:3:"url";s:84:"http://www.urbanspoon.com/r/77/791276/restaurant/Turnhill-House-of-Bar-B-Que-Abilene";s:4:"name";s:27:"Turnhill House of Bar-B-Que";s:2:"id";s:6:"791276";s:4:"info";s:89:"Barbecue - <br />
-                <br />
-                  1881 N Treadaway Blvd, Abilene";s:5:"info2";s:8:"Barbecue";s:7:"address";s:30:"1881 N Treadaway Blvd, Abilene";s:6:"folder";s:7:"Abilene";}

@@ -1,3 +1,0 @@
-a:7:{s:3:"url";s:65:"http://www.urbanspoon.com/r/77/791196/restaurant/Robertos-Abilene";s:4:"name";s:9:"Roberto's";s:2:"id";s:6:"791196";s:4:"info";s:78:"Mexican - <br />
-                <br />
-                  226 Pine St, Abilene";s:5:"info2";s:7:"Mexican";s:7:"address";s:20:"226 Pine St, Abilene";s:6:"folder";s:7:"Abilene";}

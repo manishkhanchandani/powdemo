@@ -1,3 +1,0 @@
-a:7:{s:3:"url";s:66:"http://www.urbanspoon.com/r/77/791178/restaurant/Mr-Burger-Abilene";s:4:"name";s:9:"Mr Burger";s:2:"id";s:6:"791178";s:4:"info";s:86:"Burgers - <br />
-                <br />
-                  6326 Buffalo Gap Rd, Abilene";s:5:"info2";s:7:"Burgers";s:7:"address";s:28:"6326 Buffalo Gap Rd, Abilene";s:6:"folder";s:7:"Abilene";}

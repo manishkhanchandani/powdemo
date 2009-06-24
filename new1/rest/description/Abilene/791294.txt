@@ -1,3 +1,0 @@
-a:7:{s:3:"url";s:73:"http://www.urbanspoon.com/r/77/791294/restaurant/Abilene/Fish-Chick-Anson";s:4:"name";s:16:"Fish &amp; Chick";s:2:"id";s:6:"791294";s:4:"info";s:84:"Seafood - <br />
-                <br />
-                  1831 Commercial Ave, Anson";s:5:"info2";s:7:"Seafood";s:7:"address";s:26:"1831 Commercial Ave, Anson";s:6:"folder";s:7:"Abilene";}

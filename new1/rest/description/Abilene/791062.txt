@@ -1,3 +1,0 @@
-a:7:{s:3:"url";s:67:"http://www.urbanspoon.com/r/77/791062/restaurant/China-King-Abilene";s:4:"name";s:10:"China King";s:2:"id";s:6:"791062";s:4:"info";s:81:"Chinese - <br />
-                <br />
-                  4621 S 14th St, Abilene";s:5:"info2";s:7:"Chinese";s:7:"address";s:23:"4621 S 14th St, Abilene";s:6:"folder";s:7:"Abilene";}

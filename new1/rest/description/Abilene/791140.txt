@@ -1,1 +1,0 @@
-a:6:{s:3:"url";s:82:"http://www.urbanspoon.com/r/77/791140/restaurant/Joyeria-Discoteca-Estrada-Abilene";s:4:"name";s:25:"Joyeria Discoteca Estrada";s:2:"id";s:6:"791140";s:4:"info";s:29:"601 S Treadaway Blvd, Abilene";s:7:"address";s:29:"601 S Treadaway Blvd, Abilene";s:6:"folder";s:7:"Abilene";}

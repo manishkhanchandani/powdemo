@@ -1,3 +1,0 @@
-a:7:{s:3:"url";s:88:"http://www.urbanspoon.com/r/77/791281/restaurant/Wendys-Old-Fashioned-Hamburgers-Abilene";s:4:"name";s:32:"Wendy's Old Fashioned Hamburgers";s:2:"id";s:6:"791281";s:4:"info";s:98:"Burgers and Fast Food - <br />
-                <br />
-                  4374 Southwest Dr, Abilene";s:5:"info2";s:21:"Burgers and Fast Food";s:7:"address";s:26:"4374 Southwest Dr, Abilene";s:6:"folder";s:7:"Abilene";}

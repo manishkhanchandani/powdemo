@@ -1,3 +1,0 @@
-a:7:{s:3:"url";s:73:"http://www.urbanspoon.com/r/77/791013/restaurant/Ann-Thai-Kitchen-Abilene";s:4:"name";s:16:"Ann Thai Kitchen";s:2:"id";s:6:"791013";s:4:"info";s:77:"Thai - <br />
-                <br />
-                  3309 S 1st St, Abilene";s:5:"info2";s:4:"Thai";s:7:"address";s:22:"3309 S 1st St, Abilene";s:6:"folder";s:7:"Abilene";}
