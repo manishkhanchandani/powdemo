@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:70:"http://www.urbanspoon.com/r/77/791109/restaurant/Glorias-Grill-Abilene";s:4:"name";s:14:"Gloria's Grill";s:2:"id";s:6:"791109";s:4:"info";s:24:"228 Chestnut St, Abilene";s:7:"address";s:24:"228 Chestnut St, Abilene";s:6:"folder";s:7:"Abilene";s:3:"lat";s:7:"32.4471";s:3:"lon";s:7:"-99.734";s:9:"neighbour";s:7:"Abilene";}

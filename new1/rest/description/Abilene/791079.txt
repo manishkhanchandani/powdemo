@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:74:"http://www.urbanspoon.com/r/77/791079/restaurant/Cotton-Patch-Cafe-Abilene";s:4:"name";s:17:"Cotton Patch Cafe";s:2:"id";s:6:"791079";s:4:"info";s:24:"3302 S Clack St, Abilene";s:7:"address";s:24:"3302 S Clack St, Abilene";s:6:"folder";s:7:"Abilene";s:3:"lat";s:7:"32.4105";s:3:"lon";s:8:"-99.7729";s:9:"neighbour";s:7:"Abilene";}

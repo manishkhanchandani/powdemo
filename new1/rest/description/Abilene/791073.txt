@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:69:"http://www.urbanspoon.com/r/77/791073/restaurant/Clydes-Place-Abilene";s:4:"name";s:13:"Clyde's Place";s:2:"id";s:6:"791073";s:4:"info";s:28:"840 Us Highway 80 E, Abilene";s:7:"address";s:28:"840 Us Highway 80 E, Abilene";s:6:"folder";s:7:"Abilene";s:3:"lat";s:7:"32.4487";s:3:"lon";s:8:"-99.7101";s:9:"neighbour";s:7:"Abilene";}

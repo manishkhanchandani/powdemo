@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:71:"http://www.urbanspoon.com/r/77/791050/restaurant/Cadles-Kitchen-Abilene";s:4:"name";s:15:"Cadle's Kitchen";s:2:"id";s:6:"791050";s:4:"info";s:21:"2666 Pine St, Abilene";s:7:"address";s:21:"2666 Pine St, Abilene";s:6:"folder";s:7:"Abilene";s:3:"lat";s:6:"32.481";s:3:"lon";s:8:"-99.7313";s:9:"neighbour";s:7:"Abilene";}

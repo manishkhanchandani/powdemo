@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:84:"http://www.urbanspoon.com/r/77/791003/restaurant/Abilene-City-Limits-Bar-GRL-Abilene";s:4:"name";s:33:"Abilene City Limits Bar &amp; GRL";s:2:"id";s:6:"791003";s:4:"info";s:24:"1125 Elmdale Rd, Abilene";s:7:"address";s:24:"1125 Elmdale Rd, Abilene";s:6:"folder";s:7:"Abilene";s:3:"lat";s:9:"32.437715";s:3:"lon";s:10:"-99.639731";s:9:"neighbour";s:7:"Abilene";}

@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:71:"http://www.urbanspoon.com/r/77/791033/restaurant/Blue-Moon-Cafe-Abilene";s:4:"name";s:14:"Blue Moon Cafe";s:2:"id";s:6:"791033";s:4:"info";s:23:"901 Elmwood Dr, Abilene";s:7:"address";s:23:"901 Elmwood Dr, Abilene";s:6:"folder";s:7:"Abilene";s:3:"lat";s:7:"32.4393";s:3:"lon";s:8:"-99.7683";s:9:"neighbour";s:7:"Abilene";}

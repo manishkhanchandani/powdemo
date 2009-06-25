@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:69:"http://www.urbanspoon.com/r/77/791022/restaurant/Beckers-Loft-Abilene";s:4:"name";s:13:"Becker's Loft";s:2:"id";s:6:"791022";s:4:"info";s:20:"244 Pine St, Abilene";s:7:"address";s:20:"244 Pine St, Abilene";s:6:"folder";s:7:"Abilene";s:3:"lat";s:7:"32.4509";s:3:"lon";s:7:"-99.733";s:9:"neighbour";s:7:"Abilene";}

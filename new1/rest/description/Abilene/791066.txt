@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:72:"http://www.urbanspoon.com/r/77/791066/restaurant/Churchs-Chicken-Abilene";s:4:"name";s:16:"Church's Chicken";s:2:"id";s:6:"791066";s:4:"info";s:116:"Southern &amp; Soul, Fast Food and American - <br />
+                <br />
+                  1309 Grape St, Abilene";s:5:"info2";s:43:"Southern &amp; Soul, Fast Food and American";s:7:"address";s:22:"1309 Grape St, Abilene";s:6:"folder";s:7:"Abilene";s:3:"lat";s:7:"32.4645";s:3:"lon";s:8:"-99.7401";s:9:"neighbour";s:7:"Abilene";}

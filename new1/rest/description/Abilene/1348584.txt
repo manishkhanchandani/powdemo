@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:80:"http://www.urbanspoon.com/r/77/1348584/restaurant/Brew-net-Internet-Cafe-Abilene";s:4:"name";s:22:"Brew.net Internet Cafe";s:2:"id";s:7:"1348584";s:4:"info";s:124:"Coffee, Sandwiches/Subs and Desserts/Ice Cream - <br />
+                <br />
+                  1638 State Hwy 351, Abilene";s:5:"info2";s:46:"Coffee, Sandwiches/Subs and Desserts/Ice Cream";s:7:"address";s:27:"1638 State Hwy 351, Abilene";s:6:"folder";s:7:"Abilene";s:3:"lat";s:9:"32.478331";s:3:"lon";s:10:"-99.698019";s:9:"neighbour";s:7:"Abilene";}

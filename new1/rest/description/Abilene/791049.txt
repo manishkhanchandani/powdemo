@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:71:"http://www.urbanspoon.com/r/77/791049/restaurant/Butternut-Cafe-Abilene";s:4:"name";s:14:"Butternut Cafe";s:2:"id";s:6:"791049";s:4:"info";s:25:"401 Butternut St, Abilene";s:7:"address";s:25:"401 Butternut St, Abilene";s:6:"folder";s:7:"Abilene";s:3:"lat";s:7:"32.4455";s:3:"lon";s:8:"-99.7376";s:9:"neighbour";s:7:"Abilene";}
