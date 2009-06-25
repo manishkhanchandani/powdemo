@@ -166,6 +166,7 @@ if ($handle = opendir($dirname)) {
 										} else {
 											echo __LINE__.". items ($item): ";
 										}
+										
 										echo "<br>";
 										$string = @file_get_contents($url);
 										if(!$string) {
