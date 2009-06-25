@@ -11,9 +11,11 @@
 <field name='location'>United States/TX/Abilene</field>
 <field name='phone'>(830) 995-4990</field>
 <field name='zip'>79603</field>
-<field name='linktext'></field>
+<field name='linktext'><![CDATA[]]></field>
 <field name='title'>814 Texas Bistro</field>
 <field name='full_neighborhood'>Abilene, Abilene, TX</field>
 <field name='full_city'>Abilene, TX</field>
+<field name='lat'>32.4565</field>
+<field name='lon'>-99.7502</field>
 </doc>
 </add>

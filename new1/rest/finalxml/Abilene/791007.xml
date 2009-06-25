@@ -11,9 +11,11 @@
 <field name='location'>United States/TX/Abilene</field>
 <field name='phone'>(325) 677-6711</field>
 <field name='zip'>79601</field>
-<field name='linktext'></field>
+<field name='linktext'><![CDATA[]]></field>
 <field name='title'>Alfredo's Jr</field>
 <field name='full_neighborhood'>Abilene, Abilene, TX</field>
 <field name='full_city'>Abilene, TX</field>
+<field name='lat'>32.4675</field>
+<field name='lon'>-99.7315</field>
 </doc>
 </add>

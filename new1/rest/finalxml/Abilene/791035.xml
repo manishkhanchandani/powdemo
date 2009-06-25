@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>791035</field>
+<field name='rid'>United States/TX/Abilene/Abilene</field>
+<field name='state'>TX</field>
+<field name='city'>Abilene</field>
+<field name='address'>4714 S 14th St</field>
+<field name='neighborhood'>Abilene</field>
+<field name='cuisine'>Pizza</field>
+<field name='country'>United States</field>
+<field name='location'>United States/TX/Abilene</field>
+<field name='phone'>(325) 691-5303</field>
+<field name='zip'>79605</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Brick Oven Pizza Co of Abilene</field>
+<field name='full_neighborhood'>Abilene, Abilene, TX</field>
+<field name='full_city'>Abilene, TX</field>
+<field name='lat'>32.4305</field>
+<field name='lon'>-99.7826</field>
+</doc>
+</add>

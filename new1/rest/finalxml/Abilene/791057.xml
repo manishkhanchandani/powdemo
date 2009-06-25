@@ -1,0 +1,20 @@
+<add>
+<doc>
+<field name='id'>791057</field>
+<field name='rid'>United States/TX/Abilene/Abilene</field>
+<field name='state'>TX</field>
+<field name='city'>Abilene</field>
+<field name='address'>1034 N 10TH St</field>
+<field name='neighborhood'>Abilene</field>
+<field name='country'>United States</field>
+<field name='location'>United States/TX/Abilene</field>
+<field name='phone'>(325) 675-5701</field>
+<field name='zip'>79601</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Chicken Express</field>
+<field name='full_neighborhood'>Abilene, Abilene, TX</field>
+<field name='full_city'>Abilene, TX</field>
+<field name='lat'>32.4607</field>
+<field name='lon'>-99.7324</field>
+</doc>
+</add>

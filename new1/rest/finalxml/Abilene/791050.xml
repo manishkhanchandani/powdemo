@@ -1,0 +1,20 @@
+<add>
+<doc>
+<field name='id'>791050</field>
+<field name='rid'>United States/TX/Abilene/Abilene</field>
+<field name='state'>TX</field>
+<field name='city'>Abilene</field>
+<field name='address'>2666 Pine St</field>
+<field name='neighborhood'>Abilene</field>
+<field name='country'>United States</field>
+<field name='location'>United States/TX/Abilene</field>
+<field name='phone'>(325) 673-9378</field>
+<field name='zip'>79601</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Cadle's Kitchen</field>
+<field name='full_neighborhood'>Abilene, Abilene, TX</field>
+<field name='full_city'>Abilene, TX</field>
+<field name='lat'>32.481</field>
+<field name='lon'>-99.7313</field>
+</doc>
+</add>

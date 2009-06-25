@@ -13,9 +13,11 @@
 <field name='location'>United States/TX/Abilene</field>
 <field name='phone'>(325) 673-2739</field>
 <field name='zip'>79601</field>
-<field name='linktext'></field>
+<field name='linktext'><![CDATA[]]></field>
 <field name='title'>Brew.net Internet Cafe</field>
 <field name='full_neighborhood'>Abilene, Abilene, TX</field>
 <field name='full_city'>Abilene, TX</field>
+<field name='lat'>32.478331</field>
+<field name='lon'>-99.698019</field>
 </doc>
 </add>

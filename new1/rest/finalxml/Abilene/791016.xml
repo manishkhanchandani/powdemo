@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>791016</field>
+<field name='rid'>United States/TX/Abilene/Abilene</field>
+<field name='state'>TX</field>
+<field name='city'>Abilene</field>
+<field name='address'>3824 S Clack St</field>
+<field name='neighborhood'>Abilene</field>
+<field name='cuisine'>Fast Food</field>
+<field name='country'>United States</field>
+<field name='location'>United States/TX/Abilene</field>
+<field name='phone'>(325) 695-4491</field>
+<field name='zip'>79606</field>
+<field name='linktext'><![CDATA[www.arbys.com]]></field>
+<field name='title'>Arby's</field>
+<field name='full_neighborhood'>Abilene, Abilene, TX</field>
+<field name='full_city'>Abilene, TX</field>
+<field name='lat'>32.4054</field>
+<field name='lon'>-99.7649</field>
+</doc>
+</add>

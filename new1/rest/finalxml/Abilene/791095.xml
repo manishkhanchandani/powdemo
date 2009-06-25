@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>791095</field>
+<field name='rid'>United States/TX/Abilene/Abilene</field>
+<field name='state'>TX</field>
+<field name='city'>Abilene</field>
+<field name='address'>1403 Butternut St</field>
+<field name='neighborhood'>Abilene</field>
+<field name='cuisine'>Breakfast/Brunch</field>
+<field name='country'>United States</field>
+<field name='location'>United States/TX/Abilene</field>
+<field name='phone'>(325) 673-3292</field>
+<field name='zip'>79602</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Dixie Pig</field>
+<field name='full_neighborhood'>Abilene, Abilene, TX</field>
+<field name='full_city'>Abilene, TX</field>
+<field name='lat'>32.4319</field>
+<field name='lon'>-99.7384</field>
+</doc>
+</add>

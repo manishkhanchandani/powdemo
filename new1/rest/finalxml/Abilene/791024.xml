@@ -1,0 +1,22 @@
+<add>
+<doc>
+<field name='id'>791024</field>
+<field name='rid'>United States/TX/Abilene/Abilene</field>
+<field name='state'>TX</field>
+<field name='city'>Abilene</field>
+<field name='address'>4717 Catclaw Dr</field>
+<field name='neighborhood'>Abilene</field>
+<field name='cuisine'>Coffee</field>
+<field name='cuisine'>Sandwiches/Subs</field>
+<field name='country'>United States</field>
+<field name='location'>United States/TX/Abilene</field>
+<field name='phone'>(325) 669-8850</field>
+<field name='zip'>79606</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Bedford, William - Abilene Deli &amp; Coffee Co</field>
+<field name='full_neighborhood'>Abilene, Abilene, TX</field>
+<field name='full_city'>Abilene, TX</field>
+<field name='lat'>32.3918</field>
+<field name='lon'>-99.775</field>
+</doc>
+</add>

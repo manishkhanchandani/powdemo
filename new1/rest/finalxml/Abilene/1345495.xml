@@ -10,9 +10,11 @@
 <field name='location'>United States/TX/Abilene</field>
 <field name='phone'>(325) 698-1660</field>
 <field name='zip'>79606</field>
-<field name='linktext'>www.chilis.com</field>
+<field name='linktext'><![CDATA[www.chilis.com]]></field>
 <field name='title'>Chili's Grill &amp; Bar</field>
 <field name='full_neighborhood'>Abilene, Abilene, TX</field>
 <field name='full_city'>Abilene, TX</field>
+<field name='lat'>32.401465</field>
+<field name='lon'>-99.759297</field>
 </doc>
 </add>

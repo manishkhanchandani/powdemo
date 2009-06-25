@@ -11,9 +11,11 @@
 <field name='location'>United States/TX/Abilene</field>
 <field name='phone'>(325) 676-5550</field>
 <field name='zip'>79601</field>
-<field name='linktext'>www.arbys.com</field>
+<field name='linktext'><![CDATA[www.arbys.com]]></field>
 <field name='title'>Arby's</field>
 <field name='full_neighborhood'>Abilene, Abilene, TX</field>
 <field name='full_city'>Abilene, TX</field>
+<field name='lat'>32.4599</field>
+<field name='lon'>-99.7048</field>
 </doc>
 </add>

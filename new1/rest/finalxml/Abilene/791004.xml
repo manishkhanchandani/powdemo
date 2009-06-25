@@ -11,9 +11,11 @@
 <field name='location'>United States/TX/Abilene</field>
 <field name='phone'>(915) 692-4776</field>
 <field name='zip'>79605</field>
-<field name='linktext'></field>
+<field name='linktext'><![CDATA[]]></field>
 <field name='title'>Abuelo's Mexican Food Embassy</field>
 <field name='full_neighborhood'>Abilene, Abilene, TX</field>
 <field name='full_city'>Abilene, TX</field>
+<field name='lat'>32.4298</field>
+<field name='lon'>-99.7834</field>
 </doc>
 </add>

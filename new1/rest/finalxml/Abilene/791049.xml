@@ -1,0 +1,20 @@
+<add>
+<doc>
+<field name='id'>791049</field>
+<field name='rid'>United States/TX/Abilene/Abilene</field>
+<field name='state'>TX</field>
+<field name='city'>Abilene</field>
+<field name='address'>401 Butternut St</field>
+<field name='neighborhood'>Abilene</field>
+<field name='country'>United States</field>
+<field name='location'>United States/TX/Abilene</field>
+<field name='phone'>(325) 670-0801</field>
+<field name='zip'>79602</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Butternut Cafe</field>
+<field name='full_neighborhood'>Abilene, Abilene, TX</field>
+<field name='full_city'>Abilene, TX</field>
+<field name='lat'>32.4455</field>
+<field name='lon'>-99.7376</field>
+</doc>
+</add>
