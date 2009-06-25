@@ -250,7 +250,7 @@ class Crawler {
 				$arr['critic-reviews'][$k]['desc'] = trim($matches2[0][2]);
 				if(!$arr['critic-reviews'][$k]['desc']) {
 					$regexp = "<\/span>.*<br\/>(.*)<br\/>";
-					$matches2 = $Crawler->regexp($regexp, $info2);
+					$matches2 = $this->regexp($regexp, $info2);
 					$arr['critic-reviews'][$k]['desc'] = trim($matches2[0][1]);
 				}
 			}
