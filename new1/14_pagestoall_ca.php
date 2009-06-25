@@ -130,7 +130,7 @@ if ($handle = opendir($dirname)) {
 							// start with another script from 10
 							echo "<h3>Another script starting</h3>";
 							$input = file_get_contents('rest/pages/'.$folder."/".$baseNameMain."-".$page.".html");	
-							$input2 = file_get_contents('rest/listing/'.$folder."/".$baseNameMain."-".$page.".html");	
+							$input2 = file_get_contents('rest/listing/'.$folder."/".$baseNameMain."-".$page.".html");
 							$infoMore = $Crawler->listingPage($input2);
 							$info = $Crawler->getHotelListingDetailsLimited($input, $base);
 							if($info) {
