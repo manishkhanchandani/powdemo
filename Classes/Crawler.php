@@ -273,10 +273,12 @@ class Crawler {
 			// insert into reviews
 			if($post['critic-reviews']) {
 				foreach($post['critic-reviews'] as $reviews) {
-					$sql = "INSERT INTO `reviews` (`restaurant_id` , `id` ,`score` ,`rdate` ,`url` ,`desc`) VALUES ('".$ID."', '".addslashes(stripslashes(trim($post['id'])))."' , '".addslashes(stripslashes(trim($reviews['score'])))."' , '".addslashes(stripslashes(trim($reviews['date'])))."' , '".addslashes(stripslashes(trim($reviews['title'])))."' , '".addslashes(stripslashes(trim($reviews['desc'])))."')";
-					echo $sql;
-					echo "<br>";
-					mysql_query($sql) or die(__LINE__." ".mysql_error());
+					if($reviews['score'] || $reviews['desc']) { 
+						$sql = "INSERT INTO `reviews` (`restaurant_id` , `id` ,`score` ,`rdate` ,`url` ,`desc`) VALUES ('".$ID."', '".addslashes(stripslashes(trim($post['id'])))."' , '".addslashes(stripslashes(trim($reviews['score'])))."' , '".addslashes(stripslashes(trim($reviews['date'])))."' , '".addslashes(stripslashes(trim($reviews['title'])))."' , '".addslashes(stripslashes(trim($reviews['desc'])))."')";
+						echo $sql;
+						echo "<br>";
+						mysql_query($sql) or die(__LINE__." ".mysql_error());
+					}
 				}
 			}
 		}
