@@ -52,13 +52,13 @@ if ($handle = opendir($dirname)) {
 						copy("neighboursurl/".$arr[$k]['baseName'].".html", "neighboursurl/".$folder."/".$arr[$k]['baseName'].".html");
 						@unlink("neighboursurl/".$arr[$k]['baseName'].".html");
 					} else {
-						static $item=0; $item++;
-						if($item%3==0) {
-							echo "ITEM ($item): ";
-							$Crawler->changeip();
-						} else {
-							echo "items ($item): ";
-						}
+						//static $item=0; $item++;
+						//if($item%3==0) {
+							//echo "ITEM ($item): ";
+							//$Crawler->changeip();
+						//} else {
+							//echo "items ($item): ";
+						//}
 						echo "<br>";
 						$fs = file_get_contents($arr[$k]['url']);
 						if(!$fs) {
@@ -71,7 +71,7 @@ if ($handle = opendir($dirname)) {
 						echo "<br>";
 						echo '<h1>sleeping for 10 seconds</h1>';
 						echo '<br>';
-						sleep(10);
+						sleep(2);
 					}
 					
 					if(file_exists("neighboursarray/".$folder."/".$arr[$k]['baseName'].".txt")) {

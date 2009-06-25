@@ -153,7 +153,7 @@ if ($handle = opendir($dirname)) {
 									$url = $array['url'];
 									echo $url;
 									echo "<br>";
-									echo $baseName = str_replace(".txt", ".html", basename($file3));
+									echo $baseName = $v['id'].".html";
 									echo "<br>";
 									if(!file_exists('rest/detailpages/'.$folder.'/'.$baseName)) {
 										//echo '<h1>sleeping for 15 secs</h1>';
@@ -177,9 +177,9 @@ if ($handle = opendir($dirname)) {
 										echo 'rest/detailpages/'.$folder.'/'.$baseName.' already exists.<br>';
 									}
 																		$input = file_get_contents('rest/detailpages/'.$folder.'/'.$baseName);	
-									$baseName = str_replace(".html", ".txt", basename($file3));
-									$baseNameXML = str_replace(".html", ".xml", basename($file3));
-									$baseName2 = str_replace(".html", "", basename($file3));
+									$baseName = $v['id'].".txt";
+									$baseNameXML = $v['id'].".xml";
+									$baseName2 = $v['id'];
 									echo "<br>";
 									$array = $Crawler->parseDetails($input);
 									
@@ -191,7 +191,7 @@ if ($handle = opendir($dirname)) {
 									$array['id'] = $baseName2;
 									$array['rid'] = $array['country']."/".$array['province']."/".$array['city']."/".$array['folder'];
 									$array['lat'] = $v['lat'];
-									$array['lon'] = $v['lat'];
+									$array['lon'] = $v['lon'];
 									$array['neighbour'] = $v['neighbour'];
 									$string = serialize($array);
 									print_r($array);
@@ -217,20 +217,19 @@ if ($handle = opendir($dirname)) {
 											echo 'rest/finalxmlreviews/'.$folder.'/'.$baseNameXML.' already exists.<br>';
 										}
 									}
-									exit;
+									sleep(2);
 									flush();
 								}
 							} else {
 								echo 'could not get info. '.__LINE__;
 								exit;
 							}
-							
-								exit;							
+							sleep(2);						
 						}
+						sleep(2);
 						flush();
 						echo "<br>";
 						echo "<br>";
-exit;
 					}
 				}
 			}
