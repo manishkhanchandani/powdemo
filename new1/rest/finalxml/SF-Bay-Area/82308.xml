@@ -1,0 +1,20 @@
+<add>
+<doc>
+<field name='id'>82308</field>
+<field name='rid'>United States/CA/Alameda/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Alameda</field>
+<field name='address'>1750 N Loop Rd</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Alameda</field>
+<field name='phone'>(510) 864-1954</field>
+<field name='zip'>94502</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Chez Vous</field>
+<field name='full_neighborhood'>SF-Bay-Area, Alameda, CA</field>
+<field name='full_city'>Alameda, CA</field>
+<field name='lat'>37.72655</field>
+<field name='lon'>-122.240137</field>
+</doc>
+</add>

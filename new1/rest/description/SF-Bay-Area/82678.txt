@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:86:"http://www.urbanspoon.com/r/6/82678/restaurant/Alameda-SJ/Cold-Stone-Creamery-San-Jose";s:4:"name";s:19:"Cold Stone Creamery";s:2:"id";s:5:"82678";s:4:"info";s:94:"Desserts/Ice Cream - <br />
+                <br />
+                  2031 Camden Ave, San Jose";s:5:"info2";s:18:"Desserts/Ice Cream";s:7:"address";s:25:"2031 Camden Ave, San Jose";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.261939";s:3:"lon";s:11:"-121.932709";s:9:"neighbour";s:12:"Alameda (SJ)";}

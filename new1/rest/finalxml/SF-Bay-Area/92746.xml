@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>92746</field>
+<field name='rid'>United States/CA/Alameda/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Alameda</field>
+<field name='address'>1349 Park St</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Desserts/Ice Cream</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Alameda</field>
+<field name='phone'>(510) 522-4960</field>
+<field name='zip'>94501</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Tucker's Super Creamed Ice Cream</field>
+<field name='full_neighborhood'>SF-Bay-Area, Alameda, CA</field>
+<field name='full_city'>Alameda, CA</field>
+<field name='lat'>37.763725</field>
+<field name='lon'>-122.243457</field>
+</doc>
+</add>

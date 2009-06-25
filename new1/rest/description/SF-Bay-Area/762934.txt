@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:69:"http://www.urbanspoon.com/r/6/762934/restaurant/Everett-Jones-Alameda";s:4:"name";s:19:"Everett &amp; Jones";s:2:"id";s:6:"762934";s:4:"info";s:21:"1930 Main St, Alameda";s:7:"address";s:21:"1930 Main St, Alameda";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.781793";s:3:"lon";s:11:"-122.291156";s:9:"neighbour";s:7:"Alameda";}

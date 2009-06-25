@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>80988</field>
+<field name='rid'>United States/CA/San Jose/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>San Jose</field>
+<field name='address'>4630 Meridian Ave</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Coffee</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/San Jose</field>
+<field name='phone'>(408) 448-6982</field>
+<field name='zip'>95124</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Best Donuts &amp; Coffee</field>
+<field name='full_neighborhood'>SF-Bay-Area, San Jose, CA</field>
+<field name='full_city'>San Jose, CA</field>
+<field name='lat'>37.255826</field>
+<field name='lon'>-121.898448</field>
+</doc>
+</add>

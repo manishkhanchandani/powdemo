@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>92215</field>
+<field name='rid'>United States/CA/San Jose/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>San Jose</field>
+<field name='address'>1659 Branham Ln</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Chinese</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/San Jose</field>
+<field name='phone'>(408) 448-3748</field>
+<field name='zip'>95118</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Taste of China</field>
+<field name='full_neighborhood'>SF-Bay-Area, San Jose, CA</field>
+<field name='full_city'>San Jose, CA</field>
+<field name='lat'>37.25219</field>
+<field name='lon'>-121.907115</field>
+</doc>
+</add>

@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>88935</field>
+<field name='rid'>United States/CA/Alameda/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Alameda</field>
+<field name='address'>1365 Park St</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Coffee</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Alameda</field>
+<field name='phone'>(510) 473-0136</field>
+<field name='zip'>94501</field>
+<field name='linktext'><![CDATA[www.peets.com]]></field>
+<field name='title'>Peet's Coffee &amp; Tea</field>
+<field name='full_neighborhood'>SF-Bay-Area, Alameda, CA</field>
+<field name='full_city'>Alameda, CA</field>
+<field name='lat'>37.763861</field>
+<field name='lon'>-122.243354</field>
+</doc>
+</add>

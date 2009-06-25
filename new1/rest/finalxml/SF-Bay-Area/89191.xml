@@ -1,0 +1,20 @@
+<add>
+<doc>
+<field name='id'>89191</field>
+<field name='rid'>United States/CA/Alameda/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Alameda</field>
+<field name='address'>1150 Ballena Blvd</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Alameda</field>
+<field name='phone'>(510) 865-5088</field>
+<field name='zip'>94501</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Pier 29 Restaurant in Alameda</field>
+<field name='full_neighborhood'>SF-Bay-Area, Alameda, CA</field>
+<field name='full_city'>Alameda, CA</field>
+<field name='lat'>37.766942</field>
+<field name='lon'>-122.288123</field>
+</doc>
+</add>

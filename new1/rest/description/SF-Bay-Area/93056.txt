@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:70:"http://www.urbanspoon.com/r/6/93056/restaurant/Wallstreet-Cafe-Alameda";s:4:"name";s:15:"Wallstreet Cafe";s:2:"id";s:5:"93056";s:4:"info";s:29:"1411 Harbor Bay Pkwy, Alameda";s:7:"address";s:29:"1411 Harbor Bay Pkwy, Alameda";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.725812";s:3:"lon";s:11:"-122.236688";s:9:"neighbour";s:7:"Alameda";}

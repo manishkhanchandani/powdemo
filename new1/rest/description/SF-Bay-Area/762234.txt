@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:73:"http://www.urbanspoon.com/r/6/762234/restaurant/Havana-Restaurant-Alameda";s:4:"name";s:17:"Havana Restaurant";s:2:"id";s:6:"762234";s:4:"info";s:103:"Caribbean, Cuban and California - <br />
+                <br />
+                  1518 Park St, Alameda";s:5:"info2";s:31:"Caribbean, Cuban and California";s:7:"address";s:21:"1518 Park St, Alameda";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.765607";s:3:"lon";s:11:"-122.241436";s:9:"neighbour";s:7:"Alameda";}

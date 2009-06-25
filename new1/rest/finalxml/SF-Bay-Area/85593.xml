@@ -1,0 +1,22 @@
+<add>
+<doc>
+<field name='id'>85593</field>
+<field name='rid'>United States/CA/Alameda/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Alameda</field>
+<field name='address'>2333 Lincoln Ave</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Coffee</field>
+<field name='cuisine'>Diner</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Alameda</field>
+<field name='phone'>(510) 523-5368</field>
+<field name='zip'>94501</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Jim's Coffee Shop</field>
+<field name='full_neighborhood'>SF-Bay-Area, Alameda, CA</field>
+<field name='full_city'>Alameda, CA</field>
+<field name='lat'>37.766868</field>
+<field name='lon'>-122.241224</field>
+</doc>
+</add>

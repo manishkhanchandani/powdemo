@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:62:"http://www.urbanspoon.com/r/6/86111/restaurant/Kobe-Ya-Alameda";s:4:"name";s:7:"Kobe-Ya";s:2:"id";s:5:"86111";s:4:"info";s:25:"2300 Encinal Ave, Alameda";s:7:"address";s:25:"2300 Encinal Ave, Alameda";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.762816";s:3:"lon";s:11:"-122.245222";s:9:"neighbour";s:7:"Alameda";}

@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>93583</field>
+<field name='rid'>United States/CA/Alameda/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Alameda</field>
+<field name='address'>1363 Park St</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Smoothies</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Alameda</field>
+<field name='phone'>(510) 814-0850</field>
+<field name='zip'>94501</field>
+<field name='linktext'><![CDATA[newrobeks.com]]></field>
+<field name='title'>Robeks Smoothies and Healthy Eats</field>
+<field name='full_neighborhood'>SF-Bay-Area, Alameda, CA</field>
+<field name='full_city'>Alameda, CA</field>
+<field name='lat'>37.763844</field>
+<field name='lon'>-122.243367</field>
+</doc>
+</add>

@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:79:"http://www.urbanspoon.com/r/6/88054/restaurant/Nations-Giant-Hamburgers-Alameda";s:4:"name";s:25:"Nation's Giant Hamburgers";s:2:"id";s:5:"88054";s:4:"info";s:105:"Hot Dogs, Burgers and American - <br />
+                <br />
+                  1432 Webster St, Alameda";s:5:"info2";s:30:"Hot Dogs, Burgers and American";s:7:"address";s:24:"1432 Webster St, Alameda";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.772572";s:3:"lon";s:11:"-122.276625";s:9:"neighbour";s:7:"Alameda";}

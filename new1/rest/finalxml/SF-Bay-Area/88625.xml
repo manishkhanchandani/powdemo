@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>88625</field>
+<field name='rid'>United States/CA/San Jose/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>San Jose</field>
+<field name='address'>1683 Branham Ln</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Coffee</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/San Jose</field>
+<field name='phone'>(408) 978-9040</field>
+<field name='zip'>95118</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Pacifico Primo Coffee Trading</field>
+<field name='full_neighborhood'>SF-Bay-Area, San Jose, CA</field>
+<field name='full_city'>San Jose, CA</field>
+<field name='lat'>37.252168</field>
+<field name='lon'>-121.907202</field>
+</doc>
+</add>

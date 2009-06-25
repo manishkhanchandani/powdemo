@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>83242</field>
+<field name='rid'>United States/CA/San Jose/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>San Jose</field>
+<field name='address'>1705 Branham Ln</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Donuts</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/San Jose</field>
+<field name='phone'>(408) 269-1650</field>
+<field name='zip'>95118</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Donut Basket</field>
+<field name='full_neighborhood'>SF-Bay-Area, San Jose, CA</field>
+<field name='full_city'>San Jose, CA</field>
+<field name='lat'>37.251734</field>
+<field name='lon'>-121.908772</field>
+</doc>
+</add>

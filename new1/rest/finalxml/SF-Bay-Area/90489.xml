@@ -1,0 +1,23 @@
+<add>
+<doc>
+<field name='id'>90489</field>
+<field name='rid'>United States/CA/Alameda/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Alameda</field>
+<field name='address'>1650 Park St</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Sandwiches/Subs</field>
+<field name='cuisine'>American</field>
+<field name='cuisine'>Vegetarian</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Alameda</field>
+<field name='phone'>(510) 864-1044</field>
+<field name='zip'>94501</field>
+<field name='linktext'><![CDATA[www.culinamarketplace.com/index.html]]></field>
+<field name='title'>Culina</field>
+<field name='full_neighborhood'>SF-Bay-Area, Alameda, CA</field>
+<field name='full_city'>Alameda, CA</field>
+<field name='lat'>37.767523</field>
+<field name='lon'>-122.239792</field>
+</doc>
+</add>

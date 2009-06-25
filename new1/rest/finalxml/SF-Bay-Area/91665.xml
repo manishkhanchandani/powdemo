@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>91665</field>
+<field name='rid'>United States/CA/Alameda/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Alameda</field>
+<field name='address'>1650 Park St</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Sushi</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Alameda</field>
+<field name='phone'>(510) 523-9888</field>
+<field name='zip'>94501</field>
+<field name='linktext'><![CDATA[www.sushikingmd.com]]></field>
+<field name='title'>Sushi King</field>
+<field name='full_neighborhood'>SF-Bay-Area, Alameda, CA</field>
+<field name='full_city'>Alameda, CA</field>
+<field name='lat'>37.767523</field>
+<field name='lon'>-122.239792</field>
+</doc>
+</add>

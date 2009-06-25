@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>85220</field>
+<field name='rid'>United States/CA/Alameda/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Alameda</field>
+<field name='address'>737 Buena Vista Ave</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Indian</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Alameda</field>
+<field name='phone'>(510) 814-8778</field>
+<field name='zip'>94501</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>India Palace</field>
+<field name='full_neighborhood'>SF-Bay-Area, Alameda, CA</field>
+<field name='full_city'>Alameda, CA</field>
+<field name='lat'>37.777337</field>
+<field name='lon'>-122.274889</field>
+</doc>
+</add>

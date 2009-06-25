@@ -1,0 +1,22 @@
+<add>
+<doc>
+<field name='id'>91656</field>
+<field name='rid'>United States/CA/Alameda/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Alameda</field>
+<field name='address'>2375 Shoreline Dr</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Japanese</field>
+<field name='cuisine'>Sushi</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Alameda</field>
+<field name='phone'>(510) 865-0999</field>
+<field name='zip'>94501</field>
+<field name='linktext'><![CDATA[www.sushihouseint.com]]></field>
+<field name='title'>Sushi House</field>
+<field name='full_neighborhood'>SF-Bay-Area, Alameda, CA</field>
+<field name='full_city'>Alameda, CA</field>
+<field name='lat'>37.753979</field>
+<field name='lon'>-122.248938</field>
+</doc>
+</add>

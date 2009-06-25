@@ -1,0 +1,22 @@
+<add>
+<doc>
+<field name='id'>84775</field>
+<field name='rid'>United States/CA/San Jose/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>San Jose</field>
+<field name='address'>14392 Union Ave</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Coffee</field>
+<field name='cuisine'>Diner</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/San Jose</field>
+<field name='phone'>(408) 369-9078</field>
+<field name='zip'>95124</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Heartbeat Cafe</field>
+<field name='full_neighborhood'>SF-Bay-Area, San Jose, CA</field>
+<field name='full_city'>San Jose, CA</field>
+<field name='lat'>37.259577</field>
+<field name='lon'>-121.931153</field>
+</doc>
+</add>

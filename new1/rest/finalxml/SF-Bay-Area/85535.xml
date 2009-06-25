@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>85535</field>
+<field name='rid'>United States/CA/Alameda/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Alameda</field>
+<field name='address'>1333 Park St</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Coffee</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Alameda</field>
+<field name='phone'>(510) 523-2116</field>
+<field name='zip'>94501</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Java Rama Coffee House</field>
+<field name='full_neighborhood'>SF-Bay-Area, Alameda, CA</field>
+<field name='full_city'>Alameda, CA</field>
+<field name='lat'>37.763588</field>
+<field name='lon'>-122.24356</field>
+</doc>
+</add>

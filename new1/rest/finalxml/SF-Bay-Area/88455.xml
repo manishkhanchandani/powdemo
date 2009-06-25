@@ -1,0 +1,23 @@
+<add>
+<doc>
+<field name='id'>88455</field>
+<field name='rid'>United States/CA/Alameda/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Alameda</field>
+<field name='address'>1507 Park St</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>American</field>
+<field name='cuisine'>Breakfast/Brunch</field>
+<field name='cuisine'>Coffee</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Alameda</field>
+<field name='phone'>(510) 522-8108</field>
+<field name='zip'>94501</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Ole's Waffle Shop</field>
+<field name='full_neighborhood'>SF-Bay-Area, Alameda, CA</field>
+<field name='full_city'>Alameda, CA</field>
+<field name='lat'>37.765594</field>
+<field name='lon'>-122.241862</field>
+</doc>
+</add>

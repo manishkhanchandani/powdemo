@@ -1,0 +1,23 @@
+<add>
+<doc>
+<field name='id'>91338</field>
+<field name='rid'>United States/CA/Alameda/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Alameda</field>
+<field name='address'>1407 Park St</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Sandwiches/Subs</field>
+<field name='cuisine'>Fast Food</field>
+<field name='cuisine'>Soups</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Alameda</field>
+<field name='phone'>(510) 864-7827</field>
+<field name='zip'>94501</field>
+<field name='linktext'><![CDATA[www.subway.com]]></field>
+<field name='title'>Subway</field>
+<field name='full_neighborhood'>SF-Bay-Area, Alameda, CA</field>
+<field name='full_city'>Alameda, CA</field>
+<field name='lat'>37.764517</field>
+<field name='lon'>-122.242803</field>
+</doc>
+</add>

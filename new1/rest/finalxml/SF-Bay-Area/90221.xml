@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>90221</field>
+<field name='rid'>United States/CA/San Jose/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>San Jose</field>
+<field name='address'>4628 Meridian Ave</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Middle Eastern</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/San Jose</field>
+<field name='phone'>(408) 267-1288</field>
+<field name='zip'>95124</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Sahand</field>
+<field name='full_neighborhood'>SF-Bay-Area, San Jose, CA</field>
+<field name='full_city'>San Jose, CA</field>
+<field name='lat'>37.255839</field>
+<field name='lon'>-121.898459</field>
+</doc>
+</add>

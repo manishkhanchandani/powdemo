@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>82625</field>
+<field name='rid'>United States/CA/Alameda/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Alameda</field>
+<field name='address'>883 Island Dr</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Coffee</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Alameda</field>
+<field name='phone'>(510) 769-7222</field>
+<field name='zip'>94502</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Coffee &amp; Tea Traders</field>
+<field name='full_neighborhood'>SF-Bay-Area, Alameda, CA</field>
+<field name='full_city'>Alameda, CA</field>
+<field name='lat'>37.737378</field>
+<field name='lon'>-122.239001</field>
+</doc>
+</add>
