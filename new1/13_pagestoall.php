@@ -64,13 +64,13 @@ if ($handle = opendir($dirname)) {
 						echo $file3 = $dirname2."/".$file2;
 						echo "<br>";
 						$input = file_get_contents($file3);
-						echo $baseName = str_replace(".html","",basename($file3));
+						echo $baseNameMain = str_replace(".html","",basename($file3));
 						echo "<br>";
-						$txtfile = $baseName.".txt";
-						$input2 = file_get_contents("neighboursarray/".$folder."/".$txtfile);
+						$txtfileMain = $baseNameMain.".txt";
+						$input2 = file_get_contents("neighboursarray/".$folder."/".$txtfileMain);
 						$array = unserialize($input2);
 
-						$urlToTake = $array['url'];
+						$urlToTakeMain = $array['url'];
 						$regexp = "<span class=\"muted\">\(Showing 1\-50 of (.*)\)<\/span>";
 						$matches = $Crawler->regexp($regexp, $input);
 						if($matches) {
@@ -93,11 +93,11 @@ if ($handle = opendir($dirname)) {
 						$totalPages = ceil($total/$max)-1;	
 						for($i=$page; $i<=$totalPages; $i++) {
 							$page = $i;
-							$pgUrl = $urlToTake."?page=".$page;
+							$pgUrl = $urlToTakeMain."?page=".$page;
 							echo $pgUrl."<br>";				
 							flush();
 							if($page>0) {
-								if(!file_exists('rest/listing/'.$folder."/".$baseName."-".$page.".html")) {
+								if(!file_exists('rest/listing/'.$folder."/".$baseNameMain."-".$page.".html")) {
 									//echo '<h1>sleeping for 15 secs</h1>';
 									//sleep(15);
 									//static $item=0; $item++;
@@ -113,23 +113,23 @@ if ($handle = opendir($dirname)) {
 									if(!$input3) {
 										echo 'cannot get file '.$pgUrl.' <br>';exit;
 									}
-									file_put_contents('rest/listing/'.$folder."/".$baseName."-".$page.".html", $input3);
+									file_put_contents('rest/listing/'.$folder."/".$baseNameMain."-".$page.".html", $input3);
 								}					
 								$input4 = $Crawler->getHotelListingHTML($input3);
 							} else {
-								if(!file_exists('rest/listing/'.$folder."/".$baseName."-".$page.".html")) {
-									file_put_contents('rest/listing/'.$folder."/".$baseName."-".$page.".html", $input);
+								if(!file_exists('rest/listing/'.$folder."/".$baseNameMain."-".$page.".html")) {
+									file_put_contents('rest/listing/'.$folder."/".$baseNameMain."-".$page.".html", $input);
 								}
 								$input4 = $Crawler->getHotelListingHTML($input);				
 							}
-							if(!file_exists('rest/pages/'.$folder."/".$baseName."-".$page.".html")) {
-								file_put_contents('rest/pages/'.$folder."/".$baseName."-".$page.".html", $input4);
+							if(!file_exists('rest/pages/'.$folder."/".$baseNameMain."-".$page.".html")) {
+								file_put_contents('rest/pages/'.$folder."/".$baseNameMain."-".$page.".html", $input4);
 							}
 							
 							// start with another script from 10
 							echo "<h3>Another script starting</h3>";
-							$input = file_get_contents('rest/pages/'.$folder."/".$baseName."-".$page.".html");	
-							$input2 = file_get_contents('rest/listing/'.$folder."/".$baseName."-".$page.".html");	
+							$input = file_get_contents('rest/pages/'.$folder."/".$baseNameMain."-".$page.".html");	
+							$input2 = file_get_contents('rest/listing/'.$folder."/".$baseNameMain."-".$page.".html");	
 							$infoMore = $Crawler->listingPage($input2);
 							$info = $Crawler->getHotelListingDetailsLimited($input, $base);
 							if($info) {
