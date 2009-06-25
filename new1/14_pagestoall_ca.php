@@ -13,6 +13,7 @@ if ($handle = opendir($dirname)) {
 		if($filetype == "dir" && !($file == "." || $file == ".svn" || $file == "..")) {
 			$dirname2 = $dirname."/".$file;
 			$folder = $file;
+			if($folder!="SF-Bay-Area") continue;
 			echo $folder;
 			echo "<br>";
 			if(!is_dir('rest/listing/'.$folder)) {
