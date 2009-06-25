@@ -302,10 +302,12 @@ $xml['data'] .= "<field name='country'>".$post['country']."</field>
 <field name='location'>".$post['country']."/".$post['province']."/".$post['city']."</field>
 <field name='phone'>".$post['phone']."</field>
 <field name='zip'>".$post['zip']."</field>
-<field name='linktext'>".$post['linktext']."</field>
+<field name='linktext'><![CDATA[".$post['linktext']."]]></field>
 <field name='title'>".$post['title']."</field>
 <field name='full_neighborhood'>".$post['folder'].", ".$post['city'].", ".$post['province']."</field>
 <field name='full_city'>".$post['city'].", ".$post['province']."</field>
+<field name='lat'>".$post['lat']."</field>
+<field name='lon'>".$post['lon']."</field>
 ";
 $xml['data'] .="</doc>
 </add>";
