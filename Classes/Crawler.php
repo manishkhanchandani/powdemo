@@ -336,7 +336,8 @@ $xml['criticreviews'] .="</doc>
 				$neighbour = $match[1];
 			}
 		}
-		$regexp = "cM\(([0-9\.\-]*), ([0-9\.\-]*), icon, '<strong><a href=\\\\\"\/r\/77\/(.*)\/restaurant\/(.*)\\\\\">(.*)<\/a><\/strong><br\/>(.*)'\);";
+		//cM(37.782737, -122.273581, icon, '<strong><a href=\"/r/6/80027/restaurant/360-Degrees-Gourmet-Burritos-Alameda\">
+		$regexp = "cM\(([0-9\.\-]*), ([0-9\.\-]*), icon, '<strong><a href=\\\\\"\/r\/[0-9]*\/(.*)\/restaurant\/(.*)\\\\\">(.*)<\/a><\/strong><br\/>(.*)'\);";
 		$matches = $this->regexp($regexp, $input2);
 		if($matches) {
 			foreach($matches as $match) {
