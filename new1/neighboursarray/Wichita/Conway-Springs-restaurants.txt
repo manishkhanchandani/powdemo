@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:72:"http://www.urbanspoon.com/n/329/39209/Wichita/Conway-Springs-restaurants";s:8:"baseName";s:26:"Conway-Springs-restaurants";s:5:"title";s:14:"Conway Springs";s:5:"count";s:1:"3";}

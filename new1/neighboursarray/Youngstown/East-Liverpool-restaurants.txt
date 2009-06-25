@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:75:"http://www.urbanspoon.com/n/334/39711/Youngstown/East-Liverpool-restaurants";s:8:"baseName";s:26:"East-Liverpool-restaurants";s:5:"title";s:14:"East Liverpool";s:5:"count";s:2:"70";}

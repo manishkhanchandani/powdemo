@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:60:"http://www.urbanspoon.com/n/7/38800/DC/Annapolis-restaurants";s:8:"baseName";s:21:"Annapolis-restaurants";s:5:"title";s:9:"Annapolis";s:5:"count";s:3:"301";}

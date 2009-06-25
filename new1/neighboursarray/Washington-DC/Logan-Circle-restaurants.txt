@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:61:"http://www.urbanspoon.com/n/7/633/DC/Logan-Circle-restaurants";s:8:"baseName";s:24:"Logan-Circle-restaurants";s:5:"title";s:12:"Logan Circle";s:5:"count";s:2:"36";}

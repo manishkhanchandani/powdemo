@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:74:"http://www.urbanspoon.com/n/326/38910/Waterloo/Elk-Run-Heights-restaurants";s:8:"baseName";s:27:"Elk-Run-Heights-restaurants";s:5:"title";s:15:"Elk Run Heights";s:5:"count";s:1:"9";}

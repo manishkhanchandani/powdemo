@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:72:"http://www.urbanspoon.com/n/313/37443/Utica/Washington-Mills-restaurants";s:8:"baseName";s:28:"Washington-Mills-restaurants";s:5:"title";s:16:"Washington Mills";s:5:"count";s:1:"3";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:62:"http://www.urbanspoon.com/n/7/2873/DC/Adams-Morgan-restaurants";s:8:"baseName";s:24:"Adams-Morgan-restaurants";s:5:"title";s:12:"Adams Morgan";s:5:"count";s:3:"118";}

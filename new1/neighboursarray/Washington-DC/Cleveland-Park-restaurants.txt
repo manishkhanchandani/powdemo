@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:63:"http://www.urbanspoon.com/n/7/613/DC/Cleveland-Park-restaurants";s:8:"baseName";s:26:"Cleveland-Park-restaurants";s:5:"title";s:14:"Cleveland Park";s:5:"count";s:2:"50";}

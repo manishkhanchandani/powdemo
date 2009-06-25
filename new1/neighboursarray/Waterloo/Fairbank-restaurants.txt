@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/326/38912/Waterloo/Fairbank-restaurants";s:8:"baseName";s:20:"Fairbank-restaurants";s:5:"title";s:8:"Fairbank";s:5:"count";s:1:"3";}

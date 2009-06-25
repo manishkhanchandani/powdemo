@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:77:"http://www.urbanspoon.com/n/327/39006/Westchester-County/Buchanan-restaurants";s:8:"baseName";s:20:"Buchanan-restaurants";s:5:"title";s:8:"Buchanan";s:5:"count";s:1:"7";}

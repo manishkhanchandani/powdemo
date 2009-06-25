@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:61:"http://www.urbanspoon.com/n/325/38716/Waco/Riesel-restaurants";s:8:"baseName";s:18:"Riesel-restaurants";s:5:"title";s:6:"Riesel";s:5:"count";s:1:"5";}

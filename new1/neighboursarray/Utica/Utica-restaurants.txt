@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:55:"http://www.urbanspoon.com/n/313/37440/Utica-restaurants";s:8:"baseName";s:17:"Utica-restaurants";s:5:"title";s:5:"Utica";s:5:"count";s:3:"220";}

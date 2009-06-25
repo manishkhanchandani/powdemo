@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/330/39306/Wilmington/New-Castle-restaurants";s:8:"baseName";s:22:"New-Castle-restaurants";s:5:"title";s:10:"New Castle";s:5:"count";s:3:"117";}

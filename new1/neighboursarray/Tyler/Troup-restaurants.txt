@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:61:"http://www.urbanspoon.com/n/311/37215/Tyler/Troup-restaurants";s:8:"baseName";s:17:"Troup-restaurants";s:5:"title";s:5:"Troup";s:5:"count";s:1:"8";}

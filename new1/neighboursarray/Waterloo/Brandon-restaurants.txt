@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:66:"http://www.urbanspoon.com/n/326/38902/Waterloo/Brandon-restaurants";s:8:"baseName";s:19:"Brandon-restaurants";s:5:"title";s:7:"Brandon";s:5:"count";s:1:"2";}

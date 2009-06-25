@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:64:"http://www.urbanspoon.com/n/14/1305/Vancouver/Dunbar-restaurants";s:8:"baseName";s:18:"Dunbar-restaurants";s:5:"title";s:6:"Dunbar";s:5:"count";s:2:"24";}

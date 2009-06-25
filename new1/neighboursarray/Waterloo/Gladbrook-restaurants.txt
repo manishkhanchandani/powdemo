@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/326/38914/Waterloo/Gladbrook-restaurants";s:8:"baseName";s:21:"Gladbrook-restaurants";s:5:"title";s:9:"Gladbrook";s:5:"count";s:1:"2";}

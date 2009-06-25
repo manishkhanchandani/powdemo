@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/334/39708/Youngstown/Columbiana-restaurants";s:8:"baseName";s:22:"Columbiana-restaurants";s:5:"title";s:10:"Columbiana";s:5:"count";s:2:"22";}

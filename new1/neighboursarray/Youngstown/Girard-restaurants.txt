@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/334/39713/Youngstown/Girard-restaurants";s:8:"baseName";s:18:"Girard-restaurants";s:5:"title";s:6:"Girard";s:5:"count";s:2:"36";}

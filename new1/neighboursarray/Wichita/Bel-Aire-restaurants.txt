@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:66:"http://www.urbanspoon.com/n/329/39203/Wichita/Bel-Aire-restaurants";s:8:"baseName";s:20:"Bel-Aire-restaurants";s:5:"title";s:8:"Bel Aire";s:5:"count";s:1:"2";}

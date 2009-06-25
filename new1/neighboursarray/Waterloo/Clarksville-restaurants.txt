@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/326/38904/Waterloo/Clarksville-restaurants";s:8:"baseName";s:23:"Clarksville-restaurants";s:5:"title";s:11:"Clarksville";s:5:"count";s:1:"4";}

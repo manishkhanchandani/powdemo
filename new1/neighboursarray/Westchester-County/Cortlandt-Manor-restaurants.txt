@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:84:"http://www.urbanspoon.com/n/327/39008/Westchester-County/Cortlandt-Manor-restaurants";s:8:"baseName";s:27:"Cortlandt-Manor-restaurants";s:5:"title";s:15:"Cortlandt Manor";s:5:"count";s:2:"32";}

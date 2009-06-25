@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:63:"http://www.urbanspoon.com/n/328/39108/Wichita-Falls-restaurants";s:8:"baseName";s:25:"Wichita-Falls-restaurants";s:5:"title";s:13:"Wichita Falls";s:5:"count";s:3:"266";}

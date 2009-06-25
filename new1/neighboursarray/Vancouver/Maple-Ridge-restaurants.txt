@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/14/37803/Vancouver/Maple-Ridge-restaurants";s:8:"baseName";s:23:"Maple-Ridge-restaurants";s:5:"title";s:11:"Maple Ridge";s:5:"count";s:2:"53";}

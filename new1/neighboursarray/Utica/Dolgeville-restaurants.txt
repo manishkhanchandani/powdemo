@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:66:"http://www.urbanspoon.com/n/313/37407/Utica/Dolgeville-restaurants";s:8:"baseName";s:22:"Dolgeville-restaurants";s:5:"title";s:10:"Dolgeville";s:5:"count";s:2:"10";}

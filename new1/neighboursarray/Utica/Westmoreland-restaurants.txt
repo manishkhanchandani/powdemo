@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/313/37447/Utica/Westmoreland-restaurants";s:8:"baseName";s:24:"Westmoreland-restaurants";s:5:"title";s:12:"Westmoreland";s:5:"count";s:1:"8";}

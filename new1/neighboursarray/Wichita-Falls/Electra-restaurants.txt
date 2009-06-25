@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/328/39102/Wichita-Falls/Electra-restaurants";s:8:"baseName";s:19:"Electra-restaurants";s:5:"title";s:7:"Electra";s:5:"count";s:1:"3";}

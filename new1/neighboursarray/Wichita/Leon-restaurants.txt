@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:62:"http://www.urbanspoon.com/n/329/39218/Wichita/Leon-restaurants";s:8:"baseName";s:16:"Leon-restaurants";s:5:"title";s:4:"Leon";s:5:"count";s:1:"2";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:66:"http://www.urbanspoon.com/n/333/39608/Yakima/Union-Gap-restaurants";s:8:"baseName";s:21:"Union-Gap-restaurants";s:5:"title";s:9:"Union Gap";s:5:"count";s:2:"35";}

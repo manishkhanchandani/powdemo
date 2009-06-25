@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/326/38928/Waterloo/Shell-Rock-restaurants";s:8:"baseName";s:22:"Shell-Rock-restaurants";s:5:"title";s:10:"Shell Rock";s:5:"count";s:1:"3";}

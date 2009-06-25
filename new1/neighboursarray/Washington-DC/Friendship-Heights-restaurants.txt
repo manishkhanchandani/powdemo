@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/7/625/DC/Friendship-Heights-restaurants";s:8:"baseName";s:30:"Friendship-Heights-restaurants";s:5:"title";s:18:"Friendship Heights";s:5:"count";s:2:"16";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:77:"http://www.urbanspoon.com/n/327/39029/Westchester-County/Ossining-restaurants";s:8:"baseName";s:20:"Ossining-restaurants";s:5:"title";s:8:"Ossining";s:5:"count";s:2:"58";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:62:"http://www.urbanspoon.com/n/313/37431/Utica/Remsen-restaurants";s:8:"baseName";s:18:"Remsen-restaurants";s:5:"title";s:6:"Remsen";s:5:"count";s:1:"9";}

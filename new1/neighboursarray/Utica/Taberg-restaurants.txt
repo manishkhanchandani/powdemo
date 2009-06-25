@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:62:"http://www.urbanspoon.com/n/313/37439/Utica/Taberg-restaurants";s:8:"baseName";s:18:"Taberg-restaurants";s:5:"title";s:6:"Taberg";s:5:"count";s:1:"3";}

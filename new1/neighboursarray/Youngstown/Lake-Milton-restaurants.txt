@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:72:"http://www.urbanspoon.com/n/334/39716/Youngstown/Lake-Milton-restaurants";s:8:"baseName";s:23:"Lake-Milton-restaurants";s:5:"title";s:11:"Lake Milton";s:5:"count";s:1:"9";}

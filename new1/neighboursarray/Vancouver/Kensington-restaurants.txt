@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/14/1310/Vancouver/Kensington-restaurants";s:8:"baseName";s:22:"Kensington-restaurants";s:5:"title";s:10:"Kensington";s:5:"count";s:2:"87";}

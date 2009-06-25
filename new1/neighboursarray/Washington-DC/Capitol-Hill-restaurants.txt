@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:61:"http://www.urbanspoon.com/n/7/609/DC/Capitol-Hill-restaurants";s:8:"baseName";s:24:"Capitol-Hill-restaurants";s:5:"title";s:12:"Capitol Hill";s:5:"count";s:3:"345";}

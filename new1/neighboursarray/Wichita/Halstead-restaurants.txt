@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:66:"http://www.urbanspoon.com/n/329/39215/Wichita/Halstead-restaurants";s:8:"baseName";s:20:"Halstead-restaurants";s:5:"title";s:8:"Halstead";s:5:"count";s:1:"9";}

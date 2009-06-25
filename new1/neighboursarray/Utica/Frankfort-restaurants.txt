@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:65:"http://www.urbanspoon.com/n/313/37412/Utica/Frankfort-restaurants";s:8:"baseName";s:21:"Frankfort-restaurants";s:5:"title";s:9:"Frankfort";s:5:"count";s:2:"18";}

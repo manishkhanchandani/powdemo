@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:55:"http://www.urbanspoon.com/n/7/632/DC/Laurel-restaurants";s:8:"baseName";s:18:"Laurel-restaurants";s:5:"title";s:6:"Laurel";s:5:"count";s:2:"58";}

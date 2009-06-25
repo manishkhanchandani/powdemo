@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:64:"http://www.urbanspoon.com/n/313/37410/Utica/Edmeston-restaurants";s:8:"baseName";s:20:"Edmeston-restaurants";s:5:"title";s:8:"Edmeston";s:5:"count";s:1:"2";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:60:"http://www.urbanspoon.com/n/330/39311/Wilmington-restaurants";s:8:"baseName";s:22:"Wilmington-restaurants";s:5:"title";s:10:"Wilmington";s:5:"count";s:3:"662";}

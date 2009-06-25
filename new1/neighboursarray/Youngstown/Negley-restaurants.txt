@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/334/39724/Youngstown/Negley-restaurants";s:8:"baseName";s:18:"Negley-restaurants";s:5:"title";s:6:"Negley";s:5:"count";s:1:"3";}

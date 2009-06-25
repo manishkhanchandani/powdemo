@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:66:"http://www.urbanspoon.com/n/334/39729/Youngstown/Niles-restaurants";s:8:"baseName";s:17:"Niles-restaurants";s:5:"title";s:5:"Niles";s:5:"count";s:2:"84";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:62:"http://www.urbanspoon.com/n/7/1327/DC/Van-Ness-UDC-restaurants";s:8:"baseName";s:24:"Van-Ness-UDC-restaurants";s:5:"title";s:14:"Van Ness - UDC";s:5:"count";s:2:"21";}

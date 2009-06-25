@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/330/39301/Wilmington/Claymont-restaurants";s:8:"baseName";s:20:"Claymont-restaurants";s:5:"title";s:8:"Claymont";s:5:"count";s:2:"33";}

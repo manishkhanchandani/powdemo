@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:81:"http://www.urbanspoon.com/n/327/39048/Westchester-County/White-Plains-restaurants";s:8:"baseName";s:24:"White-Plains-restaurants";s:5:"title";s:12:"White Plains";s:5:"count";s:3:"270";}

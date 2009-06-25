@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:64:"http://www.urbanspoon.com/n/313/37415/Utica/Herkimer-restaurants";s:8:"baseName";s:20:"Herkimer-restaurants";s:5:"title";s:8:"Herkimer";s:5:"count";s:2:"43";}

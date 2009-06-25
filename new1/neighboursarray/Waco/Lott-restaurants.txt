@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:59:"http://www.urbanspoon.com/n/325/38710/Waco/Lott-restaurants";s:8:"baseName";s:16:"Lott-restaurants";s:5:"title";s:4:"Lott";s:5:"count";s:1:"3";}

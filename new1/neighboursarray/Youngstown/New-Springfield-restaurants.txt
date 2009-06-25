@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:76:"http://www.urbanspoon.com/n/334/39726/Youngstown/New-Springfield-restaurants";s:8:"baseName";s:27:"New-Springfield-restaurants";s:5:"title";s:15:"New Springfield";s:5:"count";s:1:"4";}

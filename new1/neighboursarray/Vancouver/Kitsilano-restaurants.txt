@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/14/1312/Vancouver/Kitsilano-restaurants";s:8:"baseName";s:21:"Kitsilano-restaurants";s:5:"title";s:9:"Kitsilano";s:5:"count";s:3:"220";}

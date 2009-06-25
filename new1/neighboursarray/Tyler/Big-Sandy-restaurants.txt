@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:65:"http://www.urbanspoon.com/n/311/37202/Tyler/Big-Sandy-restaurants";s:8:"baseName";s:21:"Big-Sandy-restaurants";s:5:"title";s:9:"Big Sandy";s:5:"count";s:1:"6";}

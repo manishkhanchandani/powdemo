@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:61:"http://www.urbanspoon.com/n/311/37206/Tyler/Flint-restaurants";s:8:"baseName";s:17:"Flint-restaurants";s:5:"title";s:5:"Flint";s:5:"count";s:2:"11";}

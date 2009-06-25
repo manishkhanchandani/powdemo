@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:78:"http://www.urbanspoon.com/n/327/39043/Westchester-County/Thornwood-restaurants";s:8:"baseName";s:21:"Thornwood-restaurants";s:5:"title";s:9:"Thornwood";s:5:"count";s:2:"24";}

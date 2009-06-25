@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:84:"http://www.urbanspoon.com/n/14/1314/Vancouver/Mount-Pleasant-Main-Street-restaurants";s:8:"baseName";s:38:"Mount-Pleasant-Main-Street-restaurants";s:5:"title";s:11:"Main Street";s:5:"count";s:3:"131";}

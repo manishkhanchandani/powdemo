@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:59:"http://www.urbanspoon.com/n/311/37200/Tyler/Arp-restaurants";s:8:"baseName";s:15:"Arp-restaurants";s:5:"title";s:3:"Arp";s:5:"count";s:1:"2";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:78:"http://www.urbanspoon.com/n/327/39046/Westchester-County/Verplanck-restaurants";s:8:"baseName";s:21:"Verplanck-restaurants";s:5:"title";s:9:"Verplanck";s:5:"count";s:1:"5";}

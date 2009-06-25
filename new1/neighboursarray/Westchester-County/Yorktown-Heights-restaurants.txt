@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:85:"http://www.urbanspoon.com/n/327/39050/Westchester-County/Yorktown-Heights-restaurants";s:8:"baseName";s:28:"Yorktown-Heights-restaurants";s:5:"title";s:16:"Yorktown Heights";s:5:"count";s:2:"55";}

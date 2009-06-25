@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:78:"http://www.urbanspoon.com/n/327/39039/Westchester-County/Scarsdale-restaurants";s:8:"baseName";s:21:"Scarsdale-restaurants";s:5:"title";s:9:"Scarsdale";s:5:"count";s:2:"82";}

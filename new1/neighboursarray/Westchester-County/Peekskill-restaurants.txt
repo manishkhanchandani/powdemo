@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:78:"http://www.urbanspoon.com/n/327/39031/Westchester-County/Peekskill-restaurants";s:8:"baseName";s:21:"Peekskill-restaurants";s:5:"title";s:9:"Peekskill";s:5:"count";s:2:"70";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:63:"http://www.urbanspoon.com/n/333/39611/Yakima/Zillah-restaurants";s:8:"baseName";s:18:"Zillah-restaurants";s:5:"title";s:6:"Zillah";s:5:"count";s:2:"12";}

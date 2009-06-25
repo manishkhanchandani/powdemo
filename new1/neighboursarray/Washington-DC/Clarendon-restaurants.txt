@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:58:"http://www.urbanspoon.com/n/7/612/DC/Clarendon-restaurants";s:8:"baseName";s:21:"Clarendon-restaurants";s:5:"title";s:9:"Clarendon";s:5:"count";s:2:"55";}

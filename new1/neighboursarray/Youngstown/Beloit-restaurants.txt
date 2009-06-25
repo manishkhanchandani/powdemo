@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/334/39701/Youngstown/Beloit-restaurants";s:8:"baseName";s:18:"Beloit-restaurants";s:5:"title";s:6:"Beloit";s:5:"count";s:1:"3";}
