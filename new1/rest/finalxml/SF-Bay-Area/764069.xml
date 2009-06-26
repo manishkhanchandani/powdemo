@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>764069</field>
+<field name='rid'>United States/CA/Antioch/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Antioch</field>
+<field name='address'>1 Marina Plz</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Seafood</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Antioch</field>
+<field name='phone'>(925) 778-5800</field>
+<field name='zip'>94509</field>
+<field name='linktext'><![CDATA[www.humphreys-antioch.com]]></field>
+<field name='title'>Humphrey's on the Delta</field>
+<field name='full_neighborhood'>SF-Bay-Area, Antioch, CA</field>
+<field name='full_city'>Antioch, CA</field>
+<field name='lat'>38.018312</field>
+<field name='lon'>-121.819719</field>
+</doc>
+</add>

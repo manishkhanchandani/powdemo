@@ -1,0 +1,20 @@
+<add>
+<doc>
+<field name='id'>83991</field>
+<field name='rid'>United States/CA/Berkeley/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Berkeley</field>
+<field name='address'>1199 University Ave</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Berkeley</field>
+<field name='phone'>(510) 841-0953</field>
+<field name='zip'>94702</field>
+<field name='linktext'><![CDATA[www.fostersfreeze.com]]></field>
+<field name='title'>Foster's Freeze</field>
+<field name='full_neighborhood'>SF-Bay-Area, Berkeley, CA</field>
+<field name='full_city'>Berkeley, CA</field>
+<field name='lat'>37.869615</field>
+<field name='lon'>-122.289695</field>
+</doc>
+</add>

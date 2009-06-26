@@ -1,0 +1,20 @@
+<add>
+<doc>
+<field name='id'>1440094</field>
+<field name='rid'>United States/CA/Antioch/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Antioch</field>
+<field name='address'>3608 Delta Fair Blvd</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Antioch</field>
+<field name='phone'>(925) 777-2147</field>
+<field name='zip'>94509</field>
+<field name='linktext'><![CDATA[www.papaskettlekorn.com]]></field>
+<field name='title'>Papa's Kettle Korn</field>
+<field name='full_neighborhood'>SF-Bay-Area, Antioch, CA</field>
+<field name='full_city'>Antioch, CA</field>
+<field name='lat'>38.004173</field>
+<field name='lon'>-121.843386</field>
+</doc>
+</add>

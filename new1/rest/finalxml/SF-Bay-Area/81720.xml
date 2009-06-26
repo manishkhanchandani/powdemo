@@ -1,0 +1,22 @@
+<add>
+<doc>
+<field name='id'>81720</field>
+<field name='rid'>United States/CA/Albany/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Albany</field>
+<field name='address'>1158 Solano Ave</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Indian</field>
+<field name='cuisine'>Pakistani</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Albany</field>
+<field name='phone'>(510) 524-5667</field>
+<field name='zip'>94706</field>
+<field name='linktext'><![CDATA[www.caferaj-albany.com]]></field>
+<field name='title'>Cafe Raj</field>
+<field name='full_neighborhood'>SF-Bay-Area, Albany, CA</field>
+<field name='full_city'>Albany, CA</field>
+<field name='lat'>37.890263</field>
+<field name='lon'>-122.296876</field>
+</doc>
+</add>

@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>81684</field>
+<field name='rid'>United States/CA/Berkeley/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Berkeley</field>
+<field name='address'>2522 Bancroft Way</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Coffee</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Berkeley</field>
+<field name='phone'>(510) 644-3100</field>
+<field name='zip'>94704</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Cafe Milano</field>
+<field name='full_neighborhood'>SF-Bay-Area, Berkeley, CA</field>
+<field name='full_city'>Berkeley, CA</field>
+<field name='lat'>37.868614</field>
+<field name='lon'>-122.258718</field>
+</doc>
+</add>

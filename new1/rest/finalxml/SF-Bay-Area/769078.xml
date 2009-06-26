@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>769078</field>
+<field name='rid'>United States/CA/San Jose/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>San Jose</field>
+<field name='address'>5965 Almaden Expy Ste125</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Pizza</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/San Jose</field>
+<field name='phone'>(408) 323-9700</field>
+<field name='zip'>95120</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Legends Pizza Co.</field>
+<field name='full_neighborhood'>SF-Bay-Area, San Jose, CA</field>
+<field name='full_city'>San Jose, CA</field>
+<field name='lat'>37.23</field>
+<field name='lon'>-121.87</field>
+</doc>
+</add>

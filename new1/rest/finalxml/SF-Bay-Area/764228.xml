@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>764228</field>
+<field name='rid'>United States/CA/Antioch/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Antioch</field>
+<field name='address'>2904 Delta Fair Blvd</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Pizza</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Antioch</field>
+<field name='phone'>(925) 755-5070</field>
+<field name='zip'>94509</field>
+<field name='linktext'><![CDATA[www.littlecaesars.com]]></field>
+<field name='title'>Little Caesars Pizza</field>
+<field name='full_neighborhood'>SF-Bay-Area, Antioch, CA</field>
+<field name='full_city'>Antioch, CA</field>
+<field name='lat'>38.00035</field>
+<field name='lon'>-121.837695</field>
+</doc>
+</add>

@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>764895</field>
+<field name='rid'>United States/CA/Pittsburg/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Pittsburg</field>
+<field name='address'>633 Ventura Dr</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Mexican</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Pittsburg</field>
+<field name='phone'>(925) 680-2636</field>
+<field name='zip'>94565</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Villa's Mexicatessen</field>
+<field name='full_neighborhood'>SF-Bay-Area, Pittsburg, CA</field>
+<field name='full_city'>Pittsburg, CA</field>
+<field name='lat'>38.002935</field>
+<field name='lon'>-121.884838</field>
+</doc>
+</add>

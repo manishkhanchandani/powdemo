@@ -1,0 +1,23 @@
+<add>
+<doc>
+<field name='id'>81731</field>
+<field name='rid'>United States/CA/Berkeley/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Berkeley</field>
+<field name='address'>1782 4th St</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>California</field>
+<field name='cuisine'>American</field>
+<field name='cuisine'>French</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Berkeley</field>
+<field name='phone'>(510) 525-1440</field>
+<field name='zip'>94710</field>
+<field name='linktext'><![CDATA[www.caferouge.net]]></field>
+<field name='title'>Cafe Rouge</field>
+<field name='full_neighborhood'>SF-Bay-Area, Berkeley, CA</field>
+<field name='full_city'>Berkeley, CA</field>
+<field name='lat'>37.87061</field>
+<field name='lon'>-122.30099</field>
+</doc>
+</add>

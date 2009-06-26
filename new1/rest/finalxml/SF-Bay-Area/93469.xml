@@ -1,0 +1,23 @@
+<add>
+<doc>
+<field name='id'>93469</field>
+<field name='rid'>United States/CA/Albany/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Albany</field>
+<field name='address'>1401 Solano Ave</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Mediterranean</field>
+<field name='cuisine'>Greek</field>
+<field name='cuisine'>Sandwiches/Subs</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Albany</field>
+<field name='phone'>(510) 528-8600</field>
+<field name='zip'>94706</field>
+<field name='linktext'><![CDATA[www.zandpastry.com]]></field>
+<field name='title'>Zand's</field>
+<field name='full_neighborhood'>SF-Bay-Area, Albany, CA</field>
+<field name='full_city'>Albany, CA</field>
+<field name='lat'>37.890937</field>
+<field name='lon'>-122.290003</field>
+</doc>
+</add>

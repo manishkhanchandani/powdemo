@@ -1,0 +1,22 @@
+<add>
+<doc>
+<field name='id'>85160</field>
+<field name='rid'>United States/CA/Berkeley/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Berkeley</field>
+<field name='address'>2017 Shattuck Ave</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Japanese</field>
+<field name='cuisine'>Chinese</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Berkeley</field>
+<field name='phone'>(510) 848-2228</field>
+<field name='zip'>94704</field>
+<field name='linktext'><![CDATA[www.orlandoichiban.com]]></field>
+<field name='title'>Ichiban</field>
+<field name='full_neighborhood'>SF-Bay-Area, Berkeley, CA</field>
+<field name='full_city'>Berkeley, CA</field>
+<field name='lat'>37.871867</field>
+<field name='lon'>-122.268198</field>
+</doc>
+</add>

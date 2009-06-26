@@ -1,0 +1,20 @@
+<add>
+<doc>
+<field name='id'>763724</field>
+<field name='rid'>United States/CA/Antioch/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Antioch</field>
+<field name='address'>1115 E 18th St</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Antioch</field>
+<field name='phone'>(925) 978-2885</field>
+<field name='zip'>94509</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Chop Chop Restaurant</field>
+<field name='full_neighborhood'>SF-Bay-Area, Antioch, CA</field>
+<field name='full_city'>Antioch, CA</field>
+<field name='lat'>38.004196</field>
+<field name='lon'>-121.786879</field>
+</doc>
+</add>

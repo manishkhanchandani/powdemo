@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>92293</field>
+<field name='rid'>United States/CA/Belmont/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Belmont</field>
+<field name='address'>955 Ralston Ave</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Japanese</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Belmont</field>
+<field name='phone'>(650) 595-3965</field>
+<field name='zip'>94002</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Teriyaki House</field>
+<field name='full_neighborhood'>SF-Bay-Area, Belmont, CA</field>
+<field name='full_city'>Belmont, CA</field>
+<field name='lat'>37.519413</field>
+<field name='lon'>-122.276904</field>
+</doc>
+</add>

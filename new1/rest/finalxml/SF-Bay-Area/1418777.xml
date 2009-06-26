@@ -1,0 +1,20 @@
+<add>
+<doc>
+<field name='id'>1418777</field>
+<field name='rid'>United States/CA/Benicia/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Benicia</field>
+<field name='address'>191 Military East</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Benicia</field>
+<field name='phone'>(707) 747-0888</field>
+<field name='zip'>94510</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Nation's Giant Hamburgers</field>
+<field name='full_neighborhood'>SF-Bay-Area, Benicia, CA</field>
+<field name='full_city'>Benicia, CA</field>
+<field name='lat'>38.0538</field>
+<field name='lon'>-122.1532</field>
+</doc>
+</add>

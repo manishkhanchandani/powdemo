@@ -1,0 +1,23 @@
+<add>
+<doc>
+<field name='id'>87449</field>
+<field name='rid'>United States/CA/Daly City/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Daly City</field>
+<field name='address'>2700 Geneva Ave</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>American</field>
+<field name='cuisine'>Burgers</field>
+<field name='cuisine'>Fast Food</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Daly City</field>
+<field name='phone'>(415) 467-1666</field>
+<field name='zip'>94014</field>
+<field name='linktext'><![CDATA[www.mcdonalds.com]]></field>
+<field name='title'>McDonald's</field>
+<field name='full_neighborhood'>SF-Bay-Area, Daly City, CA</field>
+<field name='full_city'>Daly City, CA</field>
+<field name='lat'>37.706931</field>
+<field name='lon'>-122.415678</field>
+</doc>
+</add>

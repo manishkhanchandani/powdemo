@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>82413</field>
+<field name='rid'>United States/CA/Belmont/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Belmont</field>
+<field name='address'>600 Ralston Ave</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Chinese</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Belmont</field>
+<field name='phone'>(650) 593-1831</field>
+<field name='zip'>94002</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>China Village</field>
+<field name='full_neighborhood'>SF-Bay-Area, Belmont, CA</field>
+<field name='full_city'>Belmont, CA</field>
+<field name='lat'>37.521743</field>
+<field name='lon'>-122.274613</field>
+</doc>
+</add>

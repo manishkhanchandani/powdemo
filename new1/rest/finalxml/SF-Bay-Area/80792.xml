@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>80792</field>
+<field name='rid'>United States/CA/Belmont/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Belmont</field>
+<field name='address'>1023 Alameda De Las Pulgas</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Desserts/Ice Cream</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Belmont</field>
+<field name='phone'>(650) 593-1704</field>
+<field name='zip'>94002</field>
+<field name='linktext'><![CDATA[www.baskinrobbins.com]]></field>
+<field name='title'>Baskin-Robbins</field>
+<field name='full_neighborhood'>SF-Bay-Area, Belmont, CA</field>
+<field name='full_city'>Belmont, CA</field>
+<field name='lat'>37.511608</field>
+<field name='lon'>-122.293919</field>
+</doc>
+</add>

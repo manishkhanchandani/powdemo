@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>764308</field>
+<field name='rid'>United States/CA/Antioch/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Antioch</field>
+<field name='address'>913 W 10th St</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Italian</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Antioch</field>
+<field name='phone'>(925) 757-8500</field>
+<field name='zip'>94509</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Match Maker Restaurant</field>
+<field name='full_neighborhood'>SF-Bay-Area, Antioch, CA</field>
+<field name='full_city'>Antioch, CA</field>
+<field name='lat'>38.011019</field>
+<field name='lon'>-121.817422</field>
+</doc>
+</add>

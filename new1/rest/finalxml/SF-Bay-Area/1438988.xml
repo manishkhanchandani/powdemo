@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>1438988</field>
+<field name='rid'>United States/CA/Brentwood/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Brentwood</field>
+<field name='address'>2530 Sand Creek Rd</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Coffee</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Brentwood</field>
+<field name='phone'>(925) 634-2319</field>
+<field name='zip'>94513</field>
+<field name='linktext'><![CDATA[www.starbucks.com]]></field>
+<field name='title'>Starbucks</field>
+<field name='full_neighborhood'>SF-Bay-Area, Brentwood, CA</field>
+<field name='full_city'>Brentwood, CA</field>
+<field name='lat'>37.943362</field>
+<field name='lon'>-121.738351</field>
+</doc>
+</add>

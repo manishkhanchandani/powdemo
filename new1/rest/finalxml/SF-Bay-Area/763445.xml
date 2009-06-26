@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>763445</field>
+<field name='rid'>United States/CA/ANTIOCH/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>ANTIOCH</field>
+<field name='address'>2521 San Jose Dr</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>American</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/ANTIOCH</field>
+<field name='phone'>(925) 778-9282</field>
+<field name='zip'>94509</field>
+<field name='linktext'><![CDATA[www.allstarsportsbarandgrill.com]]></field>
+<field name='title'>All Star Sport Bar &amp; Grill</field>
+<field name='full_neighborhood'>SF-Bay-Area, ANTIOCH, CA</field>
+<field name='full_city'>ANTIOCH, CA</field>
+<field name='lat'>38.00179</field>
+<field name='lon'>-121.836658</field>
+</doc>
+</add>

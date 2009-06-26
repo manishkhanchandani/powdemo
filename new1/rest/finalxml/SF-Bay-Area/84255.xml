@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>84255</field>
+<field name='rid'>United States/CA/Belmont/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Belmont</field>
+<field name='address'>1079 Alameda</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Chinese</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Belmont</field>
+<field name='phone'>(650) 592-3663</field>
+<field name='zip'>94002</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Gin Mon</field>
+<field name='full_neighborhood'>SF-Bay-Area, Belmont, CA</field>
+<field name='full_city'>Belmont, CA</field>
+<field name='lat'>37.51065</field>
+<field name='lon'>-122.293538</field>
+</doc>
+</add>

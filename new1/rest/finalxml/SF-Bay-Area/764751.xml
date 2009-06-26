@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>764751</field>
+<field name='rid'>United States/CA/Antioch/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Antioch</field>
+<field name='address'>3303 Deer Valley Rd</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Sandwiches/Subs</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Antioch</field>
+<field name='phone'>(925) 778-6815</field>
+<field name='zip'>94531</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Subway Sandwiches &amp; Salads</field>
+<field name='full_neighborhood'>SF-Bay-Area, Antioch, CA</field>
+<field name='full_city'>Antioch, CA</field>
+<field name='lat'>37.989806</field>
+<field name='lon'>-121.784597</field>
+</doc>
+</add>

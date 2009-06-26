@@ -1,0 +1,22 @@
+<add>
+<doc>
+<field name='id'>81774</field>
+<field name='rid'>United States/CA/Berkeley/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Berkeley</field>
+<field name='address'>1250 Addison St</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Mediterranean</field>
+<field name='cuisine'>California</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Berkeley</field>
+<field name='phone'>(510) 704-9378</field>
+<field name='zip'>94702</field>
+<field name='linktext'><![CDATA[www.zestecatering.com]]></field>
+<field name='title'>Cafe Zeste</field>
+<field name='full_neighborhood'>SF-Bay-Area, Berkeley, CA</field>
+<field name='full_city'>Berkeley, CA</field>
+<field name='lat'>37.868597</field>
+<field name='lon'>-122.28709</field>
+</doc>
+</add>

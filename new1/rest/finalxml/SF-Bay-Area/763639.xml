@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>763639</field>
+<field name='rid'>United States/CA/Antioch/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Antioch</field>
+<field name='address'>212 G St</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Chinese</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Antioch</field>
+<field name='phone'>(925) 754-5698</field>
+<field name='zip'>94509</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Canton City Asian Cuisane</field>
+<field name='full_neighborhood'>SF-Bay-Area, Antioch, CA</field>
+<field name='full_city'>Antioch, CA</field>
+<field name='lat'>38.016756</field>
+<field name='lon'>-121.813908</field>
+</doc>
+</add>

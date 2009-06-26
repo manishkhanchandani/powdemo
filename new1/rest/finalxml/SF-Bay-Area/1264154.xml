@@ -1,0 +1,20 @@
+<add>
+<doc>
+<field name='id'>1264154</field>
+<field name='rid'>United States/CA/Oakley/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Oakley</field>
+<field name='address'>3100 Main St Ste 282</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Oakley</field>
+<field name='phone'>(925) 625-1610</field>
+<field name='zip'>94561</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Yogurt Island</field>
+<field name='full_neighborhood'>SF-Bay-Area, Oakley, CA</field>
+<field name='full_city'>Oakley, CA</field>
+<field name='lat'>37.9979</field>
+<field name='lon'>-121.7185</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<add>
+<doc>
+<field name='id'>1212008</field>
+<field name='rid'>United States/CA/Benicia/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Benicia</field>
+<field name='address'>828 Southampton Rd</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Burgers</field>
+<field name='cuisine'>Fast Food</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Benicia</field>
+<field name='phone'>(707) 745-6685</field>
+<field name='zip'>94510</field>
+<field name='linktext'><![CDATA[www.burgerking.com]]></field>
+<field name='title'>Burger King</field>
+<field name='full_neighborhood'>SF-Bay-Area, Benicia, CA</field>
+<field name='full_city'>Benicia, CA</field>
+<field name='lat'>38.0669</field>
+<field name='lon'>-122.1658</field>
+</doc>
+</add>

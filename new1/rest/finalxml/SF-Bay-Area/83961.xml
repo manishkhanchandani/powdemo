@@ -1,0 +1,23 @@
+<add>
+<doc>
+<field name='id'>83961</field>
+<field name='rid'>United States/CA/Albany/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Albany</field>
+<field name='address'>1501 Solano Ave</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Southern &amp; Soul</field>
+<field name='cuisine'>Mexican</field>
+<field name='cuisine'>Tapas</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Albany</field>
+<field name='phone'>(510) 559-9006</field>
+<field name='zip'>94707</field>
+<field name='linktext'><![CDATA[www.fondasolana.com]]></field>
+<field name='title'>Fonda</field>
+<field name='full_neighborhood'>SF-Bay-Area, Albany, CA</field>
+<field name='full_city'>Albany, CA</field>
+<field name='lat'>37.891057</field>
+<field name='lon'>-122.287332</field>
+</doc>
+</add>

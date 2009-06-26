@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>88047</field>
+<field name='rid'>United States/CA/Belmont/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Belmont</field>
+<field name='address'>1001 Alameda De Las Pulgas</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Japanese</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Belmont</field>
+<field name='phone'>(650) 592-1878</field>
+<field name='zip'>94002</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Narita Japanese</field>
+<field name='full_neighborhood'>SF-Bay-Area, Belmont, CA</field>
+<field name='full_city'>Belmont, CA</field>
+<field name='lat'>37.511994</field>
+<field name='lon'>-122.294074</field>
+</doc>
+</add>

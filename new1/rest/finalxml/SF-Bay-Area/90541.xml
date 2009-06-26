@@ -1,0 +1,23 @@
+<add>
+<doc>
+<field name='id'>90541</field>
+<field name='rid'>United States/CA/Brisbane/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Brisbane</field>
+<field name='address'>2800 Bayshore Blvd</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Burgers</field>
+<field name='cuisine'>Pub Food</field>
+<field name='cuisine'>Seafood</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Brisbane</field>
+<field name='phone'>(415) 467-2343</field>
+<field name='zip'>94005</field>
+<field name='linktext'><![CDATA[www.7milehouse.com]]></field>
+<field name='title'>7 Mile House Sports Bar &amp; Grill</field>
+<field name='full_neighborhood'>SF-Bay-Area, Brisbane, CA</field>
+<field name='full_city'>Brisbane, CA</field>
+<field name='lat'>37.704523</field>
+<field name='lon'>-122.407323</field>
+</doc>
+</add>

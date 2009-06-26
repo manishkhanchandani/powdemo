@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>1347087</field>
+<field name='rid'>United States/CA/San Jose/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>San Jose</field>
+<field name='address'>5925 Almaden Expy</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>American</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/San Jose</field>
+<field name='phone'>(408) 997-1272</field>
+<field name='zip'>95120</field>
+<field name='linktext'><![CDATA[www.sonomachickencoop.com]]></field>
+<field name='title'>Sonoma Chicken Coop</field>
+<field name='full_neighborhood'>SF-Bay-Area, San Jose, CA</field>
+<field name='full_city'>San Jose, CA</field>
+<field name='lat'>37.235117</field>
+<field name='lon'>-121.8729</field>
+</doc>
+</add>

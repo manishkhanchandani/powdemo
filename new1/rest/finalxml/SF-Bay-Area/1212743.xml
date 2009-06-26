@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>1212743</field>
+<field name='rid'>United States/CA/Port Costa/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Port Costa</field>
+<field name='address'>14 CANYON LAKE DR</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>International</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Port Costa</field>
+<field name='phone'>(510) 787-2244</field>
+<field name='zip'>94559</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Bull Valley Restaurant</field>
+<field name='full_neighborhood'>SF-Bay-Area, Port Costa, CA</field>
+<field name='full_city'>Port Costa, CA</field>
+<field name='lat'>38.0462</field>
+<field name='lon'>-122.1839</field>
+</doc>
+</add>

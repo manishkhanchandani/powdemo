@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>1445389</field>
+<field name='rid'>United States/CA/Antioch/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Antioch</field>
+<field name='address'>5005 lone tree way #a</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Mexican</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Antioch</field>
+<field name='phone'>(925) 753-1968</field>
+<field name='zip'>94531</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Cocina Medina</field>
+<field name='full_neighborhood'>SF-Bay-Area, Antioch, CA</field>
+<field name='full_city'>Antioch, CA</field>
+<field name='lat'>37.961905</field>
+<field name='lon'>-121.761685</field>
+</doc>
+</add>

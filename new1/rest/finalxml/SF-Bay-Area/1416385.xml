@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>1416385</field>
+<field name='rid'>United States/CA/Albany/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Albany</field>
+<field name='address'>600 San Pablo Ave</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Pizza</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Albany</field>
+<field name='phone'>(510) 524-3824</field>
+<field name='zip'>94706</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Albany Pizza Company</field>
+<field name='full_neighborhood'>SF-Bay-Area, Albany, CA</field>
+<field name='full_city'>Albany, CA</field>
+<field name='lat'>37.895911</field>
+<field name='lon'>-122.300894</field>
+</doc>
+</add>

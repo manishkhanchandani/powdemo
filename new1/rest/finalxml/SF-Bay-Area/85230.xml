@@ -1,0 +1,20 @@
+<add>
+<doc>
+<field name='id'>85230</field>
+<field name='rid'>United States/CA/Belmont/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Belmont</field>
+<field name='address'>1000 El Camino Real</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Belmont</field>
+<field name='phone'>(650) 596-9988</field>
+<field name='zip'>94002</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Indulgent Enterprise</field>
+<field name='full_neighborhood'>SF-Bay-Area, Belmont, CA</field>
+<field name='full_city'>Belmont, CA</field>
+<field name='lat'>37.520206</field>
+<field name='lon'>-122.275892</field>
+</doc>
+</add>

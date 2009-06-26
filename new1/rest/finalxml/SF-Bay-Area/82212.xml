@@ -1,0 +1,22 @@
+<add>
+<doc>
+<field name='id'>82212</field>
+<field name='rid'>United States/CA/Berkeley/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Berkeley</field>
+<field name='address'>1512 Shattuck Ave</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Pizza</field>
+<field name='cuisine'>Vegetarian</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Berkeley</field>
+<field name='phone'>(510) 549-3055</field>
+<field name='zip'>94709</field>
+<field name='linktext'><![CDATA[cheeseboardcollective.coop]]></field>
+<field name='title'>Cheese Board Pizza</field>
+<field name='full_neighborhood'>SF-Bay-Area, Berkeley, CA</field>
+<field name='full_city'>Berkeley, CA</field>
+<field name='lat'>37.879866</field>
+<field name='lon'>-122.269436</field>
+</doc>
+</add>

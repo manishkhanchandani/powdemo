@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>764938</field>
+<field name='rid'>United States/CA/Pittsburg/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Pittsburg</field>
+<field name='address'>555 California Ave</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Bakery</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Pittsburg</field>
+<field name='phone'>(925) 431-1120</field>
+<field name='zip'>94565</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Wonder Hostess Bakery Outlet</field>
+<field name='full_neighborhood'>SF-Bay-Area, Pittsburg, CA</field>
+<field name='full_city'>Pittsburg, CA</field>
+<field name='lat'>38.015352</field>
+<field name='lon'>-121.879862</field>
+</doc>
+</add>

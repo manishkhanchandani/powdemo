@@ -1,0 +1,20 @@
+<add>
+<doc>
+<field name='id'>1212000</field>
+<field name='rid'>United States/CA/Benicia/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Benicia</field>
+<field name='address'>4760 E 2nd St</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Benicia</field>
+<field name='phone'>(707) 745-3740</field>
+<field name='zip'>94510</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>2nd Street Grill</field>
+<field name='full_neighborhood'>SF-Bay-Area, Benicia, CA</field>
+<field name='full_city'>Benicia, CA</field>
+<field name='lat'>38.0808</field>
+<field name='lon'>-122.1297</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<add>
+<doc>
+<field name='id'>1212024</field>
+<field name='rid'>United States/CA/Benicia/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Benicia</field>
+<field name='address'>1034 1st St</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Benicia</field>
+<field name='phone'>(707) 751-0103</field>
+<field name='zip'>94510</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Issy's Restaurant</field>
+<field name='full_neighborhood'>SF-Bay-Area, Benicia, CA</field>
+<field name='full_city'>Benicia, CA</field>
+<field name='lat'>38.0524</field>
+<field name='lon'>-122.1565</field>
+</doc>
+</add>

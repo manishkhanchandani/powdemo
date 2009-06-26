@@ -1,0 +1,20 @@
+<add>
+<doc>
+<field name='id'>764936</field>
+<field name='rid'>United States/CA/Antioch/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Antioch</field>
+<field name='address'>2749 Lone Tree Way</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Antioch</field>
+<field name='phone'>(925) 706-7093</field>
+<field name='zip'>94509</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Wonder Bread Hostess Thrift</field>
+<field name='full_neighborhood'>SF-Bay-Area, Antioch, CA</field>
+<field name='full_city'>Antioch, CA</field>
+<field name='lat'>37.995718</field>
+<field name='lon'>-121.80654</field>
+</doc>
+</add>

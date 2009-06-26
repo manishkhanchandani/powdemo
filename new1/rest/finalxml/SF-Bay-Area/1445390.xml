@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>1445390</field>
+<field name='rid'>United States/CA/Antioch/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Antioch</field>
+<field name='address'>4609 golf course rd.</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Desserts/Ice Cream</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Antioch</field>
+<field name='phone'>(925) 706-2763</field>
+<field name='zip'>94531</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Go-Go Yoh-Go</field>
+<field name='full_neighborhood'>SF-Bay-Area, Antioch, CA</field>
+<field name='full_city'>Antioch, CA</field>
+<field name='lat'>37.976696</field>
+<field name='lon'>-121.802662</field>
+</doc>
+</add>

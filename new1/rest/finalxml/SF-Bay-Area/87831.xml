@@ -1,0 +1,22 @@
+<add>
+<doc>
+<field name='id'>87831</field>
+<field name='rid'>United States/CA/Albany/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Albany</field>
+<field name='address'>1106 Solano Ave</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Latin American</field>
+<field name='cuisine'>Mexican</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Albany</field>
+<field name='phone'>(510) 524-1270</field>
+<field name='zip'>94706</field>
+<field name='linktext'><![CDATA[www.clubmonteros.com]]></field>
+<field name='title'>Montero's</field>
+<field name='full_neighborhood'>SF-Bay-Area, Albany, CA</field>
+<field name='full_city'>Albany, CA</field>
+<field name='lat'>37.890163</field>
+<field name='lon'>-122.29868</field>
+</doc>
+</add>

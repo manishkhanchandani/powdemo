@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>1413922</field>
+<field name='rid'>United States/CA/Benicia/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Benicia</field>
+<field name='address'>907 First Street</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Middle Eastern</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Benicia</field>
+<field name='phone'>(707) 746-0505</field>
+<field name='zip'>94510</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Sahara</field>
+<field name='full_neighborhood'>SF-Bay-Area, Benicia, CA</field>
+<field name='full_city'>Benicia, CA</field>
+<field name='lat'>38.051571</field>
+<field name='lon'>-122.157447</field>
+</doc>
+</add>

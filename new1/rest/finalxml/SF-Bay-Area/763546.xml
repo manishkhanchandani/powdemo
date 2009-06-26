@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>763546</field>
+<field name='rid'>United States/CA/Bay Point/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Bay Point</field>
+<field name='address'>13 S Bella Monte Ave</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Mexican</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Bay Point</field>
+<field name='phone'>(925) 458-5549</field>
+<field name='zip'>94565</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Birrieria Y Taqueria Yahualica</field>
+<field name='full_neighborhood'>SF-Bay-Area, Bay Point, CA</field>
+<field name='full_city'>Bay Point, CA</field>
+<field name='lat'>38.026365</field>
+<field name='lon'>-121.935564</field>
+</doc>
+</add>

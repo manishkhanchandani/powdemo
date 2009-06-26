@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>83184</field>
+<field name='rid'>United States/CA/Belmont/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Belmont</field>
+<field name='address'>1501 El Camino Real</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Pizza</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Belmont</field>
+<field name='phone'>(650) 592-2712</field>
+<field name='zip'>94002</field>
+<field name='linktext'><![CDATA[www.dominos.com]]></field>
+<field name='title'>Domino's Pizza</field>
+<field name='full_neighborhood'>SF-Bay-Area, Belmont, CA</field>
+<field name='full_city'>Belmont, CA</field>
+<field name='lat'>37.516192</field>
+<field name='lon'>-122.27062</field>
+</doc>
+</add>

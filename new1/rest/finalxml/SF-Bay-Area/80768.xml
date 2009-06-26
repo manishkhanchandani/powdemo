@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>80768</field>
+<field name='rid'>United States/CA/Berkeley/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Berkeley</field>
+<field name='address'>1600 Shattuck Ave</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Burgers</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Berkeley</field>
+<field name='phone'>(510) 849-2827</field>
+<field name='zip'>94709</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Barney's Gourmet Hamburgers</field>
+<field name='full_neighborhood'>SF-Bay-Area, Berkeley, CA</field>
+<field name='full_city'>Berkeley, CA</field>
+<field name='lat'>37.878251</field>
+<field name='lon'>-122.269257</field>
+</doc>
+</add>

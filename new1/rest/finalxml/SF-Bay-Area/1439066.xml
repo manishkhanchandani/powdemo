@@ -1,0 +1,23 @@
+<add>
+<doc>
+<field name='id'>1439066</field>
+<field name='rid'>United States/CA/Antioch/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Antioch</field>
+<field name='address'>5897 Lone Tree Way</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Bakery</field>
+<field name='cuisine'>Coffee</field>
+<field name='cuisine'>Desserts/Ice Cream</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Antioch</field>
+<field name='phone'>(925) 755-5031</field>
+<field name='zip'>94531</field>
+<field name='linktext'><![CDATA[www.panerabread.com]]></field>
+<field name='title'>Panera Bread</field>
+<field name='full_neighborhood'>SF-Bay-Area, Antioch, CA</field>
+<field name='full_city'>Antioch, CA</field>
+<field name='lat'>37.961831</field>
+<field name='lon'>-121.735356</field>
+</doc>
+</add>

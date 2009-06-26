@@ -1,0 +1,20 @@
+<add>
+<doc>
+<field name='id'>80234</field>
+<field name='rid'>United States/CA/Berkeley/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Berkeley</field>
+<field name='address'>2136 Center St</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Berkeley</field>
+<field name='phone'>(510) 883-9321</field>
+<field name='zip'>94704</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Aliya</field>
+<field name='full_neighborhood'>SF-Bay-Area, Berkeley, CA</field>
+<field name='full_city'>Berkeley, CA</field>
+<field name='lat'>37.870263</field>
+<field name='lon'>-122.267212</field>
+</doc>
+</add>

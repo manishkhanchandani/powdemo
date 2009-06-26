@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>763671</field>
+<field name='rid'>United States/CA/ANTIOCH/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>ANTIOCH</field>
+<field name='address'>533 W 10th St</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Mexican</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/ANTIOCH</field>
+<field name='phone'>(925) 754-1355</field>
+<field name='zip'>94509</field>
+<field name='linktext'><![CDATA[www.celiasantioch.com]]></field>
+<field name='title'>Celia's</field>
+<field name='full_neighborhood'>SF-Bay-Area, ANTIOCH, CA</field>
+<field name='full_city'>ANTIOCH, CA</field>
+<field name='lat'>38.011062</field>
+<field name='lon'>-121.812972</field>
+</doc>
+</add>

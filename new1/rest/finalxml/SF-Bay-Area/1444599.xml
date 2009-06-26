@@ -1,0 +1,22 @@
+<add>
+<doc>
+<field name='id'>1444599</field>
+<field name='rid'>United States/CA/Brentwood/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Brentwood</field>
+<field name='address'>2505 Sand Creek Road</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>International</field>
+<field name='cuisine'>Italian</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Brentwood</field>
+<field name='phone'>(925) 513-4184</field>
+<field name='zip'>94513</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Fuzio Universal Bistro</field>
+<field name='full_neighborhood'>SF-Bay-Area, Brentwood, CA</field>
+<field name='full_city'>Brentwood, CA</field>
+<field name='lat'>37.943801</field>
+<field name='lon'>-121.738971</field>
+</doc>
+</add>

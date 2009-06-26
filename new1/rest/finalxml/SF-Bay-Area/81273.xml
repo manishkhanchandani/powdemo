@@ -1,0 +1,23 @@
+<add>
+<doc>
+<field name='id'>81273</field>
+<field name='rid'>United States/CA/Berkeley/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Berkeley</field>
+<field name='address'>1398 University Ave</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Coffee</field>
+<field name='cuisine'>California</field>
+<field name='cuisine'>Sandwiches/Subs</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Berkeley</field>
+<field name='phone'>(510) 649-9740</field>
+<field name='zip'>94702</field>
+<field name='linktext'><![CDATA[www.bread-workshop.com]]></field>
+<field name='title'>Bread Workshop</field>
+<field name='full_neighborhood'>SF-Bay-Area, Berkeley, CA</field>
+<field name='full_city'>Berkeley, CA</field>
+<field name='lat'>37.869944</field>
+<field name='lon'>-122.284345</field>
+</doc>
+</add>

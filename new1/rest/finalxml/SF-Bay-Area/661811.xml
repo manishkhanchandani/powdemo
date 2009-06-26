@@ -1,0 +1,22 @@
+<add>
+<doc>
+<field name='id'>661811</field>
+<field name='rid'>United States/CA/Albany/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Albany</field>
+<field name='address'>841 San Pablo Ave</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Breakfast/Brunch</field>
+<field name='cuisine'>Bakery</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Albany</field>
+<field name='phone'>(510) 527-1734</field>
+<field name='zip'>94706</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Butter Cream</field>
+<field name='full_neighborhood'>SF-Bay-Area, Albany, CA</field>
+<field name='full_city'>Albany, CA</field>
+<field name='lat'>37.891</field>
+<field name='lon'>-122.2991</field>
+</doc>
+</add>

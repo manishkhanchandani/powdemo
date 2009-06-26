@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>82412</field>
+<field name='rid'>United States/CA/Albany/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Albany</field>
+<field name='address'>1335 Solano Ave</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Chinese</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Albany</field>
+<field name='phone'>(510) 525-2285</field>
+<field name='zip'>94706</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>China Village</field>
+<field name='full_neighborhood'>SF-Bay-Area, Albany, CA</field>
+<field name='full_city'>Albany, CA</field>
+<field name='lat'>37.890837</field>
+<field name='lon'>-122.291504</field>
+</doc>
+</add>
