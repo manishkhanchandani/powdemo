@@ -99,15 +99,15 @@ if ($handle = opendir($dirname)) {
 							flush();
 							if($page>0) {
 								if(!file_exists('rest/listing/'.$folder."/".$baseNameMain."-".$page.".html")) {
-									echo '<h1>sleeping for 15 secs</h1>';
-									sleep(15);
-									static $item=0; $item++;
-									if($item%3==0) {
-										echo __LINE__.". ITEM ($item): ";
-										$Crawler->changeip();
-									} else {
-										echo __LINE__.". items ($item): ";
-									}
+									//echo '<h1>sleeping for 15 secs</h1>';
+									//sleep(15);
+									//static $item=0; $item++;
+									//if($item%3==0) {
+										//echo __LINE__.". ITEM ($item): ";
+										//$Crawler->changeip();
+									//} else {
+										//echo __LINE__.". items ($item): ";
+									//}
 									echo "<br>";
 									$input3 = file_get_contents($pgUrl);
 									
@@ -157,15 +157,15 @@ if ($handle = opendir($dirname)) {
 									echo $baseName = $v['id'].".html";
 									echo "<br>";
 									if(!file_exists('rest/detailpages/'.$folder.'/'.$baseName)) {
-										echo '<h1>sleeping for 15 secs</h1>';
-										sleep(15);
-										static $item=0; $item++;
-										if($item%3==0) {
-											echo __LINE__.". ITEM ($item): ";
-											$Crawler->changeip();
-										} else {
-											echo __LINE__.". items ($item): ";
-										}
+										//echo '<h1>sleeping for 15 secs</h1>';
+										//sleep(15);
+										//static $item=0; $item++;
+										//if($item%3==0) {
+											//echo __LINE__.". ITEM ($item): ";
+											//$Crawler->changeip();
+										//} else {
+											//echo __LINE__.". items ($item): ";
+										//}
 										
 										echo "<br>";
 										$string = @file_get_contents($url);
@@ -178,7 +178,7 @@ if ($handle = opendir($dirname)) {
 									} else {
 										echo 'rest/detailpages/'.$folder.'/'.$baseName.' already exists.<br>';
 									}
-																		$input = file_get_contents('rest/detailpages/'.$folder.'/'.$baseName);	
+									$input = file_get_contents('rest/detailpages/'.$folder.'/'.$baseName);	
 									$baseName = $v['id'].".txt";
 									$baseNameXML = $v['id'].".xml";
 									$baseName2 = $v['id'];
