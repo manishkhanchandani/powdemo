@@ -244,6 +244,21 @@ class Crawler {
 				$regexp = "<span class=\"review\-title\"><a href=\"(.*)\".*>(.*)<\/a><\/span>";
 				$matches2 = $this->regexp($regexp, $info2);
 				$arr['critic-reviews'][$k]['title'] = $matches2[0][1];
+				$regexp = "<a href=\"(.*)\".*rel=\"nofollow\">all(.*)reviews<\/a><br\/>";
+				
+				$matches2 = $Crawler->regexp($regexp, $info2);
+				if($matches2[0][2]) {
+					$arr['critic-reviews'][$k]['source'] = trim($matches2[0][2]);
+				} else {
+					$regexp = "<a href=\"(.*)\" alt=.*>Read review<\/a><br\/>";
+					$matches2 = $Crawler->regexp($regexp, $info2);
+					if($matches2[0][1]) {
+						$tmpSource = $matches2[0][1]; 
+						$tmpSource2 = parse_url($tmpSource);
+						$arr['critic-reviews'][$k]['source'] = str_replace("www.", "", $tmpSource2['host']);
+					}
+				}
+				
 				$regexp = "<span class=\"com\-date\">(.*) \- <\/span>(.*)<br\/>";
 				$matches2 = $this->regexp($regexp, $info2);
 				$arr['critic-reviews'][$k]['date'] = $matches2[0][1];
@@ -274,7 +289,7 @@ class Crawler {
 			if($post['critic-reviews']) {
 				foreach($post['critic-reviews'] as $reviews) {
 					if($reviews['score'] || $reviews['desc']) { 
-						$sql = "INSERT INTO `reviews` (`restaurant_id` , `id` ,`score` ,`rdate` ,`url` ,`desc`) VALUES ('".$ID."', '".addslashes(stripslashes(trim($post['id'])))."' , '".addslashes(stripslashes(trim($reviews['score'])))."' , '".addslashes(stripslashes(trim($reviews['date'])))."' , '".addslashes(stripslashes(trim($reviews['title'])))."' , '".addslashes(stripslashes(trim($reviews['desc'])))."')";
+						$sql = "INSERT INTO `reviews` (`restaurant_id` , `id` ,`score` ,`rdate` ,`url` ,`desc`, `review_source`) VALUES ('".$ID."', '".addslashes(stripslashes(trim($post['id'])))."' , '".addslashes(stripslashes(trim($reviews['score'])))."' , '".addslashes(stripslashes(trim($reviews['date'])))."' , '".addslashes(stripslashes(trim($reviews['title'])))."' , '".addslashes(stripslashes(trim($reviews['desc'])))."' , '".addslashes(stripslashes(trim($reviews['source'])))."')";
 						echo $sql;
 						echo "<br>";
 						mysql_query($sql) or die(__LINE__." ".mysql_error());

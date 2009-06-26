@@ -52,6 +52,21 @@ if($matches) {
 		$regexp = "<span class=\"review\-title\"><a href=\"(.*)\".*>(.*)<\/a><\/span>";
 		$matches2 = $Crawler->regexp($regexp, $info2);
 		$arr['critic-reviews'][$k]['title'] = $matches2[0][1];
+		
+		$regexp = "<a href=\"(.*)\".*rel=\"nofollow\">all(.*)reviews<\/a><br\/>";
+		$matches2 = $Crawler->regexp($regexp, $info2);
+		if($matches2[0][2]) {
+			$arr['critic-reviews'][$k]['source'] = trim($matches2[0][2]);
+		} else {
+			$regexp = "<a href=\"(.*)\" alt=.*>Read review<\/a><br\/>";
+			$matches2 = $Crawler->regexp($regexp, $info2);
+			if($matches2[0][1]) {
+				$tmpSource = $matches2[0][1]; 
+				$tmpSource2 = parse_url($tmpSource);
+				$arr['critic-reviews'][$k]['source'] = str_replace("www.", "", $tmpSource2['host']);
+			}
+		}
+		
 		$regexp = "<span class=\"com\-date\">(.*) \- <\/span>(.*)<br\/>";
 		$matches2 = $Crawler->regexp($regexp, $info2);
 		$arr['critic-reviews'][$k]['date'] = $matches2[0][1];
