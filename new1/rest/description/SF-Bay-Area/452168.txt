@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:75:"http://www.urbanspoon.com/r/6/452168/restaurant/Imperial-Tea-Court-Berkeley";s:4:"name";s:18:"Imperial Tea Court";s:2:"id";s:6:"452168";s:4:"info";s:27:"1511 Shattuck Ave, Berkeley";s:7:"address";s:27:"1511 Shattuck Ave, Berkeley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.879983";s:3:"lon";s:11:"-122.269103";s:9:"neighbour";s:8:"Berkeley";}

@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:81:"http://www.urbanspoon.com/r/6/763422/restaurant/Agaves-Mexican-Restaurant-Antioch";s:4:"name";s:25:"Agaves Mexican Restaurant";s:2:"id";s:6:"763422";s:4:"info";s:83:"Mexican - <br />
+                <br />
+                  1068 Sycamore Dr, Antioch";s:5:"info2";s:7:"Mexican";s:7:"address";s:25:"1068 Sycamore Dr, Antioch";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"38.003824";s:3:"lon";s:11:"-121.820463";s:9:"neighbour";s:7:"Antioch";}

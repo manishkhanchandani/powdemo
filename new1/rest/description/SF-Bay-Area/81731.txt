@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:66:"http://www.urbanspoon.com/r/6/81731/restaurant/Cafe-Rouge-Berkeley";s:4:"name";s:10:"Cafe Rouge";s:2:"id";s:5:"81731";s:4:"info";s:103:"California, French and American - <br />
+                <br />
+                  1782 4th St, Berkeley";s:5:"info2";s:31:"California, French and American";s:7:"address";s:21:"1782 4th St, Berkeley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:8:"37.87061";s:3:"lon";s:10:"-122.30099";s:9:"neighbour";s:8:"Berkeley";}

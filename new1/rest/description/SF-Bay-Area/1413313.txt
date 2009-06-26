@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:88:"http://www.urbanspoon.com/r/6/1413313/restaurant/Antioch/Melos-Pizza-and-Pasta-Brentwood";s:4:"name";s:22:"Melo's Pizza and Pasta";s:2:"id";s:7:"1413313";s:4:"info";s:87:"Italian - <br />
+                <br />
+                  6580 Lone Tree Way, Brentwood";s:5:"info2";s:7:"Italian";s:7:"address";s:29:"6580 Lone Tree Way, Brentwood";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.961746";s:3:"lon";s:11:"-121.730932";s:9:"neighbour";s:7:"Antioch";}

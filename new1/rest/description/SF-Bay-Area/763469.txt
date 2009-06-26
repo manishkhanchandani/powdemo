@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:66:"http://www.urbanspoon.com/r/6/763469/restaurant/Annabelles-Antioch";s:4:"name";s:11:"Annabelle's";s:2:"id";s:6:"763469";s:4:"info";s:95:"Sandwiches/Subs - <br />
+                <br />
+                  3103 Delta Fair Blvd, Antioch";s:5:"info2";s:15:"Sandwiches/Subs";s:7:"address";s:29:"3103 Delta Fair Blvd, Antioch";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"38.001695";s:3:"lon";s:11:"-121.838758";s:9:"neighbour";s:7:"Antioch";}

@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:68:"http://www.urbanspoon.com/r/6/81832/restaurant/Caffe-Strada-Berkeley";s:4:"name";s:12:"Caffe Strada";s:2:"id";s:5:"81832";s:4:"info";s:83:"Coffee - <br />
+                <br />
+                  2300 College Ave, Berkeley";s:5:"info2";s:6:"Coffee";s:7:"address";s:26:"2300 College Ave, Berkeley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.869141";s:3:"lon";s:10:"-122.25474";s:9:"neighbour";s:8:"Berkeley";}

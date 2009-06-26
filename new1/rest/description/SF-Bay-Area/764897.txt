@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:85:"http://www.urbanspoon.com/r/6/764897/restaurant/Antioch/Village-Food-Center-Pittsburg";s:4:"name";s:19:"Village Food Center";s:2:"id";s:6:"764897";s:4:"info";s:88:"Sandwiches/Subs - <br />
+                <br />
+                  109 Army St, Pittsburg";s:5:"info2";s:15:"Sandwiches/Subs";s:7:"address";s:22:"109 Army St, Pittsburg";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"38.017589";s:3:"lon";s:11:"-121.882268";s:9:"neighbour";s:7:"Antioch";}

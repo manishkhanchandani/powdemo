@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:74:"http://www.urbanspoon.com/r/6/353024/restaurant/A-Taste-of-Africa-Berkeley";s:4:"name";s:17:"A Taste of Africa";s:2:"id";s:6:"353024";s:4:"info";s:85:"African - <br />
+                <br />
+                  3015 Shattuck Ave, Berkeley";s:5:"info2";s:7:"African";s:7:"address";s:27:"3015 Shattuck Ave, Berkeley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.854645";s:3:"lon";s:11:"-122.266317";s:9:"neighbour";s:8:"Berkeley";}

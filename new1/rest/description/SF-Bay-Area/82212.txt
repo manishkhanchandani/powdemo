@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:74:"http://www.urbanspoon.com/r/6/82212/restaurant/Cheese-Board-Pizza-Berkeley";s:4:"name";s:18:"Cheese Board Pizza";s:2:"id";s:5:"82212";s:4:"info";s:98:"Vegetarian and Pizza - <br />
+                <br />
+                  1512 Shattuck Ave, Berkeley";s:5:"info2";s:20:"Vegetarian and Pizza";s:7:"address";s:27:"1512 Shattuck Ave, Berkeley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.879866";s:3:"lon";s:11:"-122.269436";s:9:"neighbour";s:8:"Berkeley";}

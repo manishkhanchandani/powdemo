@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:75:"http://www.urbanspoon.com/r/6/764221/restaurant/Lins-Chinese-Buffet-Antioch";s:4:"name";s:20:"Lin's Chinese Buffet";s:2:"id";s:6:"764221";s:4:"info";s:87:"Chinese - <br />
+                <br />
+                  2730 Delta Fair Blvd, Antioch";s:5:"info2";s:7:"Chinese";s:7:"address";s:29:"2730 Delta Fair Blvd, Antioch";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.999113";s:3:"lon";s:10:"-121.83783";s:9:"neighbour";s:7:"Antioch";}

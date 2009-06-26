@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:72:"http://www.urbanspoon.com/r/6/1440075/restaurant/Antioch/Nines-Brentwood";s:4:"name";s:5:"Nines";s:2:"id";s:7:"1440075";s:4:"info";s:30:"100 Summerset Drive, Brentwood";s:7:"address";s:30:"100 Summerset Drive, Brentwood";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.924386";s:3:"lon";s:11:"-121.728257";s:9:"neighbour";s:7:"Antioch";}

@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:73:"http://www.urbanspoon.com/r/6/80040/restaurant/6-Degrees-on-Solano-Albany";s:4:"name";s:19:"6 Degrees on Solano";s:2:"id";s:5:"80040";s:4:"info";s:94:"Tapas and California - <br />
+                <br />
+                  1403 Solano Ave, Albany";s:5:"info2";s:20:"Tapas and California";s:7:"address";s:23:"1403 Solano Ave, Albany";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.890937";s:3:"lon";s:11:"-122.289995";s:9:"neighbour";s:6:"Albany";}

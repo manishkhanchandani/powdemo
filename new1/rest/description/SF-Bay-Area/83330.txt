@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:68:"http://www.urbanspoon.com/r/6/83330/restaurant/Drunken-Boat-Berkeley";s:4:"name";s:12:"Drunken Boat";s:2:"id";s:5:"83330";s:4:"info";s:28:"2629 Telegraph Ave, Berkeley";s:7:"address";s:28:"2629 Telegraph Ave, Berkeley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.862425";s:3:"lon";s:11:"-122.258611";s:9:"neighbour";s:8:"Berkeley";}

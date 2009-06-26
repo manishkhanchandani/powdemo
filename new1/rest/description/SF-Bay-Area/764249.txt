@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:68:"http://www.urbanspoon.com/r/6/764249/restaurant/Los-3-Amigos-Antioch";s:4:"name";s:12:"Los 3 Amigos";s:2:"id";s:6:"764249";s:4:"info";s:81:"Mexican - <br />
+                <br />
+                  1123 E 18th St, Antioch";s:5:"info2";s:7:"Mexican";s:7:"address";s:23:"1123 E 18th St, Antioch";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"38.004187";s:3:"lon";s:11:"-121.786811";s:9:"neighbour";s:7:"Antioch";}

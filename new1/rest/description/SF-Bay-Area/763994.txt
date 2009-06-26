@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:93:"http://www.urbanspoon.com/r/6/763994/restaurant/Antioch/Goodview-Chinese-Restaurant-Pittsburg";s:4:"name";s:27:"Goodview Chinese Restaurant";s:2:"id";s:6:"763994";s:4:"info";s:86:"Chinese - <br />
+                <br />
+                  2909 Railroad Ave, Pittsburg";s:5:"info2";s:7:"Chinese";s:7:"address";s:28:"2909 Railroad Ave, Pittsburg";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"38.008646";s:3:"lon";s:10:"-121.89228";s:9:"neighbour";s:7:"Antioch";}

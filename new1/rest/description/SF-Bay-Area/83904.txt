@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:67:"http://www.urbanspoon.com/r/6/83904/restaurant/Fish-Net-4c-Berkeley";s:4:"name";s:11:"Fish Net 4c";s:2:"id";s:5:"83904";s:4:"info";s:79:"Seafood - <br />
+                <br />
+                  1832 2nd St, Berkeley";s:5:"info2";s:7:"Seafood";s:7:"address";s:21:"1832 2nd St, Berkeley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.869424";s:3:"lon";s:11:"-122.303084";s:9:"neighbour";s:8:"Berkeley";}

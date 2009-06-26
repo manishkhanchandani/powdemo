@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:76:"http://www.urbanspoon.com/r/6/1212005/restaurant/Bottom-of-The-Fifth-Benicia";s:4:"name";s:19:"Bottom of The Fifth";s:2:"id";s:7:"1212005";s:4:"info";s:23:"498 Military E, Benicia";s:7:"address";s:23:"498 Military E, Benicia";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"38.0509";s:3:"lon";s:9:"-122.1472";s:9:"neighbour";s:7:"Benicia";}

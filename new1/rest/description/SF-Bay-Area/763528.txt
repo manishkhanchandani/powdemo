@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:87:"http://www.urbanspoon.com/r/6/763528/restaurant/Antioch/Best-Donuts-Ice-Cream-Pittsburg";s:4:"name";s:27:"Best Donuts &amp; Ice Cream";s:2:"id";s:6:"763528";s:4:"info";s:97:"Desserts/Ice Cream - <br />
+                <br />
+                  2123 Loveridge Rd, Pittsburg";s:5:"info2";s:18:"Desserts/Ice Cream";s:7:"address";s:28:"2123 Loveridge Rd, Pittsburg";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"38.010581";s:3:"lon";s:11:"-121.869188";s:9:"neighbour";s:7:"Antioch";}

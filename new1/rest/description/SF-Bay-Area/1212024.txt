@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:73:"http://www.urbanspoon.com/r/6/1212024/restaurant/Issys-Restaurant-Benicia";s:4:"name";s:17:"Issy's Restaurant";s:2:"id";s:7:"1212024";s:4:"info";s:20:"1034 1st St, Benicia";s:7:"address";s:20:"1034 1st St, Benicia";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"38.0524";s:3:"lon";s:9:"-122.1565";s:9:"neighbour";s:7:"Benicia";}

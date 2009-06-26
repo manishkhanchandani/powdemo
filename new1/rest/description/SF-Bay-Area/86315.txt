@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:78:"http://www.urbanspoon.com/r/6/86315/restaurant/Bayview/La-Laguna-San-Francisco";s:4:"name";s:9:"La Laguna";s:2:"id";s:5:"86315";s:4:"info";s:84:"Mexican - <br />
+                <br />
+                  3906 3rd St, San Francisco";s:5:"info2";s:7:"Mexican";s:7:"address";s:26:"3906 3rd St, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.741669";s:3:"lon";s:11:"-122.388602";s:9:"neighbour";s:7:"Bayview";}

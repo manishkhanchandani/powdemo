@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:82:"http://www.urbanspoon.com/r/6/87864/restaurant/Mother-Nature-Vegetarian-Csn-Albany";s:4:"name";s:28:"Mother Nature Vegetarian Csn";s:2:"id";s:5:"87864";s:4:"info";s:25:"843 San Pablo Ave, Albany";s:7:"address";s:25:"843 San Pablo Ave, Albany";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.890971";s:3:"lon";s:11:"-122.299042";s:9:"neighbour";s:6:"Albany";}

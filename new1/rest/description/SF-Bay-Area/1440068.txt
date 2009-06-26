@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:76:"http://www.urbanspoon.com/r/6/1440068/restaurant/Antioch/Wing-Stop-Brentwood";s:4:"name";s:9:"Wing Stop";s:2:"id";s:7:"1440068";s:4:"info";s:29:"6471 Lone Tree Way, Brentwood";s:7:"address";s:29:"6471 Lone Tree Way, Brentwood";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.961413";s:3:"lon";s:11:"-121.733383";s:9:"neighbour";s:7:"Antioch";}

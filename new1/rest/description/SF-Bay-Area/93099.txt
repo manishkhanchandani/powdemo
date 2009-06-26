@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:86:"http://www.urbanspoon.com/r/6/93099/restaurant/Bayview/Wendys-Cheesecake-San-Francisco";s:4:"name";s:18:"Wendy's Cheesecake";s:2:"id";s:5:"93099";s:4:"info";s:86:"Fast Food - <br />
+                <br />
+                  4942 3rd St, San Francisco";s:5:"info2";s:9:"Fast Food";s:7:"address";s:26:"4942 3rd St, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.733712";s:3:"lon";s:11:"-122.391359";s:9:"neighbour";s:7:"Bayview";}

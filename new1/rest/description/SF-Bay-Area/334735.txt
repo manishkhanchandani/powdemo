@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:68:"http://www.urbanspoon.com/r/6/334735/restaurant/De-Afghanan-Berkeley";s:4:"name";s:11:"De Afghanan";s:2:"id";s:6:"334735";s:4:"info";s:86:"Afghan - <br />
+                <br />
+                  1160 University Ave, Berkeley";s:5:"info2";s:6:"Afghan";s:7:"address";s:29:"1160 University Ave, Berkeley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.869117";s:3:"lon";s:11:"-122.290564";s:9:"neighbour";s:8:"Berkeley";}

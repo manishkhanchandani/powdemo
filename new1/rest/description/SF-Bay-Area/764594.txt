@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:67:"http://www.urbanspoon.com/r/6/764594/restaurant/Red-Caboose-Antioch";s:4:"name";s:11:"Red Caboose";s:2:"id";s:6:"764594";s:4:"info";s:31:"210 Fulton Shipyard Rd, Antioch";s:7:"address";s:31:"210 Fulton Shipyard Rd, Antioch";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:8:"38.01669";s:3:"lon";s:11:"-121.802927";s:9:"neighbour";s:7:"Antioch";}

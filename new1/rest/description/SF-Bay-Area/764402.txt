@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:80:"http://www.urbanspoon.com/r/6/764402/restaurant/Antioch/New-Mecca-Cafe-Pittsburg";s:4:"name";s:14:"New Mecca Cafe";s:2:"id";s:6:"764402";s:4:"info";s:27:"324 Railroad Ave, Pittsburg";s:7:"address";s:27:"324 Railroad Ave, Pittsburg";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"38.033216";s:3:"lon";s:11:"-121.883555";s:9:"neighbour";s:7:"Antioch";}

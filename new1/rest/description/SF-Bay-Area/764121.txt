@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:79:"http://www.urbanspoon.com/r/6/764121/restaurant/Antioch/Josephs-Hot-Dogs-Bay-Pt";s:4:"name";s:17:"Joseph's Hot Dogs";s:2:"id";s:6:"764121";s:4:"info";s:79:"Hot Dogs - <br />
+                <br />
+                  34 Connie Ct, Bay Pt";s:5:"info2";s:8:"Hot Dogs";s:7:"address";s:20:"34 Connie Ct, Bay Pt";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"38.029344";s:3:"lon";s:11:"-121.956756";s:9:"neighbour";s:7:"Antioch";}

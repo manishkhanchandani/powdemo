@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:71:"http://www.urbanspoon.com/r/6/1438714/restaurant/Antioch/Mias-Brentwood";s:4:"name";s:5:"Mia's";s:2:"id";s:7:"1438714";s:4:"info";s:85:"Mexican - <br />
+                <br />
+                  71 Sand Creek Rd, Brentwood";s:5:"info2";s:7:"Mexican";s:7:"address";s:27:"71 Sand Creek Rd, Brentwood";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.946852";s:3:"lon";s:10:"-121.69776";s:9:"neighbour";s:7:"Antioch";}

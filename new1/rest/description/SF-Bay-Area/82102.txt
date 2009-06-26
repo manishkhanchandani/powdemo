@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:73:"http://www.urbanspoon.com/r/6/82102/restaurant/Celadon-Fine-Teas-Berkeley";s:4:"name";s:17:"Celadon Fine Teas";s:2:"id";s:5:"82102";s:4:"info";s:23:"950 Gilman St, Berkeley";s:7:"address";s:23:"950 Gilman St, Berkeley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.879721";s:3:"lon";s:11:"-122.298862";s:9:"neighbour";s:8:"Berkeley";}

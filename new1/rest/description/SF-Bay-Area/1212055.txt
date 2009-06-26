@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:67:"http://www.urbanspoon.com/r/6/1212055/restaurant/Rrags-Cafe-Benicia";s:4:"name";s:10:"Rrags Cafe";s:2:"id";s:7:"1212055";s:4:"info";s:22:"1383 E 2nd St, Benicia";s:7:"address";s:22:"1383 E 2nd St, Benicia";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"38.0544";s:3:"lon";s:9:"-122.1527";s:9:"neighbour";s:7:"Benicia";}

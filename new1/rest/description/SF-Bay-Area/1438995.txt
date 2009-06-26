@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:70:"http://www.urbanspoon.com/r/6/1438995/restaurant/Antioch/KFC-Brentwood";s:4:"name";s:3:"KFC";s:2:"id";s:7:"1438995";s:4:"info";s:90:"Fast Food - <br />
+                <br />
+                  7810 Brentwood Blvd, Brentwood";s:5:"info2";s:9:"Fast Food";s:7:"address";s:30:"7810 Brentwood Blvd, Brentwood";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.942782";s:3:"lon";s:11:"-121.696054";s:9:"neighbour";s:7:"Antioch";}

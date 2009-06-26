@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:95:"http://www.urbanspoon.com/r/6/1413302/restaurant/Antioch/La-Fuente-Mexican-Restaurant-Brentwood";s:4:"name";s:28:"La Fuente Mexican Restaurant";s:2:"id";s:7:"1413302";s:4:"info";s:85:"Mexican - <br />
+                <br />
+                  642 First Street, Brentwood";s:5:"info2";s:7:"Mexican";s:7:"address";s:27:"642 First Street, Brentwood";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.932087";s:3:"lon";s:11:"-121.694146";s:9:"neighbour";s:7:"Antioch";}

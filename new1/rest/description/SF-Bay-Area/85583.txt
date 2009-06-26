@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:75:"http://www.urbanspoon.com/r/6/85583/restaurant/Bayview/Jesses-San-Francisco";s:4:"name";s:7:"Jesse's";s:2:"id";s:5:"85583";s:4:"info";s:26:"5029 3rd St, San Francisco";s:7:"address";s:26:"5029 3rd St, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.732875";s:3:"lon";s:10:"-122.39114";s:9:"neighbour";s:7:"Bayview";}

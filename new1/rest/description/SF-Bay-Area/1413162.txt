@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:82:"http://www.urbanspoon.com/r/6/1413162/restaurant/Antioch/In-N-Out-Burger-Brentwood";s:4:"name";s:15:"In-N-Out Burger";s:2:"id";s:7:"1413162";s:4:"info";s:100:"American and Burgers - <br />
+                <br />
+                  5581 Lone Tree Way, Brentwood";s:5:"info2";s:20:"American and Burgers";s:7:"address";s:29:"5581 Lone Tree Way, Brentwood";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.961453";s:3:"lon";s:11:"-121.747821";s:9:"neighbour";s:7:"Antioch";}

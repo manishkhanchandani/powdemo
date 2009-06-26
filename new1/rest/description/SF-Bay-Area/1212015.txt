@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:64:"http://www.urbanspoon.com/r/6/1212015/restaurant/Choices-Benicia";s:4:"name";s:7:"Choices";s:2:"id";s:7:"1212015";s:4:"info";s:27:"321 1ST St Ste 101, Benicia";s:7:"address";s:27:"321 1ST St Ste 101, Benicia";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:6:"38.047";s:3:"lon";s:9:"-122.1608";s:9:"neighbour";s:7:"Benicia";}

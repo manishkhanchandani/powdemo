@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:67:"http://www.urbanspoon.com/r/6/87160/restaurant/Mangia-Mangia-Albany";s:4:"name";s:13:"Mangia Mangia";s:2:"id";s:5:"87160";s:4:"info";s:25:"755 San Pablo Ave, Albany";s:7:"address";s:25:"755 San Pablo Ave, Albany";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.892884";s:3:"lon";s:11:"-122.299613";s:9:"neighbour";s:6:"Albany";}
