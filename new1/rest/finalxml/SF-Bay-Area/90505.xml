@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>90505</field>
+<field name='rid'>United States/CA/Berkeley/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Berkeley</field>
+<field name='address'>3084 Claremont Ave</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Bakery</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Berkeley</field>
+<field name='phone'>(510) 596-9942</field>
+<field name='zip'>94705</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Semifreddi's Bakery</field>
+<field name='full_neighborhood'>SF-Bay-Area, Berkeley, CA</field>
+<field name='full_city'>Berkeley, CA</field>
+<field name='lat'>37.854366</field>
+<field name='lon'>-122.248512</field>
+</doc>
+</add>

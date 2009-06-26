@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>87546</field>
+<field name='rid'>United States/CA/Berkeley/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Berkeley</field>
+<field name='address'>2449 Sacramento St</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Indian</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Berkeley</field>
+<field name='phone'>(510) 841-6118</field>
+<field name='zip'>94702</field>
+<field name='linktext'><![CDATA[www.mehakberkeley.com]]></field>
+<field name='title'>Mehak Indian Cuisine</field>
+<field name='full_neighborhood'>SF-Bay-Area, Berkeley, CA</field>
+<field name='full_city'>Berkeley, CA</field>
+<field name='lat'>37.863123</field>
+<field name='lon'>-122.280976</field>
+</doc>
+</add>

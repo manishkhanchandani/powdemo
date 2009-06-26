@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:74:"http://www.urbanspoon.com/r/6/85190/restaurant/Il-Piccolo-Caffe-Burlingame";s:4:"name";s:16:"Il Piccolo Caffe";s:2:"id";s:5:"85190";s:4:"info";s:25:"1219 Broadway, Burlingame";s:7:"address";s:25:"1219 Broadway, Burlingame";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.585919";s:3:"lon";s:11:"-122.364631";s:9:"neighbour";s:10:"Burlingame";}

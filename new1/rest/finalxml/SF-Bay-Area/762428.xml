@@ -1,0 +1,22 @@
+<add>
+<doc>
+<field name='id'>762428</field>
+<field name='rid'>United States/CA/San Francisco/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>San Francisco</field>
+<field name='address'>737 Cortland Ave</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Mexican</field>
+<field name='cuisine'>Tacos</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/San Francisco</field>
+<field name='phone'>(415) 821-0701</field>
+<field name='zip'>94110</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Taco Los Altos</field>
+<field name='full_neighborhood'>SF-Bay-Area, San Francisco, CA</field>
+<field name='full_city'>San Francisco, CA</field>
+<field name='lat'>37.739045</field>
+<field name='lon'>-122.414951</field>
+</doc>
+</add>

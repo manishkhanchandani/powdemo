@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>80218</field>
+<field name='rid'>United States/CA/Millbrae/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Millbrae</field>
+<field name='address'>1 Old Bayshore Hwy</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Middle Eastern</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Millbrae</field>
+<field name='phone'>(650) 872-8141</field>
+<field name='zip'>94030</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Alfiere</field>
+<field name='full_neighborhood'>SF-Bay-Area, Millbrae, CA</field>
+<field name='full_city'>Millbrae, CA</field>
+<field name='lat'>37.604613</field>
+<field name='lon'>-122.377032</field>
+</doc>
+</add>

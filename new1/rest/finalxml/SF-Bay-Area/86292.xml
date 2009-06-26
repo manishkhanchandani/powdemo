@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>86292</field>
+<field name='rid'>United States/CA/Berkeley/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Berkeley</field>
+<field name='address'>2506 Haste St</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Mexican</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Berkeley</field>
+<field name='phone'>(510) 486-0151</field>
+<field name='zip'>94704</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>La Fiesta Mexican</field>
+<field name='full_neighborhood'>SF-Bay-Area, Berkeley, CA</field>
+<field name='full_city'>Berkeley, CA</field>
+<field name='lat'>37.865899</field>
+<field name='lon'>-122.258328</field>
+</doc>
+</add>

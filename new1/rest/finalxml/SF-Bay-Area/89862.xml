@@ -1,0 +1,20 @@
+<add>
+<doc>
+<field name='id'>89862</field>
+<field name='rid'>United States/CA/San Francisco/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>San Francisco</field>
+<field name='address'>3801 Mission St</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/San Francisco</field>
+<field name='phone'>(415) 826-3290</field>
+<field name='zip'>94110</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Richland Cafe</field>
+<field name='full_neighborhood'>SF-Bay-Area, San Francisco, CA</field>
+<field name='full_city'>San Francisco, CA</field>
+<field name='lat'>37.73595</field>
+<field name='lon'>-122.424287</field>
+</doc>
+</add>

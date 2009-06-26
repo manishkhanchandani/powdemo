@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:72:"http://www.urbanspoon.com/r/6/88251/restaurant/Nings-Catering-Burlingame";s:4:"name";s:15:"Ning's Catering";s:2:"id";s:5:"88251";s:4:"info";s:28:"2217 Hillside Dr, Burlingame";s:7:"address";s:28:"2217 Hillside Dr, Burlingame";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.582428";s:3:"lon";s:11:"-122.376223";s:9:"neighbour";s:10:"Burlingame";}

@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:96:"http://www.urbanspoon.com/r/6/91756/restaurant/Bernal-Heights/Sweet-Chinito-Coffee-San-Francisco";s:4:"name";s:20:"Sweet Chinito Coffee";s:2:"id";s:5:"91756";s:4:"info";s:87:"Coffee - <br />
+                <br />
+                  3100 Mission St, San Francisco";s:5:"info2";s:6:"Coffee";s:7:"address";s:30:"3100 Mission St, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:8:"37.74814";s:3:"lon";s:11:"-122.418433";s:9:"neighbour";s:14:"Bernal Heights";}

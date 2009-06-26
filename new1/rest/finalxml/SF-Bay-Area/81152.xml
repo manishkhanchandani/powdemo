@@ -1,0 +1,20 @@
+<add>
+<doc>
+<field name='id'>81152</field>
+<field name='rid'>United States/CA/Burlingame/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Burlingame</field>
+<field name='address'>1720 El Camino Real</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Burlingame</field>
+<field name='phone'>(415) 753-2622</field>
+<field name='zip'>94010</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Boba Crepes</field>
+<field name='full_neighborhood'>SF-Bay-Area, Burlingame, CA</field>
+<field name='full_city'>Burlingame, CA</field>
+<field name='lat'>37.592922</field>
+<field name='lon'>-122.380778</field>
+</doc>
+</add>

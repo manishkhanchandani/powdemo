@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>90737</field>
+<field name='rid'>United States/CA/Berkeley/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Berkeley</field>
+<field name='address'>3211 College Ave</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Pizza</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Berkeley</field>
+<field name='phone'>(510) 985-1000</field>
+<field name='zip'>94705</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Slice of Life Pizza</field>
+<field name='full_neighborhood'>SF-Bay-Area, Berkeley, CA</field>
+<field name='full_city'>Berkeley, CA</field>
+<field name='lat'>37.851201</field>
+<field name='lon'>-122.252325</field>
+</doc>
+</add>

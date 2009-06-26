@@ -1,0 +1,22 @@
+<add>
+<doc>
+<field name='id'>91669</field>
+<field name='rid'>United States/CA/Berkeley/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Berkeley</field>
+<field name='address'>64 Shattuck Sq</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Sushi</field>
+<field name='cuisine'>Japanese</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Berkeley</field>
+<field name='phone'>(510) 845-6601</field>
+<field name='zip'>94704</field>
+<field name='linktext'><![CDATA[www.foodyoyo.com/restaurants/Sushi_Ko...]]></field>
+<field name='title'>Sushi Ko Order Online</field>
+<field name='full_neighborhood'>SF-Bay-Area, Berkeley, CA</field>
+<field name='full_city'>Berkeley, CA</field>
+<field name='lat'>37.871824</field>
+<field name='lon'>-122.267935</field>
+</doc>
+</add>

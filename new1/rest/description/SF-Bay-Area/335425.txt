@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:71:"http://www.urbanspoon.com/r/6/335425/restaurant/Yogurt-Harmony-Berkeley";s:4:"name";s:14:"Yogurt Harmony";s:2:"id";s:6:"335425";s:4:"info";s:27:"2259 Shattuck Ave, Berkeley";s:7:"address";s:27:"2259 Shattuck Ave, Berkeley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.868277";s:3:"lon";s:11:"-122.267685";s:9:"neighbour";s:8:"Berkeley";}

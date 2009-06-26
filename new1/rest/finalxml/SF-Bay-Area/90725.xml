@@ -1,0 +1,23 @@
+<add>
+<doc>
+<field name='id'>90725</field>
+<field name='rid'>United States/CA/Berkeley/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Berkeley</field>
+<field name='address'>100 Seawall Dr</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Seafood</field>
+<field name='cuisine'>California</field>
+<field name='cuisine'>Steakhouse</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Berkeley</field>
+<field name='phone'>(510) 549-1900</field>
+<field name='zip'>94710</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Skates on the Bay</field>
+<field name='full_neighborhood'>SF-Bay-Area, Berkeley, CA</field>
+<field name='full_city'>Berkeley, CA</field>
+<field name='lat'>37.862937</field>
+<field name='lon'>-122.317433</field>
+</doc>
+</add>

@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:89:"http://www.urbanspoon.com/r/6/1411035/restaurant/Gabriel-Daniels-Mexican-Grill-Burlingame";s:4:"name";s:36:"Gabriel &amp; Daniel's Mexican Grill";s:2:"id";s:7:"1411035";s:4:"info";s:83:"Mexican - <br />
+                <br />
+                  250 Anza Blvd, Burlingame";s:5:"info2";s:7:"Mexican";s:7:"address";s:25:"250 Anza Blvd, Burlingame";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.591296";s:3:"lon";s:11:"-122.347989";s:9:"neighbour";s:10:"Burlingame";}

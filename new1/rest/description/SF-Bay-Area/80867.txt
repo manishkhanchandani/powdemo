@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:71:"http://www.urbanspoon.com/r/6/80867/restaurant/Bay-Side-Cafe-Burlingame";s:4:"name";s:13:"Bay Side Cafe";s:2:"id";s:5:"80867";s:4:"info";s:25:"819 Mitten Rd, Burlingame";s:7:"address";s:25:"819 Mitten Rd, Burlingame";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.601976";s:3:"lon";s:11:"-122.372703";s:9:"neighbour";s:10:"Burlingame";}

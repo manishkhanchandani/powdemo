@@ -1,0 +1,22 @@
+<add>
+<doc>
+<field name='id'>86790</field>
+<field name='rid'>United States/CA/San Francisco/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>San Francisco</field>
+<field name='address'>925 Cortland Ave</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Indian</field>
+<field name='cuisine'>Vegetarian</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/San Francisco</field>
+<field name='phone'>(415) 643-3881</field>
+<field name='zip'>94110</field>
+<field name='linktext'><![CDATA[www.littlenepalsf.com]]></field>
+<field name='title'>Little Nepal</field>
+<field name='full_neighborhood'>SF-Bay-Area, San Francisco, CA</field>
+<field name='full_city'>San Francisco, CA</field>
+<field name='lat'>37.739075</field>
+<field name='lon'>-122.413732</field>
+</doc>
+</add>

@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:68:"http://www.urbanspoon.com/r/6/622235/restaurant/Mingalaba-Burlingame";s:4:"name";s:9:"Mingalaba";s:2:"id";s:6:"622235";s:4:"info";s:111:"Asian, Chinese and Vegetarian - <br />
+                <br />
+                  1213 Burlingame Ave, Burlingame";s:5:"info2";s:29:"Asian, Chinese and Vegetarian";s:7:"address";s:31:"1213 Burlingame Ave, Burlingame";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.578938";s:3:"lon";s:11:"-122.346211";s:9:"neighbour";s:10:"Burlingame";}

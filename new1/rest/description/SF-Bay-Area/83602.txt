@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:70:"http://www.urbanspoon.com/r/6/83602/restaurant/Elephant-Bar-Burlingame";s:4:"name";s:18:"Elephant Bar &amp;";s:2:"id";s:5:"83602";s:4:"info";s:29:"1600 Bayshore Hwy, Burlingame";s:7:"address";s:29:"1600 Bayshore Hwy, Burlingame";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.599496";s:3:"lon";s:10:"-122.36737";s:9:"neighbour";s:10:"Burlingame";}

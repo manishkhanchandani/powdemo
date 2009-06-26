@@ -1,0 +1,22 @@
+<add>
+<doc>
+<field name='id'>92690</field>
+<field name='rid'>United States/CA/Berkeley/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Berkeley</field>
+<field name='address'>2993 College Ave</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Italian</field>
+<field name='cuisine'>Seafood</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Berkeley</field>
+<field name='phone'>(510) 704-1474</field>
+<field name='zip'>94705</field>
+<field name='linktext'><![CDATA[www.trattorialasiciliana.com]]></field>
+<field name='title'>Trattoria la Siciliana</field>
+<field name='full_neighborhood'>SF-Bay-Area, Berkeley, CA</field>
+<field name='full_city'>Berkeley, CA</field>
+<field name='lat'>37.856333</field>
+<field name='lon'>-122.25285</field>
+</doc>
+</add>

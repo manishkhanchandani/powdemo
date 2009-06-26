@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:65:"http://www.urbanspoon.com/r/6/335035/restaurant/Lam-Toro-Berkeley";s:4:"name";s:8:"Lam Toro";s:2:"id";s:6:"335035";s:4:"info";s:28:"2432 Telegraph Ave, Berkeley";s:7:"address";s:28:"2432 Telegraph Ave, Berkeley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.866338";s:3:"lon";s:11:"-122.258837";s:9:"neighbour";s:8:"Berkeley";}

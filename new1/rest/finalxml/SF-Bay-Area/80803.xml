@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>80803</field>
+<field name='rid'>United States/CA/Burlingame/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Burlingame</field>
+<field name='address'>1409 Burlingame Ave</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Desserts/Ice Cream</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Burlingame</field>
+<field name='phone'>(650) 348-1204</field>
+<field name='zip'>94010</field>
+<field name='linktext'><![CDATA[www.baskinrobbins.com]]></field>
+<field name='title'>Baskin-Robbins</field>
+<field name='full_neighborhood'>SF-Bay-Area, Burlingame, CA</field>
+<field name='full_city'>Burlingame, CA</field>
+<field name='lat'>37.577502</field>
+<field name='lon'>-122.348291</field>
+</doc>
+</add>

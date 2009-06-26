@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:60:"http://www.urbanspoon.com/r/6/86968/restaurant/Luck-Berkeley";s:4:"name";s:4:"Luck";s:2:"id";s:5:"86968";s:4:"info";s:28:"1428 San Pablo Ave, Berkeley";s:7:"address";s:28:"1428 San Pablo Ave, Berkeley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.877873";s:3:"lon";s:11:"-122.295152";s:9:"neighbour";s:8:"Berkeley";}

@@ -1,0 +1,20 @@
+<add>
+<doc>
+<field name='id'>662303</field>
+<field name='rid'>United States/CA/Berkeley/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Berkeley</field>
+<field name='address'>41 Tunnel Rd</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Berkeley</field>
+<field name='phone'>(510) 549-8549</field>
+<field name='zip'>94705</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Paragon Restaurant &amp; Bar Berkeley</field>
+<field name='full_neighborhood'>SF-Bay-Area, Berkeley, CA</field>
+<field name='full_city'>Berkeley, CA</field>
+<field name='lat'>37.8575</field>
+<field name='lon'>-122.2419</field>
+</doc>
+</add>

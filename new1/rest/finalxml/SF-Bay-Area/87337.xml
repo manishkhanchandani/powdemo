@@ -1,0 +1,23 @@
+<add>
+<doc>
+<field name='id'>87337</field>
+<field name='rid'>United States/CA/Burlingame/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Burlingame</field>
+<field name='address'>1250 Bayshore Hwy</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>American</field>
+<field name='cuisine'>Desserts/Ice Cream</field>
+<field name='cuisine'>Sandwiches/Subs</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Burlingame</field>
+<field name='phone'>(650) 342-6297</field>
+<field name='zip'>94010</field>
+<field name='linktext'><![CDATA[www.maxsworld.com/maxs/locations.php...]]></field>
+<field name='title'>Max's Restaurant &amp; Bar</field>
+<field name='full_neighborhood'>SF-Bay-Area, Burlingame, CA</field>
+<field name='full_city'>Burlingame, CA</field>
+<field name='lat'>37.59178</field>
+<field name='lon'>-122.361482</field>
+</doc>
+</add>

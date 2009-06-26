@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:61:"http://www.urbanspoon.com/r/6/86832/restaurant/Lolas-Berkeley";s:4:"name";s:6:"Lola's";s:2:"id";s:5:"86832";s:4:"info";s:25:"1585 Solano Ave, Berkeley";s:7:"address";s:25:"1585 Solano Ave, Berkeley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.891206";s:3:"lon";s:11:"-122.284914";s:9:"neighbour";s:8:"Berkeley";}

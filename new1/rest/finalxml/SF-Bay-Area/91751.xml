@@ -1,0 +1,22 @@
+<add>
+<doc>
+<field name='id'>91751</field>
+<field name='rid'>United States/CA/Berkeley/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Berkeley</field>
+<field name='address'>3350 Adeline St</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Coffee</field>
+<field name='cuisine'>Bakery</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Berkeley</field>
+<field name='phone'>(510) 985-7381</field>
+<field name='zip'>94703</field>
+<field name='linktext'><![CDATA[www.sweetadelinebakeshop.com]]></field>
+<field name='title'>Sweet Adeline Bakeshop</field>
+<field name='full_neighborhood'>SF-Bay-Area, Berkeley, CA</field>
+<field name='full_city'>Berkeley, CA</field>
+<field name='lat'>37.847952</field>
+<field name='lon'>-122.271844</field>
+</doc>
+</add>

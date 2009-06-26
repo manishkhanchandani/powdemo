@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:69:"http://www.urbanspoon.com/r/6/769348/restaurant/Rice-n-Spice-Berkeley";s:4:"name";s:14:"Rice 'n' Spice";s:2:"id";s:6:"769348";s:4:"info";s:29:"1025 University Ave, Berkeley";s:7:"address";s:29:"1025 University Ave, Berkeley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:5:"37.87";s:3:"lon";s:7:"-122.29";s:9:"neighbour";s:8:"Berkeley";}

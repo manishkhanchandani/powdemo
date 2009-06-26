@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:71:"http://www.urbanspoon.com/r/6/93011/restaurant/Virginia-Bakery-Berkeley";s:4:"name";s:15:"Virginia Bakery";s:2:"id";s:5:"93011";s:4:"info";s:84:"Bakery - <br />
+                <br />
+                  1690 Shattuck Ave, Berkeley";s:5:"info2";s:6:"Bakery";s:7:"address";s:27:"1690 Shattuck Ave, Berkeley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.876844";s:3:"lon";s:9:"-122.2691";s:9:"neighbour";s:8:"Berkeley";}
