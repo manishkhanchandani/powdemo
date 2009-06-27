@@ -1,0 +1,20 @@
+<add>
+<doc>
+<field name='id'>90817</field>
+<field name='rid'>United States/CA/Corte Madera/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Corte Madera</field>
+<field name='address'>1840 Redwood Hwy</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Corte Madera</field>
+<field name='phone'>(415) 924-5689</field>
+<field name='zip'>94925</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Sorabol</field>
+<field name='full_neighborhood'>SF-Bay-Area, Corte Madera, CA</field>
+<field name='full_city'>Corte Madera, CA</field>
+<field name='lat'>37.931311</field>
+<field name='lon'>-122.513305</field>
+</doc>
+</add>

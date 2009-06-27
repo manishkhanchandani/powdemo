@@ -1,0 +1,22 @@
+<add>
+<doc>
+<field name='id'>778396</field>
+<field name='rid'>United States/CA/Corte Madera/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Corte Madera</field>
+<field name='address'>207 Corte Madera Ave</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Wine Bar</field>
+<field name='cuisine'>Tapas</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Corte Madera</field>
+<field name='phone'>(415) 927-9466</field>
+<field name='zip'>94925</field>
+<field name='linktext'><![CDATA[www.rickswinecellar.com]]></field>
+<field name='title'>Rick's Wine Cellar</field>
+<field name='full_neighborhood'>SF-Bay-Area, Corte Madera, CA</field>
+<field name='full_city'>Corte Madera, CA</field>
+<field name='lat'>37.925938</field>
+<field name='lon'>-122.530144</field>
+</doc>
+</add>

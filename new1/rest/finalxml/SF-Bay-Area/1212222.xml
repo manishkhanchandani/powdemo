@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>1212222</field>
+<field name='rid'>United States/CA/Clayton/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Clayton</field>
+<field name='address'>5433 Clayton Rd Ste H</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Pizza</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Clayton</field>
+<field name='phone'>(925) 672-5335</field>
+<field name='zip'>94517</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Papa Murphy's Take 'n' Bake Pizza</field>
+<field name='full_neighborhood'>SF-Bay-Area, Clayton, CA</field>
+<field name='full_city'>Clayton, CA</field>
+<field name='lat'>37.9517</field>
+<field name='lon'>-121.9562</field>
+</doc>
+</add>

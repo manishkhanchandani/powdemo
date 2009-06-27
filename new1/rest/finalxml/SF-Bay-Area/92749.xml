@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>92749</field>
+<field name='rid'>United States/CA/Corte Madera/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Corte Madera</field>
+<field name='address'>207 Corte Madera Town Ctr</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Coffee</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Corte Madera</field>
+<field name='phone'>(415) 927-3571</field>
+<field name='zip'>94925</field>
+<field name='linktext'><![CDATA[www.tullys.com]]></field>
+<field name='title'>Tully's Coffee</field>
+<field name='full_neighborhood'>SF-Bay-Area, Corte Madera, CA</field>
+<field name='full_city'>Corte Madera, CA</field>
+<field name='lat'>37.928429</field>
+<field name='lon'>-122.518096</field>
+</doc>
+</add>

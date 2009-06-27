@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>1212221</field>
+<field name='rid'>United States/CA/Clayton/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Clayton</field>
+<field name='address'>1536 Kirker Pass Rd</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Desserts/Ice Cream</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Clayton</field>
+<field name='phone'>(925) 524-1600</field>
+<field name='zip'>94517</field>
+<field name='linktext'><![CDATA[www.coldstonecreamery.com]]></field>
+<field name='title'>Cold Stone Creamery</field>
+<field name='full_neighborhood'>SF-Bay-Area, Clayton, CA</field>
+<field name='full_city'>Clayton, CA</field>
+<field name='lat'>37.962</field>
+<field name='lon'>-121.9299</field>
+</doc>
+</add>

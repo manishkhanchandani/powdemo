@@ -1,0 +1,23 @@
+<add>
+<doc>
+<field name='id'>92589</field>
+<field name='rid'>United States/CA/San Francisco/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>San Francisco</field>
+<field name='address'>1101 Geary Blvd</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>German</field>
+<field name='cuisine'>American</field>
+<field name='cuisine'>Eastern European</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/San Francisco</field>
+<field name='phone'>(415) 775-4216</field>
+<field name='zip'>94109</field>
+<field name='linktext'><![CDATA[www.tommysjoynt.com]]></field>
+<field name='title'>Tommy's Joynt</field>
+<field name='full_neighborhood'>SF-Bay-Area, San Francisco, CA</field>
+<field name='full_city'>San Francisco, CA</field>
+<field name='lat'>37.785542</field>
+<field name='lon'>-122.421555</field>
+</doc>
+</add>

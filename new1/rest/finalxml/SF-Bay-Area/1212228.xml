@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>1212228</field>
+<field name='rid'>United States/CA/Crockett/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Crockett</field>
+<field name='address'>1207 Pomona St</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Mexican</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Crockett</field>
+<field name='phone'>(510) 787-7768</field>
+<field name='zip'>94525</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Los Arcos Mexican Restaurant</field>
+<field name='full_neighborhood'>SF-Bay-Area, Crockett, CA</field>
+<field name='full_city'>Crockett, CA</field>
+<field name='lat'>38.0523</field>
+<field name='lon'>-122.223</field>
+</doc>
+</add>

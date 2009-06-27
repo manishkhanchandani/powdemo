@@ -1,0 +1,20 @@
+<add>
+<doc>
+<field name='id'>777792</field>
+<field name='rid'>United States/CA/San Francisco/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>San Francisco</field>
+<field name='address'>2295 Gravenstein Hwy </field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/San Francisco</field>
+<field name='phone'>(415) 823-6300</field>
+<field name='zip'></field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Restaurant Eloise</field>
+<field name='full_neighborhood'>SF-Bay-Area, San Francisco, CA</field>
+<field name='full_city'>San Francisco, CA</field>
+<field name='lat'>37.77916</field>
+<field name='lon'>-122.420049</field>
+</doc>
+</add>

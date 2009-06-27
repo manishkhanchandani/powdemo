@@ -1,0 +1,23 @@
+<add>
+<doc>
+<field name='id'>1435177</field>
+<field name='rid'>United States/CA/San Francisco/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>San Francisco</field>
+<field name='address'>425 Ellis St</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Pakistani</field>
+<field name='cuisine'>Halal</field>
+<field name='cuisine'>Indian</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/San Francisco</field>
+<field name='phone'>(415) 345-1028</field>
+<field name='zip'>94102</field>
+<field name='linktext'><![CDATA[www.mytikkamasala.com]]></field>
+<field name='title'>Tikka Masala</field>
+<field name='full_neighborhood'>SF-Bay-Area, San Francisco, CA</field>
+<field name='full_city'>San Francisco, CA</field>
+<field name='lat'>37.784699</field>
+<field name='lon'>-122.413241</field>
+</doc>
+</add>
