@@ -135,6 +135,12 @@ if ($handle = opendir($dirname)) {
 							$info = $Crawler->getHotelListingDetailsLimited($input, $base);
 							if($info) {
 								foreach($info as $k=>$v) {
+									if(file_exists('rest/finalxml/'.$folder.'/'.$v['id'].".xml")) {
+										echo 'rest/finalxml/'.$folder.'/'.$v['id'].".xml";
+										echo "<br>";
+										flush();
+										continue;
+									}
 									$v['folder'] = $folder;		
 									$v['lat'] = $infoMore[$v['id']]['lat'];
 									$v['lon'] = $infoMore[$v['id']]['lon'];
