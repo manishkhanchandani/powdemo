@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:79:"http://www.urbanspoon.com/r/6/1212241/restaurant/Chefs-Chinese-Food-El-Sobrante";s:4:"name";s:19:"Chef's Chinese Food";s:2:"id";s:7:"1212241";s:4:"info";s:98:"Chinese - <br />
+                <br />
+                  3741 San Pablo Dam Rd Ste C, El Sobrante";s:5:"info2";s:7:"Chinese";s:7:"address";s:40:"3741 San Pablo Dam Rd Ste C, El Sobrante";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"37.9648";s:3:"lon";s:9:"-122.3159";s:9:"neighbour";s:11:"El Sobrante";}

@@ -1,0 +1,22 @@
+<add>
+<doc>
+<field name='id'>93448</field>
+<field name='rid'>United States/CA/El Cerrito/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>El Cerrito</field>
+<field name='address'>11866 San Pablo Ave</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Sushi</field>
+<field name='cuisine'>Japanese</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/El Cerrito</field>
+<field name='phone'>(510) 233-0606</field>
+<field name='zip'>94530</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Yusan Sushi</field>
+<field name='full_neighborhood'>SF-Bay-Area, El Cerrito, CA</field>
+<field name='full_city'>El Cerrito, CA</field>
+<field name='lat'>37.929019</field>
+<field name='lon'>-122.320814</field>
+</doc>
+</add>

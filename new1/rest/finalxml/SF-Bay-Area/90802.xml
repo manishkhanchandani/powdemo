@@ -1,0 +1,20 @@
+<add>
+<doc>
+<field name='id'>90802</field>
+<field name='rid'>United States/CA/San Jose/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>San Jose</field>
+<field name='address'>1143 S De Anza Blvd</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/San Jose</field>
+<field name='phone'>(408) 873-1841</field>
+<field name='zip'>95129</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Sonnet 55</field>
+<field name='full_neighborhood'>SF-Bay-Area, San Jose, CA</field>
+<field name='full_city'>San Jose, CA</field>
+<field name='lat'>37.304379</field>
+<field name='lon'>-122.032489</field>
+</doc>
+</add>

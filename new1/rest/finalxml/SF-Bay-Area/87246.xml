@@ -1,0 +1,22 @@
+<add>
+<doc>
+<field name='id'>87246</field>
+<field name='rid'>United States/CA/Daly City/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Daly City</field>
+<field name='address'>5b Serramonte Ctr</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>American</field>
+<field name='cuisine'>Desserts/Ice Cream</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Daly City</field>
+<field name='phone'>(650) 992-9301</field>
+<field name='zip'>94015</field>
+<field name='linktext'><![CDATA[www.mcpies.com]]></field>
+<field name='title'>Marie Callender's</field>
+<field name='full_neighborhood'>SF-Bay-Area, Daly City, CA</field>
+<field name='full_city'>Daly City, CA</field>
+<field name='lat'>37.669537</field>
+<field name='lon'>-122.469172</field>
+</doc>
+</add>

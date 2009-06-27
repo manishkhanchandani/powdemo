@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:80:"http://www.urbanspoon.com/r/6/87359/restaurant/Daly-City/Mayflower-San-Francisco";s:4:"name";s:9:"Mayflower";s:2:"id";s:5:"87359";s:4:"info";s:29:"1422 Ocean Ave, San Francisco";s:7:"address";s:29:"1422 Ocean Ave, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"37.7243";s:3:"lon";s:11:"-122.457616";s:9:"neighbour";s:9:"Daly City";}

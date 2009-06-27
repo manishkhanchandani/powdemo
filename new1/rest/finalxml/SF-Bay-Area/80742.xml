@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>80742</field>
+<field name='rid'>United States/CA/El Cerrito/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>El Cerrito</field>
+<field name='address'>10174 San Pablo Ave</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Vietnamese</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/El Cerrito</field>
+<field name='phone'>(510) 528-8882</field>
+<field name='zip'>94530</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Banh Mi Ba Le</field>
+<field name='full_neighborhood'>SF-Bay-Area, El Cerrito, CA</field>
+<field name='full_city'>El Cerrito, CA</field>
+<field name='lat'>37.9036</field>
+<field name='lon'>-122.303805</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<add>
+<doc>
+<field name='id'>85426</field>
+<field name='rid'>United States/CA/Colma/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Colma</field>
+<field name='address'>7622 Mission St</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Coffee</field>
+<field name='cuisine'>Soups</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Colma</field>
+<field name='phone'>(650) 994-7950</field>
+<field name='zip'>94014</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Jaffa City Coffee &amp; Deli</field>
+<field name='full_neighborhood'>SF-Bay-Area, Colma, CA</field>
+<field name='full_city'>Colma, CA</field>
+<field name='lat'>37.68548</field>
+<field name='lon'>-122.464647</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<add>
+<doc>
+<field name='id'>86870</field>
+<field name='rid'>United States/CA/Daly City/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Daly City</field>
+<field name='address'>5997 Mission St</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Daly City</field>
+<field name='phone'>(415) 337-6022</field>
+<field name='zip'>94014</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Los Antojitos</field>
+<field name='full_neighborhood'>SF-Bay-Area, Daly City, CA</field>
+<field name='full_city'>Daly City, CA</field>
+<field name='lat'>37.707833</field>
+<field name='lon'>-122.455107</field>
+</doc>
+</add>

@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:83:"http://www.urbanspoon.com/r/6/92916/restaurant/Daly-City/Venice-Pizza-San-Francisco";s:4:"name";s:12:"Venice Pizza";s:2:"id";s:5:"92916";s:4:"info";s:86:"Pizza - <br />
+                <br />
+                  5228 Mission St, San Francisco";s:5:"info2";s:5:"Pizza";s:7:"address";s:30:"5228 Mission St, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.715204";s:3:"lon";s:11:"-122.442216";s:9:"neighbour";s:9:"Daly City";}

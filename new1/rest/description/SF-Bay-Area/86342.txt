@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:68:"http://www.urbanspoon.com/r/6/86342/restaurant/La-Pachanga-Daly-City";s:4:"name";s:11:"La Pachanga";s:2:"id";s:5:"86342";s:4:"info";s:23:"2 Chester St, Daly City";s:7:"address";s:23:"2 Chester St, Daly City";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.686247";s:3:"lon";s:11:"-122.459452";s:9:"neighbour";s:9:"Daly City";}

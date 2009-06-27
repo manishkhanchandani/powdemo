@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>82676</field>
+<field name='rid'>United States/CA/Daly City/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Daly City</field>
+<field name='address'>1901 Junipero Serra Blvd</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Desserts/Ice Cream</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Daly City</field>
+<field name='phone'>(650) 992-3889</field>
+<field name='zip'>94014</field>
+<field name='linktext'><![CDATA[www.coldstonecreamery.com]]></field>
+<field name='title'>Cold Stone Creamery</field>
+<field name='full_neighborhood'>SF-Bay-Area, Daly City, CA</field>
+<field name='full_city'>Daly City, CA</field>
+<field name='lat'>37.703428</field>
+<field name='lon'>-122.470626</field>
+</doc>
+</add>

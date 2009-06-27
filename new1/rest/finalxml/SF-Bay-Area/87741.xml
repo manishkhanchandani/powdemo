@@ -1,0 +1,20 @@
+<add>
+<doc>
+<field name='id'>87741</field>
+<field name='rid'>United States/CA/San Francisco/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>San Francisco</field>
+<field name='address'>300 Plymouth Ave</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/San Francisco</field>
+<field name='phone'>(415) 586-8463</field>
+<field name='zip'>94112</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Miss Addy's</field>
+<field name='full_neighborhood'>SF-Bay-Area, San Francisco, CA</field>
+<field name='full_city'>San Francisco, CA</field>
+<field name='lat'>37.713337</field>
+<field name='lon'>-122.455926</field>
+</doc>
+</add>

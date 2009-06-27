@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:67:"http://www.urbanspoon.com/r/6/86050/restaurant/King-Saled-Cupertino";s:4:"name";s:10:"King Saled";s:2:"id";s:5:"86050";s:4:"info";s:31:"10745 S De Anza Blvd, Cupertino";s:7:"address";s:31:"10745 S De Anza Blvd, Cupertino";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.312798";s:3:"lon";s:11:"-122.032572";s:9:"neighbour";s:9:"Cupertino";}

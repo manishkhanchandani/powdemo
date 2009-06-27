@@ -1,0 +1,23 @@
+<add>
+<doc>
+<field name='id'>777228</field>
+<field name='rid'>United States/CA/Daly City/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Daly City</field>
+<field name='address'>7398 Mission St</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Latin American</field>
+<field name='cuisine'>Breakfast/Brunch</field>
+<field name='cuisine'>Tacos</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Daly City</field>
+<field name='phone'>(650) 994-6142</field>
+<field name='zip'>94014</field>
+<field name='linktext'><![CDATA[www.alfinrestaurant.com]]></field>
+<field name='title'>Al Fin Restaurant</field>
+<field name='full_neighborhood'>SF-Bay-Area, Daly City, CA</field>
+<field name='full_city'>Daly City, CA</field>
+<field name='lat'>37.68997</field>
+<field name='lon'>-122.466118</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<add>
+<doc>
+<field name='id'>88730</field>
+<field name='rid'>United States/CA/Daly City/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Daly City</field>
+<field name='address'>86 Serramonte Ctr</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Chinese</field>
+<field name='cuisine'>Fast Food</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Daly City</field>
+<field name='phone'>(650) 991-8868</field>
+<field name='zip'>94015</field>
+<field name='linktext'><![CDATA[www.pandaexpress.com]]></field>
+<field name='title'>Panda Express</field>
+<field name='full_neighborhood'>SF-Bay-Area, Daly City, CA</field>
+<field name='full_city'>Daly City, CA</field>
+<field name='lat'>37.671994</field>
+<field name='lon'>-122.467656</field>
+</doc>
+</add>

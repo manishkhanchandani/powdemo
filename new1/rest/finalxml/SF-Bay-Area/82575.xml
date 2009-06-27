@@ -1,0 +1,20 @@
+<add>
+<doc>
+<field name='id'>82575</field>
+<field name='rid'>United States/CA/Daly City/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Daly City</field>
+<field name='address'>6259 Mission St</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Daly City</field>
+<field name='phone'>(650) 758-4500</field>
+<field name='zip'>94014</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Claire Pastries &amp;</field>
+<field name='full_neighborhood'>SF-Bay-Area, Daly City, CA</field>
+<field name='full_city'>Daly City, CA</field>
+<field name='lat'>37.706263</field>
+<field name='lon'>-122.460061</field>
+</doc>
+</add>

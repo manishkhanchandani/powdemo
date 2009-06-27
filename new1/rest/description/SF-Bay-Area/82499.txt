@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:73:"http://www.urbanspoon.com/r/6/82499/restaurant/Churchs-Chicken-El-Cerrito";s:4:"name";s:16:"Church's Chicken";s:2:"id";s:5:"82499";s:4:"info";s:125:"Fast Food, Southern &amp; Soul and American - <br />
+                <br />
+                  11575 San Pablo Ave, El Cerrito";s:5:"info2";s:43:"Fast Food, Southern &amp; Soul and American";s:7:"address";s:31:"11575 San Pablo Ave, El Cerrito";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.924842";s:3:"lon";s:11:"-122.318296";s:9:"neighbour";s:10:"El Cerrito";}

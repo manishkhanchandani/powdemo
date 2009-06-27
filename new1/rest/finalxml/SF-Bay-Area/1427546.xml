@@ -1,0 +1,22 @@
+<add>
+<doc>
+<field name='id'>1427546</field>
+<field name='rid'>United States/CA/El Cerrito/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>El Cerrito</field>
+<field name='address'>10070 San Pablo Avenue</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Wine Bar</field>
+<field name='cuisine'>Pub Food</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/El Cerrito</field>
+<field name='phone'>(510) 814-2400</field>
+<field name='zip'>94530</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>The It Club</field>
+<field name='full_neighborhood'>SF-Bay-Area, El Cerrito, CA</field>
+<field name='full_city'>El Cerrito, CA</field>
+<field name='lat'>37.901848</field>
+<field name='lon'>-122.302987</field>
+</doc>
+</add>

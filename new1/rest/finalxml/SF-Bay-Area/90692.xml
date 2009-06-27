@@ -1,0 +1,20 @@
+<add>
+<doc>
+<field name='id'>90692</field>
+<field name='rid'>United States/CA/Cupertino/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Cupertino</field>
+<field name='address'>10885 N Wolfe Rd</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Cupertino</field>
+<field name='phone'>(408) 873-7228</field>
+<field name='zip'>95014</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Silver Wing</field>
+<field name='full_neighborhood'>SF-Bay-Area, Cupertino, CA</field>
+<field name='full_city'>Cupertino, CA</field>
+<field name='lat'>37.335533</field>
+<field name='lon'>-122.014372</field>
+</doc>
+</add>

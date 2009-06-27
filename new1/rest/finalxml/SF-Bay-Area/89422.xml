@@ -1,0 +1,22 @@
+<add>
+<doc>
+<field name='id'>89422</field>
+<field name='rid'>United States/CA/San Francisco/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>San Francisco</field>
+<field name='address'>890 Geneva Ave</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Fast Food</field>
+<field name='cuisine'>Southern &amp; Soul</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/San Francisco</field>
+<field name='phone'>(415) 239-2089</field>
+<field name='zip'>94112</field>
+<field name='linktext'><![CDATA[www.popeyes.com]]></field>
+<field name='title'>Popeyes Chicken and Biscuits</field>
+<field name='full_neighborhood'>SF-Bay-Area, San Francisco, CA</field>
+<field name='full_city'>San Francisco, CA</field>
+<field name='lat'>37.716537</field>
+<field name='lon'>-122.441256</field>
+</doc>
+</add>

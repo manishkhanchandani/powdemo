@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>84381</field>
+<field name='rid'>United States/CA/Sunnyvale/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Sunnyvale</field>
+<field name='address'>1677 Hollenbeck Ave</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Chinese</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Sunnyvale</field>
+<field name='phone'>(408) 733-0877</field>
+<field name='zip'>94087</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Golden Wok</field>
+<field name='full_neighborhood'>SF-Bay-Area, Sunnyvale, CA</field>
+<field name='full_city'>Sunnyvale, CA</field>
+<field name='lat'>37.338804</field>
+<field name='lon'>-122.041572</field>
+</doc>
+</add>

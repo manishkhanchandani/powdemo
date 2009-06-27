@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:69:"http://www.urbanspoon.com/r/6/80539/restaurant/Asqew-Grill-Emeryville";s:4:"name";s:11:"Asqew Grill";s:2:"id";s:5:"80539";s:4:"info";s:82:"Barbecue - <br />
+                <br />
+                  5614 Bay St, Emeryville";s:5:"info2";s:8:"Barbecue";s:7:"address";s:23:"5614 Bay St, Emeryville";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.834107";s:3:"lon";s:11:"-122.291969";s:9:"neighbour";s:10:"Emeryville";}

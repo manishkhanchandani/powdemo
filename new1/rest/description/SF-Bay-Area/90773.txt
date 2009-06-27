@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:77:"http://www.urbanspoon.com/r/6/90773/restaurant/Cupertino/Sogo-Bakery-San-Jose";s:4:"name";s:11:"Sogo Bakery";s:2:"id";s:5:"90773";s:4:"info";s:86:"Bakery - <br />
+                <br />
+                  1600 S De Anza Blvd, San Jose";s:5:"info2";s:6:"Bakery";s:7:"address";s:29:"1600 S De Anza Blvd, San Jose";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.295314";s:3:"lon";s:11:"-122.032026";s:9:"neighbour";s:9:"Cupertino";}

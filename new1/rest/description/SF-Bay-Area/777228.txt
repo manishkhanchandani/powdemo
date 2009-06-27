@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:75:"http://www.urbanspoon.com/r/6/777228/restaurant/Al-Fin-Restaurant-Daly-City";s:4:"name";s:17:"Al Fin Restaurant";s:2:"id";s:6:"777228";s:4:"info";s:119:"Latin American, Tacos and Breakfast/Brunch - <br />
+                <br />
+                  7398 Mission St, Daly City";s:5:"info2";s:42:"Latin American, Tacos and Breakfast/Brunch";s:7:"address";s:26:"7398 Mission St, Daly City";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:8:"37.68997";s:3:"lon";s:11:"-122.466118";s:9:"neighbour";s:9:"Daly City";}

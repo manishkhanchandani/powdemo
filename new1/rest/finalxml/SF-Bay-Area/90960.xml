@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>90960</field>
+<field name='rid'>United States/CA/Cupertino/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Cupertino</field>
+<field name='address'>11111 N Wolfe Rd</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Coffee</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Cupertino</field>
+<field name='phone'>(408) 863-1276</field>
+<field name='zip'>95014</field>
+<field name='linktext'><![CDATA[www.starbucks.com]]></field>
+<field name='title'>Starbucks</field>
+<field name='full_neighborhood'>SF-Bay-Area, Cupertino, CA</field>
+<field name='full_city'>Cupertino, CA</field>
+<field name='lat'>37.336994</field>
+<field name='lon'>-122.014372</field>
+</doc>
+</add>

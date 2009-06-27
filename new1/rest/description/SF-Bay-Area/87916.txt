@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:64:"http://www.urbanspoon.com/r/6/87916/restaurant/Mr-Chen-Daly-City";s:4:"name";s:7:"Mr Chen";s:2:"id";s:5:"87916";s:4:"info";s:26:"6860 Mission St, Daly City";s:7:"address";s:26:"6860 Mission St, Daly City";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.698359";s:3:"lon";s:11:"-122.464422";s:9:"neighbour";s:9:"Daly City";}

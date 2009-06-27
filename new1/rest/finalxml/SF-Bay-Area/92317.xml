@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>92317</field>
+<field name='rid'>United States/CA/San Jose/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>San Jose</field>
+<field name='address'>1231 Kentwood Ave</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Thai</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/San Jose</field>
+<field name='phone'>(408) 255-3429</field>
+<field name='zip'>95129</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Thai Bistro</field>
+<field name='full_neighborhood'>SF-Bay-Area, San Jose, CA</field>
+<field name='full_city'>San Jose, CA</field>
+<field name='lat'>37.303806</field>
+<field name='lon'>-122.033802</field>
+</doc>
+</add>

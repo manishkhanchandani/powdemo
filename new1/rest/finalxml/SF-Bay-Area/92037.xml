@@ -1,0 +1,20 @@
+<add>
+<doc>
+<field name='id'>92037</field>
+<field name='rid'>United States/CA/Daly City/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Daly City</field>
+<field name='address'>32 Park Plaza Dr</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Daly City</field>
+<field name='phone'>(650) 992-1701</field>
+<field name='zip'>94015</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Tani's Kitchen</field>
+<field name='full_neighborhood'>SF-Bay-Area, Daly City, CA</field>
+<field name='full_city'>Daly City, CA</field>
+<field name='lat'>37.701317</field>
+<field name='lon'>-122.481994</field>
+</doc>
+</add>

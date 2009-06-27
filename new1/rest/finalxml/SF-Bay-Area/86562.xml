@@ -1,0 +1,20 @@
+<add>
+<doc>
+<field name='id'>86562</field>
+<field name='rid'>United States/CA/Daly City/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Daly City</field>
+<field name='address'>6045 Mission St</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Daly City</field>
+<field name='phone'>(415) 585-8685</field>
+<field name='zip'>94014</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Le Petit Cafe</field>
+<field name='full_neighborhood'>SF-Bay-Area, Daly City, CA</field>
+<field name='full_city'>Daly City, CA</field>
+<field name='lat'>37.70759</field>
+<field name='lon'>-122.455841</field>
+</doc>
+</add>

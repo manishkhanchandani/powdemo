@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:62:"http://www.urbanspoon.com/r/6/93036/restaurant/Vivis-Cupertino";s:4:"name";s:6:"Vivi's";s:2:"id";s:5:"93036";s:4:"info";s:120:"Middle Eastern, American and Pizza - <br />
+                <br />
+                  21731 Stevens Creek Blvd, Cupertino";s:5:"info2";s:34:"Middle Eastern, American and Pizza";s:7:"address";s:35:"21731 Stevens Creek Blvd, Cupertino";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.323037";s:3:"lon";s:11:"-122.054732";s:9:"neighbour";s:9:"Cupertino";}

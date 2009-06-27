@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>82693</field>
+<field name='rid'>United States/CA/Emeryville/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Emeryville</field>
+<field name='address'>5609 Bay St</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Desserts/Ice Cream</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Emeryville</field>
+<field name='phone'>(510) 428-9655</field>
+<field name='zip'>94608</field>
+<field name='linktext'><![CDATA[www.coldstonecreamery.com]]></field>
+<field name='title'>Cold Stone Creamery</field>
+<field name='full_neighborhood'>SF-Bay-Area, Emeryville, CA</field>
+<field name='full_city'>Emeryville, CA</field>
+<field name='lat'>37.833991</field>
+<field name='lon'>-122.292305</field>
+</doc>
+</add>

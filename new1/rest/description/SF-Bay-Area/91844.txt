@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:66:"http://www.urbanspoon.com/r/6/91844/restaurant/Taco-Bell-Cupertino";s:4:"name";s:9:"Taco Bell";s:2:"id";s:5:"91844";s:4:"info";s:110:"Tacos, Mexican and Fast Food - <br />
+                <br />
+                  10710 S De Anza Blvd, Cupertino";s:5:"info2";s:28:"Tacos, Mexican and Fast Food";s:7:"address";s:31:"10710 S De Anza Blvd, Cupertino";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.313088";s:3:"lon";s:11:"-122.032026";s:9:"neighbour";s:9:"Cupertino";}

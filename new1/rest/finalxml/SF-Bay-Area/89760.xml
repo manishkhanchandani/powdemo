@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>89760</field>
+<field name='rid'>United States/CA/El Cerrito/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>El Cerrito</field>
+<field name='address'>11900 San Pablo Ave</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Fast Food</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/El Cerrito</field>
+<field name='phone'>(510) 236-9462</field>
+<field name='zip'>94530</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Red Onion</field>
+<field name='full_neighborhood'>SF-Bay-Area, El Cerrito, CA</field>
+<field name='full_city'>El Cerrito, CA</field>
+<field name='lat'>37.929786</field>
+<field name='lon'>-122.321363</field>
+</doc>
+</add>

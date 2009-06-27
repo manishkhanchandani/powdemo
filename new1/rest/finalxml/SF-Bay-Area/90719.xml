@@ -1,0 +1,23 @@
+<add>
+<doc>
+<field name='id'>90719</field>
+<field name='rid'>United States/CA/Daly City/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Daly City</field>
+<field name='address'>372 Gellert Blvd</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Seafood</field>
+<field name='cuisine'>American</field>
+<field name='cuisine'>Steakhouse</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Daly City</field>
+<field name='phone'>(650) 992-1028</field>
+<field name='zip'>94015</field>
+<field name='linktext'><![CDATA[www.sizzler.com]]></field>
+<field name='title'>Sizzler</field>
+<field name='full_neighborhood'>SF-Bay-Area, Daly City, CA</field>
+<field name='full_city'>Daly City, CA</field>
+<field name='lat'>37.665865</field>
+<field name='lon'>-122.468978</field>
+</doc>
+</add>

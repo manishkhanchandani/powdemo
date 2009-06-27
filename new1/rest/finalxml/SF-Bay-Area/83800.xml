@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>83800</field>
+<field name='rid'>United States/CA/San Jose/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>San Jose</field>
+<field name='address'>1554 S De Anza Blvd</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Pizza</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/San Jose</field>
+<field name='phone'>(408) 973-1414</field>
+<field name='zip'>95129</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Fast Pizza Delivery</field>
+<field name='full_neighborhood'>SF-Bay-Area, San Jose, CA</field>
+<field name='full_city'>San Jose, CA</field>
+<field name='lat'>37.295764</field>
+<field name='lon'>-122.032026</field>
+</doc>
+</add>

@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:87:"http://www.urbanspoon.com/r/6/84654/restaurant/Daly-City/Hang-Fook-Bakery-San-Francisco";s:4:"name";s:22:"Hang Fook Bakery &amp;";s:2:"id";s:5:"84654";s:4:"info";s:86:"Bakery - <br />
+                <br />
+                  1325 Ocean Ave, San Francisco";s:5:"info2";s:6:"Bakery";s:7:"address";s:29:"1325 Ocean Ave, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.723905";s:3:"lon";s:11:"-122.456789";s:9:"neighbour";s:9:"Daly City";}

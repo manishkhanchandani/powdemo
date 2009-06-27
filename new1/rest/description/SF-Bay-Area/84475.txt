@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:75:"http://www.urbanspoon.com/r/6/84475/restaurant/Granny-Engs-Bakers-Daly-City";s:4:"name";s:19:"Granny Eng's Bakers";s:2:"id";s:5:"84475";s:4:"info";s:31:"393 Lake Merced Blvd, Daly City";s:7:"address";s:31:"393 Lake Merced Blvd, Daly City";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.697963";s:3:"lon";s:11:"-122.483035";s:9:"neighbour";s:9:"Daly City";}

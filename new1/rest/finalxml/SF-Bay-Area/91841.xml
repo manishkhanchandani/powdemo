@@ -1,0 +1,23 @@
+<add>
+<doc>
+<field name='id'>91841</field>
+<field name='rid'>United States/CA/Daly City/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Daly City</field>
+<field name='address'>1 Serramonte Ctr</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Tacos</field>
+<field name='cuisine'>Fast Food</field>
+<field name='cuisine'>Mexican</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Daly City</field>
+<field name='phone'>(650) 994-5578</field>
+<field name='zip'>94015</field>
+<field name='linktext'><![CDATA[www.tacobell.com]]></field>
+<field name='title'>Taco Bell</field>
+<field name='full_neighborhood'>SF-Bay-Area, Daly City, CA</field>
+<field name='full_city'>Daly City, CA</field>
+<field name='lat'>37.674137</field>
+<field name='lon'>-122.470788</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<add>
+<doc>
+<field name='id'>80713</field>
+<field name='rid'>United States/CA/Daly City/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Daly City</field>
+<field name='address'>311 Lake Merced Blvd</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Malaysian</field>
+<field name='cuisine'>Thai</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Daly City</field>
+<field name='phone'>(650) 756-6868</field>
+<field name='zip'>94015</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Banana Island</field>
+<field name='full_neighborhood'>SF-Bay-Area, Daly City, CA</field>
+<field name='full_city'>Daly City, CA</field>
+<field name='lat'>37.699164</field>
+<field name='lon'>-122.483591</field>
+</doc>
+</add>
