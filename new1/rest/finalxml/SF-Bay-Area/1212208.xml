@@ -1,0 +1,20 @@
+<add>
+<doc>
+<field name='id'>1212208</field>
+<field name='rid'>United States/CA/Castro Valley/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Castro Valley</field>
+<field name='address'>2660 Castro Valley Blvd</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Castro Valley</field>
+<field name='phone'>(510) 581-4820</field>
+<field name='zip'>94546</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Valley Inn</field>
+<field name='full_neighborhood'>SF-Bay-Area, Castro Valley, CA</field>
+<field name='full_city'>Castro Valley, CA</field>
+<field name='lat'>37.6939</field>
+<field name='lon'>-122.0876</field>
+</doc>
+</add>

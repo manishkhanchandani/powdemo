@@ -1,0 +1,20 @@
+<add>
+<doc>
+<field name='id'>82559</field>
+<field name='rid'>United States/CA/San Francisco/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>San Francisco</field>
+<field name='address'>400 Van Ness Ave</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/San Francisco</field>
+<field name='phone'>(415) 701-1061</field>
+<field name='zip'>94102</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>City Hall Cafe</field>
+<field name='full_neighborhood'>SF-Bay-Area, San Francisco, CA</field>
+<field name='full_city'>San Francisco, CA</field>
+<field name='lat'>37.779223</field>
+<field name='lon'>-122.419878</field>
+</doc>
+</add>

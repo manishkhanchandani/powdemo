@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:82:"http://www.urbanspoon.com/r/6/90207/restaurant/Chinatown/Sabra-Grill-San-Francisco";s:4:"name";s:11:"Sabra Grill";s:2:"id";s:5:"90207";s:4:"info";s:103:"Kosher and Mediterranean - <br />
+                <br />
+                  419 Grant Ave, San Francisco";s:5:"info2";s:24:"Kosher and Mediterranean";s:7:"address";s:28:"419 Grant Ave, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.790834";s:3:"lon";s:11:"-122.405726";s:9:"neighbour";s:9:"Chinatown";}

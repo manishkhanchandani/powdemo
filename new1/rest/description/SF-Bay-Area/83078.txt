@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:62:"http://www.urbanspoon.com/r/6/83078/restaurant/Dennys-Campbell";s:4:"name";s:7:"Denny's";s:2:"id";s:5:"83078";s:4:"info";s:104:"American, Coffee and Diner - <br />
+                <br />
+                  2060 S Bascom Ave, Campbell";s:5:"info2";s:26:"American, Coffee and Diner";s:7:"address";s:27:"2060 S Bascom Ave, Campbell";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.285718";s:3:"lon";s:11:"-121.931527";s:9:"neighbour";s:8:"Campbell";}

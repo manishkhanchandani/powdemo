@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>81679</field>
+<field name='rid'>United States/CA/San Francisco/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>San Francisco</field>
+<field name='address'>357 Kearny St</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Pizza</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/San Francisco</field>
+<field name='phone'>(415) 397-5850</field>
+<field name='zip'>94108</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Cafe Mediterraneo</field>
+<field name='full_neighborhood'>SF-Bay-Area, San Francisco, CA</field>
+<field name='full_city'>San Francisco, CA</field>
+<field name='lat'>37.791275</field>
+<field name='lon'>-122.40428</field>
+</doc>
+</add>

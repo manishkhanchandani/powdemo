@@ -1,0 +1,22 @@
+<add>
+<doc>
+<field name='id'>91243</field>
+<field name='rid'>United States/CA/Burlingame/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Burlingame</field>
+<field name='address'>333 California Dr</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Pub Food</field>
+<field name='cuisine'>California</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Burlingame</field>
+<field name='phone'>(650) 344-6050</field>
+<field name='zip'>94010</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Steelhead Brewing</field>
+<field name='full_neighborhood'>SF-Bay-Area, Burlingame, CA</field>
+<field name='full_city'>Burlingame, CA</field>
+<field name='lat'>37.580109</field>
+<field name='lon'>-122.346341</field>
+</doc>
+</add>

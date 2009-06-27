@@ -1,0 +1,22 @@
+<add>
+<doc>
+<field name='id'>82629</field>
+<field name='rid'>United States/CA/San Francisco/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>San Francisco</field>
+<field name='address'>773 Market St</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Coffee</field>
+<field name='cuisine'>Diner</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/San Francisco</field>
+<field name='phone'>(415) 896-5029</field>
+<field name='zip'>94103</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Coffee Bean &amp; Tea Leaf</field>
+<field name='full_neighborhood'>SF-Bay-Area, San Francisco, CA</field>
+<field name='full_city'>San Francisco, CA</field>
+<field name='lat'>37.786084</field>
+<field name='lon'>-122.405208</field>
+</doc>
+</add>

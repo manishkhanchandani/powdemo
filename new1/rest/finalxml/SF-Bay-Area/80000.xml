@@ -1,0 +1,22 @@
+<add>
+<doc>
+<field name='id'>80000</field>
+<field name='rid'>United States/CA/San Francisco/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>San Francisco</field>
+<field name='address'>868 Market St</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>American</field>
+<field name='cuisine'>Sandwiches/Subs</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/San Francisco</field>
+<field name='phone'>(866) 942-4272</field>
+<field name='zip'>94102</field>
+<field name='linktext'><![CDATA[www.wichcraftnyc.com/LH-san-francisco]]></field>
+<field name='title'>'Wichcraft</field>
+<field name='full_neighborhood'>SF-Bay-Area, San Francisco, CA</field>
+<field name='full_city'>San Francisco, CA</field>
+<field name='lat'>37.784866</field>
+<field name='lon'>-122.407237</field>
+</doc>
+</add>

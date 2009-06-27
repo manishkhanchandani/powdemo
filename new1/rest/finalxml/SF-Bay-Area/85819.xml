@@ -1,0 +1,22 @@
+<add>
+<doc>
+<field name='id'>85819</field>
+<field name='rid'>United States/CA/San Jose/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>San Jose</field>
+<field name='address'>3144 S Bascom Ave</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Fast Food</field>
+<field name='cuisine'>American</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/San Jose</field>
+<field name='phone'>(408) 371-0944</field>
+<field name='zip'>95124</field>
+<field name='linktext'><![CDATA[www.kfc.com]]></field>
+<field name='title'>KFC</field>
+<field name='full_neighborhood'>SF-Bay-Area, San Jose, CA</field>
+<field name='full_city'>San Jose, CA</field>
+<field name='lat'>37.266362</field>
+<field name='lon'>-121.940647</field>
+</doc>
+</add>

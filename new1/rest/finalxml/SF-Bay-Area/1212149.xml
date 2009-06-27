@@ -1,0 +1,20 @@
+<add>
+<doc>
+<field name='id'>1212149</field>
+<field name='rid'>United States/CA/Castro Valley/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Castro Valley</field>
+<field name='address'>20710 Rutledge Rd</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Castro Valley</field>
+<field name='phone'>(510) 537-6679</field>
+<field name='zip'>94546</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Doucet Saloon</field>
+<field name='full_neighborhood'>SF-Bay-Area, Castro Valley, CA</field>
+<field name='full_city'>Castro Valley, CA</field>
+<field name='lat'>37.6946</field>
+<field name='lon'>-122.085</field>
+</doc>
+</add>

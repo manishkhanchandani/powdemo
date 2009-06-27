@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:82:"http://www.urbanspoon.com/r/6/661783/restaurant/Civic-Center/Breezys-San-Francisco";s:4:"name";s:8:"Breezy's";s:2:"id";s:6:"661783";s:4:"info";s:27:"409 Gough St, San Francisco";s:7:"address";s:27:"409 Gough St, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"37.7769";s:3:"lon";s:8:"-122.423";s:9:"neighbour";s:12:"Civic Center";}

@@ -1,0 +1,20 @@
+<add>
+<doc>
+<field name='id'>93349</field>
+<field name='rid'>United States/CA/Los Gatos/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Los Gatos</field>
+<field name='address'>14107 Winchester Blvd</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Los Gatos</field>
+<field name='phone'>(408) 370-2032</field>
+<field name='zip'>95032</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Yeung Shing</field>
+<field name='full_neighborhood'>SF-Bay-Area, Los Gatos, CA</field>
+<field name='full_city'>Los Gatos, CA</field>
+<field name='lat'>37.262176</field>
+<field name='lon'>-121.961898</field>
+</doc>
+</add>

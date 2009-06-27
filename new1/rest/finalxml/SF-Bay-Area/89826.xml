@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>89826</field>
+<field name='rid'>United States/CA/Campbell/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Campbell</field>
+<field name='address'>1740 Winchester Blvd</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Mediterranean</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Campbell</field>
+<field name='phone'>(408) 379-1126</field>
+<field name='zip'>95008</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Restaurant Nevsky</field>
+<field name='full_neighborhood'>SF-Bay-Area, Campbell, CA</field>
+<field name='full_city'>Campbell, CA</field>
+<field name='lat'>37.292361</field>
+<field name='lon'>-121.949726</field>
+</doc>
+</add>

@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>1446692</field>
+<field name='rid'>United States/CA/Los Gatos/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Los Gatos</field>
+<field name='address'>14103 Winchester Blvd Ste C</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>French</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Los Gatos</field>
+<field name='phone'>(408) 378-2233</field>
+<field name='zip'>95032</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Le Maison Du Cafe</field>
+<field name='full_neighborhood'>SF-Bay-Area, Los Gatos, CA</field>
+<field name='full_city'>Los Gatos, CA</field>
+<field name='lat'>37.262659</field>
+<field name='lon'>-121.961519</field>
+</doc>
+</add>

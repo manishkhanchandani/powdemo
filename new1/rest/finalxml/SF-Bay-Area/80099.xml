@@ -1,0 +1,22 @@
+<add>
+<doc>
+<field name='id'>80099</field>
+<field name='rid'>United States/CA/San Francisco/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>San Francisco</field>
+<field name='address'>468 Castro St</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Sandwiches/Subs</field>
+<field name='cuisine'>Italian</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/San Francisco</field>
+<field name='phone'>(415) 255-6590</field>
+<field name='zip'>94114</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>A.G. Ferrari Foods</field>
+<field name='full_neighborhood'>SF-Bay-Area, San Francisco, CA</field>
+<field name='full_city'>San Francisco, CA</field>
+<field name='lat'>37.761473</field>
+<field name='lon'>-122.43524</field>
+</doc>
+</add>

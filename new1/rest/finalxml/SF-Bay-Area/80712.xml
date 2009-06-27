@@ -1,0 +1,20 @@
+<add>
+<doc>
+<field name='id'>80712</field>
+<field name='rid'>United States/CA/San Francisco/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>San Francisco</field>
+<field name='address'>321 Kearny St</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/San Francisco</field>
+<field name='phone'>(415) 981-9090</field>
+<field name='zip'>94108</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Banana House</field>
+<field name='full_neighborhood'>SF-Bay-Area, San Francisco, CA</field>
+<field name='full_city'>San Francisco, CA</field>
+<field name='lat'>37.791047</field>
+<field name='lon'>-122.404229</field>
+</doc>
+</add>

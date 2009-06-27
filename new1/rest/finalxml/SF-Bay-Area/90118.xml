@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>90118</field>
+<field name='rid'>United States/CA/Burlingame/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Burlingame</field>
+<field name='address'>1090 Burlingame Ave</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Donuts</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Burlingame</field>
+<field name='phone'>(650) 344-7854</field>
+<field name='zip'>94010</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Royal Donut Shop</field>
+<field name='full_neighborhood'>SF-Bay-Area, Burlingame, CA</field>
+<field name='full_city'>Burlingame, CA</field>
+<field name='lat'>37.580632</field>
+<field name='lon'>-122.34442</field>
+</doc>
+</add>

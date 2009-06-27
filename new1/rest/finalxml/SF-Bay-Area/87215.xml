@@ -1,0 +1,20 @@
+<add>
+<doc>
+<field name='id'>87215</field>
+<field name='rid'>United States/CA/Los Gatos/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Los Gatos</field>
+<field name='address'>14109 Winchester Blvd</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Los Gatos</field>
+<field name='phone'>(408) 374-1717</field>
+<field name='zip'>95032</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Marbella</field>
+<field name='full_neighborhood'>SF-Bay-Area, Los Gatos, CA</field>
+<field name='full_city'>Los Gatos, CA</field>
+<field name='lat'>37.261892</field>
+<field name='lon'>-121.962141</field>
+</doc>
+</add>

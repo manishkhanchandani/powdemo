@@ -1,0 +1,22 @@
+<add>
+<doc>
+<field name='id'>1212207</field>
+<field name='rid'>United States/CA/Castro Valley/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Castro Valley</field>
+<field name='address'>3676 Castro Valley Blvd</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Pizza</field>
+<field name='cuisine'>Mediterranean</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Castro Valley</field>
+<field name='phone'>(510) 888-6111</field>
+<field name='zip'>94546</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Villa Roma Pizza</field>
+<field name='full_neighborhood'>SF-Bay-Area, Castro Valley, CA</field>
+<field name='full_city'>Castro Valley, CA</field>
+<field name='lat'>37.695</field>
+<field name='lon'>-122.0716</field>
+</doc>
+</add>

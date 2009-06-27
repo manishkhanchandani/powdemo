@@ -1,0 +1,23 @@
+<add>
+<doc>
+<field name='id'>334723</field>
+<field name='rid'>United States/CA/Burlingame/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Burlingame</field>
+<field name='address'>410 Airport Blvd</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Seafood</field>
+<field name='cuisine'>American</field>
+<field name='cuisine'>Organic</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Burlingame</field>
+<field name='phone'>(650) 344-7447</field>
+<field name='zip'>94010</field>
+<field name='linktext'><![CDATA[www.theshermanrestaurant.com]]></field>
+<field name='title'>The Sherman</field>
+<field name='full_neighborhood'>SF-Bay-Area, Burlingame, CA</field>
+<field name='full_city'>Burlingame, CA</field>
+<field name='lat'>37.591136</field>
+<field name='lon'>-122.337568</field>
+</doc>
+</add>

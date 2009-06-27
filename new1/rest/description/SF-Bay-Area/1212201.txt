@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:78:"http://www.urbanspoon.com/r/6/1212201/restaurant/Sweet-Abundance-Castro-Valley";s:4:"name";s:15:"Sweet Abundance";s:2:"id";s:7:"1212201";s:4:"info";s:31:"5310 Woodbury Dr, Castro Valley";s:7:"address";s:31:"5310 Woodbury Dr, Castro Valley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"37.6858";s:3:"lon";s:9:"-122.0393";s:9:"neighbour";s:13:"Castro Valley";}

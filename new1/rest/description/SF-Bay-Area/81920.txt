@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:68:"http://www.urbanspoon.com/r/6/81920/restaurant/Campbell-Inn-Campbell";s:4:"name";s:12:"Campbell Inn";s:2:"id";s:5:"81920";s:4:"info";s:28:"479 E Campbell Ave, Campbell";s:7:"address";s:28:"479 E Campbell Ave, Campbell";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.287237";s:3:"lon";s:11:"-121.941249";s:9:"neighbour";s:8:"Campbell";}

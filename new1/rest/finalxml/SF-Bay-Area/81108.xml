@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>81108</field>
+<field name='rid'>United States/CA/San Francisco/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>San Francisco</field>
+<field name='address'>63 Powell St</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Pizza</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/San Francisco</field>
+<field name='phone'>(415) 982-6168</field>
+<field name='zip'>94102</field>
+<field name='linktext'><![CDATA[www.blondiespizza.com]]></field>
+<field name='title'>Blondie's Pizza</field>
+<field name='full_neighborhood'>SF-Bay-Area, San Francisco, CA</field>
+<field name='full_city'>San Francisco, CA</field>
+<field name='lat'>37.785158</field>
+<field name='lon'>-122.40793</field>
+</doc>
+</add>

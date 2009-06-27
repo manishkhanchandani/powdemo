@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>91041</field>
+<field name='rid'>United States/CA/Campbell/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Campbell</field>
+<field name='address'>1820 W Campbell Ave</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Coffee</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Campbell</field>
+<field name='phone'>(408) 379-2930</field>
+<field name='zip'>95008</field>
+<field name='linktext'><![CDATA[www.starbucks.com]]></field>
+<field name='title'>Starbucks</field>
+<field name='full_neighborhood'>SF-Bay-Area, Campbell, CA</field>
+<field name='full_city'>Campbell, CA</field>
+<field name='lat'>37.285842</field>
+<field name='lon'>-121.982836</field>
+</doc>
+</add>

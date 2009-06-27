@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:104:"http://www.urbanspoon.com/r/6/82118/restaurant/Civic-Center/Center-For-the-Future-of-China-San-Francisco";s:4:"name";s:30:"Center For the Future of China";s:2:"id";s:5:"82118";s:4:"info";s:85:"Chinese - <br />
+                <br />
+                  140 Geary St, San Francisco";s:5:"info2";s:7:"Chinese";s:7:"address";s:27:"140 Geary St, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.787794";s:3:"lon";s:11:"-122.405692";s:9:"neighbour";s:12:"Civic Center";}

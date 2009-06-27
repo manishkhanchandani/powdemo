@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:76:"http://www.urbanspoon.com/r/6/1212180/restaurant/Pizza-Express-Castro-Valley";s:4:"name";s:13:"Pizza Express";s:2:"id";s:7:"1212180";s:4:"info";s:86:"Pizza - <br />
+                <br />
+                  19573 Center St, Castro Valley";s:5:"info2";s:5:"Pizza";s:7:"address";s:30:"19573 Center St, Castro Valley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"37.7014";s:3:"lon";s:9:"-122.0612";s:9:"neighbour";s:13:"Castro Valley";}

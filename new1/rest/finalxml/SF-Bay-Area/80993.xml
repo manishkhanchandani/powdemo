@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>80993</field>
+<field name='rid'>United States/CA/San Jose/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>San Jose</field>
+<field name='address'>3756 S Bascom Ave</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Chinese</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/San Jose</field>
+<field name='phone'>(408) 377-7666</field>
+<field name='zip'>95124</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Best Taste Chinese</field>
+<field name='full_neighborhood'>SF-Bay-Area, San Jose, CA</field>
+<field name='full_city'>San Jose, CA</field>
+<field name='lat'>37.259805</field>
+<field name='lon'>-121.94665</field>
+</doc>
+</add>

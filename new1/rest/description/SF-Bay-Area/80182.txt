@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:87:"http://www.urbanspoon.com/r/6/80182/restaurant/Al-Castello-Ristorante-Italiano-Campbell";s:4:"name";s:31:"Al Castello Ristorante Italiano";s:2:"id";s:5:"80182";s:4:"info";s:95:"Italian and Pizza - <br />
+                <br />
+                  3155 S Bascom Ave, Campbell";s:5:"info2";s:17:"Italian and Pizza";s:7:"address";s:27:"3155 S Bascom Ave, Campbell";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.266081";s:3:"lon";s:11:"-121.941305";s:9:"neighbour";s:8:"Campbell";}

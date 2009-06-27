@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:62:"http://www.urbanspoon.com/r/6/90924/restaurant/Stacks-Campbell";s:4:"name";s:7:"Stacks'";s:2:"id";s:5:"90924";s:4:"info";s:116:"Coffee, Breakfast/Brunch and American - <br />
+                <br />
+                  139 E Campbell Ave, Campbell";s:5:"info2";s:37:"Coffee, Breakfast/Brunch and American";s:7:"address";s:28:"139 E Campbell Ave, Campbell";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.287188";s:3:"lon";s:11:"-121.947561";s:9:"neighbour";s:8:"Campbell";}

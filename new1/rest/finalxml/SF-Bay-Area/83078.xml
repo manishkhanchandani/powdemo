@@ -1,0 +1,23 @@
+<add>
+<doc>
+<field name='id'>83078</field>
+<field name='rid'>United States/CA/Campbell/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Campbell</field>
+<field name='address'>2060 S Bascom Ave</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>American</field>
+<field name='cuisine'>Coffee</field>
+<field name='cuisine'>Diner</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Campbell</field>
+<field name='phone'>(408) 371-7454</field>
+<field name='zip'>95008</field>
+<field name='linktext'><![CDATA[www.dennys.com]]></field>
+<field name='title'>Denny's</field>
+<field name='full_neighborhood'>SF-Bay-Area, Campbell, CA</field>
+<field name='full_city'>Campbell, CA</field>
+<field name='lat'>37.285718</field>
+<field name='lon'>-121.931527</field>
+</doc>
+</add>

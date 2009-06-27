@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:79:"http://www.urbanspoon.com/r/6/80089/restaurant/Chinatown/A-1-Cafe-San-Francisco";s:4:"name";s:8:"A-1 Cafe";s:2:"id";s:5:"80089";s:4:"info";s:26:"779 Clay St, San Francisco";s:7:"address";s:26:"779 Clay St, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.794214";s:3:"lon";s:11:"-122.405969";s:9:"neighbour";s:9:"Chinatown";}

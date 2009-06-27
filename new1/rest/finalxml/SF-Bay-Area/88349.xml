@@ -1,0 +1,20 @@
+<add>
+<doc>
+<field name='id'>88349</field>
+<field name='rid'>United States/CA/Campbell/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Campbell</field>
+<field name='address'>653 E Campbell Ave</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Campbell</field>
+<field name='phone'>(408) 871-2707</field>
+<field name='zip'>95008</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Not Just Cheesecakes</field>
+<field name='full_neighborhood'>SF-Bay-Area, Campbell, CA</field>
+<field name='full_city'>Campbell, CA</field>
+<field name='lat'>37.287237</field>
+<field name='lon'>-121.938371</field>
+</doc>
+</add>

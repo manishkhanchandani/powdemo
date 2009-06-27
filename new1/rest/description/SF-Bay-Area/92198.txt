@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:61:"http://www.urbanspoon.com/r/6/92198/restaurant/Tarka-Campbell";s:4:"name";s:5:"Tarka";s:2:"id";s:5:"92198";s:4:"info";s:23:"1610 Dell Ave, Campbell";s:7:"address";s:23:"1610 Dell Ave, Campbell";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.263415";s:3:"lon";s:11:"-121.956736";s:9:"neighbour";s:8:"Campbell";}

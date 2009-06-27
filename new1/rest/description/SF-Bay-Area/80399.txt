@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:98:"http://www.urbanspoon.com/r/6/80399/restaurant/Civic-Center/Annies-Hot-Dogs-Pretzels-San-Francisco";s:4:"name";s:31:"Annie's Hot Dogs &amp; Pretzels";s:2:"id";s:5:"80399";s:4:"info";s:120:"Hot Dogs, Desserts/Ice Cream and American - <br />
+                <br />
+                  899 Market St, San Francisco";s:5:"info2";s:41:"Hot Dogs, Desserts/Ice Cream and American";s:7:"address";s:28:"899 Market St, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.784111";s:3:"lon";s:11:"-122.408029";s:9:"neighbour";s:12:"Civic Center";}

@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:82:"http://www.urbanspoon.com/r/6/83892/restaurant/Castro/Firewood-Grill-San-Francisco";s:4:"name";s:14:"Firewood Grill";s:2:"id";s:5:"83892";s:4:"info";s:28:"100 Upper Ter, San Francisco";s:7:"address";s:28:"100 Upper Ter, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.765327";s:3:"lon";s:11:"-122.443742";s:9:"neighbour";s:6:"Castro";}

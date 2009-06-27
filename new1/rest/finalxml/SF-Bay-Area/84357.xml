@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>84357</field>
+<field name='rid'>United States/CA/San Francisco/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>San Francisco</field>
+<field name='address'>343 Larkin St</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Vietnamese</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/San Francisco</field>
+<field name='phone'>(415) 346-8889</field>
+<field name='zip'>94102</field>
+<field name='linktext'><![CDATA[www.golden kim tar restaurant.com]]></field>
+<field name='title'>Golden Kim Tar</field>
+<field name='full_neighborhood'>SF-Bay-Area, San Francisco, CA</field>
+<field name='full_city'>San Francisco, CA</field>
+<field name='lat'>37.780875</field>
+<field name='lon'>-122.417204</field>
+</doc>
+</add>

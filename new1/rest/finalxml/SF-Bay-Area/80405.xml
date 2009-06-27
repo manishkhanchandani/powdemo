@@ -1,0 +1,23 @@
+<add>
+<doc>
+<field name='id'>80405</field>
+<field name='rid'>United States/CA/San Francisco/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>San Francisco</field>
+<field name='address'>222 Mason St</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Japanese</field>
+<field name='cuisine'>Steakhouse</field>
+<field name='cuisine'>Sushi</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/San Francisco</field>
+<field name='phone'>(415) 394-1100</field>
+<field name='zip'>94102</field>
+<field name='linktext'><![CDATA[www.restaurantanzu.com]]></field>
+<field name='title'>Anzu</field>
+<field name='full_neighborhood'>SF-Bay-Area, San Francisco, CA</field>
+<field name='full_city'>San Francisco, CA</field>
+<field name='lat'>37.785601</field>
+<field name='lon'>-122.409388</field>
+</doc>
+</add>
