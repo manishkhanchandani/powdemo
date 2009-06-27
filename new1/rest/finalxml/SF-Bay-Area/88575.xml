@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>88575</field>
+<field name='rid'>United States/CA/San Francisco/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>San Francisco</field>
+<field name='address'>845 Market St</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Vietnamese</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/San Francisco</field>
+<field name='phone'>(415) 541-9913</field>
+<field name='zip'>94103</field>
+<field name='linktext'><![CDATA[www.outthedoor.com]]></field>
+<field name='title'>Out the Door</field>
+<field name='full_neighborhood'>SF-Bay-Area, San Francisco, CA</field>
+<field name='full_city'>San Francisco, CA</field>
+<field name='lat'>37.784603</field>
+<field name='lon'>-122.407085</field>
+</doc>
+</add>
