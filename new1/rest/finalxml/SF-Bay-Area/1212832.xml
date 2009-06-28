@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>1212832</field>
+<field name='rid'>United States/CA/Travis Afb/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Travis Afb</field>
+<field name='address'>648 Mather St</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Fast Food</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Travis Afb</field>
+<field name='phone'>(707) 437-4490</field>
+<field name='zip'>94535</field>
+<field name='linktext'><![CDATA[www.popeyes.com]]></field>
+<field name='title'>Popeye's Chicken &amp; Biscuits</field>
+<field name='full_neighborhood'>SF-Bay-Area, Travis Afb, CA</field>
+<field name='full_city'>Travis Afb, CA</field>
+<field name='lat'>38.27</field>
+<field name='lon'>-121.9477</field>
+</doc>
+</add>

@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:80:"http://www.urbanspoon.com/r/6/1212383/restaurant/Favelas-Mexican-Grill-Fairfield";s:4:"name";s:22:"Favela's Mexican Grill";s:2:"id";s:7:"1212383";s:4:"info";s:84:"Mexican - <br />
+                <br />
+                  3334 N Texas St, Fairfield";s:5:"info2";s:7:"Mexican";s:7:"address";s:26:"3334 N Texas St, Fairfield";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"38.2903";s:3:"lon";s:9:"-122.0337";s:9:"neighbour";s:9:"Fairfield";}

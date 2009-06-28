@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:74:"http://www.urbanspoon.com/r/6/1413874/restaurant/In-N-Out-Burger-Fairfield";s:4:"name";s:15:"In-N-Out Burger";s:2:"id";s:7:"1413874";s:4:"info";s:98:"American and Burgers - <br />
+                <br />
+                  1364 Holiday Ln., Fairfield";s:5:"info2";s:20:"American and Burgers";s:7:"address";s:27:"1364 Holiday Ln., Fairfield";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:8:"38.25699";s:3:"lon";s:11:"-122.065117";s:9:"neighbour";s:9:"Fairfield";}

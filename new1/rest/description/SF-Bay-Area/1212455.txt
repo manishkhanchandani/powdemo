@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:84:"http://www.urbanspoon.com/r/6/1212455/restaurant/Mediterranean-Food-Center-Fairfield";s:4:"name";s:25:"Mediterranean Food Center";s:2:"id";s:7:"1212455";s:4:"info";s:23:"823 Texas St, Fairfield";s:7:"address";s:23:"823 Texas St, Fairfield";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"38.2491";s:3:"lon";s:9:"-122.0436";s:9:"neighbour";s:9:"Fairfield";}

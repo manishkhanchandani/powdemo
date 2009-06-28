@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>1212459</field>
+<field name='rid'>United States/CA/Fairfield/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Fairfield</field>
+<field name='address'>321 Texas St</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Burgers</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Fairfield</field>
+<field name='phone'>(707) 429-9888</field>
+<field name='zip'>94533</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Monsoon Burger</field>
+<field name='full_neighborhood'>SF-Bay-Area, Fairfield, CA</field>
+<field name='full_city'>Fairfield, CA</field>
+<field name='lat'>38.2491</field>
+<field name='lon'>-122.0371</field>
+</doc>
+</add>
