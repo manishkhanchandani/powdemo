@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:70:"http://www.urbanspoon.com/r/6/83600/restaurant/Elephant-Bar-Emeryville";s:4:"name";s:12:"Elephant Bar";s:2:"id";s:5:"83600";s:4:"info";s:23:"5601 Bay St, Emeryville";s:7:"address";s:23:"5601 Bay St, Emeryville";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.833844";s:3:"lon";s:11:"-122.292289";s:9:"neighbour";s:10:"Emeryville";}

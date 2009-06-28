@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>88509</field>
+<field name='rid'>United States/CA/Oakland/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Oakland</field>
+<field name='address'>1050 40th St</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Vegetarian</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Oakland</field>
+<field name='phone'>(510) 653-6510</field>
+<field name='zip'>94608</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Organic Cafe</field>
+<field name='full_neighborhood'>SF-Bay-Area, Oakland, CA</field>
+<field name='full_city'>Oakland, CA</field>
+<field name='lat'>37.831338</field>
+<field name='lon'>-122.277379</field>
+</doc>
+</add>

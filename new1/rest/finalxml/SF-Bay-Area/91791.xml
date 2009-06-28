@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>91791</field>
+<field name='rid'>United States/CA/Emeryville/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Emeryville</field>
+<field name='address'>5859 Shellmound St</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Greek</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Emeryville</field>
+<field name='phone'>(510) 654-6575</field>
+<field name='zip'>94608</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Sweis Gyros &amp; Pita</field>
+<field name='full_neighborhood'>SF-Bay-Area, Emeryville, CA</field>
+<field name='full_city'>Emeryville, CA</field>
+<field name='lat'>37.840426</field>
+<field name='lon'>-122.293594</field>
+</doc>
+</add>

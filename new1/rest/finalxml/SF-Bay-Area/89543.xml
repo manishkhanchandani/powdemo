@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>89543</field>
+<field name='rid'>United States/CA/Oakland/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Oakland</field>
+<field name='address'>5325 San Pablo Ave</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Burgers</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Oakland</field>
+<field name='phone'>(510) 655-9665</field>
+<field name='zip'>94608</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Quarter Pound Giant Burgers</field>
+<field name='full_neighborhood'>SF-Bay-Area, Oakland, CA</field>
+<field name='full_city'>Oakland, CA</field>
+<field name='lat'>37.837381</field>
+<field name='lon'>-122.282138</field>
+</doc>
+</add>

@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>88366</field>
+<field name='rid'>United States/CA/Emeryville/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Emeryville</field>
+<field name='address'>1400 Park Ave</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Coffee</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Emeryville</field>
+<field name='phone'>(510) 594-2100</field>
+<field name='zip'>94608</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>O'Dea, Patrick J - Peet's Coffee &amp; Tea</field>
+<field name='full_neighborhood'>SF-Bay-Area, Emeryville, CA</field>
+<field name='full_city'>Emeryville, CA</field>
+<field name='lat'>37.831103</field>
+<field name='lon'>-122.287106</field>
+</doc>
+</add>

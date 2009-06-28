@@ -1,0 +1,23 @@
+<add>
+<doc>
+<field name='id'>87507</field>
+<field name='rid'>United States/CA/Oakland/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Oakland</field>
+<field name='address'>6623 San Pablo Ave</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>American</field>
+<field name='cuisine'>Burgers</field>
+<field name='cuisine'>Fast Food</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Oakland</field>
+<field name='phone'>(510) 655-7620</field>
+<field name='zip'>94608</field>
+<field name='linktext'><![CDATA[www.mcdonalds.com]]></field>
+<field name='title'>McDonald's</field>
+<field name='full_neighborhood'>SF-Bay-Area, Oakland, CA</field>
+<field name='full_city'>Oakland, CA</field>
+<field name='lat'>37.849226</field>
+<field name='lon'>-122.285949</field>
+</doc>
+</add>

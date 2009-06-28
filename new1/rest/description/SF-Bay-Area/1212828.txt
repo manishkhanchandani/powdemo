@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:88:"http://www.urbanspoon.com/r/6/1212828/restaurant/Fairfield/A-Solano-Baking-Co-Travis-Afb";s:4:"name";s:18:"A Solano Baking Co";s:2:"id";s:7:"1212828";s:4:"info";s:20:"Bldg 650, Travis Afb";s:7:"address";s:20:"Bldg 650, Travis Afb";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"38.2584";s:3:"lon";s:8:"-122.041";s:9:"neighbour";s:9:"Fairfield";}

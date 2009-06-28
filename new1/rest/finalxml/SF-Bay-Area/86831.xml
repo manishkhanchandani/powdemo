@@ -1,0 +1,23 @@
+<add>
+<doc>
+<field name='id'>86831</field>
+<field name='rid'>United States/CA/Emeryville/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Emeryville</field>
+<field name='address'>851 60th St</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Southern &amp; Soul</field>
+<field name='cuisine'>American</field>
+<field name='cuisine'>Breakfast/Brunch</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Emeryville</field>
+<field name='phone'>(510) 658-5616</field>
+<field name='zip'>94608</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Lois the Pie Queen</field>
+<field name='full_neighborhood'>SF-Bay-Area, Emeryville, CA</field>
+<field name='full_city'>Emeryville, CA</field>
+<field name='lat'>37.844723</field>
+<field name='lon'>-122.272882</field>
+</doc>
+</add>

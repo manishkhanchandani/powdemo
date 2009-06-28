@@ -1,0 +1,22 @@
+<add>
+<doc>
+<field name='id'>89651</field>
+<field name='rid'>United States/CA/Emeryville/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Emeryville</field>
+<field name='address'>6520 Hollis St</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Soups</field>
+<field name='cuisine'>Sandwiches/Subs</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Emeryville</field>
+<field name='phone'>(510) 653-1600</field>
+<field name='zip'>94608</field>
+<field name='linktext'><![CDATA[www.quiznos.com]]></field>
+<field name='title'>Quiznos Sub</field>
+<field name='full_neighborhood'>SF-Bay-Area, Emeryville, CA</field>
+<field name='full_city'>Emeryville, CA</field>
+<field name='lat'>37.847113</field>
+<field name='lon'>-122.291413</field>
+</doc>
+</add>

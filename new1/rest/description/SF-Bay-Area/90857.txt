@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:77:"http://www.urbanspoon.com/r/6/90857/restaurant/Sparks-Food-Service-Emeryville";s:4:"name";s:19:"Sparks Food Service";s:2:"id";s:5:"90857";s:4:"info";s:23:"5617 Bay St, Emeryville";s:7:"address";s:23:"5617 Bay St, Emeryville";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.834138";s:3:"lon";s:11:"-122.292321";s:9:"neighbour";s:10:"Emeryville";}

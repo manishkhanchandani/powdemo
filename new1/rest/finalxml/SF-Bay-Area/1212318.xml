@@ -1,0 +1,22 @@
+<add>
+<doc>
+<field name='id'>1212318</field>
+<field name='rid'>United States/CA/Fairfield/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Fairfield</field>
+<field name='address'>1450 Travis Blvd</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Mexican</field>
+<field name='cuisine'>Fast Food</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Fairfield</field>
+<field name='phone'>(707) 432-0460</field>
+<field name='zip'>94533</field>
+<field name='linktext'><![CDATA[www.bajafresh.com]]></field>
+<field name='title'>Baja Fresh Mexican Grill</field>
+<field name='full_neighborhood'>SF-Bay-Area, Fairfield, CA</field>
+<field name='full_city'>Fairfield, CA</field>
+<field name='lat'>38.2581</field>
+<field name='lon'>-122.0542</field>
+</doc>
+</add>

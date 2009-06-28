@@ -1,0 +1,22 @@
+<add>
+<doc>
+<field name='id'>85833</field>
+<field name='rid'>United States/CA/Emeryville/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Emeryville</field>
+<field name='address'>4501 San Pablo Ave</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Fast Food</field>
+<field name='cuisine'>American</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Emeryville</field>
+<field name='phone'>(510) 658-0568</field>
+<field name='zip'>94608</field>
+<field name='linktext'><![CDATA[www.kfc.com]]></field>
+<field name='title'>KFC</field>
+<field name='full_neighborhood'>SF-Bay-Area, Emeryville, CA</field>
+<field name='full_city'>Emeryville, CA</field>
+<field name='lat'>37.834706</field>
+<field name='lon'>-122.281309</field>
+</doc>
+</add>

@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>1212327</field>
+<field name='rid'>United States/CA/Fairfield/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Fairfield</field>
+<field name='address'>3069 Travis Blvd</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Desserts/Ice Cream</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Fairfield</field>
+<field name='phone'>(707) 428-3131</field>
+<field name='zip'>94534</field>
+<field name='linktext'><![CDATA[www.baskinrobbins.com]]></field>
+<field name='title'>Baskin-Robbins</field>
+<field name='full_neighborhood'>SF-Bay-Area, Fairfield, CA</field>
+<field name='full_city'>Fairfield, CA</field>
+<field name='lat'>38.2581</field>
+<field name='lon'>-122.0659</field>
+</doc>
+</add>

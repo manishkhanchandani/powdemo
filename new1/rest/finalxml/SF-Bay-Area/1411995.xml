@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>1411995</field>
+<field name='rid'>United States/CA/Fairfax/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Fairfax</field>
+<field name='address'>765 Center St</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>American</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Fairfax</field>
+<field name='phone'>(415) 485-1005</field>
+<field name='zip'>94930</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Iron Springs Pub &amp; Brewery</field>
+<field name='full_neighborhood'>SF-Bay-Area, Fairfax, CA</field>
+<field name='full_city'>Fairfax, CA</field>
+<field name='lat'>37.986496</field>
+<field name='lon'>-122.585439</field>
+</doc>
+</add>

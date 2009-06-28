@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:67:"http://www.urbanspoon.com/r/6/91187/restaurant/Starbucks-Emeryville";s:4:"name";s:9:"Starbucks";s:2:"id";s:5:"91187";s:4:"info";s:86:"Coffee - <br />
+                <br />
+                  5767 Christie Ave, Emeryville";s:5:"info2";s:6:"Coffee";s:7:"address";s:29:"5767 Christie Ave, Emeryville";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.836662";s:3:"lon";s:11:"-122.293862";s:9:"neighbour";s:10:"Emeryville";}
