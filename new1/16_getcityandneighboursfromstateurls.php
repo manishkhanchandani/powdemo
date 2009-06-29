@@ -112,6 +112,7 @@ if ($handle = opendir($dirname)) {
 						echo "<br>";
 						echo '<h1>sleeping for 2 seconds</h1>';
 						echo '<br>';
+						flush();
 						sleep(2);
 					}
 					file_put_contents("statelist/city/".$file, $city);
