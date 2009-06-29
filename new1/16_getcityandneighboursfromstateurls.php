@@ -52,10 +52,10 @@ if ($handle = opendir($dirname)) {
 				if(!file_exists("cityurls/seeall/".$file)) {
 					$seeall = file_get_contents($url);
 					file_put_contents("cityurls/seeall/".$file, $seeall);
-					echo 'file created';
+					echo "cityurls/seeall/".$file.' file created';
 					echo "<br>";
 				} else {
-					echo 'file already created';
+					echo "cityurls/seeall/".$file.' file already created';
 					echo "<br>";
 				}
 			}
