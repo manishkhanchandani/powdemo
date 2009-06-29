@@ -48,7 +48,6 @@ if ($handle = opendir($dirname)) {
 				$url = $base.$matches[0][1];
 				echo $url;
 				echo "<br>";
-				continue;
 				if(!file_exists("cityurls/seeall/".$file)) {
 					$seeall = file_get_contents($url);
 					file_put_contents("cityurls/seeall/".$file, $seeall);
@@ -66,8 +65,9 @@ if ($handle = opendir($dirname)) {
 					echo "cityurls/".$file.' file already created.';
 					echo "<br>";
 				}
+				echo "<hr>";
+				flush();
 			}
-			exit;
 			$regexp = "<li class=\"t\-li\"><a href=\"\/n(.*)\">(.*)\((.*)\)<\/a><\/li>";
 			$matches = $Crawler->regexp($regexp, $fc);
 			if($matches) {
