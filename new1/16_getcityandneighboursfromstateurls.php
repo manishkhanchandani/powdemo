@@ -58,6 +58,14 @@ if ($handle = opendir($dirname)) {
 					echo "cityurls/seeall/".$file.' file already created';
 					echo "<br>";
 				}
+				if(!file_exists("cityurls/".$file)) {
+					copy($dirname."/".$file, "cityurls/".$file);
+					echo "cityurls/".$file.' file created from stateurls';
+					echo "<br>";
+				} else {
+					echo "cityurls/".$file.' file already created.';
+					echo "<br>";
+				}
 			}
 			exit;
 			$regexp = "<li class=\"t\-li\"><a href=\"\/n(.*)\">(.*)\((.*)\)<\/a><\/li>";
