@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:80:"http://www.urbanspoon.com/n/239/27815/Northern-California/Fort-Bragg-restaurants";s:8:"baseName";s:22:"Fort-Bragg-restaurants";s:5:"title";s:10:"Fort Bragg";s:5:"count";s:2:"58";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/74/41970/Alabama/Beaverton-AL-restaurants";s:8:"baseName";s:24:"Beaverton-AL-restaurants";s:5:"title";s:9:"Beaverton";s:5:"count";s:1:"3";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/74/42041/Alabama/Woodland-AL-restaurants";s:8:"baseName";s:23:"Woodland-AL-restaurants";s:5:"title";s:8:"Woodland";s:5:"count";s:1:"4";}

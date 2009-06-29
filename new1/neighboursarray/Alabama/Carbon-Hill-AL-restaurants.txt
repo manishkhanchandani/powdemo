@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/74/41974/Alabama/Carbon-Hill-AL-restaurants";s:8:"baseName";s:26:"Carbon-Hill-AL-restaurants";s:5:"title";s:11:"Carbon Hill";s:5:"count";s:1:"9";}

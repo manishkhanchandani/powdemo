@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:82:"http://www.urbanspoon.com/n/239/27817/Northern-California/Grass-Valley-restaurants";s:8:"baseName";s:24:"Grass-Valley-restaurants";s:5:"title";s:12:"Grass Valley";s:5:"count";s:3:"119";}

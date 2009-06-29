@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:66:"http://www.urbanspoon.com/n/74/42027/Alabama/Samson-AL-restaurants";s:8:"baseName";s:21:"Samson-AL-restaurants";s:5:"title";s:6:"Samson";s:5:"count";s:1:"6";}

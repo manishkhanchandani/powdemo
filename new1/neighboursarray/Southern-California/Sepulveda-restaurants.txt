@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:79:"http://www.urbanspoon.com/n/290/34642/Southern-California/Sepulveda-restaurants";s:8:"baseName";s:21:"Sepulveda-restaurants";s:5:"title";s:9:"Sepulveda";s:5:"count";s:2:"25";}

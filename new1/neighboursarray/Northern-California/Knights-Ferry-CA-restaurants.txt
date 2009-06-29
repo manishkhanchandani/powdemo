@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:86:"http://www.urbanspoon.com/n/239/44599/Northern-California/Knights-Ferry-CA-restaurants";s:8:"baseName";s:28:"Knights-Ferry-CA-restaurants";s:5:"title";s:13:"Knights Ferry";s:5:"count";s:1:"2";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/74/41981/Alabama/Dadeville-AL-restaurants";s:8:"baseName";s:24:"Dadeville-AL-restaurants";s:5:"title";s:9:"Dadeville";s:5:"count";s:2:"25";}

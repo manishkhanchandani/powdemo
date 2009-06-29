@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:66:"http://www.urbanspoon.com/n/74/41972/Alabama/Butler-AL-restaurants";s:8:"baseName";s:21:"Butler-AL-restaurants";s:5:"title";s:6:"Butler";s:5:"count";s:1:"9";}

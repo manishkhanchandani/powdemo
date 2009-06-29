@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/74/42039/Alabama/Wedowee-AL-restaurants";s:8:"baseName";s:22:"Wedowee-AL-restaurants";s:5:"title";s:7:"Wedowee";s:5:"count";s:1:"6";}

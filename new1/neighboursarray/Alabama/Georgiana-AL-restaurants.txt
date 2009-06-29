@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/74/41994/Alabama/Georgiana-AL-restaurants";s:8:"baseName";s:24:"Georgiana-AL-restaurants";s:5:"title";s:9:"Georgiana";s:5:"count";s:1:"7";}

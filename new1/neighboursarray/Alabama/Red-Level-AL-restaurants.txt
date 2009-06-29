@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/74/42025/Alabama/Red-Level-AL-restaurants";s:8:"baseName";s:24:"Red-Level-AL-restaurants";s:5:"title";s:9:"Red Level";s:5:"count";s:1:"3";}

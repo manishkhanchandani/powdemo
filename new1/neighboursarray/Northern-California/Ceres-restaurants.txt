@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:75:"http://www.urbanspoon.com/n/239/27805/Northern-California/Ceres-restaurants";s:8:"baseName";s:17:"Ceres-restaurants";s:5:"title";s:5:"Ceres";s:5:"count";s:2:"55";}

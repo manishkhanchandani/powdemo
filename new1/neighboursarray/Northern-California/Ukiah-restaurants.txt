@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:75:"http://www.urbanspoon.com/n/239/27846/Northern-California/Ukiah-restaurants";s:8:"baseName";s:17:"Ukiah-restaurants";s:5:"title";s:5:"Ukiah";s:5:"count";s:2:"96";}

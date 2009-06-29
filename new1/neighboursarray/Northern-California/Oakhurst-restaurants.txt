@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:78:"http://www.urbanspoon.com/n/239/27836/Northern-California/Oakhurst-restaurants";s:8:"baseName";s:20:"Oakhurst-restaurants";s:5:"title";s:8:"Oakhurst";s:5:"count";s:2:"59";}

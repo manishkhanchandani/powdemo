@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:65:"http://www.urbanspoon.com/n/74/7418/Alabama/Sylacauga-restaurants";s:8:"baseName";s:21:"Sylacauga-restaurants";s:5:"title";s:9:"Sylacauga";s:5:"count";s:3:"147";}

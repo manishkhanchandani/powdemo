@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:77:"http://www.urbanspoon.com/n/290/34613/Southern-California/Cayucos-restaurants";s:8:"baseName";s:19:"Cayucos-restaurants";s:5:"title";s:7:"Cayucos";s:5:"count";s:2:"13";}

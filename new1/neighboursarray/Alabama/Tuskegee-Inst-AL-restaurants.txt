@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:73:"http://www.urbanspoon.com/n/74/42034/Alabama/Tuskegee-Inst-AL-restaurants";s:8:"baseName";s:28:"Tuskegee-Inst-AL-restaurants";s:5:"title";s:13:"Tuskegee Inst";s:5:"count";s:1:"6";}

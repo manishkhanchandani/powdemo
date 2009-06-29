@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/74/42024/Alabama/Red-Bay-AL-restaurants";s:8:"baseName";s:22:"Red-Bay-AL-restaurants";s:5:"title";s:7:"Red Bay";s:5:"count";s:2:"10";}

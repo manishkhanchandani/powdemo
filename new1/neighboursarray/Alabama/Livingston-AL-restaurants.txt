@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:70:"http://www.urbanspoon.com/n/74/42013/Alabama/Livingston-AL-restaurants";s:8:"baseName";s:25:"Livingston-AL-restaurants";s:5:"title";s:10:"Livingston";s:5:"count";s:2:"12";}

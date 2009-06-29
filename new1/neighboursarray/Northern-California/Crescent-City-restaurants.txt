@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:83:"http://www.urbanspoon.com/n/239/27813/Northern-California/Crescent-City-restaurants";s:8:"baseName";s:25:"Crescent-City-restaurants";s:5:"title";s:13:"Crescent City";s:5:"count";s:2:"55";}
