@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:75:"http://www.urbanspoon.com/r/6/80200/restaurant/Albany-Bowl-Thai-Cafe-Albany";s:4:"name";s:21:"Albany Bowl Thai Cafe";s:2:"id";s:5:"80200";s:4:"info";s:98:"Thai, Coffee and Diner - <br />
+                <br />
+                  540 San Pablo Ave, Albany";s:5:"info2";s:22:"Thai, Coffee and Diner";s:7:"address";s:25:"540 San Pablo Ave, Albany";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.896399";s:3:"lon";s:11:"-122.301079";s:9:"neighbour";s:6:"Albany";}

@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:62:"http://www.urbanspoon.com/r/6/776976/restaurant/Ajisen-Fremont";s:4:"name";s:6:"Ajisen";s:2:"id";s:6:"776976";s:4:"info";s:32:"47890 Warm Springs Blvd, Fremont";s:7:"address";s:32:"47890 Warm Springs Blvd, Fremont";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.475981";s:3:"lon";s:10:"-121.92141";s:9:"neighbour";s:7:"Fremont";}

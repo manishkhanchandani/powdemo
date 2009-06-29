@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:73:"http://www.urbanspoon.com/r/6/81520/restaurant/Cabrillo-Park-Cafe-Fremont";s:4:"name";s:18:"Cabrillo Park Cafe";s:2:"id";s:5:"81520";s:4:"info";s:26:"4673 Thornton Ave, Fremont";s:7:"address";s:26:"4673 Thornton Ave, Fremont";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.552497";s:3:"lon";s:10:"-122.01828";s:9:"neighbour";s:7:"Fremont";}

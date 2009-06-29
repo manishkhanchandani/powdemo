@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:77:"http://www.urbanspoon.com/r/6/88484/restaurant/Daly-City/Ongpin-San-Francisco";s:4:"name";s:6:"Ongpin";s:2:"id";s:5:"88484";s:4:"info";s:30:"1012 Geneva Ave, San Francisco";s:7:"address";s:30:"1012 Geneva Ave, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.715448";s:3:"lon";s:11:"-122.439217";s:9:"neighbour";s:9:"Daly City";}

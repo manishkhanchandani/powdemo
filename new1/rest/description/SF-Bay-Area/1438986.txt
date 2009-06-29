@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:78:"http://www.urbanspoon.com/r/6/1438986/restaurant/Antioch/Jamba-Juice-Brentwood";s:4:"name";s:11:"Jamba Juice";s:2:"id";s:7:"1438986";s:4:"info";s:90:"Smoothies - <br />
+                <br />
+                  8630 Brentwood Blvd, Brentwood";s:5:"info2";s:9:"Smoothies";s:7:"address";s:30:"8630 Brentwood Blvd, Brentwood";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.926715";s:3:"lon";s:11:"-121.691476";s:9:"neighbour";s:7:"Antioch";}

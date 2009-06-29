@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:80:"http://www.urbanspoon.com/r/6/90344/restaurant/Alameda-SJ/San-Jose-West-San-Jose";s:4:"name";s:13:"San Jose West";s:2:"id";s:5:"90344";s:4:"info";s:88:"Fast Food - <br />
+                <br />
+                  1811 Hillsdale Ave, San Jose";s:5:"info2";s:9:"Fast Food";s:7:"address";s:28:"1811 Hillsdale Ave, San Jose";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.263296";s:3:"lon";s:10:"-121.91785";s:9:"neighbour";s:12:"Alameda (SJ)";}

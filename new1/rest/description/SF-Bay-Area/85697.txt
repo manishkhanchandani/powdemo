@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:69:"http://www.urbanspoon.com/r/6/85697/restaurant/Juan-More-Taco-Fremont";s:4:"name";s:14:"Juan More Taco";s:2:"id";s:5:"85697";s:4:"info";s:82:"Tacos - <br />
+                <br />
+                  3619 Thornton Ave, Fremont";s:5:"info2";s:5:"Tacos";s:7:"address";s:26:"3619 Thornton Ave, Fremont";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.562791";s:3:"lon";s:10:"-122.00959";s:9:"neighbour";s:7:"Fremont";}

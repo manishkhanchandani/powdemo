@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:65:"http://www.urbanspoon.com/r/6/764189/restaurant/La-Sierra-Antioch";s:4:"name";s:9:"La Sierra";s:2:"id";s:6:"764189";s:4:"info";s:17:"901 H St, Antioch";s:7:"address";s:17:"901 H St, Antioch";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"38.011832";s:3:"lon";s:11:"-121.814941";s:9:"neighbour";s:7:"Antioch";}

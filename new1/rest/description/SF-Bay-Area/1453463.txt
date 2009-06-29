@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:74:"http://www.urbanspoon.com/r/6/1453463/restaurant/Classic-50s-Diner-Fremont";s:4:"name";s:18:"Classic 50's Diner";s:2:"id";s:7:"1453463";s:4:"info";s:96:"American and Diner - <br />
+                <br />
+                  39403 fremont blvd, Fremont";s:5:"info2";s:18:"American and Diner";s:7:"address";s:27:"39403 fremont blvd, Fremont";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.545422";s:3:"lon";s:11:"-121.982485";s:9:"neighbour";s:7:"Fremont";}

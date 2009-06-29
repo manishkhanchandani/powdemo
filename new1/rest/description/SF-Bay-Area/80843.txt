@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:69:"http://www.urbanspoon.com/r/6/80843/restaurant/Baskin-Robbins-Alameda";s:4:"name";s:14:"Baskin-Robbins";s:2:"id";s:5:"80843";s:4:"info";s:97:"Desserts/Ice Cream - <br />
+                <br />
+                  849 Marina Vlg Pkwy, Alameda";s:5:"info2";s:18:"Desserts/Ice Cream";s:7:"address";s:28:"849 Marina Vlg Pkwy, Alameda";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.782737";s:3:"lon";s:11:"-122.273619";s:9:"neighbour";s:7:"Alameda";}

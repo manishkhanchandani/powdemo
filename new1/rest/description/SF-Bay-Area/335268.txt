@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:88:"http://www.urbanspoon.com/r/6/335268/restaurant/Financial-District/Jai-Yun-San-Francisco";s:4:"name";s:7:"Jai Yun";s:2:"id";s:6:"335268";s:4:"info";s:26:"680 Clay St, San Francisco";s:7:"address";s:26:"680 Clay St, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.794631";s:3:"lon";s:11:"-122.404455";s:9:"neighbour";s:18:"Financial District";}

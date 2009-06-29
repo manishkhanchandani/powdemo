@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:66:"http://www.urbanspoon.com/r/6/89865/restaurant/Ricks-Grill-Alameda";s:4:"name";s:12:"Rick's Grill";s:2:"id";s:5:"89865";s:4:"info";s:25:"2319 Central Ave, Alameda";s:7:"address";s:25:"2319 Central Ave, Alameda";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.764756";s:3:"lon";s:11:"-122.243684";s:9:"neighbour";s:7:"Alameda";}

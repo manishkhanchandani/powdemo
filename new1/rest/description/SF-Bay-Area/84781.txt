@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:71:"http://www.urbanspoon.com/r/6/84781/restaurant/Hello-Croissant-Berkeley";s:4:"name";s:15:"Hello Croissant";s:2:"id";s:5:"84781";s:4:"info";s:27:"1983 Shattuck Ave, Berkeley";s:7:"address";s:27:"1983 Shattuck Ave, Berkeley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.872445";s:3:"lon";s:11:"-122.268224";s:9:"neighbour";s:8:"Berkeley";}

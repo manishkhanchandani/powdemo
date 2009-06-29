@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:68:"http://www.urbanspoon.com/r/6/764345/restaurant/Millers-Cafe-Antioch";s:4:"name";s:13:"Miller's Cafe";s:2:"id";s:6:"764345";s:4:"info";s:20:"7 W 20th St, Antioch";s:7:"address";s:20:"7 W 20th St, Antioch";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"38.003259";s:3:"lon";s:11:"-121.806366";s:9:"neighbour";s:7:"Antioch";}

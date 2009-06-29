@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:92:"http://www.urbanspoon.com/r/6/763772/restaurant/Antioch/Country-Waffles-Restaurant-Pittsburg";s:4:"name";s:26:"Country Waffles Restaurant";s:2:"id";s:6:"763772";s:4:"info";s:93:"Breakfast/Brunch - <br />
+                <br />
+                  2921c Harbor St, Pittsburg";s:5:"info2";s:16:"Breakfast/Brunch";s:7:"address";s:26:"2921c Harbor St, Pittsburg";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"38.007863";s:3:"lon";s:11:"-121.886689";s:9:"neighbour";s:7:"Antioch";}

@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:61:"http://www.urbanspoon.com/r/6/88786/restaurant/Papas-Berkeley";s:4:"name";s:6:"Papa's";s:2:"id";s:5:"88786";s:4:"info";s:94:"Middle Eastern - <br />
+                <br />
+                  2026 University Ave, Berkeley";s:5:"info2";s:14:"Middle Eastern";s:7:"address";s:29:"2026 University Ave, Berkeley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.871822";s:3:"lon";s:11:"-122.269933";s:9:"neighbour";s:8:"Berkeley";}

@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:72:"http://www.urbanspoon.com/r/6/86108/restaurant/Koalas-Lunch-Cafe-Fremont";s:4:"name";s:17:"Koalas Lunch Cafe";s:2:"id";s:5:"86108";s:4:"info";s:29:"44800 S Grimmer Blvd, Fremont";s:7:"address";s:29:"44800 S Grimmer Blvd, Fremont";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.503086";s:3:"lon";s:11:"-121.947473";s:9:"neighbour";s:7:"Fremont";}

@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:71:"http://www.urbanspoon.com/r/6/93096/restaurant/Well-Grounded-El-Cerrito";s:4:"name";s:13:"Well Grounded";s:2:"id";s:5:"93096";s:4:"info";s:29:"6925 Stockton Ave, El Cerrito";s:7:"address";s:29:"6925 Stockton Ave, El Cerrito";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.910153";s:3:"lon";s:11:"-122.300817";s:9:"neighbour";s:10:"El Cerrito";}

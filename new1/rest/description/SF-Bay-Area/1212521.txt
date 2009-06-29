@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:65:"http://www.urbanspoon.com/r/6/1212521/restaurant/Subway-Fairfield";s:4:"name";s:6:"Subway";s:2:"id";s:7:"1212521";s:4:"info";s:106:"Sandwiches/Subs and Fast Food - <br />
+                <br />
+                  2147 N Texas St, Fairfield";s:5:"info2";s:29:"Sandwiches/Subs and Fast Food";s:7:"address";s:26:"2147 N Texas St, Fairfield";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"38.2679";s:3:"lon";s:9:"-122.0344";s:9:"neighbour";s:9:"Fairfield";}

@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:82:"http://www.urbanspoon.com/r/6/1212358/restaurant/Cloud-9-Cocktail-Lounge-Fairfield";s:4:"name";s:23:"Cloud 9 Cocktail Lounge";s:2:"id";s:7:"1212358";s:4:"info";s:26:"4519 Walters Rd, Fairfield";s:7:"address";s:26:"4519 Walters Rd, Fairfield";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"38.2633";s:3:"lon";s:9:"-121.9882";s:9:"neighbour";s:9:"Fairfield";}

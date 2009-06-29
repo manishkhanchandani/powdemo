@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:81:"http://www.urbanspoon.com/r/6/81267/restaurant/Brazil-Fresh-Squeeze-Cafe-Berkeley";s:4:"name";s:25:"Brazil Fresh Squeeze Cafe";s:2:"id";s:5:"81267";s:4:"info";s:130:"Brazilian, Southern &amp; Soul and Sandwiches/Subs - <br />
+                <br />
+                  2161 University Ave, Berkeley";s:5:"info2";s:50:"Brazilian, Southern &amp; Soul and Sandwiches/Subs";s:7:"address";s:29:"2161 University Ave, Berkeley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:8:"37.87247";s:3:"lon";s:11:"-122.266684";s:9:"neighbour";s:8:"Berkeley";}

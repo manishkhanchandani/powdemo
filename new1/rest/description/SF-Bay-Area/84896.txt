@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:75:"http://www.urbanspoon.com/r/6/84896/restaurant/Homeroom-Racing-Cafe-Alameda";s:4:"name";s:20:"Homeroom Racing Cafe";s:2:"id";s:5:"84896";s:4:"info";s:21:"1305 Park St, Alameda";s:7:"address";s:21:"1305 Park St, Alameda";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.762725";s:3:"lon";s:11:"-122.244233";s:9:"neighbour";s:7:"Alameda";}

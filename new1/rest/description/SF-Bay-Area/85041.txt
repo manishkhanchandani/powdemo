@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:71:"http://www.urbanspoon.com/r/6/85041/restaurant/House-of-Sisig-Daly-City";s:4:"name";s:14:"House of Sisig";s:2:"id";s:5:"85041";s:4:"info";s:35:"2408 Junipero Serra Blvd, Daly City";s:7:"address";s:35:"2408 Junipero Serra Blvd, Daly City";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.693017";s:3:"lon";s:11:"-122.471172";s:9:"neighbour";s:9:"Daly City";}

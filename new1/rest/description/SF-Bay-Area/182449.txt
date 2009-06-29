@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:99:"http://www.urbanspoon.com/r/6/182449/restaurant/Civic-Center/Brendas-French-Soul-Food-San-Francisco";s:4:"name";s:25:"Brenda's French Soul Food";s:2:"id";s:6:"182449";s:4:"info";s:125:"Southern &amp; Soul, French and Breakfast/Brunch - <br />
+                <br />
+                  652 Polk St, San Francisco";s:5:"info2";s:48:"Southern &amp; Soul, French and Breakfast/Brunch";s:7:"address";s:26:"652 Polk St, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.782668";s:3:"lon";s:11:"-122.418925";s:9:"neighbour";s:12:"Civic Center";}

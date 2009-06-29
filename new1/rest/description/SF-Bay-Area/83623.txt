@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:81:"http://www.urbanspoon.com/r/6/83623/restaurant/Emery-Bay-Public-Market-Emeryville";s:4:"name";s:23:"Emery Bay Public Market";s:2:"id";s:5:"83623";s:4:"info";s:113:"Asian, Middle Eastern and Indian - <br />
+                <br />
+                  5959 Shellmound St, Emeryville";s:5:"info2";s:32:"Asian, Middle Eastern and Indian";s:7:"address";s:30:"5959 Shellmound St, Emeryville";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.841782";s:3:"lon";s:11:"-122.293248";s:9:"neighbour";s:10:"Emeryville";}

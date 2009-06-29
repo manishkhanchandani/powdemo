@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:75:"http://www.urbanspoon.com/r/6/84754/restaurant/Hawaiian-Drive-Inn-Daly-City";s:4:"name";s:18:"Hawaiian Drive Inn";s:2:"id";s:5:"84754";s:4:"info";s:85:"Hawaiian - <br />
+                <br />
+                  50 San Pedro Rd, Daly City";s:5:"info2";s:8:"Hawaiian";s:7:"address";s:26:"50 San Pedro Rd, Daly City";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.688782";s:3:"lon";s:11:"-122.467259";s:9:"neighbour";s:9:"Daly City";}

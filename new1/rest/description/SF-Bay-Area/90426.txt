@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:65:"http://www.urbanspoon.com/r/6/90426/restaurant/Savini-Foster-City";s:4:"name";s:6:"Savini";s:2:"id";s:5:"90426";s:4:"info";s:25:"950 Tower Ln, Foster City";s:7:"address";s:25:"950 Tower Ln, Foster City";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.558506";s:3:"lon";s:11:"-122.276944";s:9:"neighbour";s:11:"Foster City";}

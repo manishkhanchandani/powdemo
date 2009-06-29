@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:82:"http://www.urbanspoon.com/r/6/1212744/restaurant/Benicia/Warehouse-Cafe-Port-Costa";s:4:"name";s:14:"Warehouse Cafe";s:2:"id";s:7:"1212744";s:4:"info";s:28:"5 Canyon Lake Dr, Port Costa";s:7:"address";s:28:"5 Canyon Lake Dr, Port Costa";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"38.0464";s:3:"lon";s:9:"-122.1838";s:9:"neighbour";s:7:"Benicia";}

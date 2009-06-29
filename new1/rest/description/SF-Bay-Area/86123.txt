@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:68:"http://www.urbanspoon.com/r/6/86123/restaurant/Kolo-Kitchen-Berkeley";s:4:"name";s:12:"Kolo Kitchen";s:2:"id";s:5:"86123";s:4:"info";s:24:"2101 Milvia St, Berkeley";s:7:"address";s:24:"2101 Milvia St, Berkeley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:8:"37.87075";s:3:"lon";s:11:"-122.270425";s:9:"neighbour";s:8:"Berkeley";}

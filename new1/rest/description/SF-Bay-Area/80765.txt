@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:64:"http://www.urbanspoon.com/r/6/80765/restaurant/Barnacles-Fremont";s:4:"name";s:9:"Barnacles";s:2:"id";s:5:"80765";s:4:"info";s:29:"3948 Washington Blvd, Fremont";s:7:"address";s:29:"3948 Washington Blvd, Fremont";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.532567";s:3:"lon";s:11:"-121.958085";s:9:"neighbour";s:7:"Fremont";}

@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:72:"http://www.urbanspoon.com/r/6/1212363/restaurant/Cordelia-Deli-Fairfield";s:4:"name";s:13:"Cordelia Deli";s:2:"id";s:7:"1212363";s:4:"info";s:98:"Sandwiches/Subs - <br />
+                <br />
+                  4437 Central Pl Ste B, Fairfield";s:5:"info2";s:15:"Sandwiches/Subs";s:7:"address";s:32:"4437 Central Pl Ste B, Fairfield";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"38.2219";s:3:"lon";s:9:"-122.1256";s:9:"neighbour";s:9:"Fairfield";}

@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:97:"http://www.urbanspoon.com/r/6/92246/restaurant/Financial-District/Taylors-Refresher-San-Francisco";s:4:"name";s:18:"Taylor's Refresher";s:2:"id";s:5:"92246";s:4:"info";s:113:"Desserts/Ice Cream and American - <br />
+                <br />
+                  1 Ferry Building, San Francisco";s:5:"info2";s:31:"Desserts/Ice Cream and American";s:7:"address";s:31:"1 Ferry Building, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"37.7964";s:3:"lon";s:9:"-122.3949";s:9:"neighbour";s:18:"Financial District";}

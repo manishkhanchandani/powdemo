@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:68:"http://www.urbanspoon.com/r/6/85916/restaurant/Kapok-Seafood-Alameda";s:4:"name";s:13:"Kapok Seafood";s:2:"id";s:5:"85916";s:4:"info";s:82:"Seafood - <br />
+                <br />
+                  1511 Webster St, Alameda";s:5:"info2";s:7:"Seafood";s:7:"address";s:24:"1511 Webster St, Alameda";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.773702";s:3:"lon";s:11:"-122.276973";s:9:"neighbour";s:7:"Alameda";}

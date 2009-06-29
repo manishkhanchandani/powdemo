@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:73:"http://www.urbanspoon.com/r/6/1212050/restaurant/Rickshaw-Express-Benicia";s:4:"name";s:16:"Rickshaw Express";s:2:"id";s:7:"1212050";s:4:"info";s:33:"836 Southampton Rd Ste E, Benicia";s:7:"address";s:33:"836 Southampton Rd Ste E, Benicia";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"38.0668";s:3:"lon";s:9:"-122.1663";s:9:"neighbour";s:7:"Benicia";}

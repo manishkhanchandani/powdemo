@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:68:"http://www.urbanspoon.com/r/6/86556/restaurant/Le-Moose-Cafe-Fremont";s:4:"name";s:13:"Le Moose Cafe";s:2:"id";s:5:"86556";s:4:"info";s:23:"5014 Mowry Ave, Fremont";s:7:"address";s:23:"5014 Mowry Ave, Fremont";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.536081";s:3:"lon";s:10:"-121.99845";s:9:"neighbour";s:7:"Fremont";}

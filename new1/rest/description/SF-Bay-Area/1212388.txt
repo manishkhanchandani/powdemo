@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:76:"http://www.urbanspoon.com/r/6/1212388/restaurant/Gils-Island-Grill-Fairfield";s:4:"name";s:18:"Gil's Island Grill";s:2:"id";s:7:"1212388";s:4:"info";s:31:"1955 Texas St Ste 28, Fairfield";s:7:"address";s:31:"1955 Texas St Ste 28, Fairfield";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"38.2492";s:3:"lon";s:9:"-122.0634";s:9:"neighbour";s:9:"Fairfield";}

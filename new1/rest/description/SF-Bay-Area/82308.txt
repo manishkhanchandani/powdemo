@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:64:"http://www.urbanspoon.com/r/6/82308/restaurant/Chez-Vous-Alameda";s:4:"name";s:9:"Chez Vous";s:2:"id";s:5:"82308";s:4:"info";s:23:"1750 N Loop Rd, Alameda";s:7:"address";s:23:"1750 N Loop Rd, Alameda";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:8:"37.72655";s:3:"lon";s:11:"-122.240137";s:9:"neighbour";s:7:"Alameda";}

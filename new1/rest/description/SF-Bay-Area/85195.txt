@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:68:"http://www.urbanspoon.com/r/6/85195/restaurant/Ilmio-Cafe-El-Cerrito";s:4:"name";s:10:"Ilmio Cafe";s:2:"id";s:5:"85195";s:4:"info";s:30:"6401 Fairmount Ave, El Cerrito";s:7:"address";s:30:"6401 Fairmount Ave, El Cerrito";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.901073";s:3:"lon";s:10:"-122.30148";s:9:"neighbour";s:10:"El Cerrito";}

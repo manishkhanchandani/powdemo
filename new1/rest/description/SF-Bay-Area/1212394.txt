@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:88:"http://www.urbanspoon.com/r/6/1212394/restaurant/The-Great-Wall-Chinese-Buffet-Fairfield";s:4:"name";s:29:"The Great Wall Chinese Buffet";s:2:"id";s:7:"1212394";s:4:"info";s:110:"Buffet, Chinese and Seafood - <br />
+                <br />
+                  1795 Pennsylvania Ave, Fairfield";s:5:"info2";s:27:"Buffet, Chinese and Seafood";s:7:"address";s:32:"1795 Pennsylvania Ave, Fairfield";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"38.2622";s:3:"lon";s:9:"-122.0502";s:9:"neighbour";s:9:"Fairfield";}

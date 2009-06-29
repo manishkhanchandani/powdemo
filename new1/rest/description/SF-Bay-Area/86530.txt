@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:76:"http://www.urbanspoon.com/r/6/86530/restaurant/Daly-City/Lava-Espresso-Colma";s:4:"name";s:13:"Lava Espresso";s:2:"id";s:5:"86530";s:4:"info";s:19:"2 Colma Blvd, Colma";s:7:"address";s:19:"2 Colma Blvd, Colma";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.677012";s:3:"lon";s:11:"-122.469408";s:9:"neighbour";s:9:"Daly City";}

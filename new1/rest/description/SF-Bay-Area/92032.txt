@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:74:"http://www.urbanspoon.com/r/6/92032/restaurant/Tangerine-Food-Bar-Berkeley";s:4:"name";s:18:"Tangerine Food Bar";s:2:"id";s:5:"92032";s:4:"info";s:25:"1707 Solano Ave, Berkeley";s:7:"address";s:25:"1707 Solano Ave, Berkeley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.891365";s:3:"lon";s:10:"-122.28213";s:9:"neighbour";s:8:"Berkeley";}

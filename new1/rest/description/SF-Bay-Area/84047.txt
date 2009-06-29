@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:77:"http://www.urbanspoon.com/r/6/84047/restaurant/Fremont-Market-Broiler-Fremont";s:4:"name";s:22:"Fremont Market Broiler";s:2:"id";s:5:"84047";s:4:"info";s:83:"Seafood - <br />
+                <br />
+                  39195 Farwell Dr, Fremont";s:5:"info2";s:7:"Seafood";s:7:"address";s:25:"39195 Farwell Dr, Fremont";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.531413";s:3:"lon";s:11:"-121.997233";s:9:"neighbour";s:7:"Fremont";}

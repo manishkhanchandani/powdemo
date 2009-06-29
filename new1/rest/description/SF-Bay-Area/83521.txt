@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:74:"http://www.urbanspoon.com/r/6/83521/restaurant/Emeryville/El-Paisa-Oakland";s:4:"name";s:8:"El Paisa";s:2:"id";s:5:"83521";s:4:"info";s:81:"Mexican - <br />
+                <br />
+                  3817 Market St, Oakland";s:5:"info2";s:7:"Mexican";s:7:"address";s:23:"3817 Market St, Oakland";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.828407";s:3:"lon";s:11:"-122.274693";s:9:"neighbour";s:10:"Emeryville";}

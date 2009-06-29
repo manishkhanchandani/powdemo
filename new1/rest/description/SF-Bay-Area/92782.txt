@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:77:"http://www.urbanspoon.com/r/6/92782/restaurant/Twist-Cafe-and-bistro-Campbell";s:4:"name";s:21:"Twist Cafe and bistro";s:2:"id";s:5:"92782";s:4:"info";s:115:"French, Soups and Desserts/Ice Cream - <br />
+                <br />
+                  247 E Campbell Ave, Campbell";s:5:"info2";s:36:"French, Soups and Desserts/Ice Cream";s:7:"address";s:28:"247 E Campbell Ave, Campbell";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.287237";s:3:"lon";s:11:"-121.945456";s:9:"neighbour";s:8:"Campbell";}

@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:97:"http://www.urbanspoon.com/r/6/86368/restaurant/La-Pinata-5-Mexican-Restaurant-Tequila-Bar-Fremont";s:4:"name";s:48:"La Pinata 5 Mexican Restaurant &amp; Tequila Bar";s:2:"id";s:5:"86368";s:4:"info";s:89:"Mexican - <br />
+                <br />
+                  39136 Paseo Padre Pkwy, Fremont";s:5:"info2";s:7:"Mexican";s:7:"address";s:31:"39136 Paseo Padre Pkwy, Fremont";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.553342";s:3:"lon";s:11:"-121.980391";s:9:"neighbour";s:7:"Fremont";}

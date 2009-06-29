@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:78:"http://www.urbanspoon.com/r/6/93222/restaurant/Bayview/Wing-Hing-San-Francisco";s:4:"name";s:9:"Wing Hing";s:2:"id";s:5:"93222";s:4:"info";s:33:"2550 San Bruno Ave, San Francisco";s:7:"address";s:33:"2550 San Bruno Ave, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.729352";s:3:"lon";s:10:"-122.40451";s:9:"neighbour";s:7:"Bayview";}

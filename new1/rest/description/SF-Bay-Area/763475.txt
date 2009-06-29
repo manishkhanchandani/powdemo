@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:82:"http://www.urbanspoon.com/r/6/763475/restaurant/Aracelys-Restaurant-Market-Antioch";s:4:"name";s:33:"Aracely's Restaurant &amp; Market";s:2:"id";s:6:"763475";s:4:"info";s:18:"1903 D St, Antioch";s:7:"address";s:18:"1903 D St, Antioch";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"38.004405";s:3:"lon";s:11:"-121.809961";s:9:"neighbour";s:7:"Antioch";}

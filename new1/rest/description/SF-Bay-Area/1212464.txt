@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:88:"http://www.urbanspoon.com/r/6/1212464/restaurant/Ohana-Hawaiian-Barbecue-Frfld-Fairfield";s:4:"name";s:29:"Ohana Hawaiian Barbecue Frfld";s:2:"id";s:7:"1212464";s:4:"info";s:87:"Barbecue - <br />
+                <br />
+                  1305 Gateway Blvd, Fairfield";s:5:"info2";s:8:"Barbecue";s:7:"address";s:28:"1305 Gateway Blvd, Fairfield";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"38.2623";s:3:"lon";s:9:"-122.0503";s:9:"neighbour";s:9:"Fairfield";}

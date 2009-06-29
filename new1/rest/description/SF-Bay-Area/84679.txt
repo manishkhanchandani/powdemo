@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:68:"http://www.urbanspoon.com/r/6/84679/restaurant/Happy-Chef-Burlingame";s:4:"name";s:10:"Happy Chef";s:2:"id";s:5:"84679";s:4:"info";s:87:"Chinese - <br />
+                <br />
+                  1520 Trousdale Dr, Burlingame";s:5:"info2";s:7:"Chinese";s:7:"address";s:29:"1520 Trousdale Dr, Burlingame";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.594059";s:3:"lon";s:10:"-122.38396";s:9:"neighbour";s:10:"Burlingame";}

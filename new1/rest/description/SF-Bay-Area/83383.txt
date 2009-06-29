@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:66:"http://www.urbanspoon.com/r/6/83383/restaurant/Eat-a-Pita-Berkeley";s:4:"name";s:10:"Eat a Pita";s:2:"id";s:5:"83383";s:4:"info";s:117:"Mediterranean, Mexican and Middle Eastern - <br />
+                <br />
+                  2511 Durant Ave, Berkeley";s:5:"info2";s:41:"Mediterranean, Mexican and Middle Eastern";s:7:"address";s:25:"2511 Durant Ave, Berkeley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.867986";s:3:"lon";s:11:"-122.258639";s:9:"neighbour";s:8:"Berkeley";}

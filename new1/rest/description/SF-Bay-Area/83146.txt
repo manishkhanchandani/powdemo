@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:67:"http://www.urbanspoon.com/r/6/83146/restaurant/Dinos-Family-Fremont";s:4:"name";s:13:"Dino's Family";s:2:"id";s:5:"83146";s:4:"info";s:27:"36930 Fremont Blvd, Fremont";s:7:"address";s:27:"36930 Fremont Blvd, Fremont";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.561341";s:3:"lon";s:11:"-122.012767";s:9:"neighbour";s:7:"Fremont";}

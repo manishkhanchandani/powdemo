@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:76:"http://www.urbanspoon.com/r/6/93095/restaurant/Alameda-SJ/Well-Cafe-San-Jose";s:4:"name";s:9:"Well Cafe";s:2:"id";s:5:"93095";s:4:"info";s:28:"1175 Hillsdale Ave, San Jose";s:7:"address";s:28:"1175 Hillsdale Ave, San Jose";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.274763";s:3:"lon";s:10:"-121.88149";s:9:"neighbour";s:12:"Alameda (SJ)";}

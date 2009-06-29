@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:70:"http://www.urbanspoon.com/r/6/1212486/restaurant/Pizza-Pucks-Fairfield";s:4:"name";s:11:"Pizza Pucks";s:2:"id";s:7:"1212486";s:4:"info";s:81:"Pizza - <br />
+                <br />
+                  738 Webster St, Fairfield";s:5:"info2";s:5:"Pizza";s:7:"address";s:25:"738 Webster St, Fairfield";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"38.2497";s:3:"lon";s:8:"-122.043";s:9:"neighbour";s:9:"Fairfield";}

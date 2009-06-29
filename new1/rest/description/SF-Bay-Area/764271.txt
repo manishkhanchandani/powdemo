@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:64:"http://www.urbanspoon.com/r/6/764271/restaurant/Lunchbox-Antioch";s:4:"name";s:8:"Lunchbox";s:2:"id";s:6:"764271";s:4:"info";s:29:"3690 Delta Fair Blvd, Antioch";s:7:"address";s:29:"3690 Delta Fair Blvd, Antioch";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"38.004044";s:3:"lon";s:11:"-121.844402";s:9:"neighbour";s:7:"Antioch";}

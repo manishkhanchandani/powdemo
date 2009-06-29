@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:71:"http://www.urbanspoon.com/r/6/1416480/restaurant/Extreme-Burger-Antioch";s:4:"name";s:14:"Extreme Burger";s:2:"id";s:7:"1416480";s:4:"info";s:85:"Burgers - <br />
+                <br />
+                  4440 Lone Tree Way, Antioch";s:5:"info2";s:7:"Burgers";s:7:"address";s:27:"4440 Lone Tree Way, Antioch";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.966809";s:3:"lon";s:11:"-121.783147";s:9:"neighbour";s:7:"Antioch";}

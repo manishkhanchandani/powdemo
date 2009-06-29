@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:71:"http://www.urbanspoon.com/r/6/80711/restaurant/Banana-City-Cafe-Fremont";s:4:"name";s:16:"Banana City Cafe";s:2:"id";s:5:"80711";s:4:"info";s:24:"3241 Walnut Ave, Fremont";s:7:"address";s:24:"3241 Walnut Ave, Fremont";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.551117";s:3:"lon";s:11:"-121.978668";s:9:"neighbour";s:7:"Fremont";}

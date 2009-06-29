@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:76:"http://www.urbanspoon.com/r/6/93142/restaurant/Westside-Bakery-Cafe-Berkeley";s:4:"name";s:20:"Westside Bakery Cafe";s:2:"id";s:5:"93142";s:4:"info";s:109:"Breakfast/Brunch, American and Bakery - <br />
+                <br />
+                  2570 9th St, Berkeley";s:5:"info2";s:37:"Breakfast/Brunch, American and Bakery";s:7:"address";s:21:"2570 9th St, Berkeley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.859455";s:3:"lon";s:10:"-122.29163";s:9:"neighbour";s:8:"Berkeley";}

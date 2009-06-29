@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:72:"http://www.urbanspoon.com/r/6/93526/restaurant/Zyng-Asian-Grill-Campbell";s:4:"name";s:16:"Zyng Asian Grill";s:2:"id";s:5:"93526";s:4:"info";s:27:"1875 S Bascom Ave, Campbell";s:7:"address";s:27:"1875 S Bascom Ave, Campbell";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:8:"37.28951";s:3:"lon";s:11:"-121.931872";s:9:"neighbour";s:8:"Campbell";}

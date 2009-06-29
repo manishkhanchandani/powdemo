@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:72:"http://www.urbanspoon.com/r/6/81810/restaurant/Caffe-Florian-Foster-City";s:4:"name";s:13:"Caffe Florian";s:2:"id";s:5:"81810";s:4:"info";s:85:"American - <br />
+                <br />
+                  1221 Chess Dr, Foster City";s:5:"info2";s:8:"American";s:7:"address";s:26:"1221 Chess Dr, Foster City";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.562628";s:3:"lon";s:11:"-122.276878";s:9:"neighbour";s:11:"Foster City";}

@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:81:"http://www.urbanspoon.com/r/6/80882/restaurant/Bayview/Bayview-Cafe-San-Francisco";s:4:"name";s:12:"Bayview Cafe";s:2:"id";s:5:"80882";s:4:"info";s:30:"1099 Revere Ave, San Francisco";s:7:"address";s:30:"1099 Revere Ave, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.726208";s:3:"lon";s:11:"-122.380767";s:9:"neighbour";s:7:"Bayview";}

@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:73:"http://www.urbanspoon.com/r/6/87559/restaurant/Mels-the-Original-Berkeley";s:4:"name";s:18:"Mel's the Original";s:2:"id";s:5:"87559";s:4:"info";s:114:"American, Breakfast/Brunch and Diner - <br />
+                <br />
+                  2240 Shattuck Ave, Berkeley";s:5:"info2";s:36:"American, Breakfast/Brunch and Diner";s:7:"address";s:27:"2240 Shattuck Ave, Berkeley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:8:"37.86874";s:3:"lon";s:11:"-122.268099";s:9:"neighbour";s:8:"Berkeley";}

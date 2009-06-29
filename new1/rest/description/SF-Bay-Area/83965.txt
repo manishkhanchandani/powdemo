@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:64:"http://www.urbanspoon.com/r/6/83965/restaurant/Food-Maxx-Fremont";s:4:"name";s:9:"Food Maxx";s:2:"id";s:5:"83965";s:4:"info";s:27:"39441 Fremont Blvd, Fremont";s:7:"address";s:27:"39441 Fremont Blvd, Fremont";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:8:"37.54495";s:3:"lon";s:10:"-121.98162";s:9:"neighbour";s:7:"Fremont";}

@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:70:"http://www.urbanspoon.com/r/6/1451771/restaurant/Peoples-Cafe-Berkeley";s:4:"name";s:14:"People's Café";s:2:"id";s:7:"1451771";s:4:"info";s:125:"Coffee, Sandwiches/Subs and Breakfast/Brunch - <br />
+                <br />
+                  2015 Shattuck Avenue, Berkeley";s:5:"info2";s:44:"Coffee, Sandwiches/Subs and Breakfast/Brunch";s:7:"address";s:30:"2015 Shattuck Avenue, Berkeley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.872018";s:3:"lon";s:11:"-122.267581";s:9:"neighbour";s:8:"Berkeley";}

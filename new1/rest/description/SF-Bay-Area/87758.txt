@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:72:"http://www.urbanspoon.com/r/6/87758/restaurant/Mission-Pine-Cafe-Fremont";s:4:"name";s:17:"Mission Pine Cafe";s:2:"id";s:5:"87758";s:4:"info";s:20:"129 Anza St, Fremont";s:7:"address";s:20:"129 Anza St, Fremont";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.530528";s:3:"lon";s:11:"-121.919796";s:9:"neighbour";s:7:"Fremont";}

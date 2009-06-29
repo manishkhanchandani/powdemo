@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:75:"http://www.urbanspoon.com/r/6/1212400/restaurant/Hong-Kong-Smorgi-Fairfield";s:4:"name";s:16:"Hong Kong Smorgi";s:2:"id";s:7:"1212400";s:4:"info";s:84:"Chinese - <br />
+                <br />
+                  1767 N TEXAS ST, Fairfield";s:5:"info2";s:7:"Chinese";s:7:"address";s:26:"1767 N TEXAS ST, Fairfield";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"38.2612";s:3:"lon";s:9:"-122.0344";s:9:"neighbour";s:9:"Fairfield";}

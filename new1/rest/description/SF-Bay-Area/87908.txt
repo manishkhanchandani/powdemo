@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:82:"http://www.urbanspoon.com/r/6/87908/restaurant/Mr-Chaus-Chinese-Fast-Food-Campbell";s:4:"name";s:27:"Mr Chau's Chinese Fast Food";s:2:"id";s:5:"87908";s:4:"info";s:85:"Chinese - <br />
+                <br />
+                  2200 S Bascom Ave, Campbell";s:5:"info2";s:7:"Chinese";s:7:"address";s:27:"2200 S Bascom Ave, Campbell";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.283245";s:3:"lon";s:11:"-121.931527";s:9:"neighbour";s:8:"Campbell";}

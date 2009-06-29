@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:77:"http://www.urbanspoon.com/r/6/91669/restaurant/Sushi-Ko-Order-Online-Berkeley";s:4:"name";s:21:"Sushi Ko Order Online";s:2:"id";s:5:"91669";s:4:"info";s:93:"Sushi and Japanese - <br />
+                <br />
+                  64 Shattuck Sq, Berkeley";s:5:"info2";s:18:"Sushi and Japanese";s:7:"address";s:24:"64 Shattuck Sq, Berkeley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.871824";s:3:"lon";s:11:"-122.267935";s:9:"neighbour";s:8:"Berkeley";}

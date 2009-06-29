@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:66:"http://www.urbanspoon.com/r/6/87955/restaurant/Mt-Everest-Berkeley";s:4:"name";s:10:"Mt Everest";s:2:"id";s:5:"87955";s:4:"info";s:27:"2011 Shattuck Ave, Berkeley";s:7:"address";s:27:"2011 Shattuck Ave, Berkeley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.871905";s:3:"lon";s:11:"-122.268203";s:9:"neighbour";s:8:"Berkeley";}

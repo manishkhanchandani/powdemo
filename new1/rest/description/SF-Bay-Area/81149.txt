@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:72:"http://www.urbanspoon.com/r/6/81149/restaurant/Bobs-Hoagy-Steaks-Fremont";s:4:"name";s:18:"Bob's Hoagy Steaks";s:2:"id";s:5:"81149";s:4:"info";s:88:"Steakhouse - <br />
+                <br />
+                  37404 Fremont Blvd, Fremont";s:5:"info2";s:10:"Steakhouse";s:7:"address";s:27:"37404 Fremont Blvd, Fremont";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.557869";s:3:"lon";s:11:"-122.006009";s:9:"neighbour";s:7:"Fremont";}

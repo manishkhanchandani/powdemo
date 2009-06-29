@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:70:"http://www.urbanspoon.com/r/6/1212516/restaurant/Strike-Zone-Fairfield";s:4:"name";s:11:"Strike Zone";s:2:"id";s:7:"1212516";s:4:"info";s:24:"2382 TWAIN Ct, Fairfield";s:7:"address";s:24:"2382 TWAIN Ct, Fairfield";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"38.2662";s:3:"lon";s:8:"-122.034";s:9:"neighbour";s:9:"Fairfield";}

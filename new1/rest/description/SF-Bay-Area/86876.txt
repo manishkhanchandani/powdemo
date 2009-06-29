@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:64:"http://www.urbanspoon.com/r/6/86876/restaurant/Los-Cavos-Fremont";s:4:"name";s:9:"Los Cavos";s:2:"id";s:5:"86876";s:4:"info";s:24:"3283 Walnut Ave, Fremont";s:7:"address";s:24:"3283 Walnut Ave, Fremont";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.550899";s:3:"lon";s:11:"-121.978826";s:9:"neighbour";s:7:"Fremont";}

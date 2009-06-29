@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:66:"http://www.urbanspoon.com/r/6/91700/restaurant/Sushi-Tango-Fremont";s:4:"name";s:11:"Sushi Tango";s:2:"id";s:5:"91700";s:4:"info";s:95:"Sushi and Japanese - <br />
+                <br />
+                  4193 Cushing Pkwy, Fremont";s:5:"info2";s:18:"Sushi and Japanese";s:7:"address";s:26:"4193 Cushing Pkwy, Fremont";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.490528";s:3:"lon";s:11:"-121.949884";s:9:"neighbour";s:7:"Fremont";}

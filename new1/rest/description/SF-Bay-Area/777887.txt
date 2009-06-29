@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:68:"http://www.urbanspoon.com/r/6/777887/restaurant/Claim-Jumper-Fremont";s:4:"name";s:12:"Claim Jumper";s:2:"id";s:6:"777887";s:4:"info";s:94:"American - <br />
+                <br />
+                  43330 Pacific Commons Blvd, Fremont";s:5:"info2";s:8:"American";s:7:"address";s:35:"43330 Pacific Commons Blvd, Fremont";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.504247";s:3:"lon";s:11:"-121.973258";s:9:"neighbour";s:7:"Fremont";}

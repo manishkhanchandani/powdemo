@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:84:"http://www.urbanspoon.com/r/6/334414/restaurant/Civic-Center/Fish-Farm-San-Francisco";s:4:"name";s:15:"Fish &amp; Farm";s:2:"id";s:6:"334414";s:4:"info";s:86:"Seafood - <br />
+                <br />
+                  339 Taylor St, San Francisco";s:5:"info2";s:7:"Seafood";s:7:"address";s:28:"339 Taylor St, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.785457";s:3:"lon";s:11:"-122.411375";s:9:"neighbour";s:12:"Civic Center";}

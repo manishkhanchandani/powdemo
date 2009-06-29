@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:76:"http://www.urbanspoon.com/r/6/88349/restaurant/Not-Just-Cheesecakes-Campbell";s:4:"name";s:20:"Not Just Cheesecakes";s:2:"id";s:5:"88349";s:4:"info";s:28:"653 E Campbell Ave, Campbell";s:7:"address";s:28:"653 E Campbell Ave, Campbell";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.287237";s:3:"lon";s:11:"-121.938371";s:9:"neighbour";s:8:"Campbell";}

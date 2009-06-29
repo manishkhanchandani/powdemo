@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:83:"http://www.urbanspoon.com/r/6/764173/restaurant/Antioch/La-Flor-de-Mexico-Pittsburg";s:4:"name";s:17:"La Flor de Mexico";s:2:"id";s:6:"764173";s:4:"info";s:27:"755 Railroad Ave, Pittsburg";s:7:"address";s:27:"755 Railroad Ave, Pittsburg";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"38.029897";s:3:"lon";s:11:"-121.884209";s:9:"neighbour";s:7:"Antioch";}

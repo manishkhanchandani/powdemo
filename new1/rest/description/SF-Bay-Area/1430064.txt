@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:85:"http://www.urbanspoon.com/r/6/1430064/restaurant/Antioch/Shutters-Brasserie-Brentwood";s:4:"name";s:18:"Shutters Brasserie";s:2:"id";s:7:"1430064";s:4:"info";s:85:"American - <br />
+                <br />
+                  2013 Elkins Way, Brentwood";s:5:"info2";s:8:"American";s:7:"address";s:26:"2013 Elkins Way, Brentwood";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.954729";s:3:"lon";s:11:"-121.688802";s:9:"neighbour";s:7:"Antioch";}

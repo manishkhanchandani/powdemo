@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:80:"http://www.urbanspoon.com/r/6/763427/restaurant/Antioch/Als-Snack-Shop-Pittsburg";s:4:"name";s:15:"Al's Snack Shop";s:2:"id";s:6:"763427";s:4:"info";s:28:"1390 Railroad Ave, Pittsburg";s:7:"address";s:28:"1390 Railroad Ave, Pittsburg";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"38.023827";s:3:"lon";s:11:"-121.887279";s:9:"neighbour";s:7:"Antioch";}

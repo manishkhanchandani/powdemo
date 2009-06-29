@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:63:"http://www.urbanspoon.com/r/6/1424440/restaurant/Slice-Campbell";s:4:"name";s:5:"Slice";s:2:"id";s:7:"1424440";s:4:"info";s:85:"Pizza - <br />
+                <br />
+                  266 E. Campbell ave, Campbell";s:5:"info2";s:5:"Pizza";s:7:"address";s:29:"266 E. Campbell ave, Campbell";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.286891";s:3:"lon";s:11:"-121.945126";s:9:"neighbour";s:8:"Campbell";}

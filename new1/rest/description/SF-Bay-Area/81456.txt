@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:85:"http://www.urbanspoon.com/r/6/81456/restaurant/Civic-Center/Burger-King-San-Francisco";s:4:"name";s:11:"Burger King";s:2:"id";s:5:"81456";s:4:"info";s:103:"Burgers and Fast Food - <br />
+                <br />
+                  819 Van Ness Ave, San Francisco";s:5:"info2";s:21:"Burgers and Fast Food";s:7:"address";s:31:"819 Van Ness Ave, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.783104";s:3:"lon";s:11:"-122.421026";s:9:"neighbour";s:12:"Civic Center";}

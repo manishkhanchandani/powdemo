@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:64:"http://www.urbanspoon.com/r/6/81696/restaurant/Cafe-Nova-Fremont";s:4:"name";s:9:"Cafe Nova";s:2:"id";s:5:"81696";s:4:"info";s:25:"39155 Liberty St, Fremont";s:7:"address";s:25:"39155 Liberty St, Fremont";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.550796";s:3:"lon";s:11:"-121.982224";s:9:"neighbour";s:7:"Fremont";}

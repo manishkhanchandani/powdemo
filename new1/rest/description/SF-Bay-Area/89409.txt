@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:84:"http://www.urbanspoon.com/r/6/89409/restaurant/Popeyes-Chicken-and-Biscuits-Berkeley";s:4:"name";s:28:"Popeyes Chicken and Biscuits";s:2:"id";s:5:"89409";s:4:"info";s:112:"Fast Food and Southern &amp; Soul - <br />
+                <br />
+                  1755 San Pablo Ave, Berkeley";s:5:"info2";s:33:"Fast Food and Southern &amp; Soul";s:7:"address";s:28:"1755 San Pablo Ave, Berkeley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.872227";s:3:"lon";s:11:"-122.292995";s:9:"neighbour";s:8:"Berkeley";}

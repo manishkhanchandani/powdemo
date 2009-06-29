@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:66:"http://www.urbanspoon.com/r/6/80774/restaurant/Barracuda-Daly-City";s:4:"name";s:9:"Barracuda";s:2:"id";s:5:"80774";s:4:"info";s:98:"Japanese and Sushi - <br />
+                <br />
+                  127 Serramonte Ctr, Daly City";s:5:"info2";s:18:"Japanese and Sushi";s:7:"address";s:29:"127 Serramonte Ctr, Daly City";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.668994";s:3:"lon";s:11:"-122.469421";s:9:"neighbour";s:9:"Daly City";}

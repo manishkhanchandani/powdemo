@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:68:"http://www.urbanspoon.com/r/6/353004/restaurant/Albany/Redd-Berkeley";s:4:"name";s:4:"Redd";s:2:"id";s:6:"353004";s:4:"info";s:29:"1598 Washington Ave, Berkeley";s:7:"address";s:29:"1598 Washington Ave, Berkeley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:8:"37.89283";s:3:"lon";s:11:"-122.286879";s:9:"neighbour";s:6:"Albany";}

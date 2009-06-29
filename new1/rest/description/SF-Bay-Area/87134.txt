@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:71:"http://www.urbanspoon.com/r/6/87134/restaurant/Mambo-Kabob-House-Albany";s:4:"name";s:17:"Mambo Kabob House";s:2:"id";s:5:"87134";s:4:"info";s:107:"Ethiopian/Eritrean and African - <br />
+                <br />
+                  1101 San Pablo Ave, Albany";s:5:"info2";s:30:"Ethiopian/Eritrean and African";s:7:"address";s:26:"1101 San Pablo Ave, Albany";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.883707";s:3:"lon";s:11:"-122.296683";s:9:"neighbour";s:6:"Albany";}

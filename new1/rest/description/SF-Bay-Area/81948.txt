@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:62:"http://www.urbanspoon.com/r/6/81948/restaurant/Cape-Cod-Albany";s:4:"name";s:8:"Cape Cod";s:2:"id";s:5:"81948";s:4:"info";s:23:"1150 Solano Ave, Albany";s:7:"address";s:23:"1150 Solano Ave, Albany";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:8:"37.89023";s:3:"lon";s:11:"-122.297375";s:9:"neighbour";s:6:"Albany";}

@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:72:"http://www.urbanspoon.com/r/6/91343/restaurant/Campbell/Subway-Los-Gatos";s:4:"name";s:6:"Subway";s:2:"id";s:5:"91343";s:4:"info";s:118:"Fast Food, Soups and Sandwiches/Subs - <br />
+                <br />
+                  14777 Los Gatos Blvd, Los Gatos";s:5:"info2";s:36:"Fast Food, Soups and Sandwiches/Subs";s:7:"address";s:31:"14777 Los Gatos Blvd, Los Gatos";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.253645";s:3:"lon";s:11:"-121.952114";s:9:"neighbour";s:8:"Campbell";}

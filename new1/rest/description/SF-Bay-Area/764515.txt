@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:63:"http://www.urbanspoon.com/r/6/764515/restaurant/Peprika-Antioch";s:4:"name";s:7:"Peprika";s:2:"id";s:6:"764515";s:4:"info";s:25:"2500 Sycamore Dr, Antioch";s:7:"address";s:25:"2500 Sycamore Dr, Antioch";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:8:"38.00626";s:3:"lon";s:11:"-121.833098";s:9:"neighbour";s:7:"Antioch";}

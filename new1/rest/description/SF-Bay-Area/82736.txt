@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:84:"http://www.urbanspoon.com/r/6/82736/restaurant/Emeryville/Continental-Baking-Oakland";s:4:"name";s:18:"Continental Baking";s:2:"id";s:5:"82736";s:4:"info";s:20:"945 53rd St, Oakland";s:7:"address";s:20:"945 53rd St, Oakland";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.837006";s:3:"lon";s:11:"-122.275625";s:9:"neighbour";s:10:"Emeryville";}

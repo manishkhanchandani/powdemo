@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:82:"http://www.urbanspoon.com/r/6/1430816/restaurant/Popeyes-Chicken-Biscuit-Cupertino";s:4:"name";s:30:"Popeye's Chicken &amp; Biscuit";s:2:"id";s:7:"1430816";s:4:"info";s:127:"Fast Food, Southern &amp; Soul and Cajun/Creole - <br />
+                <br />
+                  10123 N. Wolfe Rd., Cupertino";s:5:"info2";s:47:"Fast Food, Southern &amp; Soul and Cajun/Creole";s:7:"address";s:29:"10123 N. Wolfe Rd., Cupertino";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.325703";s:3:"lon";s:11:"-122.014532";s:9:"neighbour";s:9:"Cupertino";}

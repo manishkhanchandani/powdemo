@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:79:"http://www.urbanspoon.com/r/6/91978/restaurant/Daly-City/Tai-Shan-San-Francisco";s:4:"name";s:8:"Tai Shan";s:2:"id";s:5:"91978";s:4:"info";s:32:"2257 San Jose Ave, San Francisco";s:7:"address";s:32:"2257 San Jose Ave, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.721028";s:3:"lon";s:10:"-122.44614";s:9:"neighbour";s:9:"Daly City";}

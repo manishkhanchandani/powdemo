@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:70:"http://www.urbanspoon.com/r/6/86727/restaurant/Little-Anges-El-Cerrito";s:4:"name";s:13:"Little Ange's";s:2:"id";s:5:"86727";s:4:"info";s:99:"Burgers and Pub Food - <br />
+                <br />
+                  6115 Potrero Ave, El Cerrito";s:5:"info2";s:20:"Burgers and Pub Food";s:7:"address";s:28:"6115 Potrero Ave, El Cerrito";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.920899";s:3:"lon";s:11:"-122.316404";s:9:"neighbour";s:10:"El Cerrito";}

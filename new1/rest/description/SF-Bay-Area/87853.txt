@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:81:"http://www.urbanspoon.com/r/6/87853/restaurant/Foster-City/Morning-Fixx-San-Mateo";s:4:"name";s:12:"Morning Fixx";s:2:"id";s:5:"87853";s:4:"info";s:24:"2001 Chess Dr, San Mateo";s:7:"address";s:24:"2001 Chess Dr, San Mateo";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.562722";s:3:"lon";s:11:"-122.281594";s:9:"neighbour";s:11:"Foster City";}

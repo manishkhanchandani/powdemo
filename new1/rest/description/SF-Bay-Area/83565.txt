@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:68:"http://www.urbanspoon.com/r/6/83565/restaurant/El-Taconazo-Daly-City";s:4:"name";s:11:"El Taconazo";s:2:"id";s:5:"83565";s:4:"info";s:94:"Tacos and Mexican - <br />
+                <br />
+                  7384 Mission St, Daly City";s:5:"info2";s:17:"Tacos and Mexican";s:7:"address";s:26:"7384 Mission St, Daly City";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.690186";s:3:"lon";s:11:"-122.466046";s:9:"neighbour";s:9:"Daly City";}

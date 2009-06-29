@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:72:"http://www.urbanspoon.com/r/6/1413877/restaurant/In-N-Out-Burger-Fremont";s:4:"name";s:15:"In-N-Out Burger";s:2:"id";s:7:"1413877";s:4:"info";s:107:"American and Burgers - <br />
+                <br />
+                  43349 Pacific Commons Blvd., Fremont";s:5:"info2";s:20:"American and Burgers";s:7:"address";s:36:"43349 Pacific Commons Blvd., Fremont";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.503999";s:3:"lon";s:10:"-121.97347";s:9:"neighbour";s:7:"Fremont";}

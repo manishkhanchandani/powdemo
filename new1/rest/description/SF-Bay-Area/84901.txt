@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:73:"http://www.urbanspoon.com/r/6/84901/restaurant/Hometown-Favorites-Fremont";s:4:"name";s:18:"Hometown Favorites";s:2:"id";s:5:"84901";s:4:"info";s:85:"Chinese - <br />
+                <br />
+                  43689 Mission Blvd, Fremont";s:5:"info2";s:7:"Chinese";s:7:"address";s:27:"43689 Mission Blvd, Fremont";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:8:"37.52634";s:3:"lon";s:11:"-121.918227";s:9:"neighbour";s:7:"Fremont";}

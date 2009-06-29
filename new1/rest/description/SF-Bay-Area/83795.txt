@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:76:"http://www.urbanspoon.com/r/6/83795/restaurant/Fast-Food-Express-Foster-City";s:4:"name";s:17:"Fast Food Express";s:2:"id";s:5:"83795";s:4:"info";s:27:"2000 E 3rd Ave, Foster City";s:7:"address";s:27:"2000 E 3rd Ave, Foster City";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.571111";s:3:"lon";s:11:"-122.296843";s:9:"neighbour";s:11:"Foster City";}

@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:103:"http://www.urbanspoon.com/r/6/1430671/restaurant/Daly-City/La-Parrilla-Grill-City-College-San-Francisco";s:4:"name";s:32:"La Parrilla Grill (City College)";s:2:"id";s:7:"1430671";s:4:"info";s:87:"Mexican - <br />
+                <br />
+                  1125 Ocean Ave, San Francisco";s:5:"info2";s:7:"Mexican";s:7:"address";s:29:"1125 Ocean Ave, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.723423";s:3:"lon";s:11:"-122.454453";s:9:"neighbour";s:9:"Daly City";}

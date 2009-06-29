@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:63:"http://www.urbanspoon.com/r/6/82010/restaurant/Carls-Jr-Fremont";s:4:"name";s:10:"Carl's Jr.";s:2:"id";s:5:"82010";s:4:"info";s:99:"Fast Food and Burgers - <br />
+                <br />
+                  46637 Mission Blvd, Fremont";s:5:"info2";s:21:"Fast Food and Burgers";s:7:"address";s:27:"46637 Mission Blvd, Fremont";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.491275";s:3:"lon";s:11:"-121.928071";s:9:"neighbour";s:7:"Fremont";}

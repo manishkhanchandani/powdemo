@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:87:"http://www.urbanspoon.com/r/6/88167/restaurant/Civic-Center/New-Star-Cafe-San-Francisco";s:4:"name";s:13:"New Star Cafe";s:2:"id";s:5:"88167";s:4:"info";s:26:"400 Eddy St, San Francisco";s:7:"address";s:26:"400 Eddy St, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.783816";s:3:"lon";s:11:"-122.414398";s:9:"neighbour";s:12:"Civic Center";}

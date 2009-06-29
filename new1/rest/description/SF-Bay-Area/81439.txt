@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:66:"http://www.urbanspoon.com/r/6/81439/restaurant/Burger-King-Fremont";s:4:"name";s:11:"Burger King";s:2:"id";s:5:"81439";s:4:"info";s:99:"Burgers and Fast Food - <br />
+                <br />
+                  46700 Mission Blvd, Fremont";s:5:"info2";s:21:"Burgers and Fast Food";s:7:"address";s:27:"46700 Mission Blvd, Fremont";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.490727";s:3:"lon";s:11:"-121.928082";s:9:"neighbour";s:7:"Fremont";}

@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:66:"http://www.urbanspoon.com/r/6/1212162/restaurant/KFC-Castro-Valley";s:4:"name";s:3:"KFC";s:2:"id";s:7:"1212162";s:4:"info";s:111:"Fast Food and American - <br />
+                <br />
+                  3625 Castro Valley Blvd, Castro Valley";s:5:"info2";s:22:"Fast Food and American";s:7:"address";s:38:"3625 Castro Valley Blvd, Castro Valley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:6:"37.695";s:3:"lon";s:9:"-122.0723";s:9:"neighbour";s:13:"Castro Valley";}

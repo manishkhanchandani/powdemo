@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:65:"http://www.urbanspoon.com/r/6/88594/restaurant/P-Js-Bagel-Fremont";s:4:"name";s:11:"P J's Bagel";s:2:"id";s:5:"88594";s:4:"info";s:88:"Bagels - <br />
+                <br />
+                  38990 Paseo Padre Pkwy, Fremont";s:5:"info2";s:6:"Bagels";s:7:"address";s:31:"38990 Paseo Padre Pkwy, Fremont";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.554926";s:3:"lon";s:11:"-121.983477";s:9:"neighbour";s:7:"Fremont";}

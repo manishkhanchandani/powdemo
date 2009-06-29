@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:85:"http://www.urbanspoon.com/r/6/1427545/restaurant/Cerrito-Speakeasy-Theater-El-Cerrito";s:4:"name";s:25:"Cerrito Speakeasy Theater";s:2:"id";s:7:"1427545";s:4:"info";s:113:"American, Pub Food and Pizza - <br />
+                <br />
+                  10070 San Pablo Avenue, El Cerrito";s:5:"info2";s:28:"American, Pub Food and Pizza";s:7:"address";s:34:"10070 San Pablo Avenue, El Cerrito";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.901848";s:3:"lon";s:11:"-122.302987";s:9:"neighbour";s:10:"El Cerrito";}

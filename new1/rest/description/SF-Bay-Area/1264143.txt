@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:80:"http://www.urbanspoon.com/r/298/1264143/restaurant/Stockton/La-Michoacana-Oakley";s:4:"name";s:13:"La Michoacana";s:2:"id";s:7:"1264143";s:4:"info";s:20:"3370 Main St, Oakley";s:7:"address";s:20:"3370 Main St, Oakley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"37.9979";s:3:"lon";s:9:"-121.7159";s:9:"neighbour";s:7:"Antioch";}

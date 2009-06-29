@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:69:"http://www.urbanspoon.com/r/6/80392/restaurant/Annas-Place-El-Cerrito";s:4:"name";s:12:"Anna's Place";s:2:"id";s:5:"80392";s:4:"info";s:31:"11740 San Pablo Ave, El Cerrito";s:7:"address";s:31:"11740 San Pablo Ave, El Cerrito";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.927147";s:3:"lon";s:11:"-122.319505";s:9:"neighbour";s:10:"El Cerrito";}

@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:68:"http://www.urbanspoon.com/r/6/82855/restaurant/Crispy-Fry-Emeryville";s:4:"name";s:10:"Crispy Fry";s:2:"id";s:5:"82855";s:4:"info";s:30:"5800 Shellmound St, Emeryville";s:7:"address";s:30:"5800 Shellmound St, Emeryville";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.839564";s:3:"lon";s:11:"-122.293361";s:9:"neighbour";s:10:"Emeryville";}

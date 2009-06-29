@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:84:"http://www.urbanspoon.com/r/6/1438716/restaurant/Antioch/Cheese-Steak-Shop-Brentwood";s:4:"name";s:17:"Cheese Steak Shop";s:2:"id";s:7:"1438716";s:4:"info";s:100:"Sandwiches/Subs - <br />
+                <br />
+                  8610 Brentwood Blvd # E, Brentwood";s:5:"info2";s:15:"Sandwiches/Subs";s:7:"address";s:34:"8610 Brentwood Blvd # E, Brentwood";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.926967";s:3:"lon";s:11:"-121.691758";s:9:"neighbour";s:7:"Antioch";}

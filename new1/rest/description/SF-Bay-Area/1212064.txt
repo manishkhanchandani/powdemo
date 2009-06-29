@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:67:"http://www.urbanspoon.com/r/6/1212064/restaurant/Stone-Cafe-Benicia";s:4:"name";s:10:"Stone Cafe";s:2:"id";s:7:"1212064";s:4:"info";s:27:"685 Stone Rd Ste 1, Benicia";s:7:"address";s:27:"685 Stone Rd Ste 1, Benicia";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"38.0734";s:3:"lon";s:9:"-122.1249";s:9:"neighbour";s:7:"Benicia";}

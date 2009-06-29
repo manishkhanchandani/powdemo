@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:65:"http://www.urbanspoon.com/r/6/83101/restaurant/Depot-Cafe-Fremont";s:4:"name";s:10:"Depot Cafe";s:2:"id";s:5:"83101";s:4:"info";s:27:"37260 Fremont Blvd, Fremont";s:7:"address";s:27:"37260 Fremont Blvd, Fremont";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.558875";s:3:"lon";s:11:"-122.007973";s:9:"neighbour";s:7:"Fremont";}

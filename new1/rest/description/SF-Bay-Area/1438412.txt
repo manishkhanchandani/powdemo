@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:61:"http://www.urbanspoon.com/r/6/1438412/restaurant/Zoey-Antioch";s:4:"name";s:4:"Zoey";s:2:"id";s:7:"1438412";s:4:"info";s:30:"4643 golf course road, Antioch";s:7:"address";s:30:"4643 golf course road, Antioch";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.976387";s:3:"lon";s:11:"-121.802903";s:9:"neighbour";s:7:"Antioch";}

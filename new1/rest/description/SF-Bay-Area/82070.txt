@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:77:"http://www.urbanspoon.com/r/6/82070/restaurant/Caspers-Famous-Hot-Dogs-Albany";s:4:"name";s:23:"Caspers Famous Hot Dogs";s:2:"id";s:5:"82070";s:4:"info";s:98:"Hot Dogs and Fast Food - <br />
+                <br />
+                  545 San Pablo Ave, Albany";s:5:"info2";s:22:"Hot Dogs and Fast Food";s:7:"address";s:25:"545 San Pablo Ave, Albany";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.896451";s:3:"lon";s:11:"-122.300737";s:9:"neighbour";s:6:"Albany";}

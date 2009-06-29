@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:58:"http://www.urbanspoon.com/r/6/85798/restaurant/KFC-Fremont";s:4:"name";s:3:"KFC";s:2:"id";s:5:"85798";s:4:"info";s:98:"Fast Food and American - <br />
+                <br />
+                  190 Francisco Ln, Fremont";s:5:"info2";s:22:"Fast Food and American";s:7:"address";s:25:"190 Francisco Ln, Fremont";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.488991";s:3:"lon";s:11:"-121.927918";s:9:"neighbour";s:7:"Fremont";}

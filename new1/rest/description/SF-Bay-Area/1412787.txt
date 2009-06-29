@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:65:"http://www.urbanspoon.com/r/6/1412787/restaurant/Cafe-Zen-Fremont";s:4:"name";s:8:"Cafe Zen";s:2:"id";s:7:"1412787";s:4:"info";s:91:"International - <br />
+                <br />
+                  43749 Boscell Road, Fremont";s:5:"info2";s:13:"International";s:7:"address";s:27:"43749 Boscell Road, Fremont";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.500856";s:3:"lon";s:11:"-121.973439";s:9:"neighbour";s:7:"Fremont";}

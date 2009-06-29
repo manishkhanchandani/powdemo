@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:67:"http://www.urbanspoon.com/r/6/87919/restaurant/Mr-Fongs-Foster-City";s:4:"name";s:9:"Mr Fong's";s:2:"id";s:5:"87919";s:4:"info";s:31:"949 Edgewater Blvd, Foster City";s:7:"address";s:31:"949 Edgewater Blvd, Foster City";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.544656";s:3:"lon";s:11:"-122.271571";s:9:"neighbour";s:11:"Foster City";}

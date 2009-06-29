@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:66:"http://www.urbanspoon.com/r/6/85266/restaurant/Island-Java-Fremont";s:4:"name";s:11:"Island Java";s:2:"id";s:5:"85266";s:4:"info";s:27:"46685 Mission Blvd, Fremont";s:7:"address";s:27:"46685 Mission Blvd, Fremont";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.490997";s:3:"lon";s:11:"-121.928521";s:9:"neighbour";s:7:"Fremont";}

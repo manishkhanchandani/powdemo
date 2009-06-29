@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:87:"http://www.urbanspoon.com/r/6/87554/restaurant/Civic-Center/Mels-Drive-in-San-Francisco";s:4:"name";s:14:"Mel's Drive-in";s:2:"id";s:5:"87554";s:4:"info";s:111:"California, Coffee and Diner - <br />
+                <br />
+                  1050 Van Ness Ave, San Francisco";s:5:"info2";s:28:"California, Coffee and Diner";s:7:"address";s:32:"1050 Van Ness Ave, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.785426";s:3:"lon";s:11:"-122.421168";s:9:"neighbour";s:12:"Civic Center";}

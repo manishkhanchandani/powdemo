@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:69:"http://www.urbanspoon.com/r/6/84917/restaurant/Honeybaked-Ham-Fremont";s:4:"name";s:14:"Honeybaked Ham";s:2:"id";s:5:"84917";s:4:"info";s:89:"Sandwiches/Subs - <br />
+                <br />
+                  4959 Mowry Ave, Fremont";s:5:"info2";s:15:"Sandwiches/Subs";s:7:"address";s:23:"4959 Mowry Ave, Fremont";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.537169";s:3:"lon";s:11:"-121.997989";s:9:"neighbour";s:7:"Fremont";}

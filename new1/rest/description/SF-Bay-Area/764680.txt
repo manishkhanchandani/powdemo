@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:73:"http://www.urbanspoon.com/r/6/764680/restaurant/Sidewalk-Graffiti-Antioch";s:4:"name";s:17:"Sidewalk Graffiti";s:2:"id";s:6:"764680";s:4:"info";s:30:"4517 Country Hills Dr, Antioch";s:7:"address";s:30:"4517 Country Hills Dr, Antioch";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.972366";s:3:"lon";s:11:"-121.774733";s:9:"neighbour";s:7:"Antioch";}

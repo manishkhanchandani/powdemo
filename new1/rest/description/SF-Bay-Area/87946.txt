@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:67:"http://www.urbanspoon.com/r/6/87946/restaurant/Mr-Pizza-Man-Fremont";s:4:"name";s:13:"Mr. Pizza Man";s:2:"id";s:5:"87946";s:4:"info";s:83:"Pizza - <br />
+                <br />
+                  35760 Fremont Blvd, Fremont";s:5:"info2";s:5:"Pizza";s:7:"address";s:27:"35760 Fremont Blvd, Fremont";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.566748";s:3:"lon";s:11:"-122.023668";s:9:"neighbour";s:7:"Fremont";}

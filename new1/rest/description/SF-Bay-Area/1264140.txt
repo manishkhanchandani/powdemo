@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:92:"http://www.urbanspoon.com/r/6/1264140/restaurant/Antioch/Golden-Chopsticks-Restaurant-Oakley";s:4:"name";s:28:"Golden Chopsticks Restaurant";s:2:"id";s:7:"1264140";s:4:"info";s:76:"Asian - <br />
+                <br />
+                  2525 Main St, Oakley";s:5:"info2";s:5:"Asian";s:7:"address";s:20:"2525 Main St, Oakley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"37.9979";s:3:"lon";s:9:"-121.7305";s:9:"neighbour";s:7:"Antioch";}
