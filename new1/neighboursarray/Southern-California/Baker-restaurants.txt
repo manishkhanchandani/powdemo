@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:75:"http://www.urbanspoon.com/n/290/34602/Southern-California/Baker-restaurants";s:8:"baseName";s:17:"Baker-restaurants";s:5:"title";s:5:"Baker";s:5:"count";s:2:"14";}

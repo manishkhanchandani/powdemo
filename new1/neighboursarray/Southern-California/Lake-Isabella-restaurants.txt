@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:83:"http://www.urbanspoon.com/n/290/34625/Southern-California/Lake-Isabella-restaurants";s:8:"baseName";s:25:"Lake-Isabella-restaurants";s:5:"title";s:13:"Lake Isabella";s:5:"count";s:2:"12";}

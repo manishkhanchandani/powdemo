@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:81:"http://www.urbanspoon.com/n/290/45239/Southern-California/Caliente-CA-restaurants";s:8:"baseName";s:23:"Caliente-CA-restaurants";s:5:"title";s:8:"Caliente";s:5:"count";s:1:"3";}

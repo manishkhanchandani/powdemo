@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:76:"http://www.urbanspoon.com/n/290/34647/Southern-California/Vernon-restaurants";s:8:"baseName";s:18:"Vernon-restaurants";s:5:"title";s:6:"Vernon";s:5:"count";s:1:"7";}

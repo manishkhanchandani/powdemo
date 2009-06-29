@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:85:"http://www.urbanspoon.com/n/290/34607/Southern-California/Borrego-Springs-restaurants";s:8:"baseName";s:27:"Borrego-Springs-restaurants";s:5:"title";s:15:"Borrego Springs";s:5:"count";s:2:"10";}

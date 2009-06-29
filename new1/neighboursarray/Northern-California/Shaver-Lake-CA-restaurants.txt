@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:84:"http://www.urbanspoon.com/n/239/44635/Northern-California/Shaver-Lake-CA-restaurants";s:8:"baseName";s:26:"Shaver-Lake-CA-restaurants";s:5:"title";s:11:"Shaver Lake";s:5:"count";s:1:"7";}

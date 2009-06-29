@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:81:"http://www.urbanspoon.com/n/239/27801/Northern-California/Angels-Camp-restaurants";s:8:"baseName";s:23:"Angels-Camp-restaurants";s:5:"title";s:11:"Angels Camp";s:5:"count";s:2:"23";}

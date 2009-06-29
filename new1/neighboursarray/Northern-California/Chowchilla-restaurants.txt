@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:80:"http://www.urbanspoon.com/n/239/27807/Northern-California/Chowchilla-restaurants";s:8:"baseName";s:22:"Chowchilla-restaurants";s:5:"title";s:10:"Chowchilla";s:5:"count";s:2:"27";}

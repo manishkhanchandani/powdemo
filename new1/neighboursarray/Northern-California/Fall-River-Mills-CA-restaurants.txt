@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:89:"http://www.urbanspoon.com/n/239/44572/Northern-California/Fall-River-Mills-CA-restaurants";s:8:"baseName";s:31:"Fall-River-Mills-CA-restaurants";s:5:"title";s:16:"Fall River Mills";s:5:"count";s:1:"9";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:77:"http://www.urbanspoon.com/n/239/27816/Northern-California/Fortuna-restaurants";s:8:"baseName";s:19:"Fortuna-restaurants";s:5:"title";s:7:"Fortuna";s:5:"count";s:2:"36";}

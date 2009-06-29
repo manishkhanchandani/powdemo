@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:78:"http://www.urbanspoon.com/n/239/27810/Northern-California/Coalinga-restaurants";s:8:"baseName";s:20:"Coalinga-restaurants";s:5:"title";s:8:"Coalinga";s:5:"count";s:2:"37";}

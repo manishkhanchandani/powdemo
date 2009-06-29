@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:75:"http://www.urbanspoon.com/n/290/34606/Southern-California/Boron-restaurants";s:8:"baseName";s:17:"Boron-restaurants";s:5:"title";s:5:"Boron";s:5:"count";s:1:"4";}

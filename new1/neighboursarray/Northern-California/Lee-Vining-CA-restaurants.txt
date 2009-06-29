@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:83:"http://www.urbanspoon.com/n/239/44602/Northern-California/Lee-Vining-CA-restaurants";s:8:"baseName";s:25:"Lee-Vining-CA-restaurants";s:5:"title";s:10:"Lee Vining";s:5:"count";s:1:"7";}

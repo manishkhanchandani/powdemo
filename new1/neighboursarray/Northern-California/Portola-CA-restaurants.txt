@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:80:"http://www.urbanspoon.com/n/239/44630/Northern-California/Portola-CA-restaurants";s:8:"baseName";s:22:"Portola-CA-restaurants";s:5:"title";s:7:"Portola";s:5:"count";s:2:"15";}

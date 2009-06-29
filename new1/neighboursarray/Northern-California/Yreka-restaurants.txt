@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:75:"http://www.urbanspoon.com/n/239/27850/Northern-California/Yreka-restaurants";s:8:"baseName";s:17:"Yreka-restaurants";s:5:"title";s:5:"Yreka";s:5:"count";s:2:"46";}

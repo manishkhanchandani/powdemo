@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:82:"http://www.urbanspoon.com/n/290/34617/Southern-California/Frazier-Park-restaurants";s:8:"baseName";s:24:"Frazier-Park-restaurants";s:5:"title";s:12:"Frazier Park";s:5:"count";s:2:"22";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:76:"http://www.urbanspoon.com/n/239/27843/Northern-California/Sonora-restaurants";s:8:"baseName";s:18:"Sonora-restaurants";s:5:"title";s:6:"Sonora";s:5:"count";s:2:"97";}

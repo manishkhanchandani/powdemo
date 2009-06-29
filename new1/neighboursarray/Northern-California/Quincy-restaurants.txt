@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:76:"http://www.urbanspoon.com/n/239/27841/Northern-California/Quincy-restaurants";s:8:"baseName";s:18:"Quincy-restaurants";s:5:"title";s:6:"Quincy";s:5:"count";s:2:"28";}

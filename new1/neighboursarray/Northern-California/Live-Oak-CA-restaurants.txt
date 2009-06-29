@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:81:"http://www.urbanspoon.com/n/239/44603/Northern-California/Live-Oak-CA-restaurants";s:8:"baseName";s:23:"Live-Oak-CA-restaurants";s:5:"title";s:8:"Live Oak";s:5:"count";s:2:"12";}

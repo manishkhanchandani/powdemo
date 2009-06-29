@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:85:"http://www.urbanspoon.com/n/239/44608/Northern-California/Markleeville-CA-restaurants";s:8:"baseName";s:27:"Markleeville-CA-restaurants";s:5:"title";s:12:"Markleeville";s:5:"count";s:1:"4";}

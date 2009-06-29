@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:80:"http://www.urbanspoon.com/n/239/44552/Northern-California/Bradley-CA-restaurants";s:8:"baseName";s:22:"Bradley-CA-restaurants";s:5:"title";s:7:"Bradley";s:5:"count";s:1:"3";}

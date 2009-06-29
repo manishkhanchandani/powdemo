@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:81:"http://www.urbanspoon.com/n/239/44633/Northern-California/Rio-Dell-CA-restaurants";s:8:"baseName";s:23:"Rio-Dell-CA-restaurants";s:5:"title";s:8:"Rio Dell";s:5:"count";s:1:"8";}

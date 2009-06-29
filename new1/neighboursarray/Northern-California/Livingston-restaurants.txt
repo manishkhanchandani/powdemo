@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:80:"http://www.urbanspoon.com/n/239/27824/Northern-California/Livingston-restaurants";s:8:"baseName";s:22:"Livingston-restaurants";s:5:"title";s:10:"Livingston";s:5:"count";s:2:"21";}

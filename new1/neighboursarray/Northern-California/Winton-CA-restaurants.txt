@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:79:"http://www.urbanspoon.com/n/239/44653/Northern-California/Winton-CA-restaurants";s:8:"baseName";s:21:"Winton-CA-restaurants";s:5:"title";s:6:"Winton";s:5:"count";s:2:"12";}

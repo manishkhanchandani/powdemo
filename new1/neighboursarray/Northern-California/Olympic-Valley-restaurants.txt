@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:84:"http://www.urbanspoon.com/n/239/27837/Northern-California/Olympic-Valley-restaurants";s:8:"baseName";s:26:"Olympic-Valley-restaurants";s:5:"title";s:14:"Olympic Valley";s:5:"count";s:2:"26";}

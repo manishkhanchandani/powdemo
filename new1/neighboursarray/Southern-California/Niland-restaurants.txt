@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:76:"http://www.urbanspoon.com/n/290/34631/Southern-California/Niland-restaurants";s:8:"baseName";s:18:"Niland-restaurants";s:5:"title";s:6:"Niland";s:5:"count";s:1:"6";}

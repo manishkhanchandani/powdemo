@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:83:"http://www.urbanspoon.com/n/239/44621/Northern-California/Occidental-CA-restaurants";s:8:"baseName";s:25:"Occidental-CA-restaurants";s:5:"title";s:10:"Occidental";s:5:"count";s:2:"11";}

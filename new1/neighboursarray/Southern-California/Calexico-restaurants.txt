@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:78:"http://www.urbanspoon.com/n/290/34609/Southern-California/Calexico-restaurants";s:8:"baseName";s:20:"Calexico-restaurants";s:5:"title";s:8:"Calexico";s:5:"count";s:2:"61";}
