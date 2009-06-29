@@ -115,11 +115,13 @@ if ($handle = opendir($dirname)) {
 					flush();
 				}
 			}
+			/*
 			echo "<pre>";
 			print_r($arr);
 			print_r($arrc);
 			echo "</pre>";
 			exit;
+			*/
 			flush();
 		}
 	}
