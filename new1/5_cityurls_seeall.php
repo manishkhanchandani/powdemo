@@ -23,7 +23,6 @@ if ($handle = opendir($dirname)) {
 				$url = $base.$matches[0][1];
 				echo $url;
 				echo "<br>";
-				continue;
 				if(!file_exists($dirname."/seeall/".$file)) {
 					$seeall = file_get_contents($url);
 					file_put_contents($dirname."/seeall/".$file, $seeall);

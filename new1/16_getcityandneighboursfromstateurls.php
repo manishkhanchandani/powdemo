@@ -42,6 +42,24 @@ if ($handle = opendir($dirname)) {
 				echo "<br>";
 				exit;
 			}
+			$regexp = "<li class=\"hood\-group\"><a href=\"#\" onclick=\"new Ajax.Updater\('hoods_long', '(.*)',.*\">See all<\/a><\/li>";
+			$matches = $Crawler->regexp($regexp, $fc);
+			if($matches) {
+				$url = $base.$matches[0][1];
+				echo $url;
+				echo "<br>";
+				continue;
+				if(!file_exists("cityurls/seeall/".$file)) {
+					$seeall = file_get_contents($url);
+					file_put_contents("cityurls/seeall/".$file, $seeall);
+					echo 'file created';
+					echo "<br>";
+				} else {
+					echo 'file already created';
+					echo "<br>";
+				}
+			}
+			exit;
 			$regexp = "<li class=\"t\-li\"><a href=\"\/n(.*)\">(.*)\((.*)\)<\/a><\/li>";
 			$matches = $Crawler->regexp($regexp, $fc);
 			if($matches) {
@@ -119,6 +137,7 @@ if ($handle = opendir($dirname)) {
 					flush();
 				}
 			}
+			
 			/*
 			echo "<pre>";
 			print_r($arr);
