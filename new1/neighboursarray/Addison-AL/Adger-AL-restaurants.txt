@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/45/41633/Birmingham/Adger-AL-restaurants";s:8:"baseName";s:20:"Adger-AL-restaurants";s:5:"title";s:5:"Adger";s:5:"count";s:1:"4";}

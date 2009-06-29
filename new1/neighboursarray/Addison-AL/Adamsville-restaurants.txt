@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:69:"http://www.urbanspoon.com/n/45/4400/Birmingham/Adamsville-restaurants";s:8:"baseName";s:22:"Adamsville-restaurants";s:5:"title";s:10:"Adamsville";s:5:"count";s:2:"24";}

@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:66:"http://www.urbanspoon.com/n/309/36900/Tuscaloosa/Berry-restaurants";s:8:"baseName";s:17:"Berry-restaurants";s:5:"title";s:5:"Berry";s:5:"count";s:1:"3";}

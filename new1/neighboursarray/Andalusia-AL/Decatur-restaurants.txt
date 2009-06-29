@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:68:"http://www.urbanspoon.com/n/168/19204/Huntsville/Decatur-restaurants";s:8:"baseName";s:19:"Decatur-restaurants";s:5:"title";s:7:"Decatur";s:5:"count";s:3:"171";}

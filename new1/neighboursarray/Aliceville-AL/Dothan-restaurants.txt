@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:56:"http://www.urbanspoon.com/n/127/14607/Dothan-restaurants";s:8:"baseName";s:18:"Dothan-restaurants";s:5:"title";s:6:"Dothan";s:5:"count";s:3:"253";}

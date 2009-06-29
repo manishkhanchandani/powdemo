@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:82:"http://www.urbanspoon.com/n/45/4422/Birmingham/Vestavia-Cahaba-Heights-restaurants";s:8:"baseName";s:35:"Vestavia-Cahaba-Heights-restaurants";s:5:"title";s:14:"Cahaba Heights";s:5:"count";s:3:"110";}

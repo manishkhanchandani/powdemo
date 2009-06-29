@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:71:"http://www.urbanspoon.com/n/223/25701/Mobile/Bayou-la-Batre-restaurants";s:8:"baseName";s:26:"Bayou-la-Batre-restaurants";s:5:"title";s:14:"Bayou la Batre";s:5:"count";s:2:"11";}

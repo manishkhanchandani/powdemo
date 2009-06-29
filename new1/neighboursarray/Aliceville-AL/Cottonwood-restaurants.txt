@@ -1,0 +1,1 @@
+a:4:{s:3:"url";s:67:"http://www.urbanspoon.com/n/127/14604/Dothan/Cottonwood-restaurants";s:8:"baseName";s:22:"Cottonwood-restaurants";s:5:"title";s:10:"Cottonwood";s:5:"count";s:1:"4";}
