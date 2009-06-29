@@ -1,1 +1,0 @@
-a:9:{s:3:"url";s:70:"http://www.urbanspoon.com/r/6/83991/restaurant/Fosters-Freeze-Berkeley";s:4:"name";s:15:"Foster's Freeze";s:2:"id";s:5:"83991";s:4:"info";s:29:"1199 University Ave, Berkeley";s:7:"address";s:29:"1199 University Ave, Berkeley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.869615";s:3:"lon";s:11:"-122.289695";s:9:"neighbour";s:8:"Berkeley";}

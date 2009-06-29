@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:80:"http://www.urbanspoon.com/r/6/763429/restaurant/Antioch/Aladinos-Pizza-Pittsburg";s:4:"name";s:15:"Aladino's Pizza";s:2:"id";s:6:"763429";s:4:"info";s:89:"Pizza - <br />
-                <br />
-                  1441 E Leland Rd Ste B, Pittsburg";s:5:"info2";s:5:"Pizza";s:7:"address";s:33:"1441 E Leland Rd Ste B, Pittsburg";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"38.008273";s:3:"lon";s:11:"-121.867129";s:9:"neighbour";s:7:"Antioch";}

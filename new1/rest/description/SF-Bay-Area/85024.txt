@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:87:"http://www.urbanspoon.com/r/6/85024/restaurant/Chinatown/House-of-Dim-Sum-San-Francisco";s:4:"name";s:16:"House of Dim Sum";s:2:"id";s:5:"85024";s:4:"info";s:106:"Chinese, Asian and Dim Sum - <br />
-                <br />
-                  735 Jackson St, San Francisco";s:5:"info2";s:26:"Chinese, Asian and Dim Sum";s:7:"address";s:29:"735 Jackson St, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.795763";s:3:"lon";s:11:"-122.407498";s:9:"neighbour";s:9:"Chinatown";}

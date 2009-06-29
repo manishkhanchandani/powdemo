@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:85:"http://www.urbanspoon.com/r/6/87969/restaurant/Mugal-Indian-Pakistan-Cuisine-Berkeley";s:4:"name";s:29:"Mugal Indian Pakistan Cuisine";s:2:"id";s:5:"87969";s:4:"info";s:86:"Indian - <br />
-                <br />
-                  1160 University Ave, Berkeley";s:5:"info2";s:6:"Indian";s:7:"address";s:29:"1160 University Ave, Berkeley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.869143";s:3:"lon";s:10:"-122.29052";s:9:"neighbour";s:8:"Berkeley";}

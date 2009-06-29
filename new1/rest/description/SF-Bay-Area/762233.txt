@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:71:"http://www.urbanspoon.com/r/6/762233/restaurant/Burma-Superstar-Alameda";s:4:"name";s:15:"Burma Superstar";s:2:"id";s:6:"762233";s:4:"info";s:77:"Asian - <br />
-                <br />
-                  1345 Park St, Alameda";s:5:"info2";s:5:"Asian";s:7:"address";s:21:"1345 Park St, Alameda";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:8:"37.76369";s:3:"lon";s:11:"-122.243483";s:9:"neighbour";s:7:"Alameda";}

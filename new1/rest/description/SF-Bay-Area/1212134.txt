@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:74:"http://www.urbanspoon.com/r/6/1212134/restaurant/Burger-King-Castro-Valley";s:4:"name";s:11:"Burger King";s:2:"id";s:7:"1212134";s:4:"info";s:110:"Burgers and Fast Food - <br />
-                <br />
-                  2757 Castro Valley Blvd, Castro Valley";s:5:"info2";s:21:"Burgers and Fast Food";s:7:"address";s:38:"2757 Castro Valley Blvd, Castro Valley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"37.6945";s:3:"lon";s:9:"-122.0855";s:9:"neighbour";s:13:"Castro Valley";}

@@ -1,1 +1,0 @@
-a:9:{s:3:"url";s:70:"http://www.urbanspoon.com/r/6/1212245/restaurant/Eds-Place-El-Sobrante";s:4:"name";s:10:"Ed's Place";s:2:"id";s:7:"1212245";s:4:"info";s:34:"5329 San Pablo Dam Rd, El Sobrante";s:7:"address";s:34:"5329 San Pablo Dam Rd, El Sobrante";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"37.9607";s:3:"lon";s:9:"-122.2839";s:9:"neighbour";s:11:"El Sobrante";}

@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:80:"http://www.urbanspoon.com/r/6/81612/restaurant/Castro/Cafe-Du-Nord-San-Francisco";s:4:"name";s:12:"Cafe Du Nord";s:2:"id";s:5:"81612";s:4:"info";s:88:"Pub Food - <br />
-                <br />
-                  2170 Market St, San Francisco";s:5:"info2";s:8:"Pub Food";s:7:"address";s:29:"2170 Market St, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.766512";s:3:"lon";s:11:"-122.430396";s:9:"neighbour";s:6:"Castro";}

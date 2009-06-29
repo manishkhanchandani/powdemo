@@ -1,1 +1,0 @@
-a:9:{s:3:"url";s:67:"http://www.urbanspoon.com/r/6/91814/restaurant/T-C-Pastry-Daly-City";s:4:"name";s:10:"T C Pastry";s:2:"id";s:5:"91814";s:4:"info";s:30:"67 Saint Francis Sq, Daly City";s:7:"address";s:30:"67 Saint Francis Sq, Daly City";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.675105";s:3:"lon";s:11:"-122.479768";s:9:"neighbour";s:9:"Daly City";}

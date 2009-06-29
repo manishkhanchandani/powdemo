@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:83:"http://www.urbanspoon.com/r/6/84345/restaurant/Emeryville/Golden-Gate-Pizza-Oakland";s:4:"name";s:17:"Golden Gate Pizza";s:2:"id";s:5:"84345";s:4:"info";s:83:"Pizza - <br />
-                <br />
-                  5942 San Pablo Ave, Oakland";s:5:"info2";s:5:"Pizza";s:7:"address";s:27:"5942 San Pablo Ave, Oakland";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.842838";s:3:"lon";s:10:"-122.28341";s:9:"neighbour";s:10:"Emeryville";}

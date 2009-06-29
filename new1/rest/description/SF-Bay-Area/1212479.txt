@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:79:"http://www.urbanspoon.com/r/6/1212479/restaurant/Pelayos-Mexican-Food-Fairfield";s:4:"name";s:20:"Pelayos Mexican Food";s:2:"id";s:7:"1212479";s:4:"info";s:82:"Mexican - <br />
-                <br />
-                  1985 Texas St, Fairfield";s:5:"info2";s:7:"Mexican";s:7:"address";s:24:"1985 Texas St, Fairfield";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"38.2492";s:3:"lon";s:9:"-122.0636";s:9:"neighbour";s:9:"Fairfield";}

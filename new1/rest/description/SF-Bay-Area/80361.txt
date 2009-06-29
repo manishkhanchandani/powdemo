@@ -1,1 +1,0 @@
-a:9:{s:3:"url";s:76:"http://www.urbanspoon.com/r/6/80361/restaurant/Angel-Falls-Catering-Berkeley";s:4:"name";s:20:"Angel Falls Catering";s:2:"id";s:5:"80361";s:4:"info";s:24:"1510 Walnut St, Berkeley";s:7:"address";s:24:"1510 Walnut St, Berkeley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.880097";s:3:"lon";s:10:"-122.26834";s:9:"neighbour";s:8:"Berkeley";}

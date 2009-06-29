@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:78:"http://www.urbanspoon.com/r/6/91677/restaurant/Alameda-SJ/Sushi-Mania-San-Jose";s:4:"name";s:11:"Sushi Mania";s:2:"id";s:5:"91677";s:4:"info";s:94:"Japanese and Sushi - <br />
-                <br />
-                  1711 Branham Ln, San Jose";s:5:"info2";s:18:"Japanese and Sushi";s:7:"address";s:25:"1711 Branham Ln, San Jose";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.251667";s:3:"lon";s:11:"-121.908997";s:9:"neighbour";s:12:"Alameda (SJ)";}

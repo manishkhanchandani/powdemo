@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:68:"http://www.urbanspoon.com/r/6/88856/restaurant/Pasta-Pelican-Alameda";s:4:"name";s:13:"Pasta Pelican";s:2:"id";s:5:"88856";s:4:"info";s:97:"Seafood and Italian - <br />
-                <br />
-                  2455 Mariner Sq Dr, Alameda";s:5:"info2";s:19:"Seafood and Italian";s:7:"address";s:27:"2455 Mariner Sq Dr, Alameda";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.790347";s:3:"lon";s:11:"-122.276851";s:9:"neighbour";s:7:"Alameda";}

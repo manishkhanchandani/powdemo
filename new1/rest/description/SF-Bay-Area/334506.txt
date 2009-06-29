@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:81:"http://www.urbanspoon.com/r/6/334506/restaurant/Bayview/Pizza-Joint-San-Francisco";s:4:"name";s:11:"Pizza Joint";s:2:"id";s:6:"334506";s:4:"info";s:101:"Pizza and Burgers - <br />
-                <br />
-                  2414 San Bruno Ave, San Francisco";s:5:"info2";s:17:"Pizza and Burgers";s:7:"address";s:33:"2414 San Bruno Ave, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.731991";s:3:"lon";s:11:"-122.405611";s:9:"neighbour";s:7:"Bayview";}

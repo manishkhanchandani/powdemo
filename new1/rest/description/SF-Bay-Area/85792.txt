@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:70:"http://www.urbanspoon.com/r/6/85792/restaurant/Cupertino/KFC-Sunnyvale";s:4:"name";s:3:"KFC";s:2:"id";s:5:"85792";s:4:"info";s:103:"Fast Food and American - <br />
-                <br />
-                  1695 Hollenbeck Ave, Sunnyvale";s:5:"info2";s:22:"Fast Food and American";s:7:"address";s:30:"1695 Hollenbeck Ave, Sunnyvale";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.338425";s:3:"lon";s:11:"-122.041572";s:9:"neighbour";s:9:"Cupertino";}

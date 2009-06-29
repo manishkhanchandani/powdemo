@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:87:"http://www.urbanspoon.com/r/6/1438747/restaurant/Antioch/El-Gallito-Drive-Inn-Brentwood";s:4:"name";s:20:"El Gallito Drive Inn";s:2:"id";s:7:"1438747";s:4:"info";s:88:"Mexican - <br />
-                <br />
-                  8540 Brentwood Blvd, Brentwood";s:5:"info2";s:7:"Mexican";s:7:"address";s:30:"8540 Brentwood Blvd, Brentwood";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.928759";s:3:"lon";s:11:"-121.693385";s:9:"neighbour";s:7:"Antioch";}

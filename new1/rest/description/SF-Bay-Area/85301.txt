@@ -1,1 +1,0 @@
-a:9:{s:3:"url";s:74:"http://www.urbanspoon.com/r/6/85301/restaurant/Daly-City/J-A-San-Francisco";s:4:"name";s:9:"J &amp; A";s:2:"id";s:5:"85301";s:4:"info";s:30:"5712 Mission St, San Francisco";s:7:"address";s:30:"5712 Mission St, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.709966";s:3:"lon";s:11:"-122.449679";s:9:"neighbour";s:9:"Daly City";}

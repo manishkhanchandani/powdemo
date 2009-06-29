@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:84:"http://www.urbanspoon.com/r/6/1212204/restaurant/Taqueria-Los-Portales-Castro-Valley";s:4:"name";s:21:"Taqueria Los Portales";s:2:"id";s:7:"1212204";s:4:"info";s:106:"Tacos and Mexican - <br />
-                <br />
-                  3163 Castro Valley Blvd, Castro Valley";s:5:"info2";s:17:"Tacos and Mexican";s:7:"address";s:38:"3163 Castro Valley Blvd, Castro Valley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:8:"37.69539";s:3:"lon";s:11:"-122.080377";s:9:"neighbour";s:13:"Castro Valley";}

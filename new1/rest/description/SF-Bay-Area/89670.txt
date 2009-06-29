@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:102:"http://www.urbanspoon.com/r/6/89670/restaurant/Civic-Center/Racha-Cafe-Thai-Cuisine-Food-San-Francisco";s:4:"name";s:28:"Racha Cafe Thai Cuisine Food";s:2:"id";s:5:"89670";s:4:"info";s:82:"Thai - <br />
-                <br />
-                  771 Ellis St, San Francisco";s:5:"info2";s:4:"Thai";s:7:"address";s:27:"771 Ellis St, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.783964";s:3:"lon";s:11:"-122.418807";s:9:"neighbour";s:12:"Civic Center";}

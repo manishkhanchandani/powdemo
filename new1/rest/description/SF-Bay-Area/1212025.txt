@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:72:"http://www.urbanspoon.com/r/6/1212025/restaurant/Jack-in-the-Box-Benicia";s:4:"name";s:15:"Jack in the Box";s:2:"id";s:7:"1212025";s:4:"info";s:114:"Fast Food, Burgers and Sandwiches/Subs - <br />
-                <br />
-                  6001 Goodyear Rd, Benicia";s:5:"info2";s:38:"Fast Food, Burgers and Sandwiches/Subs";s:7:"address";s:25:"6001 Goodyear Rd, Benicia";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"38.0854";s:3:"lon";s:9:"-122.1107";s:9:"neighbour";s:7:"Benicia";}

@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:79:"http://www.urbanspoon.com/r/6/1212207/restaurant/Villa-Roma-Pizza-Castro-Valley";s:4:"name";s:16:"Villa Roma Pizza";s:2:"id";s:7:"1212207";s:4:"info";s:112:"Pizza and Mediterranean - <br />
-                <br />
-                  3676 Castro Valley Blvd, Castro Valley";s:5:"info2";s:23:"Pizza and Mediterranean";s:7:"address";s:38:"3676 Castro Valley Blvd, Castro Valley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:6:"37.695";s:3:"lon";s:9:"-122.0716";s:9:"neighbour";s:13:"Castro Valley";}

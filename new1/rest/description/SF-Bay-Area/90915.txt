@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:78:"http://www.urbanspoon.com/r/6/90915/restaurant/St-James-Gate-Irish-Pub-Belmont";s:4:"name";s:23:"St James Gate Irish Pub";s:2:"id";s:5:"90915";s:4:"info";s:86:"Pub Food - <br />
-                <br />
-                  1410 Old County Rd, Belmont";s:5:"info2";s:8:"Pub Food";s:7:"address";s:27:"1410 Old County Rd, Belmont";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.517349";s:3:"lon";s:10:"-122.27103";s:9:"neighbour";s:7:"Belmont";}

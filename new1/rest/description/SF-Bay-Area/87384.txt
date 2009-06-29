@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:66:"http://www.urbanspoon.com/r/6/87384/restaurant/McDonalds-Cupertino";s:4:"name";s:10:"McDonald's";s:2:"id";s:5:"87384";s:4:"info";s:112:"Burgers, American and Fast Food - <br />
-                <br />
-                  10990 N Stelling Rd, Cupertino";s:5:"info2";s:31:"Burgers, American and Fast Food";s:7:"address";s:30:"10990 N Stelling Rd, Cupertino";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.337234";s:3:"lon";s:11:"-122.041226";s:9:"neighbour";s:9:"Cupertino";}

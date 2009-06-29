@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:95:"http://www.urbanspoon.com/r/6/89499/restaurant/Bernal-Heights/Progressive-Grounds-San-Francisco";s:4:"name";s:19:"Progressive Grounds";s:2:"id";s:5:"89499";s:4:"info";s:88:"Coffee - <br />
-                <br />
-                  400 Cortland Ave, San Francisco";s:5:"info2";s:6:"Coffee";s:7:"address";s:31:"400 Cortland Ave, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.739041";s:3:"lon";s:11:"-122.417658";s:9:"neighbour";s:14:"Bernal Heights";}

@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:79:"http://www.urbanspoon.com/r/6/80538/restaurant/Castro/Asqew-Grill-San-Francisco";s:4:"name";s:11:"Asqew Grill";s:2:"id";s:5:"80538";s:4:"info";s:99:"Barbecue and American - <br />
-                <br />
-                  3583 16th St, San Francisco";s:5:"info2";s:21:"Barbecue and American";s:7:"address";s:27:"3583 16th St, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.764111";s:3:"lon";s:11:"-122.432692";s:9:"neighbour";s:6:"Castro";}

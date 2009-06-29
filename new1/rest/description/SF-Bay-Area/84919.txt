@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:80:"http://www.urbanspoon.com/r/6/84919/restaurant/Hong-Fu-Gourmet-Chinese-Cupertino";s:4:"name";s:23:"Hong Fu Gourmet Chinese";s:2:"id";s:5:"84919";s:4:"info";s:93:"Chinese - <br />
-                <br />
-                  20588 Stevens Creek Blvd, Cupertino";s:5:"info2";s:7:"Chinese";s:7:"address";s:35:"20588 Stevens Creek Blvd, Cupertino";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.322663";s:3:"lon";s:11:"-122.033853";s:9:"neighbour";s:9:"Cupertino";}

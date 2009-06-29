@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:62:"http://www.urbanspoon.com/r/6/81950/restaurant/Capers-Campbell";s:4:"name";s:6:"Capers";s:2:"id";s:5:"81950";s:4:"info";s:103:"American and California - <br />
-                <br />
-                  1710 W Campbell Ave, Campbell";s:5:"info2";s:23:"American and California";s:7:"address";s:29:"1710 W Campbell Ave, Campbell";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"37.2858";s:3:"lon";s:11:"-121.980754";s:9:"neighbour";s:8:"Campbell";}

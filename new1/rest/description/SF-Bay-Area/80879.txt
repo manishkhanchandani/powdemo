@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:88:"http://www.urbanspoon.com/r/6/80879/restaurant/Bayview/Bayside-Coffee-Shop-San-Francisco";s:4:"name";s:19:"Bayside Coffee Shop";s:2:"id";s:5:"80879";s:4:"info";s:100:"Coffee and Diner - <br />
-                <br />
-                  2011 Bayshore Blvd, San Francisco";s:5:"info2";s:16:"Coffee and Diner";s:7:"address";s:33:"2011 Bayshore Blvd, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.714982";s:3:"lon";s:10:"-122.39887";s:9:"neighbour";s:7:"Bayview";}

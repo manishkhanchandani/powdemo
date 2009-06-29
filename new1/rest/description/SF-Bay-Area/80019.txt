@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:62:"http://www.urbanspoon.com/r/6/80019/restaurant/3-Js-Burlingame";s:4:"name";s:5:"3 J's";s:2:"id";s:5:"80019";s:4:"info";s:91:"Sandwiches/Subs - <br />
-                <br />
-                  833 Mahler Rd, Burlingame";s:5:"info2";s:15:"Sandwiches/Subs";s:7:"address";s:25:"833 Mahler Rd, Burlingame";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.597095";s:3:"lon";s:11:"-122.367097";s:9:"neighbour";s:10:"Burlingame";}

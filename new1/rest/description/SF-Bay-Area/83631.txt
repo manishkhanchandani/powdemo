@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:97:"http://www.urbanspoon.com/r/6/83631/restaurant/Bernal-Heights/Emmys-Spaghetti-Shack-San-Francisco";s:4:"name";s:22:"Emmy's Spaghetti Shack";s:2:"id";s:5:"83631";s:4:"info";s:113:"Italian, American and California - <br />
-                <br />
-                  18 Virginia Ave, San Francisco";s:5:"info2";s:32:"Italian, American and California";s:7:"address";s:30:"18 Virginia Ave, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:8:"37.74295";s:3:"lon";s:11:"-122.421296";s:9:"neighbour";s:14:"Bernal Heights";}

@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:77:"http://www.urbanspoon.com/r/6/87868/restaurant/Mount-Everest-Nepalese-Belmont";s:4:"name";s:22:"Mount Everest Nepalese";s:2:"id";s:5:"87868";s:4:"info";s:84:"Asian - <br />
-                <br />
-                  1400 El Camino Real, Belmont";s:5:"info2";s:5:"Asian";s:7:"address";s:28:"1400 El Camino Real, Belmont";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.517354";s:3:"lon";s:11:"-122.272474";s:9:"neighbour";s:7:"Belmont";}

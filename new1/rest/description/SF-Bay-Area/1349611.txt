@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:69:"http://www.urbanspoon.com/r/6/1349611/restaurant/Nama-Sushi-Daly-City";s:4:"name";s:10:"Nama Sushi";s:2:"id";s:7:"1349611";s:4:"info";s:96:"Japanese - <br />
-                <br />
-                  1901 Juniper serra blvd #G, Daly City";s:5:"info2";s:8:"Japanese";s:7:"address";s:37:"1901 Juniper serra blvd #G, Daly City";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.703501";s:3:"lon";s:11:"-122.470641";s:9:"neighbour";s:9:"Daly City";}

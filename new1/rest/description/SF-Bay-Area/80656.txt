@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:84:"http://www.urbanspoon.com/r/6/80656/restaurant/Baja-Fresh-Mexican-Grill-Corte-Madera";s:4:"name";s:24:"Baja Fresh Mexican Grill";s:2:"id";s:5:"80656";s:4:"info";s:111:"Fast Food and Mexican - <br />
-                <br />
-                  205 Corte Madera Town Ctr, Corte Madera";s:5:"info2";s:21:"Fast Food and Mexican";s:7:"address";s:39:"205 Corte Madera Town Ctr, Corte Madera";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.928412";s:3:"lon";s:11:"-122.518096";s:9:"neighbour";s:12:"Corte Madera";}

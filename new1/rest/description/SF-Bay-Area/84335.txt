@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:69:"http://www.urbanspoon.com/r/6/84335/restaurant/China-House-El-Cerrito";s:4:"name";s:11:"China House";s:2:"id";s:5:"84335";s:4:"info";s:89:"Chinese - <br />
-                <br />
-                  10140 San Pablo Ave, El Cerrito";s:5:"info2";s:7:"Chinese";s:7:"address";s:31:"10140 San Pablo Ave, El Cerrito";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.903038";s:3:"lon";s:11:"-122.303568";s:9:"neighbour";s:10:"El Cerrito";}

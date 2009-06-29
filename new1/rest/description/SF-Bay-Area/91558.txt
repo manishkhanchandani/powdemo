@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:79:"http://www.urbanspoon.com/r/6/91558/restaurant/Alameda-SJ/Sunny-Donuts-San-Jose";s:4:"name";s:12:"Sunny Donuts";s:2:"id";s:5:"91558";s:4:"info";s:81:"Donuts - <br />
-                <br />
-                  3605 Union Ave, San Jose";s:5:"info2";s:6:"Donuts";s:7:"address";s:24:"3605 Union Ave, San Jose";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"37.2616";s:3:"lon";s:11:"-121.931571";s:9:"neighbour";s:12:"Alameda (SJ)";}

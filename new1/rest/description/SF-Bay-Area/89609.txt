@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:67:"http://www.urbanspoon.com/r/6/89609/restaurant/Quiznos-Sub-Berkeley";s:4:"name";s:11:"Quiznos Sub";s:2:"id";s:5:"89609";s:4:"info";s:84:"Fast Food - <br />
-                <br />
-                  2144 Center St, Berkeley";s:5:"info2";s:9:"Fast Food";s:7:"address";s:24:"2144 Center St, Berkeley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.870285";s:3:"lon";s:11:"-122.267063";s:9:"neighbour";s:8:"Berkeley";}

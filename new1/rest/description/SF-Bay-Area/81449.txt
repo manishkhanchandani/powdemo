@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:69:"http://www.urbanspoon.com/r/6/81449/restaurant/Burger-King-El-Cerrito";s:4:"name";s:11:"Burger King";s:2:"id";s:5:"81449";s:4:"info";s:100:"Fast Food and Burgers - <br />
-                <br />
-                  6021 Central Ave, El Cerrito";s:5:"info2";s:21:"Fast Food and Burgers";s:7:"address";s:28:"6021 Central Ave, El Cerrito";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.902087";s:3:"lon";s:11:"-122.304425";s:9:"neighbour";s:10:"El Cerrito";}

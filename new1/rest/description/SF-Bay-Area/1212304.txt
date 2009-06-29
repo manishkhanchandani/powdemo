@@ -1,1 +1,0 @@
-a:9:{s:3:"url";s:80:"http://www.urbanspoon.com/r/6/1212304/restaurant/Peris-Silver-Dollar-Bar-Fairfax";s:4:"name";s:24:"Peri's Silver Dollar Bar";s:2:"id";s:7:"1212304";s:4:"info";s:25:"29 Broadway Blvd, Fairfax";s:7:"address";s:25:"29 Broadway Blvd, Fairfax";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"37.9869";s:3:"lon";s:9:"-122.5884";s:9:"neighbour";s:7:"Fairfax";}

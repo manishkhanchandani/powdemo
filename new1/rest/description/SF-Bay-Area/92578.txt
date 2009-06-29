@@ -1,1 +1,0 @@
-a:9:{s:3:"url";s:63:"http://www.urbanspoon.com/r/6/92578/restaurant/Tomatina-Alameda";s:4:"name";s:8:"Tomatina";s:2:"id";s:5:"92578";s:4:"info";s:21:"1338 Park St, Alameda";s:7:"address";s:21:"1338 Park St, Alameda";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:8:"37.76349";s:3:"lon";s:11:"-122.243229";s:9:"neighbour";s:7:"Alameda";}

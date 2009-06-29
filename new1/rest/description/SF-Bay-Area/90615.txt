@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:66:"http://www.urbanspoon.com/r/6/90615/restaurant/Shik-Do-Rock-Albany";s:4:"name";s:12:"Shik Do Rock";s:2:"id";s:5:"90615";s:4:"info";s:80:"Korean - <br />
-                <br />
-                  1137 Solano Ave, Albany";s:5:"info2";s:6:"Korean";s:7:"address";s:23:"1137 Solano Ave, Albany";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.890481";s:3:"lon";s:11:"-122.297608";s:9:"neighbour";s:6:"Albany";}

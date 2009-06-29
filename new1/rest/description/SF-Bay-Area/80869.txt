@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:76:"http://www.urbanspoon.com/r/6/80869/restaurant/Cupertino/Bay-Sushi-Sunnyvale";s:4:"name";s:9:"Bay Sushi";s:2:"id";s:5:"80869";s:4:"info";s:99:"Sushi and Japanese - <br />
-                <br />
-                  1647 Hollenbeck Ave, Sunnyvale";s:5:"info2";s:18:"Sushi and Japanese";s:7:"address";s:30:"1647 Hollenbeck Ave, Sunnyvale";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.339436";s:3:"lon";s:11:"-122.041572";s:9:"neighbour";s:9:"Cupertino";}

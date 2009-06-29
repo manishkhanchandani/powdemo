@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:74:"http://www.urbanspoon.com/r/6/1212412/restaurant/Jack-in-the-Box-Fairfield";s:4:"name";s:15:"Jack in the Box";s:2:"id";s:7:"1212412";s:4:"info";s:114:"Fast Food, Burgers and Sandwiches/Subs - <br />
-                <br />
-                  107 Red Top Rd, Fairfield";s:5:"info2";s:38:"Fast Food, Burgers and Sandwiches/Subs";s:7:"address";s:25:"107 Red Top Rd, Fairfield";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"38.2024";s:3:"lon";s:9:"-122.1578";s:9:"neighbour";s:9:"Fairfield";}

@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:77:"http://www.urbanspoon.com/r/6/92668/restaurant/Townhouse-Bar-Grill-Emeryville";s:4:"name";s:25:"Townhouse Bar &amp; Grill";s:2:"id";s:5:"92668";s:4:"info";s:86:"California - <br />
-                <br />
-                  5862 Doyle St, Emeryville";s:5:"info2";s:10:"California";s:7:"address";s:25:"5862 Doyle St, Emeryville";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:8:"37.84103";s:3:"lon";s:11:"-122.287595";s:9:"neighbour";s:10:"Emeryville";}

@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:65:"http://www.urbanspoon.com/r/6/81993/restaurant/Carls-Jr-Cupertino";s:4:"name";s:10:"Carl's Jr.";s:2:"id";s:5:"81993";s:4:"info";s:101:"Fast Food and Burgers - <br />
-                <br />
-                  20680 Homestead Rd, Cupertino";s:5:"info2";s:21:"Fast Food and Burgers";s:7:"address";s:29:"20680 Homestead Rd, Cupertino";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.337439";s:3:"lon";s:11:"-122.036336";s:9:"neighbour";s:9:"Cupertino";}

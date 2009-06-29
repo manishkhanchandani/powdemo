@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:70:"http://www.urbanspoon.com/r/6/86764/restaurant/Little-Chicago-Berkeley";s:4:"name";s:14:"Little Chicago";s:2:"id";s:5:"86764";s:4:"info";s:85:"Pizza - <br />
-                <br />
-                  1706 University Ave, Berkeley";s:5:"info2";s:5:"Pizza";s:7:"address";s:29:"1706 University Ave, Berkeley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.870804";s:3:"lon";s:11:"-122.277184";s:9:"neighbour";s:8:"Berkeley";}

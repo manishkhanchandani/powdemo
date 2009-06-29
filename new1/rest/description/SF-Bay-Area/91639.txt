@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:72:"http://www.urbanspoon.com/r/6/91639/restaurant/Sushi-California-Berkeley";s:4:"name";s:16:"Sushi California";s:2:"id";s:5:"91639";s:4:"info";s:109:"Sushi and Japanese - <br />
-                <br />
-                  2033 Martin Luther King Jr Way, Berkeley";s:5:"info2";s:18:"Sushi and Japanese";s:7:"address";s:40:"2033 Martin Luther King Jr Way, Berkeley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.871233";s:3:"lon";s:11:"-122.272787";s:9:"neighbour";s:8:"Berkeley";}

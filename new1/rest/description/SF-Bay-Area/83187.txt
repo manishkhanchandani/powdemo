@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:80:"http://www.urbanspoon.com/r/6/83187/restaurant/Alameda-SJ/Dominos-Pizza-San-Jose";s:4:"name";s:14:"Domino's Pizza";s:2:"id";s:5:"83187";s:4:"info";s:81:"Pizza - <br />
-                <br />
-                  1659 Branham Ln, San Jose";s:5:"info2";s:5:"Pizza";s:7:"address";s:25:"1659 Branham Ln, San Jose";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:8:"37.25219";s:3:"lon";s:11:"-121.907115";s:9:"neighbour";s:12:"Alameda (SJ)";}

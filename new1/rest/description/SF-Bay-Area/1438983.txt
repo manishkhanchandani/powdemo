@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:82:"http://www.urbanspoon.com/r/6/1438983/restaurant/Antioch/Jack-in-the-Box-Brentwood";s:4:"name";s:15:"Jack in the Box";s:2:"id";s:7:"1438983";s:4:"info";s:86:"Burgers - <br />
-                <br />
-                  60 Technology Way, Brentwood";s:5:"info2";s:7:"Burgers";s:7:"address";s:28:"60 Technology Way, Brentwood";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:8:"37.94472";s:3:"lon";s:11:"-121.697219";s:9:"neighbour";s:7:"Antioch";}

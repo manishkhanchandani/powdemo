@@ -1,1 +1,0 @@
-a:9:{s:3:"url";s:69:"http://www.urbanspoon.com/r/6/89080/restaurant/Pho-Hoa-Hiep-Daly-City";s:4:"name";s:12:"Pho Hoa Hiep";s:2:"id";s:5:"89080";s:4:"info";s:27:"85 Southgate Ave, Daly City";s:7:"address";s:27:"85 Southgate Ave, Daly City";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:8:"37.69795";s:3:"lon";s:11:"-122.481463";s:9:"neighbour";s:9:"Daly City";}

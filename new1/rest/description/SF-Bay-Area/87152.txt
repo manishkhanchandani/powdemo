@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:70:"http://www.urbanspoon.com/r/6/87152/restaurant/Mandarin-House-Berkeley";s:4:"name";s:14:"Mandarin House";s:2:"id";s:5:"87152";s:4:"info";s:83:"Chinese - <br />
-                <br />
-                  2519 Durant Ave, Berkeley";s:5:"info2";s:7:"Chinese";s:7:"address";s:25:"2519 Durant Ave, Berkeley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.868007";s:3:"lon";s:11:"-122.258481";s:9:"neighbour";s:8:"Berkeley";}

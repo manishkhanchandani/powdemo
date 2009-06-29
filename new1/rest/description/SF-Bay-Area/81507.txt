@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:75:"http://www.urbanspoon.com/r/6/81507/restaurant/C-U-Japanese-Fusion-Berkeley";s:4:"name";s:19:"C U Japanese Fusion";s:2:"id";s:5:"81507";s:4:"info";s:80:"Sushi - <br />
-                <br />
-                  2152 Center St, Berkeley";s:5:"info2";s:5:"Sushi";s:7:"address";s:24:"2152 Center St, Berkeley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.870308";s:3:"lon";s:11:"-122.266914";s:9:"neighbour";s:8:"Berkeley";}

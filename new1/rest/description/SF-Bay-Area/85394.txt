@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:73:"http://www.urbanspoon.com/r/6/85394/restaurant/Jack-in-the-Box-El-Cerrito";s:4:"name";s:15:"Jack in the Box";s:2:"id";s:5:"85394";s:4:"info";s:118:"Burgers, Fast Food and Sandwiches/Subs - <br />
-                <br />
-                  5920 Cutting Blvd, El Cerrito";s:5:"info2";s:38:"Burgers, Fast Food and Sandwiches/Subs";s:7:"address";s:29:"5920 Cutting Blvd, El Cerrito";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.925263";s:3:"lon";s:11:"-122.319113";s:9:"neighbour";s:10:"El Cerrito";}

@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:62:"http://www.urbanspoon.com/r/6/89458/restaurant/Poulet-Berkeley";s:4:"name";s:6:"Poulet";s:2:"id";s:5:"89458";s:4:"info";s:106:"American and Sandwiches/Subs - <br />
-                <br />
-                  1685 Shattuck Ave, Berkeley";s:5:"info2";s:28:"American and Sandwiches/Subs";s:7:"address";s:27:"1685 Shattuck Ave, Berkeley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.876933";s:3:"lon";s:11:"-122.268761";s:9:"neighbour";s:8:"Berkeley";}

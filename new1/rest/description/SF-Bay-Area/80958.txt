@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:69:"http://www.urbanspoon.com/r/6/80958/restaurant/Benissimo-Corte-Madera";s:4:"name";s:9:"Benissimo";s:2:"id";s:5:"80958";s:4:"info";s:97:"Italian and Pizza - <br />
-                <br />
-                  18 Tamalpais Dr, Corte Madera";s:5:"info2";s:17:"Italian and Pizza";s:7:"address";s:29:"18 Tamalpais Dr, Corte Madera";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.926222";s:3:"lon";s:11:"-122.529272";s:9:"neighbour";s:12:"Corte Madera";}

@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:73:"http://www.urbanspoon.com/r/6/91339/restaurant/Alameda-SJ/Subway-San-Jose";s:4:"name";s:6:"Subway";s:2:"id";s:5:"91339";s:4:"info";s:106:"Sandwiches/Subs and Fast Food - <br />
-                <br />
-                  14526 Camden Ave, San Jose";s:5:"info2";s:29:"Sandwiches/Subs and Fast Food";s:7:"address";s:26:"14526 Camden Ave, San Jose";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"37.2618";s:3:"lon";s:11:"-121.922616";s:9:"neighbour";s:12:"Alameda (SJ)";}

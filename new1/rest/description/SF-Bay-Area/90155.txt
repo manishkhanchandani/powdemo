@@ -1,1 +1,0 @@
-a:9:{s:3:"url";s:68:"http://www.urbanspoon.com/r/6/90155/restaurant/Rubys-Cafe-Emeryville";s:4:"name";s:11:"Ruby's Cafe";s:2:"id";s:5:"90155";s:4:"info";s:26:"6233 Hollis St, Emeryville";s:7:"address";s:26:"6233 Hollis St, Emeryville";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:8:"37.84341";s:3:"lon";s:10:"-122.29058";s:9:"neighbour";s:10:"Emeryville";}

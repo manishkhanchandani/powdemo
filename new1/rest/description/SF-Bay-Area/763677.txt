@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:77:"http://www.urbanspoon.com/r/6/763677/restaurant/Charleys-Grilled-Subs-Antioch";s:4:"name";s:22:"Charley's Grilled Subs";s:2:"id";s:6:"763677";s:4:"info";s:94:"Sandwiches/Subs - <br />
-                <br />
-                  2550 Somersville Rd, Antioch";s:5:"info2";s:15:"Sandwiches/Subs";s:7:"address";s:28:"2550 Somersville Rd, Antioch";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:8:"38.00053";s:3:"lon";s:11:"-121.841423";s:9:"neighbour";s:7:"Antioch";}

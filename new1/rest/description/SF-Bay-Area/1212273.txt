@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:71:"http://www.urbanspoon.com/r/6/1212273/restaurant/Super-Stop-El-Sobrante";s:4:"name";s:10:"Super Stop";s:2:"id";s:7:"1212273";s:4:"info";s:104:"Sandwiches/Subs - <br />
-                <br />
-                  4801 Valley View Rd Ste A, El Sobrante";s:5:"info2";s:15:"Sandwiches/Subs";s:7:"address";s:38:"4801 Valley View Rd Ste A, El Sobrante";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"37.9714";s:3:"lon";s:9:"-122.2878";s:9:"neighbour";s:11:"El Sobrante";}

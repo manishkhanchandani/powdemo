@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:81:"http://www.urbanspoon.com/r/6/90636/restaurant/Bernal-Heights/Shiso-San-Francisco";s:4:"name";s:5:"Shiso";s:2:"id";s:5:"90636";s:4:"info";s:101:"Japanese and Chinese - <br />
-                <br />
-                  3452 Mission St, San Francisco";s:5:"info2";s:20:"Japanese and Chinese";s:7:"address";s:30:"3452 Mission St, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:8:"37.74159";s:3:"lon";s:11:"-122.422691";s:9:"neighbour";s:14:"Bernal Heights";}

@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:78:"http://www.urbanspoon.com/r/6/82722/restaurant/Commodore-Dining-Events-Alameda";s:4:"name";s:23:"Commodore Dining Events";s:2:"id";s:5:"82722";s:4:"info";s:86:"American - <br />
-                <br />
-                  2100 Mariner Sq Dr, Alameda";s:5:"info2";s:8:"American";s:7:"address";s:27:"2100 Mariner Sq Dr, Alameda";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.784639";s:3:"lon";s:11:"-122.275825";s:9:"neighbour";s:7:"Alameda";}

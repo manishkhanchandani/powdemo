@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:83:"http://www.urbanspoon.com/r/6/1212139/restaurant/Castro-Valley-Donuts-Castro-Valley";s:4:"name";s:20:"Castro Valley Donuts";s:2:"id";s:7:"1212139";s:4:"info";s:88:"Donuts - <br />
-                <br />
-                  22150 Redwood Rd, Castro Valley";s:5:"info2";s:6:"Donuts";s:7:"address";s:31:"22150 Redwood Rd, Castro Valley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:6:"37.686";s:3:"lon";s:9:"-122.0735";s:9:"neighbour";s:13:"Castro Valley";}

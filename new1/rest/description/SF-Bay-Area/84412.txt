@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:70:"http://www.urbanspoon.com/r/6/84412/restaurant/Goody-Donuts-El-Cerrito";s:4:"name";s:12:"Goody Donuts";s:2:"id";s:5:"84412";s:4:"info";s:88:"Donuts - <br />
-                <br />
-                  10963 San Pablo Ave, El Cerrito";s:5:"info2";s:6:"Donuts";s:7:"address";s:31:"10963 San Pablo Ave, El Cerrito";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.916666";s:3:"lon";s:11:"-122.312487";s:9:"neighbour";s:10:"El Cerrito";}

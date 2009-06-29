@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:85:"http://www.urbanspoon.com/r/6/84870/restaurant/Cupertino/Holders-Country-Inn-San-Jose";s:4:"name";s:20:"Holder's Country Inn";s:2:"id";s:5:"84870";s:4:"info";s:108:"Breakfast/Brunch and American - <br />
-                <br />
-                  998 S De Anza Blvd, San Jose";s:5:"info2";s:29:"Breakfast/Brunch and American";s:7:"address";s:28:"998 S De Anza Blvd, San Jose";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.310126";s:3:"lon";s:11:"-122.032026";s:9:"neighbour";s:9:"Cupertino";}

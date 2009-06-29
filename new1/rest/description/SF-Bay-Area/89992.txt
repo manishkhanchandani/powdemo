@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:89:"http://www.urbanspoon.com/r/6/89992/restaurant/Civic-Center/Rose-Vietnamese-San-Francisco";s:4:"name";s:15:"Rose Vietnamese";s:2:"id";s:5:"89992";s:4:"info";s:100:"Thai and Vietnamese - <br />
-                <br />
-                  791 Ofarrell St, San Francisco";s:5:"info2";s:19:"Thai and Vietnamese";s:7:"address";s:30:"791 Ofarrell St, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.785099";s:3:"lon";s:11:"-122.417599";s:9:"neighbour";s:12:"Civic Center";}

@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:88:"http://www.urbanspoon.com/r/6/764817/restaurant/Antioch/Taqueria-El-Sinaloense-Bay-Point";s:4:"name";s:22:"Taqueria El Sinaloense";s:2:"id";s:6:"764817";s:4:"info";s:95:"Mexican - <br />
-                <br />
-                  780 Port Chicago Hwy Ste A, Bay Point";s:5:"info2";s:7:"Mexican";s:7:"address";s:37:"780 Port Chicago Hwy Ste A, Bay Point";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"38.036266";s:3:"lon";s:11:"-121.960646";s:9:"neighbour";s:7:"Antioch";}

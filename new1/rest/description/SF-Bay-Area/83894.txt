@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:85:"http://www.urbanspoon.com/r/6/83894/restaurant/Civic-Center/First-Crush-San-Francisco";s:4:"name";s:11:"First Crush";s:2:"id";s:5:"83894";s:4:"info";s:116:"American, French and California - <br />
-                <br />
-                  101 Cyril Magnin St, San Francisco";s:5:"info2";s:31:"American, French and California";s:7:"address";s:34:"101 Cyril Magnin St, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.785546";s:3:"lon";s:11:"-122.408871";s:9:"neighbour";s:12:"Civic Center";}

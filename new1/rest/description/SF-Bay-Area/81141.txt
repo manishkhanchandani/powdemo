@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:68:"http://www.urbanspoon.com/r/6/81141/restaurant/Bos-Donuts-El-Cerrito";s:4:"name";s:11:"Bo's Donuts";s:2:"id";s:5:"81141";s:4:"info";s:88:"Donuts - <br />
-                <br />
-                  10386 San Pablo Ave, El Cerrito";s:5:"info2";s:6:"Donuts";s:7:"address";s:31:"10386 San Pablo Ave, El Cerrito";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.907628";s:3:"lon";s:11:"-122.305905";s:9:"neighbour";s:10:"El Cerrito";}

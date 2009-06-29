@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:83:"http://www.urbanspoon.com/r/6/1415554/restaurant/Castro/Cafe-Mystique-San-Francisco";s:4:"name";s:15:"Café Mystique ";s:2:"id";s:7:"1415554";s:4:"info";s:105:"Moroccan and Mediterranean - <br />
-                <br />
-                  464 Castro St, San Francisco";s:5:"info2";s:26:"Moroccan and Mediterranean";s:7:"address";s:28:"464 Castro St, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.761435";s:3:"lon";s:10:"-122.43522";s:9:"neighbour";s:6:"Castro";}

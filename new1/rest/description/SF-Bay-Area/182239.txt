@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:67:"http://www.urbanspoon.com/r/6/182239/restaurant/Sals-Pizza-Campbell";s:4:"name";s:11:"Sal's Pizza";s:2:"id";s:6:"182239";s:4:"info";s:84:"Pizza - <br />
-                <br />
-                  533 E Campbell Ave, Campbell";s:5:"info2";s:5:"Pizza";s:7:"address";s:28:"533 E Campbell Ave, Campbell";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.287237";s:3:"lon";s:11:"-121.940322";s:9:"neighbour";s:8:"Campbell";}

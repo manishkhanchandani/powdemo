@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:77:"http://www.urbanspoon.com/r/6/91646/restaurant/Alameda-SJ/Sushi-Expo-San-Jose";s:4:"name";s:10:"Sushi Expo";s:2:"id";s:5:"91646";s:4:"info";s:97:"Japanese and Sushi - <br />
-                <br />
-                  1814 Hillsdale Ave, San Jose";s:5:"info2";s:18:"Japanese and Sushi";s:7:"address";s:28:"1814 Hillsdale Ave, San Jose";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.262958";s:3:"lon";s:11:"-121.917907";s:9:"neighbour";s:12:"Alameda (SJ)";}

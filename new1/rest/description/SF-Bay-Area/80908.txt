@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:64:"http://www.urbanspoon.com/r/6/80908/restaurant/Becketts-Berkeley";s:4:"name";s:9:"Beckett's";s:2:"id";s:5:"80908";s:4:"info";s:114:"Pub Food, English/Irish and American - <br />
-                <br />
-                  2271 Shattuck Ave, Berkeley";s:5:"info2";s:36:"Pub Food, English/Irish and American";s:7:"address";s:27:"2271 Shattuck Ave, Berkeley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.868107";s:3:"lon";s:11:"-122.267679";s:9:"neighbour";s:8:"Berkeley";}

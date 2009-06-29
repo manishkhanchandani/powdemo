@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:70:"http://www.urbanspoon.com/r/6/88500/restaurant/Orange-Julius-Daly-City";s:4:"name";s:13:"Orange Julius";s:2:"id";s:5:"88500";s:4:"info";s:97:"Desserts/Ice Cream - <br />
-                <br />
-                  66 Serramonte Ctr, Daly City";s:5:"info2";s:18:"Desserts/Ice Cream";s:7:"address";s:28:"66 Serramonte Ctr, Daly City";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:8:"37.67113";s:3:"lon";s:11:"-122.467525";s:9:"neighbour";s:9:"Daly City";}

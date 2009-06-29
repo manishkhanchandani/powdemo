@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:86:"http://www.urbanspoon.com/r/6/92589/restaurant/Civic-Center/Tommys-Joynt-San-Francisco";s:4:"name";s:13:"Tommy's Joynt";s:2:"id";s:5:"92589";s:4:"info";s:118:"German, American and Eastern European - <br />
-                <br />
-                  1101 Geary Blvd, San Francisco";s:5:"info2";s:37:"German, American and Eastern European";s:7:"address";s:30:"1101 Geary Blvd, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.785542";s:3:"lon";s:11:"-122.421555";s:9:"neighbour";s:12:"Civic Center";}

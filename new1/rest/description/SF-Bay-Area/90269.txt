@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:72:"http://www.urbanspoon.com/r/6/90269/restaurant/Salsa-Taqueria-El-Cerrito";s:4:"name";s:14:"Salsa Taqueria";s:2:"id";s:5:"90269";s:4:"info";s:89:"Mexican - <br />
-                <br />
-                  10550 San Pablo Ave, El Cerrito";s:5:"info2";s:7:"Mexican";s:7:"address";s:31:"10550 San Pablo Ave, El Cerrito";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.910756";s:3:"lon";s:10:"-122.30804";s:9:"neighbour";s:10:"El Cerrito";}

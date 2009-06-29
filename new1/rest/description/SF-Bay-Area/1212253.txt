@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:87:"http://www.urbanspoon.com/r/6/1212253/restaurant/Jones-Bar-B-Q-Fish-Chicken-El-Sobrante";s:4:"name";s:32:"Jones Bar-B-Q Fish &amp; Chicken";s:2:"id";s:7:"1212253";s:4:"info";s:124:"Barbecue and Southern &amp; Soul - <br />
-                <br />
-                  3550 San Pablo Dam Rd Ste B3, El Sobrante";s:5:"info2";s:32:"Barbecue and Southern &amp; Soul";s:7:"address";s:41:"3550 San Pablo Dam Rd Ste B3, El Sobrante";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"37.9635";s:3:"lon";s:9:"-122.3209";s:9:"neighbour";s:11:"El Sobrante";}

@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:74:"http://www.urbanspoon.com/r/6/1212280/restaurant/The-Sleeping-Lady-Fairfax";s:4:"name";s:17:"The Sleeping Lady";s:2:"id";s:7:"1212280";s:4:"info";s:115:"Breakfast/Brunch, Wine Bar and American - <br />
-                <br />
-                  23 Broadway Blvd, Fairfax";s:5:"info2";s:39:"Breakfast/Brunch, Wine Bar and American";s:7:"address";s:25:"23 Broadway Blvd, Fairfax";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"37.9869";s:3:"lon";s:9:"-122.5882";s:9:"neighbour";s:7:"Fairfax";}

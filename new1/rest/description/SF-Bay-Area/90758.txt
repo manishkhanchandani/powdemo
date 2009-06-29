@@ -1,1 +1,0 @@
-a:9:{s:3:"url";s:82:"http://www.urbanspoon.com/r/6/90758/restaurant/Chinatown/Snow-Garden-San-Francisco";s:4:"name";s:11:"Snow Garden";s:2:"id";s:5:"90758";s:4:"info";s:28:"712 Grant Ave, San Francisco";s:7:"address";s:28:"712 Grant Ave, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.793599";s:3:"lon";s:11:"-122.405971";s:9:"neighbour";s:9:"Chinatown";}

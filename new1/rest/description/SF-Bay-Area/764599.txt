@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:93:"http://www.urbanspoon.com/r/6/764599/restaurant/Antioch/Reynita-Restaurant-Taqueria-Pittsburg";s:4:"name";s:33:"Reynita Restaurant &amp; Taqueria";s:2:"id";s:6:"764599";s:4:"info";s:85:"Mexican - <br />
-                <br />
-                  745 Railroad Ave, Pittsburg";s:5:"info2";s:7:"Mexican";s:7:"address";s:27:"745 Railroad Ave, Pittsburg";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:8:"38.02996";s:3:"lon";s:11:"-121.884184";s:9:"neighbour";s:7:"Antioch";}

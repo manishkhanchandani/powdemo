@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:72:"http://www.urbanspoon.com/r/6/1212147/restaurant/Don-Joses-Castro-Valley";s:4:"name";s:10:"Don Jose's";s:2:"id";s:7:"1212147";s:4:"info";s:84:"Mexican - <br />
-                <br />
-                  3430 Vlg Dr, Castro Valley";s:5:"info2";s:7:"Mexican";s:7:"address";s:26:"3430 Vlg Dr, Castro Valley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"37.6967";s:3:"lon";s:9:"-122.0774";s:9:"neighbour";s:13:"Castro Valley";}

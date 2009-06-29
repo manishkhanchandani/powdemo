@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:67:"http://www.urbanspoon.com/r/6/85993/restaurant/Khana-Peena-Berkeley";s:4:"name";s:11:"Khana Peena";s:2:"id";s:5:"85993";s:4:"info";s:81:"Indian - <br />
-                <br />
-                  2136 Oxford St, Berkeley";s:5:"info2";s:6:"Indian";s:7:"address";s:24:"2136 Oxford St, Berkeley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.870055";s:3:"lon";s:11:"-122.266073";s:9:"neighbour";s:8:"Berkeley";}

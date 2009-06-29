@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:75:"http://www.urbanspoon.com/r/6/1445942/restaurant/Baileys-on-65th-Emeryville";s:4:"name";s:16:"Bailey's on 65th";s:2:"id";s:7:"1445942";s:4:"info";s:86:"California - <br />
-                <br />
-                  1195 65th St., Emeryville";s:5:"info2";s:10:"California";s:7:"address";s:25:"1195 65th St., Emeryville";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.847377";s:3:"lon";s:11:"-122.287885";s:9:"neighbour";s:10:"Emeryville";}

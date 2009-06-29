@@ -1,1 +1,0 @@
-a:9:{s:3:"url";s:61:"http://www.urbanspoon.com/r/6/87094/restaurant/Maiko-Berkeley";s:4:"name";s:5:"Maiko";s:2:"id";s:5:"87094";s:4:"info";s:28:"1629 San Pablo Ave, Berkeley";s:7:"address";s:28:"1629 San Pablo Ave, Berkeley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.874653";s:3:"lon";s:11:"-122.293736";s:9:"neighbour";s:8:"Berkeley";}

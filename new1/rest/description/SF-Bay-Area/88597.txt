@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:81:"http://www.urbanspoon.com/r/6/88597/restaurant/P-F-Changs-China-Bistro-Emeryville";s:4:"name";s:25:"P.F. Chang's China Bistro";s:2:"id";s:5:"88597";s:4:"info";s:91:"Asian and Chinese - <br />
-                <br />
-                  5633 Bay St, Emeryville";s:5:"info2";s:17:"Asian and Chinese";s:7:"address";s:23:"5633 Bay St, Emeryville";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.834433";s:3:"lon";s:11:"-122.292353";s:9:"neighbour";s:10:"Emeryville";}

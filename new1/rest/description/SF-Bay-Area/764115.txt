@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:79:"http://www.urbanspoon.com/r/6/764115/restaurant/Antioch/Joes-Hot-Dogs-Bay-Point";s:4:"name";s:14:"Joe's Hot Dogs";s:2:"id";s:6:"764115";s:4:"info";s:90:"Hot Dogs - <br />
-                <br />
-                  602 Port Chicago Hwy, Bay Point";s:5:"info2";s:8:"Hot Dogs";s:7:"address";s:31:"602 Port Chicago Hwy, Bay Point";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:8:"38.03423";s:3:"lon";s:11:"-121.960658";s:9:"neighbour";s:7:"Antioch";}

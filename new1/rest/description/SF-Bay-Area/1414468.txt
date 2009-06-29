@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:72:"http://www.urbanspoon.com/r/6/1414468/restaurant/Zaki-Kabob-House-Albany";s:4:"name";s:16:"Zaki Kabob House";s:2:"id";s:7:"1414468";s:4:"info";s:109:"Middle Eastern and Mediterranean - <br />
-                <br />
-                  1101 San Pablo Ave, Albany";s:5:"info2";s:32:"Middle Eastern and Mediterranean";s:7:"address";s:26:"1101 San Pablo Ave, Albany";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.883747";s:3:"lon";s:11:"-122.296758";s:9:"neighbour";s:6:"Albany";}

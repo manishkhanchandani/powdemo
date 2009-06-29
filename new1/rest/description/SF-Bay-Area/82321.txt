@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:83:"http://www.urbanspoon.com/r/6/82321/restaurant/Daly-City/Chick-n-Deli-San-Francisco";s:4:"name";s:12:"Chick-n-Deli";s:2:"id";s:5:"82321";s:4:"info";s:96:"Sandwiches/Subs - <br />
-                <br />
-                  5392 Mission St, San Francisco";s:5:"info2";s:15:"Sandwiches/Subs";s:7:"address";s:30:"5392 Mission St, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.713887";s:3:"lon";s:11:"-122.443634";s:9:"neighbour";s:9:"Daly City";}

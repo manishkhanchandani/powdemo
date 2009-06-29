@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:67:"http://www.urbanspoon.com/r/6/84866/restaurant/Hola-Mexican-Belmont";s:4:"name";s:12:"Hola Mexican";s:2:"id";s:5:"84866";s:4:"info";s:93:"Mexican - <br />
-                <br />
-                  1015 Alameda De Las Pulgas, Belmont";s:5:"info2";s:7:"Mexican";s:7:"address";s:35:"1015 Alameda De Las Pulgas, Belmont";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.511748";s:3:"lon";s:11:"-122.293976";s:9:"neighbour";s:7:"Belmont";}

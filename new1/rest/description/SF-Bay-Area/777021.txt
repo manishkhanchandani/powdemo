@@ -1,1 +1,0 @@
-a:9:{s:3:"url";s:75:"http://www.urbanspoon.com/r/6/777021/restaurant/Antioch/El-Camino-Brentwood";s:4:"name";s:9:"El Camino";s:2:"id";s:6:"777021";s:4:"info";s:30:"6611 Brentwood Blvd, Brentwood";s:7:"address";s:30:"6611 Brentwood Blvd, Brentwood";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.960233";s:3:"lon";s:11:"-121.696244";s:9:"neighbour";s:7:"Antioch";}

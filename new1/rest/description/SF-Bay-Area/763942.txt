@@ -1,1 +1,0 @@
-a:9:{s:3:"url";s:70:"http://www.urbanspoon.com/r/6/763942/restaurant/Fosters-Freeze-Antioch";s:4:"name";s:15:"Foster's Freeze";s:2:"id";s:6:"763942";s:4:"info";s:22:"400 E 18th St, Antioch";s:7:"address";s:22:"400 E 18th St, Antioch";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"38.004778";s:3:"lon";s:10:"-121.79795";s:9:"neighbour";s:7:"Antioch";}

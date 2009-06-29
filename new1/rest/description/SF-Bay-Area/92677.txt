@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:69:"http://www.urbanspoon.com/r/6/92677/restaurant/Trader-Vics-Emeryville";s:4:"name";s:12:"Trader Vic's";s:2:"id";s:5:"92677";s:4:"info";s:100:"International and Hawaiian - <br />
-                <br />
-                  9 Anchor Dr, Emeryville";s:5:"info2";s:26:"International and Hawaiian";s:7:"address";s:23:"9 Anchor Dr, Emeryville";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.837288";s:3:"lon";s:11:"-122.307653";s:9:"neighbour";s:10:"Emeryville";}

@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:66:"http://www.urbanspoon.com/r/6/93090/restaurant/Wedge-Bar-Daly-City";s:4:"name";s:15:"Wedge Bar &amp;";s:2:"id";s:5:"93090";s:4:"info";s:86:"Asian - <br />
-                <br />
-                  63 Saint Francis Sq, Daly City";s:5:"info2";s:5:"Asian";s:7:"address";s:30:"63 Saint Francis Sq, Daly City";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.674962";s:3:"lon";s:11:"-122.479567";s:9:"neighbour";s:9:"Daly City";}

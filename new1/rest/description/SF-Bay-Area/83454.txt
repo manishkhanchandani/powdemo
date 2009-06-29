@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:81:"http://www.urbanspoon.com/r/6/83454/restaurant/Castro/El-Castillito-San-Francisco";s:4:"name";s:13:"El Castillito";s:2:"id";s:5:"83454";s:4:"info";s:86:"Mexican - <br />
-                <br />
-                  136 Church St, San Francisco";s:5:"info2";s:7:"Mexican";s:7:"address";s:28:"136 Church St, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.768803";s:3:"lon";s:11:"-122.429234";s:9:"neighbour";s:6:"Castro";}

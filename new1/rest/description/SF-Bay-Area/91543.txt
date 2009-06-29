@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:87:"http://www.urbanspoon.com/r/6/91543/restaurant/Daly-City/Sun-Rise-Chinese-San-Francisco";s:4:"name";s:16:"Sun Rise Chinese";s:2:"id";s:5:"91543";s:4:"info";s:89:"Chinese - <br />
-                <br />
-                  960 Edinburgh St, San Francisco";s:5:"info2";s:7:"Chinese";s:7:"address";s:31:"960 Edinburgh St, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.715127";s:3:"lon";s:11:"-122.436815";s:9:"neighbour";s:9:"Daly City";}

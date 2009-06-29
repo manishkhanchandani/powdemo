@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:71:"http://www.urbanspoon.com/r/6/83829/restaurant/Feel-Good-Bakery-Alameda";s:4:"name";s:16:"Feel Good Bakery";s:2:"id";s:5:"83829";s:4:"info";s:78:"Bakery - <br />
-                <br />
-                  1650 Park St, Alameda";s:5:"info2";s:6:"Bakery";s:7:"address";s:21:"1650 Park St, Alameda";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.767523";s:3:"lon";s:11:"-122.239792";s:9:"neighbour";s:7:"Alameda";}

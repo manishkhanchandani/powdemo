@@ -1,1 +1,0 @@
-a:9:{s:3:"url";s:71:"http://www.urbanspoon.com/r/6/767266/restaurant/Cardiff-Lounge-Campbell";s:4:"name";s:14:"Cardiff Lounge";s:2:"id";s:6:"767266";s:4:"info";s:31:"260 East Campbell Ave, Campbell";s:7:"address";s:31:"260 East Campbell Ave, Campbell";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:5:"37.29";s:3:"lon";s:7:"-121.95";s:9:"neighbour";s:8:"Campbell";}

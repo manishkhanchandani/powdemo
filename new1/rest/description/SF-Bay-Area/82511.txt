@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:76:"http://www.urbanspoon.com/r/6/82511/restaurant/Ciaobella-Gelato-Corte-Madera";s:4:"name";s:16:"Ciaobella Gelato";s:2:"id";s:5:"82511";s:4:"info";s:108:"Desserts/Ice Cream - <br />
-                <br />
-                  132 Corte Madera Town Ctr, Corte Madera";s:5:"info2";s:18:"Desserts/Ice Cream";s:7:"address";s:39:"132 Corte Madera Town Ctr, Corte Madera";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.927794";s:3:"lon";s:11:"-122.518096";s:9:"neighbour";s:12:"Corte Madera";}

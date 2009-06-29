@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:74:"http://www.urbanspoon.com/r/6/1212415/restaurant/Jack-in-the-Box-Fairfield";s:4:"name";s:15:"Jack in the Box";s:2:"id";s:7:"1212415";s:4:"info";s:116:"Fast Food, Burgers and Sandwiches/Subs - <br />
-                <br />
-                  4490 Central Way, Fairfield";s:5:"info2";s:38:"Fast Food, Burgers and Sandwiches/Subs";s:7:"address";s:27:"4490 Central Way, Fairfield";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"38.2199";s:3:"lon";s:9:"-122.1307";s:9:"neighbour";s:9:"Fairfield";}

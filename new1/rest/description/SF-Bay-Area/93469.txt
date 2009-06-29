@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:59:"http://www.urbanspoon.com/r/6/93469/restaurant/Zands-Albany";s:4:"name";s:6:"Zand's";s:2:"id";s:5:"93469";s:4:"info";s:114:"Mediterranean, Greek and Sandwiches/Subs - <br />
-                <br />
-                  1401 Solano Ave, Albany";s:5:"info2";s:40:"Mediterranean, Greek and Sandwiches/Subs";s:7:"address";s:23:"1401 Solano Ave, Albany";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.890937";s:3:"lon";s:11:"-122.290003";s:9:"neighbour";s:6:"Albany";}

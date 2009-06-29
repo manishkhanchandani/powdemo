@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:86:"http://www.urbanspoon.com/r/6/92574/restaurant/Civic-Center/Toms-Cookies-San-Francisco";s:4:"name";s:13:"Tom's Cookies";s:2:"id";s:5:"92574";s:4:"info";s:97:"Desserts/Ice Cream - <br />
-                <br />
-                  865 Market St, San Francisco";s:5:"info2";s:18:"Desserts/Ice Cream";s:7:"address";s:28:"865 Market St, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.784168";s:3:"lon";s:11:"-122.407646";s:9:"neighbour";s:12:"Civic Center";}

@@ -1,1 +1,0 @@
-a:9:{s:3:"url";s:81:"http://www.urbanspoon.com/r/6/763328/restaurant/Albany/Saffron-Gourmet-Kensington";s:4:"name";s:15:"Saffron Gourmet";s:2:"id";s:6:"763328";s:4:"info";s:27:"1007 Solano Ave, Kensington";s:7:"address";s:27:"1007 Solano Ave, Kensington";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.890144";s:3:"lon";s:11:"-122.300459";s:9:"neighbour";s:6:"Albany";}

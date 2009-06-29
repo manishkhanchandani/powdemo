@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:79:"http://www.urbanspoon.com/r/6/764782/restaurant/Sweet-Country-Bar-B-Que-Antioch";s:4:"name";s:23:"Sweet Country Bar-B-Que";s:2:"id";s:6:"764782";s:4:"info";s:88:"Barbecue - <br />
-                <br />
-                  2629 Forty Niner Way, Antioch";s:5:"info2";s:8:"Barbecue";s:7:"address";s:29:"2629 Forty Niner Way, Antioch";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.956757";s:3:"lon";s:11:"-121.779198";s:9:"neighbour";s:7:"Antioch";}

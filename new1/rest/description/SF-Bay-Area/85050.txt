@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:76:"http://www.urbanspoon.com/r/6/85050/restaurant/Bayview/Hoy-Sun-San-Francisco";s:4:"name";s:7:"Hoy Sun";s:2:"id";s:5:"85050";s:4:"info";s:89:"Asian - <br />
-                <br />
-                  2520 San Bruno Ave, San Francisco";s:5:"info2";s:5:"Asian";s:7:"address";s:33:"2520 San Bruno Ave, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.729637";s:3:"lon";s:11:"-122.404628";s:9:"neighbour";s:7:"Bayview";}

@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:86:"http://www.urbanspoon.com/r/6/92186/restaurant/Alameda-SJ/Taqueria-la-Mordida-San-Jose";s:4:"name";s:19:"Taqueria la Mordida";s:2:"id";s:5:"92186";s:4:"info";s:86:"Mexican - <br />
-                <br />
-                  1190 Hillsdale Ave, San Jose";s:5:"info2";s:7:"Mexican";s:7:"address";s:28:"1190 Hillsdale Ave, San Jose";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.274434";s:3:"lon";s:11:"-121.881149";s:9:"neighbour";s:12:"Alameda (SJ)";}

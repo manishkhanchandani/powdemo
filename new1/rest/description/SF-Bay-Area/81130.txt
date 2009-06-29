@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:86:"http://www.urbanspoon.com/r/6/81130/restaurant/Bernal-Heights/Blue-Plate-San-Francisco";s:4:"name";s:10:"Blue Plate";s:2:"id";s:5:"81130";s:4:"info";s:104:"American and California - <br />
-                <br />
-                  3218 Mission St, San Francisco";s:5:"info2";s:23:"American and California";s:7:"address";s:30:"3218 Mission St, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.745346";s:3:"lon";s:11:"-122.420293";s:9:"neighbour";s:14:"Bernal Heights";}

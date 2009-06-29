@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:78:"http://www.urbanspoon.com/r/6/89635/restaurant/Alameda-SJ/Quiznos-Sub-San-Jose";s:4:"name";s:11:"Quiznos Sub";s:2:"id";s:5:"89635";s:4:"info";s:87:"Fast Food - <br />
-                <br />
-                  4662 Meridian Ave, San Jose";s:5:"info2";s:9:"Fast Food";s:7:"address";s:27:"4662 Meridian Ave, San Jose";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:8:"37.25521";s:3:"lon";s:11:"-121.898022";s:9:"neighbour";s:12:"Alameda (SJ)";}

@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:76:"http://www.urbanspoon.com/r/6/1212499/restaurant/Round-Table-Pizza-Fairfield";s:4:"name";s:17:"Round Table Pizza";s:2:"id";s:7:"1212499";s:4:"info";s:95:"Pizza - <br />
-                <br />
-                  5085 Business Ctr Dr Ste 102, Fairfield";s:5:"info2";s:5:"Pizza";s:7:"address";s:39:"5085 Business Ctr Dr Ste 102, Fairfield";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"38.2152";s:3:"lon";s:9:"-122.1465";s:9:"neighbour";s:9:"Fairfield";}

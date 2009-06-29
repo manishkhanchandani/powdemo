@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:73:"http://www.urbanspoon.com/r/6/1212248/restaurant/Four-Corners-El-Sobrante";s:4:"name";s:12:"Four Corners";s:2:"id";s:7:"1212248";s:4:"info";s:100:"Pizza and Italian - <br />
-                <br />
-                  4203 Valley View Rd, El Sobrante";s:5:"info2";s:17:"Pizza and Italian";s:7:"address";s:32:"4203 Valley View Rd, El Sobrante";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"37.9777";s:3:"lon";s:9:"-122.2932";s:9:"neighbour";s:11:"El Sobrante";}

@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:70:"http://www.urbanspoon.com/r/6/86386/restaurant/La-Rose-Bistro-Berkeley";s:4:"name";s:14:"La Rose Bistro";s:2:"id";s:5:"86386";s:4:"info";s:84:"French - <br />
-                <br />
-                  2037 Shattuck Ave, Berkeley";s:5:"info2";s:6:"French";s:7:"address";s:27:"2037 Shattuck Ave, Berkeley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:8:"37.87174";s:3:"lon";s:11:"-122.268184";s:9:"neighbour";s:8:"Berkeley";}

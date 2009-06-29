@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:78:"http://www.urbanspoon.com/r/6/87487/restaurant/Bayview/McDonalds-San-Francisco";s:4:"name";s:10:"McDonald's";s:2:"id";s:5:"87487";s:4:"info";s:108:"Fast Food, American and Burgers - <br />
-                <br />
-                  5411 3rd St, San Francisco";s:5:"info2";s:31:"Fast Food, American and Burgers";s:7:"address";s:26:"5411 3rd St, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.728265";s:3:"lon";s:10:"-122.39273";s:9:"neighbour";s:7:"Bayview";}

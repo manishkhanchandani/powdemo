@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:69:"http://www.urbanspoon.com/r/6/84914/restaurant/Honeybaked-Ham-Belmont";s:4:"name";s:14:"Honeybaked Ham";s:2:"id";s:5:"84914";s:4:"info";s:93:"Sandwiches/Subs - <br />
-                <br />
-                  210 El Camino Real, Belmont";s:5:"info2";s:15:"Sandwiches/Subs";s:7:"address";s:27:"210 El Camino Real, Belmont";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.528564";s:3:"lon";s:11:"-122.286736";s:9:"neighbour";s:7:"Belmont";}

@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:74:"http://www.urbanspoon.com/r/6/88932/restaurant/Peets-Coffee-Tea-Emeryville";s:4:"name";s:23:"Peet's Coffee &amp; Tea";s:2:"id";s:5:"88932";s:4:"info";s:81:"Coffee - <br />
-                <br />
-                  1289 65th St, Emeryville";s:5:"info2";s:6:"Coffee";s:7:"address";s:24:"1289 65th St, Emeryville";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:8:"37.84695";s:3:"lon";s:11:"-122.290044";s:9:"neighbour";s:10:"Emeryville";}

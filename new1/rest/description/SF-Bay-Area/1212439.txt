@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:77:"http://www.urbanspoon.com/r/6/1212439/restaurant/Lotus-Thai-Cuisine-Fairfield";s:4:"name";s:18:"Lotus Thai Cuisine";s:2:"id";s:7:"1212439";s:4:"info";s:82:"Thai - <br />
-                <br />
-                  739 W. Texas St., Fairfield";s:5:"info2";s:4:"Thai";s:7:"address";s:27:"739 W. Texas St., Fairfield";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"38.2491";s:3:"lon";s:9:"-122.0413";s:9:"neighbour";s:9:"Fairfield";}

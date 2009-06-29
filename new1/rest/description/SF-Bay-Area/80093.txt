@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:77:"http://www.urbanspoon.com/r/6/80093/restaurant/A-G-Ferrari-Foods-Corte-Madera";s:4:"name";s:18:"A.G. Ferrari Foods";s:2:"id";s:5:"80093";s:4:"info";s:117:"Italian and Sandwiches/Subs - <br />
-                <br />
-                  107 Corte Madera Town Ctr, Corte Madera";s:5:"info2";s:27:"Italian and Sandwiches/Subs";s:7:"address";s:39:"107 Corte Madera Town Ctr, Corte Madera";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:8:"37.92759";s:3:"lon";s:11:"-122.518043";s:9:"neighbour";s:12:"Corte Madera";}

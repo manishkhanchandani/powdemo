@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:59:"http://www.urbanspoon.com/r/6/81359/restaurant/Bui-Berkeley";s:4:"name";s:3:"Bui";s:2:"id";s:5:"81359";s:4:"info";s:104:"Vietnamese, Asian and French - <br />
-                <br />
-                  1647 Solano Ave, Berkeley";s:5:"info2";s:28:"Vietnamese, Asian and French";s:7:"address";s:25:"1647 Solano Ave, Berkeley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.891259";s:3:"lon";s:11:"-122.283269";s:9:"neighbour";s:8:"Berkeley";}

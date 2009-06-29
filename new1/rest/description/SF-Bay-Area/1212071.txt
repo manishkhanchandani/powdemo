@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:79:"http://www.urbanspoon.com/r/6/1212071/restaurant/Venticcelos-Ristorante-Benicia";s:4:"name";s:22:"Venticcelos Ristorante";s:2:"id";s:7:"1212071";s:4:"info";s:77:"Italian - <br />
-                <br />
-                  911 1st St, Benicia";s:5:"info2";s:7:"Italian";s:7:"address";s:19:"911 1st St, Benicia";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"38.0516";s:3:"lon";s:9:"-122.1575";s:9:"neighbour";s:7:"Benicia";}

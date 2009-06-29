@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:107:"http://www.urbanspoon.com/r/6/89839/restaurant/Restaurants-on-the-Run-Home-Office-Delivery-Catering-Belmont";s:4:"name";s:64:"Restaurants on the Run Home &amp; Office Delivery &amp; Catering";s:2:"id";s:5:"89839";s:4:"info";s:88:"Mexican - <br />
-                <br />
-                  617 Mountain View Ave, Belmont";s:5:"info2";s:7:"Mexican";s:7:"address";s:30:"617 Mountain View Ave, Belmont";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.527091";s:3:"lon";s:11:"-122.281834";s:9:"neighbour";s:7:"Belmont";}

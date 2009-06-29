@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:76:"http://www.urbanspoon.com/r/6/763635/restaurant/California-Deli-Cafe-Antioch";s:4:"name";s:20:"California Deli Cafe";s:2:"id";s:6:"763635";s:4:"info";s:84:"Sandwiches/Subs - <br />
-                <br />
-                  1637 A St, Antioch";s:5:"info2";s:15:"Sandwiches/Subs";s:7:"address";s:18:"1637 A St, Antioch";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"38.006094";s:3:"lon";s:10:"-121.80583";s:9:"neighbour";s:7:"Antioch";}

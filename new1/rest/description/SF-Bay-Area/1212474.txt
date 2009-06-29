@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:89:"http://www.urbanspoon.com/r/6/1212474/restaurant/Papa-Murphys-Take-n-Bake-Pizza-Fairfield";s:4:"name";s:33:"Papa Murphy's Take 'n' Bake Pizza";s:2:"id";s:7:"1212474";s:4:"info";s:88:"Pizza - <br />
-                <br />
-                  1070 N Texas St Ste C, Fairfield";s:5:"info2";s:5:"Pizza";s:7:"address";s:32:"1070 N Texas St Ste C, Fairfield";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:6:"38.252";s:3:"lon";s:8:"-122.034";s:9:"neighbour";s:9:"Fairfield";}

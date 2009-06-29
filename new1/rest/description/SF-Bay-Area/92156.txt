@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:70:"http://www.urbanspoon.com/r/6/92156/restaurant/Taqueria-Reyes-Berkeley";s:4:"name";s:14:"Taqueria Reyes";s:2:"id";s:5:"92156";s:4:"info";s:85:"Mexican - <br />
-                <br />
-                  2475 Bancroft Way, Berkeley";s:5:"info2";s:7:"Mexican";s:7:"address";s:27:"2475 Bancroft Way, Berkeley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.868751";s:3:"lon";s:11:"-122.259875";s:9:"neighbour";s:8:"Berkeley";}

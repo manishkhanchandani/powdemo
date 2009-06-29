@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:90:"http://www.urbanspoon.com/r/6/90168/restaurant/Bayview/Russia-House-Catering-San-Francisco";s:4:"name";s:21:"Russia House Catering";s:2:"id";s:5:"90168";s:4:"info";s:100:"Eastern European - <br />
-                <br />
-                  2011 Bayshore Blvd, San Francisco";s:5:"info2";s:16:"Eastern European";s:7:"address";s:33:"2011 Bayshore Blvd, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.714982";s:3:"lon";s:10:"-122.39887";s:9:"neighbour";s:7:"Bayview";}

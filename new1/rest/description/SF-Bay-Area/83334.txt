@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:84:"http://www.urbanspoon.com/r/6/83334/restaurant/Castro/Duboce-Park-Cafe-San-Francisco";s:4:"name";s:16:"Duboce Park Cafe";s:2:"id";s:5:"83334";s:4:"info";s:97:"Coffee and American - <br />
-                <br />
-                  2 Sanchez St, San Francisco";s:5:"info2";s:19:"Coffee and American";s:7:"address";s:27:"2 Sanchez St, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.769142";s:3:"lon";s:11:"-122.431463";s:9:"neighbour";s:6:"Castro";}

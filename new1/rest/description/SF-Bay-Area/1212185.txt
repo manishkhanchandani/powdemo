@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:80:"http://www.urbanspoon.com/r/6/1212185/restaurant/Round-Table-Pizza-Castro-Valley";s:4:"name";s:17:"Round Table Pizza";s:2:"id";s:7:"1212185";s:4:"info";s:87:"Pizza - <br />
-                <br />
-                  20920 Redwood Rd, Castro Valley";s:5:"info2";s:5:"Pizza";s:7:"address";s:31:"20920 Redwood Rd, Castro Valley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"37.6943";s:3:"lon";s:9:"-122.0737";s:9:"neighbour";s:13:"Castro Valley";}

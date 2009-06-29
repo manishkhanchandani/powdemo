@@ -1,1 +1,0 @@
-a:9:{s:3:"url";s:70:"http://www.urbanspoon.com/r/6/84703/restaurant/Happy-Garden-El-Cerrito";s:4:"name";s:12:"Happy Garden";s:2:"id";s:5:"84703";s:4:"info";s:31:"11265 San Pablo Ave, El Cerrito";s:7:"address";s:31:"11265 San Pablo Ave, El Cerrito";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.919983";s:3:"lon";s:11:"-122.314878";s:9:"neighbour";s:10:"El Cerrito";}

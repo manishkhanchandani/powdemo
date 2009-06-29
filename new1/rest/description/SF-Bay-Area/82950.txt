@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:80:"http://www.urbanspoon.com/r/6/82950/restaurant/El-Cerrito/Daimo-Chinese-Richmond";s:4:"name";s:13:"Daimo Chinese";s:2:"id";s:5:"82950";s:4:"info";s:95:"Chinese and Seafood - <br />
-                <br />
-                  3288a Pierce St, Richmond";s:5:"info2";s:19:"Chinese and Seafood";s:7:"address";s:25:"3288a Pierce St, Richmond";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.898237";s:3:"lon";s:11:"-122.308851";s:9:"neighbour";s:10:"El Cerrito";}

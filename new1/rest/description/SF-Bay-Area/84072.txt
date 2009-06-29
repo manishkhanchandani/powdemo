@@ -1,1 +1,0 @@
-a:9:{s:3:"url";s:75:"http://www.urbanspoon.com/r/6/84072/restaurant/Daly-City/Fresh-Choice-Colma";s:4:"name";s:12:"Fresh Choice";s:2:"id";s:5:"84072";s:4:"info";s:31:"4927 Junipero Serra Blvd, Colma";s:7:"address";s:31:"4927 Junipero Serra Blvd, Colma";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.673754";s:3:"lon";s:11:"-122.466626";s:9:"neighbour";s:9:"Daly City";}

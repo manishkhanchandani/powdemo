@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:82:"http://www.urbanspoon.com/r/6/89852/restaurant/Ricardos-Fast-Food-Mexican-Campbell";s:4:"name";s:27:"Ricardo's Fast Food Mexican";s:2:"id";s:5:"89852";s:4:"info";s:88:"Mexican - <br />
-                <br />
-                  1750 Winchester Blvd, Campbell";s:5:"info2";s:7:"Mexican";s:7:"address";s:30:"1750 Winchester Blvd, Campbell";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.292232";s:3:"lon";s:11:"-121.949726";s:9:"neighbour";s:8:"Campbell";}

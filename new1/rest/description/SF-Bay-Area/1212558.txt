@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:81:"http://www.urbanspoon.com/r/6/1212558/restaurant/el-Azteca-Mexican-Food-Fairfield";s:4:"name";s:22:"el Azteca Mexican Food";s:2:"id";s:7:"1212558";s:4:"info";s:90:"Mexican - <br />
-                <br />
-                  1731 N Texas St Ste C, Fairfield";s:5:"info2";s:7:"Mexican";s:7:"address";s:32:"1731 N Texas St Ste C, Fairfield";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"38.2609";s:3:"lon";s:9:"-122.0344";s:9:"neighbour";s:9:"Fairfield";}

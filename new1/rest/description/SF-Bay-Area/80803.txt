@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:72:"http://www.urbanspoon.com/r/6/80803/restaurant/Baskin-Robbins-Burlingame";s:4:"name";s:14:"Baskin-Robbins";s:2:"id";s:5:"80803";s:4:"info";s:100:"Desserts/Ice Cream - <br />
-                <br />
-                  1409 Burlingame Ave, Burlingame";s:5:"info2";s:18:"Desserts/Ice Cream";s:7:"address";s:31:"1409 Burlingame Ave, Burlingame";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.577502";s:3:"lon";s:11:"-122.348291";s:9:"neighbour";s:10:"Burlingame";}

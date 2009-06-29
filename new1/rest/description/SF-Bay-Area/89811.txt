@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:66:"http://www.urbanspoon.com/r/6/89811/restaurant/Renees-Place-Albany";s:4:"name";s:13:"Renee's Place";s:2:"id";s:5:"89811";s:4:"info";s:81:"Chinese - <br />
-                <br />
-                  1477 Solano Ave, Albany";s:5:"info2";s:7:"Chinese";s:7:"address";s:23:"1477 Solano Ave, Albany";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.890969";s:3:"lon";s:11:"-122.288458";s:9:"neighbour";s:6:"Albany";}

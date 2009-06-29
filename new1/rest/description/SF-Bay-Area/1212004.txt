@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:79:"http://www.urbanspoon.com/r/6/1212004/restaurant/Benicia-Coffee-Company-Benicia";s:4:"name";s:22:"Benicia Coffee Company";s:2:"id";s:7:"1212004";s:4:"info";s:98:"Coffee and Fast Food - <br />
-                <br />
-                  2036 COLUMBUS PKWY, Benicia";s:5:"info2";s:20:"Coffee and Fast Food";s:7:"address";s:27:"2036 COLUMBUS PKWY, Benicia";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"38.0786";s:3:"lon";s:9:"-122.1493";s:9:"neighbour";s:7:"Benicia";}

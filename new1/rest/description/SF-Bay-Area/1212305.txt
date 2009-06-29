@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:76:"http://www.urbanspoon.com/r/6/1212305/restaurant/Perrys-Delicatessen-Fairfax";s:4:"name";s:20:"Perry's Delicatessen";s:2:"id";s:7:"1212305";s:4:"info";s:102:"Sandwiches/Subs - <br />
-                <br />
-                  1916 Sir Francis Drake Blvd, Fairfax";s:5:"info2";s:15:"Sandwiches/Subs";s:7:"address";s:36:"1916 Sir Francis Drake Blvd, Fairfax";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"37.9875";s:3:"lon";s:9:"-122.5885";s:9:"neighbour";s:7:"Fairfax";}

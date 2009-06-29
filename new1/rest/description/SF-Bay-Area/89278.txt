@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:85:"http://www.urbanspoon.com/r/6/89278/restaurant/Bernal-Heights/Pizza-Hut-San-Francisco";s:4:"name";s:9:"Pizza Hut";s:2:"id";s:5:"89278";s:4:"info";s:100:"Fast Food and Pizza - <br />
-                <br />
-                  3349 Mission St, San Francisco";s:5:"info2";s:19:"Fast Food and Pizza";s:7:"address";s:30:"3349 Mission St, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.743307";s:3:"lon";s:11:"-122.421231";s:9:"neighbour";s:14:"Bernal Heights";}

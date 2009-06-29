@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:75:"http://www.urbanspoon.com/r/6/1422142/restaurant/Antioch/La-Costa-Brentwood";s:4:"name";s:8:"La Costa";s:2:"id";s:7:"1422142";s:4:"info";s:79:"Mexican - <br />
-                <br />
-                  335 Oak St, Brentwood";s:5:"info2";s:7:"Mexican";s:7:"address";s:21:"335 Oak St, Brentwood";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.932299";s:3:"lon";s:11:"-121.695592";s:9:"neighbour";s:7:"Antioch";}

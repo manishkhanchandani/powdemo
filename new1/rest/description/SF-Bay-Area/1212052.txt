@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:88:"http://www.urbanspoon.com/r/6/1212052/restaurant/Roberts-China-Garden-Restaurant-Benicia";s:4:"name";s:32:"Robert's China Garden Restaurant";s:2:"id";s:7:"1212052";s:4:"info";s:87:"Chinese - <br />
-                <br />
-                  498 Military E Ste B, Benicia";s:5:"info2";s:7:"Chinese";s:7:"address";s:29:"498 Military E Ste B, Benicia";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"38.0508";s:3:"lon";s:8:"-122.147";s:9:"neighbour";s:7:"Benicia";}

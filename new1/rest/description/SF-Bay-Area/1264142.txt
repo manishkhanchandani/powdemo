@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:79:"http://www.urbanspoon.com/r/6/1264142/restaurant/Antioch/Jack-in-the-Box-Oakley";s:4:"name";s:15:"Jack in the Box";s:2:"id";s:7:"1264142";s:4:"info";s:86:"Sandwiches/Subs - <br />
-                <br />
-                  2185 Main St, Oakley";s:5:"info2";s:15:"Sandwiches/Subs";s:7:"address";s:20:"2185 Main St, Oakley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"38.0024";s:3:"lon";s:9:"-121.7325";s:9:"neighbour";s:7:"Antioch";}

@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:96:"http://www.urbanspoon.com/r/6/1440059/restaurant/Antioch/Tavos-Pizzeria-and-Restaurant-Brentwood";s:4:"name";s:30:"Tavo's Pizzeria and Restaurant";s:2:"id";s:7:"1440059";s:4:"info";s:97:"Pizza and Italian - <br />
-                <br />
-                  5411 Lone Tree Way, Brentwood";s:5:"info2";s:17:"Pizza and Italian";s:7:"address";s:29:"5411 Lone Tree Way, Brentwood";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.961497";s:3:"lon";s:11:"-121.750278";s:9:"neighbour";s:7:"Antioch";}

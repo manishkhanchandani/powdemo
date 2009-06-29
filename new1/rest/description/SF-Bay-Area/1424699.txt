@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:69:"http://www.urbanspoon.com/r/6/1424699/restaurant/Beard-Papa-Cupertino";s:4:"name";s:11:"Beard Papa ";s:2:"id";s:7:"1424699";s:4:"info";s:92:"Bakery - <br />
-                <br />
-                  19748 Stevens Creek Blvd, Cupertino";s:5:"info2";s:6:"Bakery";s:7:"address";s:35:"19748 Stevens Creek Blvd, Cupertino";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.322701";s:3:"lon";s:11:"-122.018876";s:9:"neighbour";s:9:"Cupertino";}

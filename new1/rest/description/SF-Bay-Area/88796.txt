@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:60:"http://www.urbanspoon.com/r/6/88796/restaurant/Pappo-Alameda";s:4:"name";s:5:"Pappo";s:2:"id";s:5:"88796";s:4:"info";s:86:"California - <br />
-                <br />
-                  2320 Central Ave, Alameda";s:5:"info2";s:10:"California";s:7:"address";s:25:"2320 Central Ave, Alameda";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:8:"37.76452";s:3:"lon";s:11:"-122.243861";s:9:"neighbour";s:7:"Alameda";}

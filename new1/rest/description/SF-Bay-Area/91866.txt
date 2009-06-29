@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:64:"http://www.urbanspoon.com/r/6/91866/restaurant/Taco-Bell-Alameda";s:4:"name";s:9:"Taco Bell";s:2:"id";s:5:"91866";s:4:"info";s:92:"Tacos and Mexican - <br />
-                <br />
-                  1900 Webster St, Alameda";s:5:"info2";s:17:"Tacos and Mexican";s:7:"address";s:24:"1900 Webster St, Alameda";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.778329";s:3:"lon";s:11:"-122.276416";s:9:"neighbour";s:7:"Alameda";}

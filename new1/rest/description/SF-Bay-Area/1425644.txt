@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:69:"http://www.urbanspoon.com/r/6/1425644/restaurant/Bangkokian-Fairfield";s:4:"name";s:10:"Bangkokian";s:2:"id";s:7:"1425644";s:4:"info";s:89:"Thai - <br />
-                <br />
-                  1500 oliver rd. suite L, Fairfield";s:5:"info2";s:4:"Thai";s:7:"address";s:34:"1500 oliver rd. suite L, Fairfield";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"38.259865";s:3:"lon";s:11:"-122.069452";s:9:"neighbour";s:9:"Fairfield";}

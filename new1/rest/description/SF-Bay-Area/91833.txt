@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:70:"http://www.urbanspoon.com/r/6/91833/restaurant/T-G-I-Fridays-Cupertino";s:4:"name";s:15:"T.G.I. Friday's";s:2:"id";s:5:"91833";s:4:"info";s:86:"American - <br />
-                <br />
-                  10343 N Wolfe Rd, Cupertino";s:5:"info2";s:8:"American";s:7:"address";s:27:"10343 N Wolfe Rd, Cupertino";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.328157";s:3:"lon";s:11:"-122.014672";s:9:"neighbour";s:9:"Cupertino";}

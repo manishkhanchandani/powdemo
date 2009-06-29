@@ -1,1 +1,0 @@
-a:9:{s:3:"url";s:77:"http://www.urbanspoon.com/r/6/89769/restaurant/Red-Ribbon-Bake-Shop-Daly-City";s:4:"name";s:20:"Red Ribbon Bake Shop";s:2:"id";s:5:"89769";s:4:"info";s:26:"6877 Mission St, Daly City";s:7:"address";s:26:"6877 Mission St, Daly City";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.697147";s:3:"lon";s:11:"-122.464188";s:9:"neighbour";s:9:"Daly City";}

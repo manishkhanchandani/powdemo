@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:69:"http://www.urbanspoon.com/r/6/91517/restaurant/Sugata-Japanese-Albany";s:4:"name";s:15:"Sugata Japanese";s:2:"id";s:5:"91517";s:4:"info";s:79:"Sushi - <br />
-                <br />
-                  1105 Solano Ave, Albany";s:5:"info2";s:5:"Sushi";s:7:"address";s:23:"1105 Solano Ave, Albany";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.890437";s:3:"lon";s:11:"-122.298704";s:9:"neighbour";s:6:"Albany";}

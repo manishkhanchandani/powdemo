@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:69:"http://www.urbanspoon.com/r/6/89683/restaurant/Rainbow-Donut-Berkeley";s:4:"name";s:13:"Rainbow Donut";s:2:"id";s:5:"89683";s:4:"info";s:96:"Donuts and Bakery - <br />
-                <br />
-                  2025 San Pablo Ave, Berkeley";s:5:"info2";s:17:"Donuts and Bakery";s:7:"address";s:28:"2025 San Pablo Ave, Berkeley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:8:"37.86883";s:3:"lon";s:11:"-122.291862";s:9:"neighbour";s:8:"Berkeley";}

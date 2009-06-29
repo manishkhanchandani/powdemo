@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:86:"http://www.urbanspoon.com/r/6/86011/restaurant/Civic-Center/Kim-Hon-Cafe-San-Francisco";s:4:"name";s:12:"Kim Hon Cafe";s:2:"id";s:5:"86011";s:4:"info";s:83:"Asian - <br />
-                <br />
-                  377 Ellis St, San Francisco";s:5:"info2";s:5:"Asian";s:7:"address";s:27:"377 Ellis St, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:8:"37.78482";s:3:"lon";s:11:"-122.412301";s:9:"neighbour";s:12:"Civic Center";}

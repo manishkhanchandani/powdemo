@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:84:"http://www.urbanspoon.com/r/6/80939/restaurant/Civic-Center/Ben-Jerrys-San-Francisco";s:4:"name";s:17:"Ben &amp; Jerry's";s:2:"id";s:5:"80939";s:4:"info";s:100:"Desserts/Ice Cream - <br />
-                <br />
-                  170 O'Farrell St, San Francisco";s:5:"info2";s:18:"Desserts/Ice Cream";s:7:"address";s:31:"170 O'Farrell St, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.786521";s:3:"lon";s:11:"-122.407562";s:9:"neighbour";s:12:"Civic Center";}

@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:64:"http://www.urbanspoon.com/r/6/80633/restaurant/Bagel-Boy-Alameda";s:4:"name";s:9:"Bagel Boy";s:2:"id";s:5:"80633";s:4:"info";s:78:"Bagels - <br />
-                <br />
-                  1227 Park St, Alameda";s:5:"info2";s:6:"Bagels";s:7:"address";s:21:"1227 Park St, Alameda";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:8:"37.76162";s:3:"lon";s:11:"-122.245172";s:9:"neighbour";s:7:"Alameda";}

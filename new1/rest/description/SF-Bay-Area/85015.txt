@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:78:"http://www.urbanspoon.com/r/6/85015/restaurant/House-of-Catfish-Ribs-Daly-City";s:4:"name";s:27:"House of Catfish &amp; Ribs";s:2:"id";s:5:"85015";s:4:"info";s:119:"Seafood, Barbecue and Southern &amp; Soul - <br />
-                <br />
-                  270 San Pedro Rd, Daly City";s:5:"info2";s:41:"Seafood, Barbecue and Southern &amp; Soul";s:7:"address";s:27:"270 San Pedro Rd, Daly City";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.686746";s:3:"lon";s:11:"-122.469823";s:9:"neighbour";s:9:"Daly City";}

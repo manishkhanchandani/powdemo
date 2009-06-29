@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:67:"http://www.urbanspoon.com/r/6/84482/restaurant/Great-China-Berkeley";s:4:"name";s:11:"Great China";s:2:"id";s:5:"84482";s:4:"info";s:85:"Chinese - <br />
-                <br />
-                  2115 Kittredge St, Berkeley";s:5:"info2";s:7:"Chinese";s:7:"address";s:27:"2115 Kittredge St, Berkeley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.868681";s:3:"lon";s:11:"-122.267564";s:9:"neighbour";s:8:"Berkeley";}

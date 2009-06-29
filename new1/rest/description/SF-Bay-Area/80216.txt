@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:78:"http://www.urbanspoon.com/r/6/80216/restaurant/Alexanders-Steakhouse-Cupertino";s:4:"name";s:22:"Alexander's Steakhouse";s:2:"id";s:5:"80216";s:4:"info";s:88:"Steakhouse - <br />
-                <br />
-                  10330 N Wolfe Rd, Cupertino";s:5:"info2";s:10:"Steakhouse";s:7:"address";s:27:"10330 N Wolfe Rd, Cupertino";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:8:"37.32796";s:3:"lon";s:11:"-122.013659";s:9:"neighbour";s:9:"Cupertino";}

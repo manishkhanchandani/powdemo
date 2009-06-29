@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:69:"http://www.urbanspoon.com/r/6/92670/restaurant/Toyo-Japanese-Berkeley";s:4:"name";s:13:"Toyo Japanese";s:2:"id";s:5:"92670";s:4:"info";s:86:"Japanese - <br />
-                <br />
-                  1463 Shattuck Ave, Berkeley";s:5:"info2";s:8:"Japanese";s:7:"address";s:27:"1463 Shattuck Ave, Berkeley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.881061";s:3:"lon";s:11:"-122.269223";s:9:"neighbour";s:8:"Berkeley";}

@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:61:"http://www.urbanspoon.com/r/6/91490/restaurant/Subway-Alameda";s:4:"name";s:6:"Subway";s:2:"id";s:5:"91490";s:4:"info";s:108:"Sandwiches/Subs and Fast Food - <br />
-                <br />
-                  843 Marina Vlg Pkwy, Alameda";s:5:"info2";s:29:"Sandwiches/Subs and Fast Food";s:7:"address";s:28:"843 Marina Vlg Pkwy, Alameda";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.782737";s:3:"lon";s:11:"-122.273676";s:9:"neighbour";s:7:"Alameda";}

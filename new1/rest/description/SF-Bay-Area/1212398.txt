@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:86:"http://www.urbanspoon.com/r/6/1212398/restaurant/Hecho-En-Mexico-Restaurante-Fairfield";s:4:"name";s:27:"Hecho En Mexico Restaurante";s:2:"id";s:7:"1212398";s:4:"info";s:82:"Mexican - <br />
-                <br />
-                  672 Parker Rd, Fairfield";s:5:"info2";s:7:"Mexican";s:7:"address";s:24:"672 Parker Rd, Fairfield";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"38.2723";s:3:"lon";s:8:"-121.958";s:9:"neighbour";s:9:"Fairfield";}

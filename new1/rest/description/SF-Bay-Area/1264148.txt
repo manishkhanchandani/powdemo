@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:78:"http://www.urbanspoon.com/r/6/1264148/restaurant/Antioch/Mountain-Mikes-Oakley";s:4:"name";s:15:"Mountain Mike's";s:2:"id";s:7:"1264148";s:4:"info";s:81:"Fast Food - <br />
-                <br />
-                  2091 Main St., Oakley";s:5:"info2";s:9:"Fast Food";s:7:"address";s:21:"2091 Main St., Oakley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"38.0046";s:3:"lon";s:8:"-121.733";s:9:"neighbour";s:7:"Antioch";}

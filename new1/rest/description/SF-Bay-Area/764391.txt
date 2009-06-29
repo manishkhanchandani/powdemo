@@ -1,1 +1,0 @@
-a:9:{s:3:"url";s:83:"http://www.urbanspoon.com/r/6/764391/restaurant/Antioch/Mustard-Seed-Cafe-Pittsburg";s:4:"name";s:17:"Mustard Seed Cafe";s:2:"id";s:6:"764391";s:4:"info";s:26:"1743 Ventura Dr, Pittsburg";s:7:"address";s:26:"1743 Ventura Dr, Pittsburg";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.994095";s:3:"lon";s:11:"-121.866649";s:9:"neighbour";s:7:"Antioch";}

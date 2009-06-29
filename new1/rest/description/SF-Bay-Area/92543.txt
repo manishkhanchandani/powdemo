@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:60:"http://www.urbanspoon.com/r/6/92543/restaurant/Togos-Alameda";s:4:"name";s:6:"Togo's";s:2:"id";s:5:"92543";s:4:"info";s:105:"Sandwiches/Subs and Fast Food - <br />
-                <br />
-                  730 Atlantic Ave, Alameda";s:5:"info2";s:29:"Sandwiches/Subs and Fast Food";s:7:"address";s:25:"730 Atlantic Ave, Alameda";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.779533";s:3:"lon";s:10:"-122.27589";s:9:"neighbour";s:7:"Alameda";}

@@ -1,1 +1,0 @@
-a:9:{s:3:"url";s:70:"http://www.urbanspoon.com/r/6/82838/restaurant/Crepes-a-Go-Go-Berkeley";s:4:"name";s:14:"Crepes a Go Go";s:2:"id";s:5:"82838";s:4:"info";s:29:"2125 University Ave, Berkeley";s:7:"address";s:29:"2125 University Ave, Berkeley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.872371";s:3:"lon";s:11:"-122.267507";s:9:"neighbour";s:8:"Berkeley";}

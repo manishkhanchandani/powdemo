@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:77:"http://www.urbanspoon.com/r/6/1212072/restaurant/Village-Delicatessen-Benicia";s:4:"name";s:20:"Village Delicatessen";s:2:"id";s:7:"1212072";s:4:"info";s:87:"Sandwiches/Subs - <br />
-                <br />
-                  82 Solano Sq, Benicia";s:5:"info2";s:15:"Sandwiches/Subs";s:7:"address";s:21:"82 Solano Sq, Benicia";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"38.0547";s:3:"lon";s:9:"-122.1542";s:9:"neighbour";s:7:"Benicia";}

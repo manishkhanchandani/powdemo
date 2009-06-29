@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:79:"http://www.urbanspoon.com/r/6/1454769/restaurant/Azerbaijan-Restaurant-Berkeley";s:4:"name";s:21:"Azerbaijan Restaurant";s:2:"id";s:7:"1454769";s:4:"info";s:91:"Middle Eastern - <br />
-                <br />
-                  2175 Allston Way, Berkeley";s:5:"info2";s:14:"Middle Eastern";s:7:"address";s:26:"2175 Allston Way, Berkeley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.869749";s:3:"lon";s:11:"-122.266527";s:9:"neighbour";s:8:"Berkeley";}

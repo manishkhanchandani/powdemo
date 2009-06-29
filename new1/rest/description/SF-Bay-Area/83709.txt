@@ -1,1 +1,0 @@
-a:9:{s:3:"url";s:73:"http://www.urbanspoon.com/r/6/83709/restaurant/Eunice-Gourmet-Cafe-Albany";s:4:"name";s:19:"Eunice Gourmet Cafe";s:2:"id";s:5:"83709";s:4:"info";s:23:"1162 Solano Ave, Albany";s:7:"address";s:23:"1162 Solano Ave, Albany";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.890263";s:3:"lon";s:11:"-122.296827";s:9:"neighbour";s:6:"Albany";}

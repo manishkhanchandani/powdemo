@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:74:"http://www.urbanspoon.com/r/6/86951/restaurant/Love-at-First-Bite-Berkeley";s:4:"name";s:18:"Love at First Bite";s:2:"id";s:5:"86951";s:4:"info";s:81:"Bakery - <br />
-                <br />
-                  1510 Walnut St, Berkeley";s:5:"info2";s:6:"Bakery";s:7:"address";s:24:"1510 Walnut St, Berkeley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.880097";s:3:"lon";s:10:"-122.26834";s:9:"neighbour";s:8:"Berkeley";}

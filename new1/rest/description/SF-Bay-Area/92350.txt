@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:67:"http://www.urbanspoon.com/r/6/92350/restaurant/Thai-Power-Daly-City";s:4:"name";s:10:"Thai Power";s:2:"id";s:5:"92350";s:4:"info";s:94:"Japanese and Thai - <br />
-                <br />
-                  6057 Mission St, Daly City";s:5:"info2";s:17:"Japanese and Thai";s:7:"address";s:26:"6057 Mission St, Daly City";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.707555";s:3:"lon";s:11:"-122.455958";s:9:"neighbour";s:9:"Daly City";}

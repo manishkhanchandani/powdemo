@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:80:"http://www.urbanspoon.com/r/6/90080/restaurant/Daly-City/Round-Table-Pizza-Colma";s:4:"name";s:17:"Round Table Pizza";s:2:"id";s:5:"90080";s:4:"info";s:87:"Pizza - <br />
-                <br />
-                  4935 Junipero Serra Blvd, Colma";s:5:"info2";s:5:"Pizza";s:7:"address";s:31:"4935 Junipero Serra Blvd, Colma";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.673658";s:3:"lon";s:10:"-122.46653";s:9:"neighbour";s:9:"Daly City";}

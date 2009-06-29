@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:83:"http://www.urbanspoon.com/r/6/81563/restaurant/Civic-Center/Cafe-Asia-San-Francisco";s:4:"name";s:9:"Cafe Asia";s:2:"id";s:5:"81563";s:4:"info";s:101:"Korean, Thai and Asian - <br />
-                <br />
-                  200 Larkin St, San Francisco";s:5:"info2";s:22:"Korean, Thai and Asian";s:7:"address";s:28:"200 Larkin St, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.779651";s:3:"lon";s:11:"-122.416639";s:9:"neighbour";s:12:"Civic Center";}

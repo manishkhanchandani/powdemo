@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:85:"http://www.urbanspoon.com/r/6/82944/restaurant/Civic-Center/Daily-Grill-San-Francisco";s:4:"name";s:11:"Daily Grill";s:2:"id";s:5:"82944";s:4:"info";s:88:"Steakhouse - <br />
-                <br />
-                  347 Geary St, San Francisco";s:5:"info2";s:10:"Steakhouse";s:7:"address";s:27:"347 Geary St, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.787168";s:3:"lon";s:10:"-122.40899";s:9:"neighbour";s:12:"Civic Center";}

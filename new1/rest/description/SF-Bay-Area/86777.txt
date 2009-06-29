@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:69:"http://www.urbanspoon.com/r/6/86777/restaurant/Little-Hunan-Daly-City";s:4:"name";s:12:"Little Hunan";s:2:"id";s:5:"86777";s:4:"info";s:84:"Chinese - <br />
-                <br />
-                  6127 Mission St, Daly City";s:5:"info2";s:7:"Chinese";s:7:"address";s:26:"6127 Mission St, Daly City";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.707039";s:3:"lon";s:11:"-122.457533";s:9:"neighbour";s:9:"Daly City";}

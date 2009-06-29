@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:70:"http://www.urbanspoon.com/r/6/86784/restaurant/Little-Lucca-Burlingame";s:4:"name";s:12:"Little Lucca";s:2:"id";s:5:"86784";s:4:"info";s:97:"Sandwiches/Subs - <br />
-                <br />
-                  1809 El Camino Real, Burlingame";s:5:"info2";s:15:"Sandwiches/Subs";s:7:"address";s:31:"1809 El Camino Real, Burlingame";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.594418";s:3:"lon";s:11:"-122.383973";s:9:"neighbour";s:10:"Burlingame";}

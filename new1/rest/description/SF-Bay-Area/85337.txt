@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:71:"http://www.urbanspoon.com/r/6/85337/restaurant/Jack-in-the-Box-Campbell";s:4:"name";s:15:"Jack in the Box";s:2:"id";s:5:"85337";s:4:"info";s:114:"Fast Food, Burgers and Sandwiches/Subs - <br />
-                <br />
-                  1301 Camden Ave, Campbell";s:5:"info2";s:38:"Fast Food, Burgers and Sandwiches/Subs";s:7:"address";s:25:"1301 Camden Ave, Campbell";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.269089";s:3:"lon";s:11:"-121.944977";s:9:"neighbour";s:8:"Campbell";}

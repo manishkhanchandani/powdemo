@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:67:"http://www.urbanspoon.com/r/6/1348963/restaurant/Bistro-1491-Albany";s:4:"name";s:11:"Bistro 1491";s:2:"id";s:7:"1348963";s:4:"info";s:103:"American and Breakfast/Brunch - <br />
-                <br />
-                  1491 Solano Ave, Albany";s:5:"info2";s:29:"American and Breakfast/Brunch";s:7:"address";s:23:"1491 Solano Ave, Albany";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.891003";s:3:"lon";s:11:"-122.288081";s:9:"neighbour";s:6:"Albany";}

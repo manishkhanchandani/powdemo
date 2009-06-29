@@ -1,1 +1,0 @@
-a:9:{s:3:"url";s:70:"http://www.urbanspoon.com/r/6/1212189/restaurant/Spankys-Castro-Valley";s:4:"name";s:8:"Spanky's";s:2:"id";s:7:"1212189";s:4:"info";s:29:"20812 Baker Rd, Castro Valley";s:7:"address";s:29:"20812 Baker Rd, Castro Valley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"37.6943";s:3:"lon";s:9:"-122.0836";s:9:"neighbour";s:13:"Castro Valley";}

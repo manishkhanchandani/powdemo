@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:86:"http://www.urbanspoon.com/r/6/82574/restaurant/Daly-City/Claddagh-Coffee-San-Francisco";s:4:"name";s:15:"Claddagh Coffee";s:2:"id";s:5:"82574";s:4:"info";s:86:"Coffee - <br />
-                <br />
-                  951 Geneva Ave, San Francisco";s:5:"info2";s:6:"Coffee";s:7:"address";s:29:"951 Geneva Ave, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.716143";s:3:"lon";s:10:"-122.43996";s:9:"neighbour";s:9:"Daly City";}

@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:73:"http://www.urbanspoon.com/r/6/88104/restaurant/New-China-Express-Berkeley";s:4:"name";s:17:"New China Express";s:2:"id";s:5:"88104";s:4:"info";s:85:"Chinese - <br />
-                <br />
-                  2024 Shattuck Ave, Berkeley";s:5:"info2";s:7:"Chinese";s:7:"address";s:27:"2024 Shattuck Ave, Berkeley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.871798";s:3:"lon";s:10:"-122.26854";s:9:"neighbour";s:8:"Berkeley";}

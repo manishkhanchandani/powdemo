@@ -1,1 +1,0 @@
-a:9:{s:3:"url";s:81:"http://www.urbanspoon.com/r/6/91586/restaurant/Daly-City/Super-Star-San-Francisco";s:4:"name";s:10:"Super Star";s:2:"id";s:5:"91586";s:4:"info";s:30:"4919 Mission St, San Francisco";s:7:"address";s:30:"4919 Mission St, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.719653";s:3:"lon";s:11:"-122.438509";s:9:"neighbour";s:9:"Daly City";}

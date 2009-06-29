@@ -1,1 +1,0 @@
-a:9:{s:3:"url";s:74:"http://www.urbanspoon.com/r/6/764169/restaurant/Antioch/La-Costa-Pittsburg";s:4:"name";s:8:"La Costa";s:2:"id";s:6:"764169";s:4:"info";s:30:"2420 Willow Pass Rd, Pittsburg";s:7:"address";s:30:"2420 Willow Pass Rd, Pittsburg";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"38.026931";s:3:"lon";s:10:"-121.93674";s:9:"neighbour";s:7:"Antioch";}

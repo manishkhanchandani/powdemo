@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:81:"http://www.urbanspoon.com/r/6/1212354/restaurant/Cinco-DE-Mayo-Taqueria-Fairfield";s:4:"name";s:22:"Cinco DE Mayo Taqueria";s:2:"id";s:7:"1212354";s:4:"info";s:92:"Tacos and Mexican - <br />
-                <br />
-                  628 Parker Rd, Fairfield";s:5:"info2";s:17:"Tacos and Mexican";s:7:"address";s:24:"628 Parker Rd, Fairfield";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"38.2723";s:3:"lon";s:9:"-121.9564";s:9:"neighbour";s:9:"Fairfield";}

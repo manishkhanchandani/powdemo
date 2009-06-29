@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:77:"http://www.urbanspoon.com/r/6/82641/restaurant/Coffee-Dealers-Retail-Berkeley";s:4:"name";s:21:"Coffee Dealers Retail";s:2:"id";s:5:"82641";s:4:"info";s:85:"Coffee - <br />
-                <br />
-                  2500 San Pablo Ave, Berkeley";s:5:"info2";s:6:"Coffee";s:7:"address";s:28:"2500 San Pablo Ave, Berkeley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.860932";s:3:"lon";s:11:"-122.289723";s:9:"neighbour";s:8:"Berkeley";}

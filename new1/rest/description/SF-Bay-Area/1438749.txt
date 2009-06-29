@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:87:"http://www.urbanspoon.com/r/6/1438749/restaurant/Antioch/Mountain-Mikes-Pizza-Brentwood";s:4:"name";s:21:"Mountain Mike's Pizza";s:2:"id";s:7:"1438749";s:4:"info";s:82:"Pizza - <br />
-                <br />
-                  1185 2nd St # M, Brentwood";s:5:"info2";s:5:"Pizza";s:7:"address";s:26:"1185 2nd St # M, Brentwood";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.937448";s:3:"lon";s:11:"-121.698724";s:9:"neighbour";s:7:"Antioch";}

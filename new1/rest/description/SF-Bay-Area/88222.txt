@@ -1,1 +1,0 @@
-a:9:{s:3:"url";s:62:"http://www.urbanspoon.com/r/6/88222/restaurant/Nibs-El-Cerrito";s:4:"name";s:4:"Nibs";s:2:"id";s:5:"88222";s:4:"info";s:31:"10841 San Pablo Ave, El Cerrito";s:7:"address";s:31:"10841 San Pablo Ave, El Cerrito";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.914713";s:3:"lon";s:11:"-122.311146";s:9:"neighbour";s:10:"El Cerrito";}

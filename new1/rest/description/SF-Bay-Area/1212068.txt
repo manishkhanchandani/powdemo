@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:82:"http://www.urbanspoon.com/r/6/1212068/restaurant/Superstop-Deli-Food-Store-Benicia";s:4:"name";s:31:"Superstop Deli &amp; Food Store";s:2:"id";s:7:"1212068";s:4:"info";s:93:"Sandwiches/Subs - <br />
-                <br />
-                  816 Southampton Rd, Benicia";s:5:"info2";s:15:"Sandwiches/Subs";s:7:"address";s:27:"816 Southampton Rd, Benicia";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"38.0669";s:3:"lon";s:9:"-122.1651";s:9:"neighbour";s:7:"Benicia";}

@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:76:"http://www.urbanspoon.com/r/6/87267/restaurant/Marina-Village-Donuts-Alameda";s:4:"name";s:21:"Marina Village Donuts";s:2:"id";s:5:"87267";s:4:"info";s:85:"Donuts - <br />
-                <br />
-                  845 Marina Vlg Pkwy, Alameda";s:5:"info2";s:6:"Donuts";s:7:"address";s:28:"845 Marina Vlg Pkwy, Alameda";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.782737";s:3:"lon";s:11:"-122.273657";s:9:"neighbour";s:7:"Alameda";}

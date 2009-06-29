@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:62:"http://www.urbanspoon.com/r/6/84839/restaurant/Ho-Ho-Cupertino";s:4:"name";s:5:"Ho Ho";s:2:"id";s:5:"84839";s:4:"info";s:85:"Asian - <br />
-                <br />
-                  20041 Bollinger Rd, Cupertino";s:5:"info2";s:5:"Asian";s:7:"address";s:29:"20041 Bollinger Rd, Cupertino";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.310111";s:3:"lon";s:11:"-122.023995";s:9:"neighbour";s:9:"Cupertino";}

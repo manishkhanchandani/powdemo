@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:76:"http://www.urbanspoon.com/r/6/764539/restaurant/Antioch/Pizza-Guys-Pittsburg";s:4:"name";s:10:"Pizza Guys";s:2:"id";s:6:"764539";s:4:"info";s:84:"Pizza - <br />
-                <br />
-                  4001 Railroad Ave, Pittsburg";s:5:"info2";s:5:"Pizza";s:7:"address";s:28:"4001 Railroad Ave, Pittsburg";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"38.001583";s:3:"lon";s:11:"-121.895032";s:9:"neighbour";s:7:"Antioch";}

@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:96:"http://www.urbanspoon.com/r/6/92854/restaurant/Bernal-Heights/Universal-Bakery-Two-San-Francisco";s:4:"name";s:20:"Universal Bakery Two";s:2:"id";s:5:"92854";s:4:"info";s:87:"Bakery - <br />
-                <br />
-                  3458 Mission St, San Francisco";s:5:"info2";s:6:"Bakery";s:7:"address";s:30:"3458 Mission St, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.741537";s:3:"lon";s:11:"-122.422717";s:9:"neighbour";s:14:"Bernal Heights";}

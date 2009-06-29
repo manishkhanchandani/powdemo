@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:72:"http://www.urbanspoon.com/r/6/1264135/restaurant/Antioch/Carls-Jr-Oakley";s:4:"name";s:10:"Carl's Jr.";s:2:"id";s:7:"1264135";s:4:"info";s:91:"Burgers and Fast Food - <br />
-                <br />
-                  915 MAIN ST, Oakley";s:5:"info2";s:21:"Burgers and Fast Food";s:7:"address";s:19:"915 MAIN ST, Oakley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"38.0053";s:3:"lon";s:9:"-121.7511";s:9:"neighbour";s:7:"Antioch";}

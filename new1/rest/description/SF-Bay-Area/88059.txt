@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:82:"http://www.urbanspoon.com/r/6/88059/restaurant/Nations-Giant-Hamburgers-El-Cerrito";s:4:"name";s:25:"Nation's Giant Hamburgers";s:2:"id";s:5:"88059";s:4:"info";s:109:"American, Hot Dogs and Burgers - <br />
-                <br />
-                  6060 Central Ave, El Cerrito";s:5:"info2";s:30:"American, Hot Dogs and Burgers";s:7:"address";s:28:"6060 Central Ave, El Cerrito";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.901854";s:3:"lon";s:11:"-122.304206";s:9:"neighbour";s:10:"El Cerrito";}

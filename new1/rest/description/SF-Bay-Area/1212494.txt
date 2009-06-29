@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:72:"http://www.urbanspoon.com/r/6/1212494/restaurant/Rockville-Inn-Fairfield";s:4:"name";s:13:"Rockville Inn";s:2:"id";s:7:"1212494";s:4:"info";s:91:"American - <br />
-                <br />
-                  4163 Suisun Valley Rd, Fairfield";s:5:"info2";s:8:"American";s:7:"address";s:32:"4163 Suisun Valley Rd, Fairfield";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"38.2452";s:3:"lon";s:9:"-122.1221";s:9:"neighbour";s:9:"Fairfield";}

@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:75:"http://www.urbanspoon.com/r/6/83305/restaurant/Doyle-Street-Cafe-Emeryville";s:4:"name";s:17:"Doyle Street Cafe";s:2:"id";s:5:"83305";s:4:"info";s:102:"Coffee, American and Diner - <br />
-                <br />
-                  5515 Doyle St, Emeryville";s:5:"info2";s:26:"Coffee, American and Diner";s:7:"address";s:25:"5515 Doyle St, Emeryville";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.837785";s:3:"lon";s:11:"-122.286872";s:9:"neighbour";s:10:"Emeryville";}

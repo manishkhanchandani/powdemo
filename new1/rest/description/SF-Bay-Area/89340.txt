@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:90:"http://www.urbanspoon.com/r/6/89340/restaurant/Civic-Center/Pizzeria-Supremo-San-Francisco";s:4:"name";s:16:"Pizzeria Supremo";s:2:"id";s:5:"89340";s:4:"info";s:86:"Pizza - <br />
-                <br />
-                  491 Ofarrell St, San Francisco";s:5:"info2";s:5:"Pizza";s:7:"address";s:30:"491 Ofarrell St, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.785692";s:3:"lon";s:11:"-122.412725";s:9:"neighbour";s:12:"Civic Center";}

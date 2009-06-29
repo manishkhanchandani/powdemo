@@ -1,1 +1,0 @@
-a:9:{s:3:"url";s:70:"http://www.urbanspoon.com/r/6/81274/restaurant/Bread-of-Life-Cupertino";s:4:"name";s:13:"Bread of Life";s:2:"id";s:5:"81274";s:4:"info";s:35:"20830 Stevens Creek Blvd, Cupertino";s:7:"address";s:35:"20830 Stevens Creek Blvd, Cupertino";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.322663";s:3:"lon";s:11:"-122.038498";s:9:"neighbour";s:9:"Cupertino";}

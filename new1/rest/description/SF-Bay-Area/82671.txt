@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:101:"http://www.urbanspoon.com/r/6/82671/restaurant/Civic-Center/Cold-Mine-Creamery-Smoothie-San-Francisco";s:4:"name";s:33:"Cold Mine Creamery &amp; Smoothie";s:2:"id";s:5:"82671";s:4:"info";s:95:"Desserts/Ice Cream - <br />
-                <br />
-                  101 Hyde St, San Francisco";s:5:"info2";s:18:"Desserts/Ice Cream";s:7:"address";s:26:"101 Hyde St, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:8:"37.78182";s:3:"lon";s:9:"-122.4157";s:9:"neighbour";s:12:"Civic Center";}

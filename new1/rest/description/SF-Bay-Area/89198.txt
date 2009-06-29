@@ -1,1 +1,0 @@
-a:9:{s:3:"url";s:70:"http://www.urbanspoon.com/r/6/89198/restaurant/Pilgrim-Kitchen-Belmont";s:4:"name";s:15:"Pilgrim Kitchen";s:2:"id";s:5:"89198";s:4:"info";s:27:"311 El Camino Real, Belmont";s:7:"address";s:27:"311 El Camino Real, Belmont";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.528254";s:3:"lon";s:11:"-122.285549";s:9:"neighbour";s:7:"Belmont";}

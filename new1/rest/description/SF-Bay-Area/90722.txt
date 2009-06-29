@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:70:"http://www.urbanspoon.com/r/6/90722/restaurant/Daly-City/Sizzler-Colma";s:4:"name";s:7:"Sizzler";s:2:"id";s:5:"90722";s:4:"info";s:105:"Steakhouse and American - <br />
-                <br />
-                  5025 Junipero Serra Blvd, Colma";s:5:"info2";s:23:"Steakhouse and American";s:7:"address";s:31:"5025 Junipero Serra Blvd, Colma";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.672455";s:3:"lon";s:11:"-122.465656";s:9:"neighbour";s:9:"Daly City";}

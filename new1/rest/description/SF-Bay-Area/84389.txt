@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:87:"http://www.urbanspoon.com/r/6/84389/restaurant/El-Cerrito/Goldilocks-Bake-Shop-Richmond";s:4:"name";s:20:"Goldilocks Bake Shop";s:2:"id";s:5:"84389";s:4:"info";s:81:"Bakery - <br />
-                <br />
-                  3254 Pierce St, Richmond";s:5:"info2";s:6:"Bakery";s:7:"address";s:24:"3254 Pierce St, Richmond";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.898738";s:3:"lon";s:11:"-122.309032";s:9:"neighbour";s:10:"El Cerrito";}

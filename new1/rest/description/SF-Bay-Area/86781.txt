@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:91:"http://www.urbanspoon.com/r/6/86781/restaurant/Daly-City/Little-Joes-Pizzeria-San-Francisco";s:4:"name";s:21:"Little Joe's Pizzeria";s:2:"id";s:5:"86781";s:4:"info";s:98:"Pizza and Italian - <br />
-                <br />
-                  5006 Mission St, San Francisco";s:5:"info2";s:17:"Pizza and Italian";s:7:"address";s:30:"5006 Mission St, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.718385";s:3:"lon";s:11:"-122.439786";s:9:"neighbour";s:9:"Daly City";}

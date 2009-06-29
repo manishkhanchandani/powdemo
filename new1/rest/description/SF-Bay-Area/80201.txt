@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:67:"http://www.urbanspoon.com/r/6/80201/restaurant/Alberts-Cafe-Alameda";s:4:"name";s:13:"Albert's Cafe";s:2:"id";s:5:"80201";s:4:"info";s:92:"Burgers and Diner - <br />
-                <br />
-                  1541 Webster St, Alameda";s:5:"info2";s:17:"Burgers and Diner";s:7:"address";s:24:"1541 Webster St, Alameda";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.774489";s:3:"lon";s:11:"-122.276944";s:9:"neighbour";s:7:"Alameda";}

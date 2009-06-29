@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:67:"http://www.urbanspoon.com/r/6/91108/restaurant/Starbucks-El-Cerrito";s:4:"name";s:9:"Starbucks";s:2:"id";s:5:"91108";s:4:"info";s:88:"Coffee - <br />
-                <br />
-                  3090 El Cerrito Plz, El Cerrito";s:5:"info2";s:6:"Coffee";s:7:"address";s:31:"3090 El Cerrito Plz, El Cerrito";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.899022";s:3:"lon";s:11:"-122.301337";s:9:"neighbour";s:10:"El Cerrito";}

@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:63:"http://www.urbanspoon.com/r/6/1413922/restaurant/Sahara-Benicia";s:4:"name";s:6:"Sahara";s:2:"id";s:7:"1413922";s:4:"info";s:90:"Middle Eastern - <br />
-                <br />
-                  907 First Street, Benicia";s:5:"info2";s:14:"Middle Eastern";s:7:"address";s:25:"907 First Street, Benicia";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"38.051571";s:3:"lon";s:11:"-122.157447";s:9:"neighbour";s:7:"Benicia";}

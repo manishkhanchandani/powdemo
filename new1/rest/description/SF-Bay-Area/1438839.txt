@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:80:"http://www.urbanspoon.com/r/6/1438839/restaurant/Antioch/Designer-Dogs-Brentwood";s:4:"name";s:13:"Designer Dogs";s:2:"id";s:7:"1438839";s:4:"info";s:110:"Hot Dogs and Soups - <br />
-                <br />
-                  6630 Brentwood Blvd, Brentwood, Brentwood";s:5:"info2";s:18:"Hot Dogs and Soups";s:7:"address";s:41:"6630 Brentwood Blvd, Brentwood, Brentwood";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:8:"37.95953";s:3:"lon";s:11:"-121.695941";s:9:"neighbour";s:7:"Antioch";}

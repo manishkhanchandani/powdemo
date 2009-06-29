@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:83:"http://www.urbanspoon.com/r/6/84212/restaurant/General-Business-Legal-Rfrrl-Alameda";s:4:"name";s:28:"General Business Legal Rfrrl";s:2:"id";s:5:"84212";s:4:"info";s:91:"Sandwiches/Subs - <br />
-                <br />
-                  1102 Lincoln Ave, Alameda";s:5:"info2";s:15:"Sandwiches/Subs";s:7:"address";s:25:"1102 Lincoln Ave, Alameda";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.774749";s:3:"lon";s:11:"-122.265623";s:9:"neighbour";s:7:"Alameda";}

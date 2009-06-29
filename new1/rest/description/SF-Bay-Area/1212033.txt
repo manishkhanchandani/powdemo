@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:83:"http://www.urbanspoon.com/r/6/1212033/restaurant/Lai-Wah-Chinese-Restaurant-Benicia";s:4:"name";s:26:"Lai Wah Chinese Restaurant";s:2:"id";s:7:"1212033";s:4:"info";s:88:"Chinese - <br />
-                <br />
-                  2040 Columbus Parkway, Benicia";s:5:"info2";s:7:"Chinese";s:7:"address";s:30:"2040 Columbus Parkway, Benicia";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"38.0786";s:3:"lon";s:9:"-122.1493";s:9:"neighbour";s:7:"Benicia";}

@@ -1,1 +1,0 @@
-a:9:{s:3:"url";s:77:"http://www.urbanspoon.com/r/6/83763/restaurant/Daly-City/Family-San-Francisco";s:4:"name";s:6:"Family";s:2:"id";s:5:"83763";s:4:"info";s:30:"295 Orizaba Ave, San Francisco";s:7:"address";s:30:"295 Orizaba Ave, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.714158";s:3:"lon";s:11:"-122.462772";s:9:"neighbour";s:9:"Daly City";}

@@ -1,1 +1,0 @@
-a:9:{s:3:"url";s:68:"http://www.urbanspoon.com/r/6/1212279/restaurant/19-Broadway-Fairfax";s:4:"name";s:11:"19 Broadway";s:2:"id";s:7:"1212279";s:4:"info";s:20:"19 Broadway, Fairfax";s:7:"address";s:20:"19 Broadway, Fairfax";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"37.9869";s:3:"lon";s:9:"-122.5874";s:9:"neighbour";s:7:"Fairfax";}

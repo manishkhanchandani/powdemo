@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:85:"http://www.urbanspoon.com/r/6/1212378/restaurant/Dynasty-Chinese-Restaurant-Fairfield";s:4:"name";s:26:"Dynasty Chinese Restaurant";s:2:"id";s:7:"1212378";s:4:"info";s:92:"Chinese - <br />
-                <br />
-                  2401 Waterman Blvd # BI, Fairfield";s:5:"info2";s:7:"Chinese";s:7:"address";s:34:"2401 Waterman Blvd # BI, Fairfield";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"38.2731";s:3:"lon";s:9:"-122.0526";s:9:"neighbour";s:9:"Fairfield";}

@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:84:"http://www.urbanspoon.com/r/6/88893/restaurant/Daly-City/Patio-Espanol-San-Francisco";s:4:"name";s:13:"Patio Espanol";s:2:"id";s:5:"88893";s:4:"info";s:100:"Tapas and Spanish - <br />
-                <br />
-                  2850 Alemany Blvd, San Francisco";s:5:"info2";s:17:"Tapas and Spanish";s:7:"address";s:32:"2850 Alemany Blvd, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.712756";s:3:"lon";s:11:"-122.451377";s:9:"neighbour";s:9:"Daly City";}

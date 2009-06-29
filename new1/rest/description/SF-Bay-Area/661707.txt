@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:70:"http://www.urbanspoon.com/r/6/661707/restaurant/Akasaka-Sushi-Berkeley";s:4:"name";s:13:"Akasaka Sushi";s:2:"id";s:6:"661707";s:4:"info";s:84:"Sushi - <br />
-                <br />
-                  2650 Telegraph Ave, Berkeley";s:5:"info2";s:5:"Sushi";s:7:"address";s:28:"2650 Telegraph Ave, Berkeley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:6:"37.862";s:3:"lon";s:8:"-122.259";s:9:"neighbour";s:8:"Berkeley";}

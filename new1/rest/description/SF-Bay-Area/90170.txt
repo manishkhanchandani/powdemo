@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:73:"http://www.urbanspoon.com/r/6/90170/restaurant/Russian-Cafe-Deli-Campbell";s:4:"name";s:23:"Russian Cafe &amp; Deli";s:2:"id";s:5:"90170";s:4:"info";s:96:"Sandwiches/Subs - <br />
-                <br />
-                  1712 Winchester Blvd, Campbell";s:5:"info2";s:15:"Sandwiches/Subs";s:7:"address";s:30:"1712 Winchester Blvd, Campbell";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.292724";s:3:"lon";s:11:"-121.949726";s:9:"neighbour";s:8:"Campbell";}

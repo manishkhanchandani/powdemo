@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:77:"http://www.urbanspoon.com/r/6/1411752/restaurant/Jacs-Asian-Bistro-El-Cerrito";s:4:"name";s:18:"Jac's Asian Bistro";s:2:"id";s:7:"1411752";s:4:"info";s:89:"Chinese - <br />
-                <br />
-                  10166 San Pablo Ave, El Cerrito";s:5:"info2";s:7:"Chinese";s:7:"address";s:31:"10166 San Pablo Ave, El Cerrito";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.903512";s:3:"lon";s:11:"-122.303799";s:9:"neighbour";s:10:"El Cerrito";}

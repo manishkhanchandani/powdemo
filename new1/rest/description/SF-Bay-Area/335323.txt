@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:79:"http://www.urbanspoon.com/r/6/335323/restaurant/Castro/Brandy-Hos-San-Francisco";s:4:"name";s:11:"Brandy Ho's";s:2:"id";s:6:"335323";s:4:"info";s:85:"Chinese - <br />
-                <br />
-                  4068 18th St, San Francisco";s:5:"info2";s:7:"Chinese";s:7:"address";s:27:"4068 18th St, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.761061";s:3:"lon";s:10:"-122.43432";s:9:"neighbour";s:6:"Castro";}

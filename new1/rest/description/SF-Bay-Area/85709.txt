@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:68:"http://www.urbanspoon.com/r/6/85709/restaurant/Juice-Appeal-Berkeley";s:4:"name";s:12:"Juice Appeal";s:2:"id";s:5:"85709";s:4:"info";s:85:"Smoothies - <br />
-                <br />
-                  150 Berkeley Sq, Berkeley";s:5:"info2";s:9:"Smoothies";s:7:"address";s:25:"150 Berkeley Sq, Berkeley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.870762";s:3:"lon";s:10:"-122.26791";s:9:"neighbour";s:8:"Berkeley";}

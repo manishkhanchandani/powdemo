@@ -1,1 +1,0 @@
-a:9:{s:3:"url";s:81:"http://www.urbanspoon.com/r/6/88369/restaurant/Civic-Center/OLala-1-San-Francisco";s:4:"name";s:8:"O'Lala 1";s:2:"id";s:5:"88369";s:4:"info";s:28:"785 Market St, San Francisco";s:7:"address";s:28:"785 Market St, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.786607";s:3:"lon";s:11:"-122.404591";s:9:"neighbour";s:12:"Civic Center";}

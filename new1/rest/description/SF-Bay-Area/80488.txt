@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:91:"http://www.urbanspoon.com/r/6/80488/restaurant/Bayview/Armaninos-Delicatessen-San-Francisco";s:4:"name";s:23:"Armanino's Delicatessen";s:2:"id";s:5:"80488";s:4:"info";s:99:"Sandwiches/Subs - <br />
-                <br />
-                  2599 San Bruno Ave, San Francisco";s:5:"info2";s:15:"Sandwiches/Subs";s:7:"address";s:33:"2599 San Bruno Ave, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.728973";s:3:"lon";s:11:"-122.403988";s:9:"neighbour";s:7:"Bayview";}

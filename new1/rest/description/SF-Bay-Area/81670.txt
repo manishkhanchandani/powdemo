@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:88:"http://www.urbanspoon.com/r/6/81670/restaurant/Civic-Center/Cafe-Madeleine-San-Francisco";s:4:"name";s:14:"Cafe Madeleine";s:2:"id";s:5:"81670";s:4:"info";s:114:"French, Soups and Sandwiches/Subs - <br />
-                <br />
-                  43 O'Farrell St, San Francisco";s:5:"info2";s:33:"French, Soups and Sandwiches/Subs";s:7:"address";s:30:"43 O'Farrell St, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.786822";s:3:"lon";s:11:"-122.405247";s:9:"neighbour";s:12:"Civic Center";}

@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:83:"http://www.urbanspoon.com/r/6/86828/restaurant/Lococos-Restaurant-Pizzaria-Berkeley";s:4:"name";s:34:"Lococo's Restaurant &amp; Pizzaria";s:2:"id";s:5:"86828";s:4:"info";s:95:"Pizza and Italian - <br />
-                <br />
-                  1400 Shattuck Ave, Berkeley";s:5:"info2";s:17:"Pizza and Italian";s:7:"address";s:27:"1400 Shattuck Ave, Berkeley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.881952";s:3:"lon";s:11:"-122.269773";s:9:"neighbour";s:8:"Berkeley";}

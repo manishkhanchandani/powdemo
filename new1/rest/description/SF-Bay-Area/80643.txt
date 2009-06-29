@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:90:"http://www.urbanspoon.com/r/6/80643/restaurant/Civic-Center/Baguette-Express-San-Francisco";s:4:"name";s:16:"Baguette Express";s:2:"id";s:5:"80643";s:4:"info";s:84:"Soups - <br />
-                <br />
-                  668 Larkin St, San Francisco";s:5:"info2";s:5:"Soups";s:7:"address";s:28:"668 Larkin St, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.784086";s:3:"lon";s:10:"-122.41748";s:9:"neighbour";s:12:"Civic Center";}

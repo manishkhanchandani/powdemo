@@ -1,1 +1,0 @@
-a:9:{s:3:"url";s:73:"http://www.urbanspoon.com/r/6/661878/restaurant/Cocina-Poblana-Emeryville";s:4:"name";s:14:"Cocina Poblana";s:2:"id";s:6:"661878";s:4:"info";s:24:"1320 65th St, Emeryville";s:7:"address";s:24:"1320 65th St, Emeryville";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"37.8471";s:3:"lon";s:9:"-122.2904";s:9:"neighbour";s:10:"Emeryville";}

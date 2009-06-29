@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:88:"http://www.urbanspoon.com/r/6/86983/restaurant/Daly-City/Lucky-Ocean-Donut-San-Francisco";s:4:"name";s:17:"Lucky Ocean Donut";s:2:"id";s:5:"86983";s:4:"info";s:98:"Donuts and Seafood - <br />
-                <br />
-                  1501 Ocean Ave, San Francisco";s:5:"info2";s:18:"Donuts and Seafood";s:7:"address";s:29:"1501 Ocean Ave, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"37.7242";s:3:"lon";s:11:"-122.458414";s:9:"neighbour";s:9:"Daly City";}

@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:70:"http://www.urbanspoon.com/r/6/80713/restaurant/Banana-Island-Daly-City";s:4:"name";s:13:"Banana Island";s:2:"id";s:5:"80713";s:4:"info";s:100:"Malaysian and Thai - <br />
-                <br />
-                  311 Lake Merced Blvd, Daly City";s:5:"info2";s:18:"Malaysian and Thai";s:7:"address";s:31:"311 Lake Merced Blvd, Daly City";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.699164";s:3:"lon";s:11:"-122.483591";s:9:"neighbour";s:9:"Daly City";}

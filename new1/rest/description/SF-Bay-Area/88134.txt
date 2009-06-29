@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:85:"http://www.urbanspoon.com/r/6/88134/restaurant/Alameda-SJ/New-Jewel-of-India-San-Jose";s:4:"name";s:18:"New Jewel of India";s:2:"id";s:5:"88134";s:4:"info";s:82:"Indian - <br />
-                <br />
-                  1576 Branham Ln, San Jose";s:5:"info2";s:6:"Indian";s:7:"address";s:25:"1576 Branham Ln, San Jose";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:8:"37.25358";s:3:"lon";s:10:"-121.90155";s:9:"neighbour";s:12:"Alameda (SJ)";}

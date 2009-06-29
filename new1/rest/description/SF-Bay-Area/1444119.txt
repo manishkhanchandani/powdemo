@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:78:"http://www.urbanspoon.com/r/6/1444119/restaurant/Mi-Casa-El-Zocalito-Daly-City";s:4:"name";s:19:"Mi Casa El Zocalito";s:2:"id";s:7:"1444119";s:4:"info";s:95:"Latin American - <br />
-                <br />
-                  5997 Mission Streer, Daly City";s:5:"info2";s:14:"Latin American";s:7:"address";s:30:"5997 Mission Streer, Daly City";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.707861";s:3:"lon";s:11:"-122.455148";s:9:"neighbour";s:9:"Daly City";}

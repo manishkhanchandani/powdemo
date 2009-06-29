@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:81:"http://www.urbanspoon.com/r/6/81875/restaurant/California-Cheese-Pasta-Emeryville";s:4:"name";s:29:"California Cheese &amp; Pasta";s:2:"id";s:5:"81875";s:4:"info";s:96:"Sandwiches/Subs - <br />
-                <br />
-                  5959 Shellmound St, Emeryville";s:5:"info2";s:15:"Sandwiches/Subs";s:7:"address";s:30:"5959 Shellmound St, Emeryville";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.841782";s:3:"lon";s:11:"-122.293248";s:9:"neighbour";s:10:"Emeryville";}

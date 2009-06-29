@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:66:"http://www.urbanspoon.com/r/6/81374/restaurant/Burger-Depot-Albany";s:4:"name";s:12:"Burger Depot";s:2:"id";s:5:"81374";s:4:"info";s:81:"Burgers - <br />
-                <br />
-                  1116 Solano Ave, Albany";s:5:"info2";s:7:"Burgers";s:7:"address";s:23:"1116 Solano Ave, Albany";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.890163";s:3:"lon";s:11:"-122.298438";s:9:"neighbour";s:6:"Albany";}

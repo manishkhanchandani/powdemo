@@ -1,1 +1,0 @@
-a:9:{s:3:"url";s:72:"http://www.urbanspoon.com/r/6/1212286/restaurant/Deer-Park-Villa-Fairfax";s:4:"name";s:15:"Deer Park Villa";s:2:"id";s:7:"1212286";s:4:"info";s:23:"367 Bolinas Rd, Fairfax";s:7:"address";s:23:"367 Bolinas Rd, Fairfax";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"37.9801";s:3:"lon";s:9:"-122.5937";s:9:"neighbour";s:7:"Fairfax";}

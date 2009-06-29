@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:70:"http://www.urbanspoon.com/r/6/1454303/restaurant/Cinco-De-Mayo-Clayton";s:4:"name";s:13:"Cinco De Mayo";s:2:"id";s:7:"1454303";s:4:"info";s:82:"Mexican - <br />
-                <br />
-                  5415 Clayton rd, Clayton";s:5:"info2";s:7:"Mexican";s:7:"address";s:24:"5415 Clayton rd, Clayton";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.952014";s:3:"lon";s:11:"-121.956544";s:9:"neighbour";s:12:"Clayton, CA,";}

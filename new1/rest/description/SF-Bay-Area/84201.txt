@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:82:"http://www.urbanspoon.com/r/6/84201/restaurant/Castro/Gelateria-Naia-San-Francisco";s:4:"name";s:14:"Gelateria Naia";s:2:"id";s:5:"84201";s:4:"info";s:97:"Desserts/Ice Cream - <br />
-                <br />
-                  451 Castro St, San Francisco";s:5:"info2";s:18:"Desserts/Ice Cream";s:7:"address";s:28:"451 Castro St, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.761743";s:3:"lon";s:11:"-122.434923";s:9:"neighbour";s:6:"Castro";}

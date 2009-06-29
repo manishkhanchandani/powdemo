@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:85:"http://www.urbanspoon.com/r/6/1212041/restaurant/Nuevo-Sandovals-Mexican-Food-Benicia";s:4:"name";s:29:"Nuevo Sandoval's Mexican Food";s:2:"id";s:7:"1212041";s:4:"info";s:77:"Mexican - <br />
-                <br />
-                  640 1st St, Benicia";s:5:"info2";s:7:"Mexican";s:7:"address";s:19:"640 1st St, Benicia";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"38.0492";s:3:"lon";s:9:"-122.1588";s:9:"neighbour";s:7:"Benicia";}

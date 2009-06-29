@@ -1,1 +1,0 @@
-a:9:{s:3:"url";s:68:"http://www.urbanspoon.com/r/6/88070/restaurant/Nefeli-Caffe-Berkeley";s:4:"name";s:12:"Nefeli Caffe";s:2:"id";s:5:"88070";s:4:"info";s:25:"1854 Euclid Ave, Berkeley";s:7:"address";s:25:"1854 Euclid Ave, Berkeley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.875498";s:3:"lon";s:11:"-122.260363";s:9:"neighbour";s:8:"Berkeley";}

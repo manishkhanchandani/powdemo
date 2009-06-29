@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:83:"http://www.urbanspoon.com/r/6/1413309/restaurant/Antioch/Roundtable-Pizza-Brentwood";s:4:"name";s:16:"Roundtable Pizza";s:2:"id";s:7:"1413309";s:4:"info";s:87:"Pizza - <br />
-                <br />
-                  2540 Sand Creek Road, Brentwood";s:5:"info2";s:5:"Pizza";s:7:"address";s:31:"2540 Sand Creek Road, Brentwood";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:8:"37.94336";s:3:"lon";s:11:"-121.738732";s:9:"neighbour";s:7:"Antioch";}

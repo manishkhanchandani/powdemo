@@ -1,1 +1,0 @@
-a:9:{s:3:"url";s:76:"http://www.urbanspoon.com/r/6/764689/restaurant/Sn-Dragon-Restaurant-Antioch";s:4:"name";s:20:"Sn Dragon Restaurant";s:2:"id";s:6:"764689";s:4:"info";s:24:"1611 A St Ste A, Antioch";s:7:"address";s:24:"1611 A St Ste A, Antioch";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"38.006245";s:3:"lon";s:11:"-121.805866";s:9:"neighbour";s:7:"Antioch";}

@@ -1,1 +1,0 @@
-a:9:{s:3:"url";s:80:"http://www.urbanspoon.com/r/6/86683/restaurant/Bayview/Lido-Pastry-San-Francisco";s:4:"name";s:11:"Lido Pastry";s:2:"id";s:5:"86683";s:4:"info";s:33:"2684 San Bruno Ave, San Francisco";s:7:"address";s:33:"2684 San Bruno Ave, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:8:"37.72783";s:3:"lon";s:11:"-122.403877";s:9:"neighbour";s:7:"Bayview";}

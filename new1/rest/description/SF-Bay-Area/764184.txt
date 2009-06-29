@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:83:"http://www.urbanspoon.com/r/6/764184/restaurant/La-Plaza-Mexican-Restaurant-Antioch";s:4:"name";s:27:"La Plaza Mexican Restaurant";s:2:"id";s:6:"764184";s:4:"info";s:83:"Mexican - <br />
-                <br />
-                  2370 Buchanan Rd, Antioch";s:5:"info2";s:7:"Mexican";s:7:"address";s:25:"2370 Buchanan Rd, Antioch";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.998499";s:3:"lon";s:11:"-121.841173";s:9:"neighbour";s:7:"Antioch";}

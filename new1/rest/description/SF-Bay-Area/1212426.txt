@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:80:"http://www.urbanspoon.com/r/6/1212426/restaurant/L-L-Hawaiian-Barbecue-Fairfield";s:4:"name";s:27:"L &amp; L Hawaiian Barbecue";s:2:"id";s:7:"1212426";s:4:"info";s:118:"Hawaiian, Barbecue and Asian - <br />
-                <br />
-                  5121 Business Ctr Dr Ste 106, Fairfield";s:5:"info2";s:28:"Hawaiian, Barbecue and Asian";s:7:"address";s:39:"5121 Business Ctr Dr Ste 106, Fairfield";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"38.2161";s:3:"lon";s:8:"-122.144";s:9:"neighbour";s:9:"Fairfield";}

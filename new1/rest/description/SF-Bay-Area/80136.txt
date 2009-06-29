@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:62:"http://www.urbanspoon.com/r/6/80136/restaurant/Adagia-Berkeley";s:4:"name";s:6:"Adagia";s:2:"id";s:5:"80136";s:4:"info";s:113:"California, Mediterranean and Greek - <br />
-                <br />
-                  2700 Bancroft Way, Berkeley";s:5:"info2";s:35:"California, Mediterranean and Greek";s:7:"address";s:27:"2700 Bancroft Way, Berkeley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.869283";s:3:"lon";s:11:"-122.253903";s:9:"neighbour";s:8:"Berkeley";}

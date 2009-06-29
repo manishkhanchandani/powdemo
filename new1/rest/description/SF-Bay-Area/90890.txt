@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:87:"http://www.urbanspoon.com/r/6/90890/restaurant/Castro/Spikes-Coffees-Teas-San-Francisco";s:4:"name";s:26:"Spike's Coffees &amp; Teas";s:2:"id";s:5:"90890";s:4:"info";s:84:"Coffee - <br />
-                <br />
-                  4117 19th St, San Francisco";s:5:"info2";s:6:"Coffee";s:7:"address";s:27:"4117 19th St, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.759163";s:3:"lon";s:11:"-122.435201";s:9:"neighbour";s:6:"Castro";}

@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:91:"http://www.urbanspoon.com/r/6/88256/restaurant/Ninos-Pizzeria-Brazilian-Restaurant-Berkeley";s:4:"name";s:42:"Nino's Pizzeria &amp; Brazilian Restaurant";s:2:"id";s:5:"88256";s:4:"info";s:119:"Brazilian, Pizza and Italian - <br />
-                <br />
-                  1916 Martin Luther King Jr Way, Berkeley";s:5:"info2";s:28:"Brazilian, Pizza and Italian";s:7:"address";s:40:"1916 Martin Luther King Jr Way, Berkeley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.872828";s:3:"lon";s:11:"-122.273314";s:9:"neighbour";s:8:"Berkeley";}

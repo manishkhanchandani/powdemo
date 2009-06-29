@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:88:"http://www.urbanspoon.com/r/6/83812/restaurant/Fat-Apples-Restaurant-and-Bakery-Berkeley";s:4:"name";s:33:"Fat Apple's Restaurant and Bakery";s:2:"id";s:5:"83812";s:4:"info";s:127:"American, Breakfast/Brunch and Diner - <br />
-                <br />
-                  1346 Martin Luther King Jr Way, Berkeley";s:5:"info2";s:36:"American, Breakfast/Brunch and Diner";s:7:"address";s:40:"1346 Martin Luther King Jr Way, Berkeley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.882343";s:3:"lon";s:11:"-122.274377";s:9:"neighbour";s:8:"Berkeley";}

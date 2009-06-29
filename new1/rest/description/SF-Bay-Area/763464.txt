@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:64:"http://www.urbanspoon.com/r/6/763464/restaurant/Ane-Ioch-Antioch";s:4:"name";s:8:"Ane Ioch";s:2:"id";s:6:"763464";s:4:"info";s:84:"Italian - <br />
-                <br />
-                  3322 Hacienda Way, Antioch";s:5:"info2";s:7:"Italian";s:7:"address";s:26:"3322 Hacienda Way, Antioch";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.987637";s:3:"lon";s:11:"-121.826093";s:9:"neighbour";s:7:"Antioch";}

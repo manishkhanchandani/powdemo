@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:69:"http://www.urbanspoon.com/r/6/86839/restaurant/Loma-Produce-Daly-City";s:4:"name";s:12:"Loma Produce";s:2:"id";s:5:"86839";s:4:"info";s:92:"Sandwiches/Subs - <br />
-                <br />
-                  7369 Mission St, Daly City";s:5:"info2";s:15:"Sandwiches/Subs";s:7:"address";s:26:"7369 Mission St, Daly City";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.690312";s:3:"lon";s:11:"-122.465543";s:9:"neighbour";s:9:"Daly City";}

@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:66:"http://www.urbanspoon.com/r/6/91887/restaurant/Taco-Bell-Daly-City";s:4:"name";s:9:"Taco Bell";s:2:"id";s:5:"91887";s:4:"info";s:106:"Tacos, Fast Food and Mexican - <br />
-                <br />
-                  287 Westmoor Ave, Daly City";s:5:"info2";s:28:"Tacos, Fast Food and Mexican";s:7:"address";s:27:"287 Westmoor Ave, Daly City";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.683132";s:3:"lon";s:11:"-122.488791";s:9:"neighbour";s:9:"Daly City";}

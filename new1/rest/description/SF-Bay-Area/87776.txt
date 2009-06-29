@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:63:"http://www.urbanspoon.com/r/6/87776/restaurant/Miyake-Cupertino";s:4:"name";s:6:"Miyake";s:2:"id";s:5:"87776";s:4:"info";s:90:"Japanese - <br />
-                <br />
-                  10650 S De Anza Blvd, Cupertino";s:5:"info2";s:8:"Japanese";s:7:"address";s:31:"10650 S De Anza Blvd, Cupertino";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.313964";s:3:"lon";s:11:"-122.032026";s:9:"neighbour";s:9:"Cupertino";}

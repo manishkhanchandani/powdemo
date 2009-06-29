@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:88:"http://www.urbanspoon.com/r/6/83659/restaurant/Civic-Center/Epplers-Bakery-San-Francisco";s:4:"name";s:14:"Epplers Bakery";s:2:"id";s:5:"83659";s:4:"info";s:85:"Bakery - <br />
-                <br />
-                  758 Market St, San Francisco";s:5:"info2";s:6:"Bakery";s:7:"address";s:28:"758 Market St, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.786644";s:3:"lon";s:11:"-122.405021";s:9:"neighbour";s:12:"Civic Center";}

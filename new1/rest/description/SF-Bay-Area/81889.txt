@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:82:"http://www.urbanspoon.com/r/6/81889/restaurant/California-Pizza-Kitchen-Emeryville";s:4:"name";s:24:"California Pizza Kitchen";s:2:"id";s:5:"81889";s:4:"info";s:94:"Pizza and California - <br />
-                <br />
-                  5614 Bay St, Emeryville";s:5:"info2";s:20:"Pizza and California";s:7:"address";s:23:"5614 Bay St, Emeryville";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.834107";s:3:"lon";s:11:"-122.291969";s:9:"neighbour";s:10:"Emeryville";}

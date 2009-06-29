@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:74:"http://www.urbanspoon.com/r/6/762935/restaurant/Hawaiian-Drive-Inn-Alameda";s:4:"name";s:18:"Hawaiian Drive-Inn";s:2:"id";s:6:"762935";s:4:"info";s:84:"Hawaiian - <br />
-                <br />
-                  2306 Encinal Ave, Alameda";s:5:"info2";s:8:"Hawaiian";s:7:"address";s:25:"2306 Encinal Ave, Alameda";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.762853";s:3:"lon";s:11:"-122.245237";s:9:"neighbour";s:7:"Alameda";}

@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:66:"http://www.urbanspoon.com/r/6/80280/restaurant/Amarin-Thai-Alameda";s:4:"name";s:11:"Amarin Thai";s:2:"id";s:5:"80280";s:4:"info";s:76:"Thai - <br />
-                <br />
-                  1332 Park St, Alameda";s:5:"info2";s:4:"Thai";s:7:"address";s:21:"1332 Park St, Alameda";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:8:"37.76321";s:3:"lon";s:11:"-122.243446";s:9:"neighbour";s:7:"Alameda";}

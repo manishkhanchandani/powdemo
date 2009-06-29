@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:78:"http://www.urbanspoon.com/r/6/1212240/restaurant/Champa-Restaurant-El-Sobrante";s:4:"name";s:17:"Champa Restaurant";s:2:"id";s:7:"1212240";s:4:"info";s:89:"Thai - <br />
-                <br />
-                  3550 San Pablo Dam Rd, El Sobrante";s:5:"info2";s:4:"Thai";s:7:"address";s:34:"3550 San Pablo Dam Rd, El Sobrante";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"37.9635";s:3:"lon";s:9:"-122.3209";s:9:"neighbour";s:11:"El Sobrante";}

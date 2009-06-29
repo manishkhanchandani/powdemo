@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:86:"http://www.urbanspoon.com/r/6/764203/restaurant/Antioch/Las-Fuentes-Taqueria-Pittsburg";s:4:"name";s:20:"Las Fuentes Taqueria";s:2:"id";s:6:"764203";s:4:"info";s:86:"Mexican - <br />
-                <br />
-                  2221 Railroad Ave, Pittsburg";s:5:"info2";s:7:"Mexican";s:7:"address";s:28:"2221 Railroad Ave, Pittsburg";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:8:"38.01352";s:3:"lon";s:10:"-121.89053";s:9:"neighbour";s:7:"Antioch";}

@@ -1,1 +1,0 @@
-a:9:{s:3:"url";s:74:"http://www.urbanspoon.com/r/6/82735/restaurant/Continental-Baking-Campbell";s:4:"name";s:18:"Continental Baking";s:2:"id";s:5:"82735";s:4:"info";s:25:"210 Curtner Ave, Campbell";s:7:"address";s:25:"210 Curtner Ave, Campbell";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.272363";s:3:"lon";s:11:"-121.944834";s:9:"neighbour";s:8:"Campbell";}

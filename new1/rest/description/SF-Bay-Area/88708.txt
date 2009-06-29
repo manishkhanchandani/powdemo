@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:60:"http://www.urbanspoon.com/r/6/88708/restaurant/Panda-Alameda";s:4:"name";s:5:"Panda";s:2:"id";s:5:"88708";s:4:"info";s:79:"Chinese - <br />
-                <br />
-                  1434 Park St, Alameda";s:5:"info2";s:7:"Chinese";s:7:"address";s:21:"1434 Park St, Alameda";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.764816";s:3:"lon";s:11:"-122.242094";s:9:"neighbour";s:7:"Alameda";}

@@ -1,1 +1,0 @@
-a:9:{s:3:"url";s:79:"http://www.urbanspoon.com/r/6/82946/restaurant/Castro/Daily-Habit-San-Francisco";s:4:"name";s:11:"Daily Habit";s:2:"id";s:5:"82946";s:4:"info";s:27:"1 Merritt St, San Francisco";s:7:"address";s:27:"1 Merritt St, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.760915";s:3:"lon";s:11:"-122.443184";s:9:"neighbour";s:6:"Castro";}

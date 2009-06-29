@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:66:"http://www.urbanspoon.com/r/6/81621/restaurant/Cafe-Enrico-Alameda";s:4:"name";s:11:"Cafe Enrico";s:2:"id";s:5:"81621";s:4:"info";s:80:"Italian - <br />
-                <br />
-                  875 Island Dr, Alameda";s:5:"info2";s:7:"Italian";s:7:"address";s:22:"875 Island Dr, Alameda";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.737493";s:3:"lon";s:11:"-122.238957";s:9:"neighbour";s:7:"Alameda";}

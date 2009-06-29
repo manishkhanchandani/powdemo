@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:66:"http://www.urbanspoon.com/r/6/91055/restaurant/Starbucks-Daly-City";s:4:"name";s:9:"Starbucks";s:2:"id";s:5:"91055";s:4:"info";s:92:"Coffee - <br />
-                <br />
-                  2001 Junipero Serra Blvd, Daly City";s:5:"info2";s:6:"Coffee";s:7:"address";s:35:"2001 Junipero Serra Blvd, Daly City";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:8:"37.70174";s:3:"lon";s:11:"-122.470626";s:9:"neighbour";s:9:"Daly City";}

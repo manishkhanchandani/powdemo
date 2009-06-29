@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:85:"http://www.urbanspoon.com/r/6/1212142/restaurant/Chipotle-Mexican-Grill-Castro-Valley";s:4:"name";s:22:"Chipotle Mexican Grill";s:2:"id";s:7:"1212142";s:4:"info";s:110:"Mexican and Fast Food - <br />
-                <br />
-                  3369 Castro Valley Blvd, Castro Valley";s:5:"info2";s:21:"Mexican and Fast Food";s:7:"address";s:38:"3369 Castro Valley Blvd, Castro Valley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"37.6955";s:3:"lon";s:9:"-122.0769";s:9:"neighbour";s:13:"Castro Valley";}

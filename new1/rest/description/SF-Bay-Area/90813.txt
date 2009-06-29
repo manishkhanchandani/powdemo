@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:65:"http://www.urbanspoon.com/r/6/90813/restaurant/Sophia-Cafe-Albany";s:4:"name";s:11:"Sophia Cafe";s:2:"id";s:5:"90813";s:4:"info";s:114:"Middle Eastern, Kosher and Mediterranean - <br />
-                <br />
-                  1247 Solano Ave, Albany";s:5:"info2";s:40:"Middle Eastern, Kosher and Mediterranean";s:7:"address";s:23:"1247 Solano Ave, Albany";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.890673";s:3:"lon";s:11:"-122.294181";s:9:"neighbour";s:6:"Albany";}

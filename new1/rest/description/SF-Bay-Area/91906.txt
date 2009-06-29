@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:66:"http://www.urbanspoon.com/r/6/91906/restaurant/Taco-Bell-Daly-City";s:4:"name";s:9:"Taco Bell";s:2:"id";s:5:"91906";s:4:"info";s:106:"Tacos, Mexican and Fast Food - <br />
-                <br />
-                  5 Serramonte Ctr, Daly City";s:5:"info2";s:28:"Tacos, Mexican and Fast Food";s:7:"address";s:27:"5 Serramonte Ctr, Daly City";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.669474";s:3:"lon";s:11:"-122.466498";s:9:"neighbour";s:9:"Daly City";}

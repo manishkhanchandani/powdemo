@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:83:"http://www.urbanspoon.com/r/6/86319/restaurant/Campbell/La-Maison-Du-Cafe-Los-Gatos";s:4:"name";s:17:"La Maison Du Cafe";s:2:"id";s:5:"86319";s:4:"info";s:89:"French - <br />
-                <br />
-                  14103 Winchester Blvd, Los Gatos";s:5:"info2";s:6:"French";s:7:"address";s:32:"14103 Winchester Blvd, Los Gatos";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:8:"37.26277";s:3:"lon";s:11:"-121.961449";s:9:"neighbour";s:8:"Campbell";}

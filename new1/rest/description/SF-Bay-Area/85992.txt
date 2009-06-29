@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:65:"http://www.urbanspoon.com/r/6/85992/restaurant/Khana-Peena-Albany";s:4:"name";s:11:"Khana Peena";s:2:"id";s:5:"85992";s:4:"info";s:80:"Indian - <br />
-                <br />
-                  1889 Solano Ave, Albany";s:5:"info2";s:6:"Indian";s:7:"address";s:23:"1889 Solano Ave, Albany";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.891636";s:3:"lon";s:11:"-122.277486";s:9:"neighbour";s:6:"Albany";}

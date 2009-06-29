@@ -1,1 +1,0 @@
-a:9:{s:3:"url";s:71:"http://www.urbanspoon.com/r/6/764604/restaurant/Ricks-on-Second-Antioch";s:4:"name";s:16:"Rick's on Second";s:2:"id";s:6:"764604";s:4:"info";s:21:"619 W 2nd St, Antioch";s:7:"address";s:21:"619 W 2nd St, Antioch";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"38.016729";s:3:"lon";s:11:"-121.814079";s:9:"neighbour";s:7:"Antioch";}

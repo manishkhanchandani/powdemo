@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:75:"http://www.urbanspoon.com/r/6/82317/restaurant/Chicago-Style-Pizza-Campbell";s:4:"name";s:19:"Chicago Style Pizza";s:2:"id";s:5:"82317";s:4:"info";s:96:"Pizza and Italian - <br />
-                <br />
-                  836 W Hamilton Ave, Campbell";s:5:"info2";s:17:"Pizza and Italian";s:7:"address";s:28:"836 W Hamilton Ave, Campbell";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.294063";s:3:"lon";s:10:"-121.96419";s:9:"neighbour";s:8:"Campbell";}

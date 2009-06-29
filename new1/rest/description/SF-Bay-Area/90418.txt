@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:81:"http://www.urbanspoon.com/r/6/90418/restaurant/Sauls-Restaurant-and-Deli-Berkeley";s:4:"name";s:26:"Saul's Restaurant and Deli";s:2:"id";s:5:"90418";s:4:"info";s:116:"Vegetarian, Diner and Breakfast/Brunch - <br />
-                <br />
-                  1475 Shattuck Ave, Berkeley";s:5:"info2";s:38:"Vegetarian, Diner and Breakfast/Brunch";s:7:"address";s:27:"1475 Shattuck Ave, Berkeley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.880878";s:3:"lon";s:11:"-122.269151";s:9:"neighbour";s:8:"Berkeley";}

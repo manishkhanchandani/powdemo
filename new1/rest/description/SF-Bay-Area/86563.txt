@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:71:"http://www.urbanspoon.com/r/6/86563/restaurant/Le-Petit-Cheval-Berkeley";s:4:"name";s:15:"Le Petit Cheval";s:2:"id";s:5:"86563";s:4:"info";s:99:"French and Vietnamese - <br />
-                <br />
-                  2600 Bancroft Way, Berkeley";s:5:"info2";s:21:"French and Vietnamese";s:7:"address";s:27:"2600 Bancroft Way, Berkeley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.868887";s:3:"lon";s:11:"-122.256699";s:9:"neighbour";s:8:"Berkeley";}

@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:80:"http://www.urbanspoon.com/r/6/764040/restaurant/Hibar-Hawaiian-Bar-B-Que-Antioch";s:4:"name";s:24:"Hibar Hawaiian Bar B Que";s:2:"id";s:6:"764040";s:4:"info";s:87:"Barbecue - <br />
-                <br />
-                  3436 Deer Valley Rd, Antioch";s:5:"info2";s:8:"Barbecue";s:7:"address";s:28:"3436 Deer Valley Rd, Antioch";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.988934";s:3:"lon";s:11:"-121.785733";s:9:"neighbour";s:7:"Antioch";}

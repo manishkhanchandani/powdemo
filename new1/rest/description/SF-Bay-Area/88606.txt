@@ -1,1 +1,0 @@
-a:9:{s:3:"url";s:81:"http://www.urbanspoon.com/r/6/88606/restaurant/Civic-Center/Pacific-San-Francisco";s:4:"name";s:7:"Pacific";s:2:"id";s:5:"88606";s:4:"info";s:27:"337 Jones St, San Francisco";s:7:"address";s:27:"337 Jones St, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.784289";s:3:"lon";s:11:"-122.412851";s:9:"neighbour";s:12:"Civic Center";}

@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:73:"http://www.urbanspoon.com/r/6/764848/restaurant/Thai-Rice-Cuisine-Antioch";s:4:"name";s:17:"Thai Rice Cuisine";s:2:"id";s:6:"764848";s:4:"info";s:73:"Thai - <br />
-                <br />
-                  1884 A St, Antioch";s:5:"info2";s:4:"Thai";s:7:"address";s:18:"1884 A St, Antioch";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:8:"38.00405";s:3:"lon";s:11:"-121.806177";s:9:"neighbour";s:7:"Antioch";}

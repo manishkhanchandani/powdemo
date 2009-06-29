@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:72:"http://www.urbanspoon.com/r/6/1212194/restaurant/Starbucks-Castro-Valley";s:4:"name";s:9:"Starbucks";s:2:"id";s:7:"1212194";s:4:"info";s:95:"Coffee - <br />
-                <br />
-                  2720 Castro Valley Blvd, Castro Valley";s:5:"info2";s:6:"Coffee";s:7:"address";s:38:"2720 Castro Valley Blvd, Castro Valley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"37.6945";s:3:"lon";s:9:"-122.0862";s:9:"neighbour";s:13:"Castro Valley";}

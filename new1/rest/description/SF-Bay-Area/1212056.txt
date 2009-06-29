@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:77:"http://www.urbanspoon.com/r/6/1212056/restaurant/Sala-Thai-Restaurant-Benicia";s:4:"name";s:20:"Sala Thai Restaurant";s:2:"id";s:7:"1212056";s:4:"info";s:74:"Thai - <br />
-                <br />
-                  807 1st St, Benicia";s:5:"info2";s:4:"Thai";s:7:"address";s:19:"807 1st St, Benicia";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"38.0508";s:3:"lon";s:8:"-122.158";s:9:"neighbour";s:7:"Benicia";}

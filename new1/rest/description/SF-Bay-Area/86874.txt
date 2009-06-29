@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:79:"http://www.urbanspoon.com/r/6/86874/restaurant/Los-Cantaros-Taqueria-Emeryville";s:4:"name";s:22:"Los Cantaro's Taqueria";s:2:"id";s:5:"86874";s:4:"info";s:86:"Tacos - <br />
-                <br />
-                  5412 San Pablo Ave, Emeryville";s:5:"info2";s:5:"Tacos";s:7:"address";s:30:"5412 San Pablo Ave, Emeryville";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.837856";s:3:"lon";s:11:"-122.281848";s:9:"neighbour";s:10:"Emeryville";}

@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:63:"http://www.urbanspoon.com/r/6/87394/restaurant/McDonalds-Albany";s:4:"name";s:10:"McDonald's";s:2:"id";s:5:"87394";s:4:"info";s:108:"Fast Food, American and Burgers - <br />
-                <br />
-                  1198 San Pablo Ave, Albany";s:5:"info2";s:31:"Fast Food, American and Burgers";s:7:"address";s:26:"1198 San Pablo Ave, Albany";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.882416";s:3:"lon";s:11:"-122.296608";s:9:"neighbour";s:6:"Albany";}

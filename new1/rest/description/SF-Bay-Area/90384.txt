@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:73:"http://www.urbanspoon.com/r/6/90384/restaurant/Sapore-Italiano-Burlingame";s:4:"name";s:15:"Sapore Italiano";s:2:"id";s:5:"90384";s:4:"info";s:89:"Italian - <br />
-                <br />
-                  1447 Burlingame Ave, Burlingame";s:5:"info2";s:7:"Italian";s:7:"address";s:31:"1447 Burlingame Ave, Burlingame";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.577059";s:3:"lon";s:11:"-122.348993";s:9:"neighbour";s:10:"Burlingame";}

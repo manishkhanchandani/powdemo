@@ -1,1 +1,0 @@
-a:9:{s:3:"url";s:80:"http://www.urbanspoon.com/r/6/764337/restaurant/Antioch/Mextizos-Grill-Pittsburg";s:4:"name";s:14:"Mextizos Grill";s:2:"id";s:6:"764337";s:4:"info";s:27:"196 Atlantic Ave, Pittsburg";s:7:"address";s:27:"196 Atlantic Ave, Pittsburg";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:8:"38.00778";s:3:"lon";s:11:"-121.891515";s:9:"neighbour";s:7:"Antioch";}

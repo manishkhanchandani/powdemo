@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:62:"http://www.urbanspoon.com/r/6/90011/restaurant/Roti-Burlingame";s:4:"name";s:4:"Roti";s:2:"id";s:5:"90011";s:4:"info";s:95:"Indian and Vegetarian - <br />
-                <br />
-                  209 Park Rd, Burlingame";s:5:"info2";s:21:"Indian and Vegetarian";s:7:"address";s:23:"209 Park Rd, Burlingame";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.577277";s:3:"lon";s:11:"-122.346013";s:9:"neighbour";s:10:"Burlingame";}

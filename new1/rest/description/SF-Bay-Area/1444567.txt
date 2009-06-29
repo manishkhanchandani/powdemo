@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:79:"http://www.urbanspoon.com/r/6/1444567/restaurant/Emeryville/Yardie-Jerk-Oakland";s:4:"name";s:11:"Yardie Jerk";s:2:"id";s:7:"1444567";s:4:"info";s:100:"Barbecue and Caribbean - <br />
-                <br />
-                  3301 San Pablo Ave, Oakland";s:5:"info2";s:22:"Barbecue and Caribbean";s:7:"address";s:27:"3301 San Pablo Ave, Oakland";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.824528";s:3:"lon";s:11:"-122.277972";s:9:"neighbour";s:10:"Emeryville";}

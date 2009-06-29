@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:86:"http://www.urbanspoon.com/r/6/80706/restaurant/Civic-Center/Bamboo-Pizza-San-Francisco";s:4:"name";s:12:"Bamboo Pizza";s:2:"id";s:5:"80706";s:4:"info";s:83:"Pizza - <br />
-                <br />
-                  407 Ellis St, San Francisco";s:5:"info2";s:5:"Pizza";s:7:"address";s:27:"407 Ellis St, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.784732";s:3:"lon";s:11:"-122.413031";s:9:"neighbour";s:12:"Civic Center";}

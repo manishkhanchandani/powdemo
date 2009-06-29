@@ -1,1 +1,0 @@
-a:9:{s:3:"url";s:83:"http://www.urbanspoon.com/r/6/769167/restaurant/Civic-Center/Men-Zone-San-Francisco";s:4:"name";s:8:"Men Zone";s:2:"id";s:6:"769167";s:4:"info";s:36:"1526 Rock Forest Lane, San Francisco";s:7:"address";s:36:"1526 Rock Forest Lane, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:5:"37.78";s:3:"lon";s:7:"-122.42";s:9:"neighbour";s:12:"Civic Center";}

@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:94:"http://www.urbanspoon.com/r/6/1212832/restaurant/Fairfield/Popeyes-Chicken-Biscuits-Travis-Afb";s:4:"name";s:31:"Popeye's Chicken &amp; Biscuits";s:2:"id";s:7:"1212832";s:4:"info";s:85:"Fast Food - <br />
-                <br />
-                  648 Mather St, Travis Afb";s:5:"info2";s:9:"Fast Food";s:7:"address";s:25:"648 Mather St, Travis Afb";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:5:"38.27";s:3:"lon";s:9:"-121.9477";s:9:"neighbour";s:9:"Fairfield";}

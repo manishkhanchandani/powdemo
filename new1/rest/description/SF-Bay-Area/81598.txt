@@ -1,1 +1,0 @@
-a:9:{s:3:"url";s:70:"http://www.urbanspoon.com/r/6/81598/restaurant/Cafe-Davinci-Emeryville";s:4:"name";s:12:"Cafe Davinci";s:2:"id";s:5:"81598";s:4:"info";s:23:"953 39th St, Emeryville";s:7:"address";s:23:"953 39th St, Emeryville";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:8:"37.82994";s:3:"lon";s:11:"-122.275532";s:9:"neighbour";s:10:"Emeryville";}

@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:81:"http://www.urbanspoon.com/r/6/86177/restaurant/Civic-Center/Kuletos-San-Francisco";s:4:"name";s:8:"Kuleto's";s:2:"id";s:5:"86177";s:4:"info";s:101:"Italian and California - <br />
-                <br />
-                  221 Powell St, San Francisco";s:5:"info2";s:22:"Italian and California";s:7:"address";s:28:"221 Powell St, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.786671";s:3:"lon";s:11:"-122.408228";s:9:"neighbour";s:12:"Civic Center";}

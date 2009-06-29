@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:62:"http://www.urbanspoon.com/r/6/83388/restaurant/Ecco-Burlingame";s:4:"name";s:4:"Ecco";s:2:"id";s:5:"83388";s:4:"info";s:115:"Mediterranean, American and California - <br />
-                <br />
-                  322 Lorton Ave, Burlingame";s:5:"info2";s:38:"Mediterranean, American and California";s:7:"address";s:26:"322 Lorton Ave, Burlingame";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.579654";s:3:"lon";s:11:"-122.346382";s:9:"neighbour";s:10:"Burlingame";}

@@ -1,1 +1,0 @@
-a:9:{s:3:"url";s:78:"http://www.urbanspoon.com/r/6/92640/restaurant/Bayview/Tops-Cafe-San-Francisco";s:4:"name";s:9:"Tops Cafe";s:2:"id";s:5:"92640";s:4:"info";s:33:"2460 San Bruno Ave, San Francisco";s:7:"address";s:33:"2460 San Bruno Ave, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.730895";s:3:"lon";s:11:"-122.405144";s:9:"neighbour";s:7:"Bayview";}

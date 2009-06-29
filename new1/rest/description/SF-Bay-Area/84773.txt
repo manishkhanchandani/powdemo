@@ -1,1 +1,0 @@
-a:9:{s:3:"url";s:72:"http://www.urbanspoon.com/r/6/84773/restaurant/Healthy-Baking-Emeryville";s:4:"name";s:14:"Healthy Baking";s:2:"id";s:5:"84773";s:4:"info";s:29:"1205 Stanford Ave, Emeryville";s:7:"address";s:29:"1205 Stanford Ave, Emeryville";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.839893";s:3:"lon";s:11:"-122.284844";s:9:"neighbour";s:10:"Emeryville";}

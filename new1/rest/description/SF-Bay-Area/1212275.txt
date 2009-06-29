@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:79:"http://www.urbanspoon.com/r/6/1212275/restaurant/Taqueria-Rodriguez-El-Sobrante";s:4:"name";s:18:"Taqueria Rodriguez";s:2:"id";s:7:"1212275";s:4:"info";s:96:"Tacos and Mexican - <br />
-                <br />
-                  4955 Appian Way, El Sobrante";s:5:"info2";s:17:"Tacos and Mexican";s:7:"address";s:28:"4955 Appian Way, El Sobrante";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:6:"37.976";s:3:"lon";s:8:"-122.298";s:9:"neighbour";s:11:"El Sobrante";}

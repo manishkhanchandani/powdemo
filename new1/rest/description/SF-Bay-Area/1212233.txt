@@ -1,1 +1,0 @@
-a:9:{s:3:"url";s:70:"http://www.urbanspoon.com/r/6/1212233/restaurant/Toots-Tavern-Crockett";s:4:"name";s:12:"Toots Tavern";s:2:"id";s:7:"1212233";s:4:"info";s:21:"627 2nd Ave, Crockett";s:7:"address";s:21:"627 2nd Ave, Crockett";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"38.0535";s:3:"lon";s:9:"-122.2235";s:9:"neighbour";s:13:"Crockett, CA,";}

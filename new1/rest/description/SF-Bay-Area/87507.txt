@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:75:"http://www.urbanspoon.com/r/6/87507/restaurant/Emeryville/McDonalds-Oakland";s:4:"name";s:10:"McDonald's";s:2:"id";s:5:"87507";s:4:"info";s:109:"American, Burgers and Fast Food - <br />
-                <br />
-                  6623 San Pablo Ave, Oakland";s:5:"info2";s:31:"American, Burgers and Fast Food";s:7:"address";s:27:"6623 San Pablo Ave, Oakland";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.849226";s:3:"lon";s:11:"-122.285949";s:9:"neighbour";s:10:"Emeryville";}

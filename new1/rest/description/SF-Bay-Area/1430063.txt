@@ -1,1 +1,0 @@
-a:9:{s:3:"url";s:66:"http://www.urbanspoon.com/r/6/1430063/restaurant/India-4-U-Antioch";s:4:"name";s:9:"India 4 U";s:2:"id";s:7:"1430063";s:4:"info";s:27:"5759 Lone Tree Way, Antioch";s:7:"address";s:27:"5759 Lone Tree Way, Antioch";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.961881";s:3:"lon";s:11:"-121.738816";s:9:"neighbour";s:7:"Antioch";}

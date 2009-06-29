@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:60:"http://www.urbanspoon.com/r/6/80490/restaurant/Aroma-Alameda";s:4:"name";s:5:"Aroma";s:2:"id";s:5:"80490";s:4:"info";s:97:"American and Italian - <br />
-                <br />
-                  2337 Blanding Ave, Alameda";s:5:"info2";s:20:"American and Italian";s:7:"address";s:26:"2337 Blanding Ave, Alameda";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.771265";s:3:"lon";s:11:"-122.238562";s:9:"neighbour";s:7:"Alameda";}

@@ -1,1 +1,0 @@
-a:9:{s:3:"url";s:78:"http://www.urbanspoon.com/r/6/80605/restaurant/Bernal-Heights/B3-San-Francisco";s:4:"name";s:2:"B3";s:2:"id";s:5:"80605";s:4:"info";s:30:"3231 Mission St, San Francisco";s:7:"address";s:30:"3231 Mission St, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:8:"37.74507";s:3:"lon";s:11:"-122.420081";s:9:"neighbour";s:14:"Bernal Heights";}

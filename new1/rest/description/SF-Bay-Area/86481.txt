@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:90:"http://www.urbanspoon.com/r/6/86481/restaurant/Civic-Center/Lark-Creek-Steak-San-Francisco";s:4:"name";s:16:"Lark Creek Steak";s:2:"id";s:5:"86481";s:4:"info";s:114:"American, Steakhouse and California - <br />
-                <br />
-                  845 Market St, San Francisco";s:5:"info2";s:35:"American, Steakhouse and California";s:7:"address";s:28:"845 Market St, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.784603";s:3:"lon";s:11:"-122.407085";s:9:"neighbour";s:12:"Civic Center";}

@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:94:"http://www.urbanspoon.com/r/6/1264145/restaurant/Antioch/Los-Charros-Mexican-Restaurant-Oakley";s:4:"name";s:30:"Los Charros Mexican Restaurant";s:2:"id";s:7:"1264145";s:4:"info";s:78:"Mexican - <br />
-                <br />
-                  2579 Main St, Oakley";s:5:"info2";s:7:"Mexican";s:7:"address";s:20:"2579 Main St, Oakley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"37.9977";s:3:"lon";s:8:"-121.729";s:9:"neighbour";s:7:"Antioch";}

@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:78:"http://www.urbanspoon.com/r/6/1212500/restaurant/S-L-Thai-Restaurant-Fairfield";s:4:"name";s:25:"S &amp; L Thai Restaurant";s:2:"id";s:7:"1212500";s:4:"info";s:81:"Thai - <br />
-                <br />
-                  1767 N Texas St, Fairfield";s:5:"info2";s:4:"Thai";s:7:"address";s:26:"1767 N Texas St, Fairfield";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"38.2614";s:3:"lon";s:9:"-122.0344";s:9:"neighbour";s:9:"Fairfield";}

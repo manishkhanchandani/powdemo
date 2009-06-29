@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:74:"http://www.urbanspoon.com/r/6/1212045/restaurant/Pappas-Restaurant-Benicia";s:4:"name";s:17:"Pappas Restaurant";s:2:"id";s:7:"1212045";s:4:"info";s:78:"Greek - <br />
-                <br />
-                  1654 E 2nd St, Benicia";s:5:"info2";s:5:"Greek";s:7:"address";s:22:"1654 E 2nd St, Benicia";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"38.0562";s:3:"lon";s:8:"-122.151";s:9:"neighbour";s:7:"Benicia";}

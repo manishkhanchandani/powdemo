@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:70:"http://www.urbanspoon.com/r/6/1430817/restaurant/Burger-King-Cupertino";s:4:"name";s:11:"Burger King";s:2:"id";s:7:"1430817";s:4:"info";s:111:"Fast Food, Burgers and American - <br />
-                <br />
-                  10123 N. Wolfe Rd., Cupertino";s:5:"info2";s:31:"Fast Food, Burgers and American";s:7:"address";s:29:"10123 N. Wolfe Rd., Cupertino";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.325703";s:3:"lon";s:11:"-122.014532";s:9:"neighbour";s:9:"Cupertino";}

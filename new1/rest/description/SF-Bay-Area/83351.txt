@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:72:"http://www.urbanspoon.com/r/6/83351/restaurant/Dynasty-Seafood-Cupertino";s:4:"name";s:15:"Dynasty Seafood";s:2:"id";s:5:"83351";s:4:"info";s:106:"Seafood, Chinese and Dim Sum - <br />
-                <br />
-                  10123 N Wolfe Rd, Cupertino";s:5:"info2";s:28:"Seafood, Chinese and Dim Sum";s:7:"address";s:27:"10123 N Wolfe Rd, Cupertino";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.325596";s:3:"lon";s:10:"-122.01453";s:9:"neighbour";s:9:"Cupertino";}

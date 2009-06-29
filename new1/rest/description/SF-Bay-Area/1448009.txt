@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:79:"http://www.urbanspoon.com/r/6/1448009/restaurant/Alameda-SJ/Big-E-Cafe-San-Jose";s:4:"name";s:10:"Big E Cafe";s:2:"id";s:7:"1448009";s:4:"info";s:109:"Latin American, Bakery and Coffee - <br />
-                <br />
-                  1683 Branham Ln, San Jose";s:5:"info2";s:33:"Latin American, Bakery and Coffee";s:7:"address";s:25:"1683 Branham Ln, San Jose";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.252045";s:3:"lon";s:11:"-121.907534";s:9:"neighbour";s:12:"Alameda (SJ)";}

@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:78:"http://www.urbanspoon.com/r/6/89316/restaurant/Pizza-Pad-Pizza-Parlor-Campbell";s:4:"name";s:22:"Pizza Pad Pizza Parlor";s:2:"id";s:5:"89316";s:4:"info";s:83:"Pizza - <br />
-                <br />
-                  2099 S Bascom Ave, Campbell";s:5:"info2";s:5:"Pizza";s:7:"address";s:27:"2099 S Bascom Ave, Campbell";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.285432";s:3:"lon";s:11:"-121.931871";s:9:"neighbour";s:8:"Campbell";}

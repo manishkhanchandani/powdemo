@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:72:"http://www.urbanspoon.com/r/6/85411/restaurant/Jackies-Deli-Cafe-Belmont";s:4:"name";s:18:"Jackie's Deli Cafe";s:2:"id";s:5:"85411";s:4:"info";s:92:"Sandwiches/Subs - <br />
-                <br />
-                  951 Old County Rd, Belmont";s:5:"info2";s:15:"Sandwiches/Subs";s:7:"address";s:26:"951 Old County Rd, Belmont";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.521542";s:3:"lon";s:11:"-122.275695";s:9:"neighbour";s:7:"Belmont";}

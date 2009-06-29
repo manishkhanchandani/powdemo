@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:61:"http://www.urbanspoon.com/r/6/82927/restaurant/Da-Nang-Albany";s:4:"name";s:7:"Da Nang";s:2:"id";s:5:"82927";s:4:"info";s:95:"Thai and Vietnamese - <br />
-                <br />
-                  905 San Pablo Ave, Albany";s:5:"info2";s:19:"Thai and Vietnamese";s:7:"address";s:25:"905 San Pablo Ave, Albany";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.890077";s:3:"lon";s:11:"-122.298748";s:9:"neighbour";s:6:"Albany";}

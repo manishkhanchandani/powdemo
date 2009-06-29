@@ -1,1 +1,0 @@
-a:9:{s:3:"url";s:81:"http://www.urbanspoon.com/r/6/1441511/restaurant/Fire-Wok-Mongolian-Bbq-Fairfield";s:4:"name";s:22:"Fire Wok Mongolian Bbq";s:2:"id";s:7:"1441511";s:4:"info";s:26:"628 Parker Road, Fairfield";s:7:"address";s:26:"628 Parker Road, Fairfield";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"38.272338";s:3:"lon";s:10:"-121.95623";s:9:"neighbour";s:9:"Fairfield";}

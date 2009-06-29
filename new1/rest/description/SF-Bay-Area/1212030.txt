@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:60:"http://www.urbanspoon.com/r/6/1212030/restaurant/KFC-Benicia";s:4:"name";s:3:"KFC";s:2:"id";s:7:"1212030";s:4:"info";s:96:"Fast Food and American - <br />
-                <br />
-                  155 Military E, Benicia";s:5:"info2";s:22:"Fast Food and American";s:7:"address";s:23:"155 Military E, Benicia";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"38.0539";s:3:"lon";s:9:"-122.1538";s:9:"neighbour";s:7:"Benicia";}

@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:73:"http://www.urbanspoon.com/r/6/90139/restaurant/Royal-Pizza-Pasta-Berkeley";s:4:"name";s:23:"Royal Pizza &amp; Pasta";s:2:"id";s:5:"90139";s:4:"info";s:85:"Pizza - <br />
-                <br />
-                  2074 University Ave, Berkeley";s:5:"info2";s:5:"Pizza";s:7:"address";s:29:"2074 University Ave, Berkeley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.871905";s:3:"lon";s:11:"-122.269024";s:9:"neighbour";s:8:"Berkeley";}

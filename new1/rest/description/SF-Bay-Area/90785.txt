@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:80:"http://www.urbanspoon.com/r/6/90785/restaurant/Solano-Cellars-Wine-Bistro-Albany";s:4:"name";s:26:"Solano Cellars Wine Bistro";s:2:"id";s:5:"90785";s:4:"info";s:98:"French and Mediterranean - <br />
-                <br />
-                  1580 Solano Ave, Albany";s:5:"info2";s:24:"French and Mediterranean";s:7:"address";s:23:"1580 Solano Ave, Albany";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.890926";s:3:"lon";s:11:"-122.284947";s:9:"neighbour";s:6:"Albany";}

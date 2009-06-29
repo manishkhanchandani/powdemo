@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:76:"http://www.urbanspoon.com/r/6/1212447/restaurant/Marys-Pizza-Shack-Fairfield";s:4:"name";s:18:"Mary's Pizza Shack";s:2:"id";s:7:"1212447";s:4:"info";s:102:"Pizza and Italian - <br />
-                <br />
-                  1500 Oliver Rd. Suite E, Fairfield";s:5:"info2";s:17:"Pizza and Italian";s:7:"address";s:34:"1500 Oliver Rd. Suite E, Fairfield";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:6:"38.268";s:3:"lon";s:9:"-122.0765";s:9:"neighbour";s:9:"Fairfield";}

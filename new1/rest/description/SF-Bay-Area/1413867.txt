@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:74:"http://www.urbanspoon.com/r/6/1413867/restaurant/In-N-Out-Burger-Daly-City";s:4:"name";s:15:"In-N-Out Burger";s:2:"id";s:7:"1413867";s:4:"info";s:103:"American and Burgers - <br />
-                <br />
-                  260 Washington Street, Daly City";s:5:"info2";s:20:"American and Burgers";s:7:"address";s:32:"260 Washington Street, Daly City";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.688035";s:3:"lon";s:11:"-122.471466";s:9:"neighbour";s:9:"Daly City";}

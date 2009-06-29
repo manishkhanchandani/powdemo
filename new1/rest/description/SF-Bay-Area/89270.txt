@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:65:"http://www.urbanspoon.com/r/6/89270/restaurant/Pizza-Hut-Campbell";s:4:"name";s:9:"Pizza Hut";s:2:"id";s:5:"89270";s:4:"info";s:97:"Pizza and Fast Food - <br />
-                <br />
-                  2591 S Bascom Ave, Campbell";s:5:"info2";s:19:"Pizza and Fast Food";s:7:"address";s:27:"2591 S Bascom Ave, Campbell";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.274984";s:3:"lon";s:11:"-121.933805";s:9:"neighbour";s:8:"Campbell";}

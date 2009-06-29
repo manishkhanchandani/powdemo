@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:71:"http://www.urbanspoon.com/r/6/1427043/restaurant/Le-Boulanger-Cupertino";s:4:"name";s:12:"Le Boulanger";s:2:"id";s:7:"1427043";s:4:"info";s:112:"Sandwiches/Subs and Bakery - <br />
-                <br />
-                  20488 Stevens Creek Blvd, Cupertino";s:5:"info2";s:26:"Sandwiches/Subs and Bakery";s:7:"address";s:35:"20488 Stevens Creek Blvd, Cupertino";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:8:"37.32286";s:3:"lon";s:11:"-122.052099";s:9:"neighbour";s:9:"Cupertino";}

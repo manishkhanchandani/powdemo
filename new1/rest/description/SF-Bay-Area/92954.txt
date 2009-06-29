@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:79:"http://www.urbanspoon.com/r/6/92954/restaurant/Viengvilay-Thai-Cuisine-Berkeley";s:4:"name";s:23:"Viengvilay Thai Cuisine";s:2:"id";s:5:"92954";s:4:"info";s:80:"Thai - <br />
-                <br />
-                  2505 Hearst Ave, Berkeley";s:5:"info2";s:4:"Thai";s:7:"address";s:25:"2505 Hearst Ave, Berkeley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.875263";s:3:"lon";s:11:"-122.259878";s:9:"neighbour";s:8:"Berkeley";}

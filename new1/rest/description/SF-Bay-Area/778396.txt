@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:78:"http://www.urbanspoon.com/r/6/778396/restaurant/Ricks-Wine-Cellar-Corte-Madera";s:4:"name";s:18:"Rick's Wine Cellar";s:2:"id";s:6:"778396";s:4:"info";s:103:"Wine Bar and Tapas - <br />
-                <br />
-                  207 Corte Madera Ave, Corte Madera";s:5:"info2";s:18:"Wine Bar and Tapas";s:7:"address";s:34:"207 Corte Madera Ave, Corte Madera";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.925938";s:3:"lon";s:11:"-122.530144";s:9:"neighbour";s:12:"Corte Madera";}

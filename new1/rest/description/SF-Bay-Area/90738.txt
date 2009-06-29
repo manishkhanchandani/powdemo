@@ -1,1 +1,0 @@
-a:9:{s:3:"url";s:67:"http://www.urbanspoon.com/r/6/90738/restaurant/Slider-Usa-Daly-City";s:4:"name";s:10:"Slider Usa";s:2:"id";s:5:"90738";s:4:"info";s:28:"379 S Mayfair Ave, Daly City";s:7:"address";s:28:"379 S Mayfair Ave, Daly City";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.700905";s:3:"lon";s:11:"-122.485125";s:9:"neighbour";s:9:"Daly City";}

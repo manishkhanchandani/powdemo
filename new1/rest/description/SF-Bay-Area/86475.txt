@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:70:"http://www.urbanspoon.com/r/6/86475/restaurant/Lao-Thai-Kitchen-Albany";s:4:"name";s:16:"Lao-Thai Kitchen";s:2:"id";s:5:"86475";s:4:"info";s:109:"Thai, Southern &amp; Soul and Asian - <br />
-                <br />
-                  1406 Solano Ave, Albany";s:5:"info2";s:35:"Thai, Southern &amp; Soul and Asian";s:7:"address";s:23:"1406 Solano Ave, Albany";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.890663";s:3:"lon";s:10:"-122.28912";s:9:"neighbour";s:6:"Albany";}

@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:64:"http://www.urbanspoon.com/r/6/1212254/restaurant/KFC-El-Sobrante";s:4:"name";s:3:"KFC";s:2:"id";s:7:"1212254";s:4:"info";s:107:"Fast Food and American - <br />
-                <br />
-                  3300 San Pablo Dam Rd, El Sobrante";s:5:"info2";s:22:"Fast Food and American";s:7:"address";s:34:"3300 San Pablo Dam Rd, El Sobrante";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"37.9623";s:3:"lon";s:9:"-122.3259";s:9:"neighbour";s:11:"El Sobrante";}

@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:88:"http://www.urbanspoon.com/r/6/86402/restaurant/Bernal-Heights/La-Santaneca-San-Francisco";s:4:"name";s:12:"La Santaneca";s:2:"id";s:5:"86402";s:4:"info";s:114:"Latin American, Cuban and Mexican - <br />
-                <br />
-                  3781 Mission St, San Francisco";s:5:"info2";s:33:"Latin American, Cuban and Mexican";s:7:"address";s:30:"3781 Mission St, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.736268";s:3:"lon";s:11:"-122.424149";s:9:"neighbour";s:14:"Bernal Heights";}

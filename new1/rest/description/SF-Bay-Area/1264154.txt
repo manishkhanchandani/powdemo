@@ -1,1 +1,0 @@
-a:9:{s:3:"url";s:77:"http://www.urbanspoon.com/r/6/1264154/restaurant/Antioch/Yogurt-Island-Oakley";s:4:"name";s:13:"Yogurt Island";s:2:"id";s:7:"1264154";s:4:"info";s:28:"3100 Main St Ste 282, Oakley";s:7:"address";s:28:"3100 Main St Ste 282, Oakley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"37.9979";s:3:"lon";s:9:"-121.7185";s:9:"neighbour";s:7:"Antioch";}

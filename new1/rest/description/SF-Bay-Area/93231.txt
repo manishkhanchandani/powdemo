@@ -1,1 +1,0 @@
-a:9:{s:3:"url";s:81:"http://www.urbanspoon.com/r/6/93231/restaurant/El-Cerrito/Wings-n-Things-Richmond";s:4:"name";s:15:"Wing's n Things";s:2:"id";s:5:"93231";s:4:"info";s:27:"1305 Carlson Blvd, Richmond";s:7:"address";s:27:"1305 Carlson Blvd, Richmond";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:8:"37.91365";s:3:"lon";s:11:"-122.322821";s:9:"neighbour";s:10:"El Cerrito";}

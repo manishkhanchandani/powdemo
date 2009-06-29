@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:69:"http://www.urbanspoon.com/r/6/1212031/restaurant/Kaigan-Sushi-Benicia";s:4:"name";s:12:"Kaigan Sushi";s:2:"id";s:7:"1212031";s:4:"info";s:97:"Sushi and Japanese - <br />
-                <br />
-                  560 1st St Ste A103, Benicia";s:5:"info2";s:18:"Sushi and Japanese";s:7:"address";s:28:"560 1st St Ste A103, Benicia";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"38.0486";s:3:"lon";s:9:"-122.1593";s:9:"neighbour";s:7:"Benicia";}

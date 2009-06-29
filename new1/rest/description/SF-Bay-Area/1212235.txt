@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:88:"http://www.urbanspoon.com/r/6/1212235/restaurant/Bamboo-Chopstick-Restaurant-El-Sobrante";s:4:"name";s:27:"Bamboo Chopstick Restaurant";s:2:"id";s:7:"1212235";s:4:"info";s:92:"Vietnamese - <br />
-                <br />
-                  448 Valley View Rd, El Sobrante";s:5:"info2";s:10:"Vietnamese";s:7:"address";s:31:"448 Valley View Rd, El Sobrante";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"37.9781";s:3:"lon";s:9:"-122.2946";s:9:"neighbour";s:11:"El Sobrante";}

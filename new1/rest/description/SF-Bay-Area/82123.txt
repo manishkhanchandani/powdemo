@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:69:"http://www.urbanspoon.com/r/6/82123/restaurant/Central-Donuts-Alameda";s:4:"name";s:14:"Central Donuts";s:2:"id";s:5:"82123";s:4:"info";s:82:"Donuts - <br />
-                <br />
-                  2315 Central Ave, Alameda";s:5:"info2";s:6:"Donuts";s:7:"address";s:25:"2315 Central Ave, Alameda";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.764775";s:3:"lon";s:10:"-122.24372";s:9:"neighbour";s:7:"Alameda";}

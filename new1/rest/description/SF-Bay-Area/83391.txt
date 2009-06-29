@@ -1,1 +1,0 @@
-a:9:{s:3:"url";s:71:"http://www.urbanspoon.com/r/6/83391/restaurant/Eclair-Pastries-Berkeley";s:4:"name";s:15:"Eclair Pastries";s:2:"id";s:5:"83391";s:4:"info";s:28:"2565 Telegraph Ave, Berkeley";s:7:"address";s:28:"2565 Telegraph Ave, Berkeley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.863768";s:3:"lon";s:11:"-122.258472";s:9:"neighbour";s:8:"Berkeley";}

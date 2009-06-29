@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:88:"http://www.urbanspoon.com/r/6/93122/restaurant/Wendys-Old-Fashioned-Hamburgers-Daly-City";s:4:"name";s:32:"Wendy's Old Fashioned Hamburgers";s:2:"id";s:5:"93122";s:4:"info";s:98:"Fast Food and Burgers - <br />
-                <br />
-                  7401 Mission St, Daly City";s:5:"info2";s:21:"Fast Food and Burgers";s:7:"address";s:26:"7401 Mission St, Daly City";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.689422";s:3:"lon";s:9:"-122.4658";s:9:"neighbour";s:9:"Daly City";}

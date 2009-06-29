@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:66:"http://www.urbanspoon.com/r/6/93401/restaurant/Your-Place-Berkeley";s:4:"name";s:10:"Your Place";s:2:"id";s:5:"93401";s:4:"info";s:84:"Thai - <br />
-                <br />
-                  1267 University Ave, Berkeley";s:5:"info2";s:4:"Thai";s:7:"address";s:29:"1267 University Ave, Berkeley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.869957";s:3:"lon";s:11:"-122.287355";s:9:"neighbour";s:8:"Berkeley";}

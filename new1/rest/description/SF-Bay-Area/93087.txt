@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:79:"http://www.urbanspoon.com/r/6/93087/restaurant/Wazwan-Indian-Cuisine-Emeryville";s:4:"name";s:21:"Wazwan Indian Cuisine";s:2:"id";s:5:"93087";s:4:"info";s:87:"Indian - <br />
-                <br />
-                  5959 Shellmound St, Emeryville";s:5:"info2";s:6:"Indian";s:7:"address";s:30:"5959 Shellmound St, Emeryville";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.841782";s:3:"lon";s:11:"-122.293248";s:9:"neighbour";s:10:"Emeryville";}

@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:80:"http://www.urbanspoon.com/r/6/763827/restaurant/Double-Dragon-Restaurant-Antioch";s:4:"name";s:24:"Double Dragon Restaurant";s:2:"id";s:6:"763827";s:4:"info";s:86:"Chinese - <br />
-                <br />
-                  2621 Somersville Rd, Antioch";s:5:"info2";s:7:"Chinese";s:7:"address";s:28:"2621 Somersville Rd, Antioch";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:8:"37.99963";s:3:"lon";s:11:"-121.842005";s:9:"neighbour";s:7:"Antioch";}

@@ -1,1 +1,0 @@
-a:9:{s:3:"url";s:70:"http://www.urbanspoon.com/r/6/85129/restaurant/I-Love-Yogurt-Cupertino";s:4:"name";s:13:"I Love Yogurt";s:2:"id";s:5:"85129";s:4:"info";s:31:"10129 S De Anza Blvd, Cupertino";s:7:"address";s:31:"10129 S De Anza Blvd, Cupertino";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.320814";s:3:"lon";s:11:"-122.032572";s:9:"neighbour";s:9:"Cupertino";}

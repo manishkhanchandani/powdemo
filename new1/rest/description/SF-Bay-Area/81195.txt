@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:68:"http://www.urbanspoon.com/r/6/81195/restaurant/Bongo-Burger-Berkeley";s:4:"name";s:12:"Bongo Burger";s:2:"id";s:5:"81195";s:4:"info";s:102:"Burgers and Middle Eastern - <br />
-                <br />
-                  2505 Dwight Way, Berkeley";s:5:"info2";s:26:"Burgers and Middle Eastern";s:7:"address";s:25:"2505 Dwight Way, Berkeley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.865271";s:3:"lon";s:11:"-122.258212";s:9:"neighbour";s:8:"Berkeley";}

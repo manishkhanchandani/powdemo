@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:101:"http://www.urbanspoon.com/r/6/89186/restaurant/Daly-City/Pico-de-Gallo-Restaurant-Store-San-Francisco";s:4:"name";s:30:"Pico de Gallo Restaurant Store";s:2:"id";s:5:"89186";s:4:"info";s:86:"Mexican - <br />
-                <br />
-                  719 Vienna St, San Francisco";s:5:"info2";s:7:"Mexican";s:7:"address";s:28:"719 Vienna St, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:8:"37.71695";s:3:"lon";s:11:"-122.432934";s:9:"neighbour";s:9:"Daly City";}

@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:84:"http://www.urbanspoon.com/r/6/1212152/restaurant/El-Rancho-Steak-House-Castro-Valley";s:4:"name";s:21:"El Rancho Steak House";s:2:"id";s:7:"1212152";s:4:"info";s:99:"Steakhouse - <br />
-                <br />
-                  3240 Castro Valley Blvd, Castro Valley";s:5:"info2";s:10:"Steakhouse";s:7:"address";s:38:"3240 Castro Valley Blvd, Castro Valley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"37.6957";s:3:"lon";s:9:"-122.0794";s:9:"neighbour";s:13:"Castro Valley";}

@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:77:"http://www.urbanspoon.com/r/6/764103/restaurant/Antioch/Jamba-Juice-Pittsburg";s:4:"name";s:11:"Jamba Juice";s:2:"id";s:6:"764103";s:4:"info";s:87:"American - <br />
-                <br />
-                  4402 Century Blvd, Pittsburg";s:5:"info2";s:8:"American";s:7:"address";s:28:"4402 Century Blvd, Pittsburg";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"38.005913";s:3:"lon";s:11:"-121.839275";s:9:"neighbour";s:7:"Antioch";}

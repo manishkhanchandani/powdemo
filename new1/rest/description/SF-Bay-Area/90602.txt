@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:73:"http://www.urbanspoon.com/r/6/90602/restaurant/Sheng-Kee-Bakery-Cupertino";s:4:"name";s:16:"Sheng Kee Bakery";s:2:"id";s:5:"90602";s:4:"info";s:84:"Bakery - <br />
-                <br />
-                  10122 Bandley Dr, Cupertino";s:5:"info2";s:6:"Bakery";s:7:"address";s:27:"10122 Bandley Dr, Cupertino";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.324245";s:3:"lon";s:11:"-122.034533";s:9:"neighbour";s:9:"Cupertino";}

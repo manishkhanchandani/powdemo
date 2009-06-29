@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:90:"http://www.urbanspoon.com/r/6/1430818/restaurant/The-Cake-Works-The-Wedding-Works-Campbell";s:4:"name";s:32:"The Cake Works/The Wedding Works";s:2:"id";s:7:"1430818";s:4:"info";s:86:"Bakery - <br />
-                <br />
-                  2891 S. Bascom Ave., Campbell";s:5:"info2";s:6:"Bakery";s:7:"address";s:29:"2891 S. Bascom Ave., Campbell";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:8:"37.26981";s:3:"lon";s:11:"-121.938108";s:9:"neighbour";s:8:"Campbell";}

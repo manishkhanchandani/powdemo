@@ -1,1 +1,0 @@
-a:9:{s:3:"url";s:62:"http://www.urbanspoon.com/r/6/89527/restaurant/Q-Cup-Cupertino";s:4:"name";s:5:"Q-Cup";s:2:"id";s:5:"89527";s:4:"info";s:27:"10963 N Wolfe Rd, Cupertino";s:7:"address";s:27:"10963 N Wolfe Rd, Cupertino";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.336037";s:3:"lon";s:11:"-122.014372";s:9:"neighbour";s:9:"Cupertino";}

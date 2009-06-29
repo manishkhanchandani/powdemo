@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:73:"http://www.urbanspoon.com/r/6/83703/restaurant/Estradas-Mexican-Daly-City";s:4:"name";s:17:"Estrada's Mexican";s:2:"id";s:5:"83703";s:4:"info";s:84:"Mexican - <br />
-                <br />
-                  7440 Mission St, Daly City";s:5:"info2";s:7:"Mexican";s:7:"address";s:26:"7440 Mission St, Daly City";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.687611";s:3:"lon";s:10:"-122.46574";s:9:"neighbour";s:9:"Daly City";}

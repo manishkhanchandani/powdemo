@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:76:"http://www.urbanspoon.com/r/6/1439064/restaurant/Antioch/McDonalds-Brentwood";s:4:"name";s:10:"McDonald's";s:2:"id";s:7:"1439064";s:4:"info";s:84:"Burgers - <br />
-                <br />
-                  2351 Balfour Rd, Brentwood";s:5:"info2";s:7:"Burgers";s:7:"address";s:26:"2351 Balfour Rd, Brentwood";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.925499";s:3:"lon";s:11:"-121.735505";s:9:"neighbour";s:7:"Antioch";}

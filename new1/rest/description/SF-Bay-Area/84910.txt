@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:93:"http://www.urbanspoon.com/r/6/84910/restaurant/Civic-Center/Honey-Bee-Ice-Cream-San-Francisco";s:4:"name";s:19:"Honey Bee Ice Cream";s:2:"id";s:5:"84910";s:4:"info";s:97:"Desserts/Ice Cream - <br />
-                <br />
-                  968 Market St, San Francisco";s:5:"info2";s:18:"Desserts/Ice Cream";s:7:"address";s:28:"968 Market St, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.782896";s:3:"lon";s:11:"-122.409704";s:9:"neighbour";s:12:"Civic Center";}

@@ -1,1 +1,0 @@
-a:9:{s:3:"url";s:77:"http://www.urbanspoon.com/r/6/90647/restaurant/Bayview/Shun-Lee-San-Francisco";s:4:"name";s:8:"Shun Lee";s:2:"id";s:5:"90647";s:4:"info";s:33:"1401 Armstrong Ave, San Francisco";s:7:"address";s:33:"1401 Armstrong Ave, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.724082";s:3:"lon";s:11:"-122.388756";s:9:"neighbour";s:7:"Bayview";}

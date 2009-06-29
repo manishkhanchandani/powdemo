@@ -1,1 +1,0 @@
-a:9:{s:3:"url";s:84:"http://www.urbanspoon.com/r/6/84478/restaurant/Civic-Center/Gray-Derby-San-Francisco";s:4:"name";s:10:"Gray Derby";s:2:"id";s:5:"84478";s:4:"info";s:28:"1015 Geary St, San Francisco";s:7:"address";s:28:"1015 Geary St, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:8:"37.78572";s:3:"lon";s:11:"-122.420052";s:9:"neighbour";s:12:"Civic Center";}

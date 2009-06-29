@@ -1,1 +1,0 @@
-a:9:{s:3:"url";s:70:"http://www.urbanspoon.com/r/6/86870/restaurant/Los-Antojitos-Daly-City";s:4:"name";s:13:"Los Antojitos";s:2:"id";s:5:"86870";s:4:"info";s:26:"5997 Mission St, Daly City";s:7:"address";s:26:"5997 Mission St, Daly City";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.707833";s:3:"lon";s:11:"-122.455107";s:9:"neighbour";s:9:"Daly City";}

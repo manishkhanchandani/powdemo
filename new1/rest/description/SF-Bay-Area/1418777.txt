@@ -1,1 +1,0 @@
-a:9:{s:3:"url";s:81:"http://www.urbanspoon.com/r/6/1418777/restaurant/Nations-Giant-Hamburgers-Benicia";s:4:"name";s:25:"Nation's Giant Hamburgers";s:2:"id";s:7:"1418777";s:4:"info";s:26:"191 Military East, Benicia";s:7:"address";s:26:"191 Military East, Benicia";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"38.0538";s:3:"lon";s:9:"-122.1532";s:9:"neighbour";s:7:"Benicia";}

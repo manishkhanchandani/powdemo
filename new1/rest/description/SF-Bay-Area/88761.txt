@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:85:"http://www.urbanspoon.com/r/6/88761/restaurant/Papa-Murphys-Take-n-Bake-Pizza-Belmont";s:4:"name";s:33:"Papa Murphy's Take 'n' Bake Pizza";s:2:"id";s:5:"88761";s:4:"info";s:84:"Pizza - <br />
-                <br />
-                  1602 El Camino Real, Belmont";s:5:"info2";s:5:"Pizza";s:7:"address";s:28:"1602 El Camino Real, Belmont";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.514641";s:3:"lon";s:11:"-122.269204";s:9:"neighbour";s:7:"Belmont";}

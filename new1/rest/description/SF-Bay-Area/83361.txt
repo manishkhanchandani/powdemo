@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:88:"http://www.urbanspoon.com/r/6/83361/restaurant/Bernal-Heights/Eagle-Donuts-San-Francisco";s:4:"name";s:12:"Eagle Donuts";s:2:"id";s:5:"83361";s:4:"info";s:87:"Donuts - <br />
-                <br />
-                  3303 Mission St, San Francisco";s:5:"info2";s:6:"Donuts";s:7:"address";s:30:"3303 Mission St, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.743878";s:3:"lon";s:11:"-122.420851";s:9:"neighbour";s:14:"Bernal Heights";}

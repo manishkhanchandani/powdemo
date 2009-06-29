@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:73:"http://www.urbanspoon.com/r/6/83372/restaurant/East-Ocean-Seafood-Alameda";s:4:"name";s:18:"East Ocean Seafood";s:2:"id";s:5:"83372";s:4:"info";s:94:"Seafood and Chinese - <br />
-                <br />
-                  1713 Webster St, Alameda";s:5:"info2";s:19:"Seafood and Chinese";s:7:"address";s:24:"1713 Webster St, Alameda";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.776531";s:3:"lon";s:11:"-122.276847";s:9:"neighbour";s:7:"Alameda";}

@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:78:"http://www.urbanspoon.com/r/6/81249/restaurant/Chinatown/Bow-Hon-San-Francisco";s:4:"name";s:7:"Bow Hon";s:2:"id";s:5:"81249";s:4:"info";s:96:"Chinese and Asian - <br />
-                <br />
-                  850 Grant Ave, San Francisco";s:5:"info2";s:17:"Chinese and Asian";s:7:"address";s:28:"850 Grant Ave, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.794778";s:3:"lon";s:11:"-122.406228";s:9:"neighbour";s:9:"Chinatown";}

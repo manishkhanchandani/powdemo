@@ -1,1 +1,0 @@
-a:9:{s:3:"url";s:84:"http://www.urbanspoon.com/r/6/394158/restaurant/Civic-Center/Clock-Bar-San-Francisco";s:4:"name";s:9:"Clock Bar";s:2:"id";s:6:"394158";s:4:"info";s:28:"335 Powell St, San Francisco";s:7:"address";s:28:"335 Powell St, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.787656";s:3:"lon";s:11:"-122.408418";s:9:"neighbour";s:12:"Civic Center";}

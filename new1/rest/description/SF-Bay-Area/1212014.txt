@@ -1,1 +1,0 @@
-a:9:{s:3:"url";s:62:"http://www.urbanspoon.com/r/6/1212014/restaurant/Chill-Benicia";s:4:"name";s:5:"Chill";s:2:"id";s:7:"1212014";s:4:"info";s:19:"362 1st St, Benicia";s:7:"address";s:19:"362 1st St, Benicia";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:6:"38.047";s:3:"lon";s:9:"-122.1604";s:9:"neighbour";s:7:"Benicia";}

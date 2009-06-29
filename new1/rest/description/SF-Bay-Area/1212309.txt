@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:70:"http://www.urbanspoon.com/r/6/1212309/restaurant/Szechuan-Chef-Fairfax";s:4:"name";s:13:"Szechuan Chef";s:2:"id";s:7:"1212309";s:4:"info";s:80:"Chinese - <br />
-                <br />
-                  19 Bolinas Rd, Fairfax";s:5:"info2";s:7:"Chinese";s:7:"address";s:22:"19 Bolinas Rd, Fairfax";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"37.9868";s:3:"lon";s:9:"-122.5889";s:9:"neighbour";s:7:"Fairfax";}

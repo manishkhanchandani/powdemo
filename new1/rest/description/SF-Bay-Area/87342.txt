@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:89:"http://www.urbanspoon.com/r/6/87342/restaurant/Civic-Center/Maxs-Opera-Cafe-San-Francisco";s:4:"name";s:16:"Max's Opera Cafe";s:2:"id";s:5:"87342";s:4:"info";s:117:"Diner, American and Sandwiches/Subs - <br />
-                <br />
-                  601 Van Ness Ave, San Francisco";s:5:"info2";s:35:"Diner, American and Sandwiches/Subs";s:7:"address";s:31:"601 Van Ness Ave, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.781117";s:3:"lon";s:11:"-122.420597";s:9:"neighbour";s:12:"Civic Center";}

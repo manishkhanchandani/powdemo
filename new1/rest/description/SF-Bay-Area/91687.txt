@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:66:"http://www.urbanspoon.com/r/6/91687/restaurant/Sushi-Plus-Berkeley";s:4:"name";s:10:"Sushi Plus";s:2:"id";s:5:"91687";s:4:"info";s:97:"Sushi and Japanese - <br />
-                <br />
-                  2650 Telegraph Ave, Berkeley";s:5:"info2";s:18:"Sushi and Japanese";s:7:"address";s:28:"2650 Telegraph Ave, Berkeley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.861994";s:3:"lon";s:11:"-122.259043";s:9:"neighbour";s:8:"Berkeley";}

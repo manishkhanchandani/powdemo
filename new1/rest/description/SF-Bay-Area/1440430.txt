@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:65:"http://www.urbanspoon.com/r/6/1440430/restaurant/Carls-Jr-Antioch";s:4:"name";s:10:"Carl's Jr.";s:2:"id";s:7:"1440430";s:4:"info";s:85:"Burgers - <br />
-                <br />
-                  4186 Lone Tree Way, Antioch";s:5:"info2";s:7:"Burgers";s:7:"address";s:27:"4186 Lone Tree Way, Antioch";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.968382";s:3:"lon";s:11:"-121.787452";s:9:"neighbour";s:7:"Antioch";}

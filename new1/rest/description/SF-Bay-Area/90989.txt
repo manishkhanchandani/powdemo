@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:69:"http://www.urbanspoon.com/r/6/90989/restaurant/Starbucks-Corte-Madera";s:4:"name";s:9:"Starbucks";s:2:"id";s:5:"90989";s:4:"info";s:96:"Coffee - <br />
-                <br />
-                  137 Corte Madera Town Ctr, Corte Madera";s:5:"info2";s:6:"Coffee";s:7:"address";s:39:"137 Corte Madera Town Ctr, Corte Madera";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.927836";s:3:"lon";s:11:"-122.518096";s:9:"neighbour";s:12:"Corte Madera";}

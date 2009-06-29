@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:84:"http://www.urbanspoon.com/r/6/83747/restaurant/Daly-City/Extreme-Pizza-San-Francisco";s:4:"name";s:13:"Extreme Pizza";s:2:"id";s:5:"83747";s:4:"info";s:88:"Pizza - <br />
-                <br />
-                  3911 Alemany Blvd, San Francisco";s:5:"info2";s:5:"Pizza";s:7:"address";s:32:"3911 Alemany Blvd, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.711256";s:3:"lon";s:11:"-122.467336";s:9:"neighbour";s:9:"Daly City";}

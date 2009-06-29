@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:90:"http://www.urbanspoon.com/r/6/1427122/restaurant/Antioch/Smits-Family-Restaurant-Bay-Point";s:4:"name";s:24:"Smit's Family Restaurant";s:2:"id";s:7:"1427122";s:4:"info";s:119:"American, Breakfast/Brunch and Barbecue - <br />
-                <br />
-                  140 E. Leland Road, Bay Point";s:5:"info2";s:39:"American, Breakfast/Brunch and Barbecue";s:7:"address";s:29:"140 E. Leland Road, Bay Point";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"38.011756";s:3:"lon";s:11:"-121.890213";s:9:"neighbour";s:7:"Antioch";}

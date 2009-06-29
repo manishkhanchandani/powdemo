@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:81:"http://www.urbanspoon.com/r/6/1411995/restaurant/Iron-Springs-Pub-Brewery-Fairfax";s:4:"name";s:30:"Iron Springs Pub &amp; Brewery";s:2:"id";s:7:"1411995";s:4:"info";s:81:"American - <br />
-                <br />
-                  765 Center St, Fairfax";s:5:"info2";s:8:"American";s:7:"address";s:22:"765 Center St, Fairfax";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.986496";s:3:"lon";s:11:"-122.585439";s:9:"neighbour";s:7:"Fairfax";}

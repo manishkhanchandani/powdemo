@@ -1,1 +1,0 @@
-a:9:{s:3:"url";s:69:"http://www.urbanspoon.com/r/6/83792/restaurant/Fashion-Trade-Berkeley";s:4:"name";s:13:"Fashion Trade";s:2:"id";s:5:"83792";s:4:"info";s:29:"1650 University Ave, Berkeley";s:7:"address";s:29:"1650 University Ave, Berkeley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.870639";s:3:"lon";s:11:"-122.278636";s:9:"neighbour";s:8:"Berkeley";}

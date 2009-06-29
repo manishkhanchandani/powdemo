@@ -1,1 +1,0 @@
-a:9:{s:3:"url";s:68:"http://www.urbanspoon.com/r/6/91519/restaurant/Suilys-Cafe-Daly-City";s:4:"name";s:12:"Suily's Cafe";s:2:"id";s:5:"91519";s:4:"info";s:25:"1 San Pedro Rd, Daly City";s:7:"address";s:25:"1 San Pedro Rd, Daly City";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.688906";s:3:"lon";s:11:"-122.466672";s:9:"neighbour";s:9:"Daly City";}

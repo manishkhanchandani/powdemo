@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:71:"http://www.urbanspoon.com/r/6/83669/restaurant/Eriks-Delicafe-Cupertino";s:4:"name";s:15:"Erik's Delicafe";s:2:"id";s:5:"83669";s:4:"info";s:121:"Sandwiches/Subs, American and Soups - <br />
-                <br />
-                  19652 Stevens Creek Blvd, Cupertino";s:5:"info2";s:35:"Sandwiches/Subs, American and Soups";s:7:"address";s:35:"19652 Stevens Creek Blvd, Cupertino";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.322763";s:3:"lon";s:11:"-122.017893";s:9:"neighbour";s:9:"Cupertino";}

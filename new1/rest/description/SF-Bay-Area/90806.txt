@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:75:"http://www.urbanspoon.com/r/6/90806/restaurant/Sonoma-Chicken-Coop-Campbell";s:4:"name";s:19:"Sonoma Chicken Coop";s:2:"id";s:5:"90806";s:4:"info";s:87:"American - <br />
-                <br />
-                  200 E Campbell Ave, Campbell";s:5:"info2";s:8:"American";s:7:"address";s:28:"200 E Campbell Ave, Campbell";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.286963";s:3:"lon";s:11:"-121.946434";s:9:"neighbour";s:8:"Campbell";}

@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:70:"http://www.urbanspoon.com/r/6/91832/restaurant/T-Rex-Barbeque-Berkeley";s:4:"name";s:14:"T-Rex Barbeque";s:2:"id";s:5:"91832";s:4:"info";s:115:"Barbecue, American and Southern &amp; Soul - <br />
-                <br />
-                  1300 10th St, Berkeley";s:5:"info2";s:42:"Barbecue, American and Southern &amp; Soul";s:7:"address";s:22:"1300 10th St, Berkeley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.880132";s:3:"lon";s:11:"-122.297123";s:9:"neighbour";s:8:"Berkeley";}

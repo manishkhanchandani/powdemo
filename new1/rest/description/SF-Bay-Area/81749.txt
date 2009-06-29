@@ -1,1 +1,0 @@
-a:9:{s:3:"url";s:64:"http://www.urbanspoon.com/r/6/81749/restaurant/Cafe-Taj-Berkeley";s:4:"name";s:8:"Cafe Taj";s:2:"id";s:5:"81749";s:4:"info";s:27:"2510 Channing Way, Berkeley";s:7:"address";s:27:"2510 Channing Way, Berkeley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.866813";s:3:"lon";s:11:"-122.258402";s:9:"neighbour";s:8:"Berkeley";}

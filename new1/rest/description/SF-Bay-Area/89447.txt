@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:79:"http://www.urbanspoon.com/r/6/89447/restaurant/Castro/Posh-Bagels-San-Francisco";s:4:"name";s:11:"Posh Bagels";s:2:"id";s:5:"89447";s:4:"info";s:85:"Bagels - <br />
-                <br />
-                  495 Castro St, San Francisco";s:5:"info2";s:6:"Bagels";s:7:"address";s:28:"495 Castro St, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.761111";s:3:"lon";s:11:"-122.434848";s:9:"neighbour";s:6:"Castro";}

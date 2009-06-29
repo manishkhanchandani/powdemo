@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:84:"http://www.urbanspoon.com/r/6/87897/restaurant/Bayview/Mozells-Kitchen-San-Francisco";s:4:"name";s:16:"Mozell's Kitchen";s:2:"id";s:5:"87897";s:4:"info";s:96:"Southern &amp; Soul - <br />
-                <br />
-                  6286 3rd St, San Francisco";s:5:"info2";s:19:"Southern &amp; Soul";s:7:"address";s:26:"6286 3rd St, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.720902";s:3:"lon";s:10:"-122.39661";s:9:"neighbour";s:7:"Bayview";}

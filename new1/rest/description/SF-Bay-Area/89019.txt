@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:82:"http://www.urbanspoon.com/r/6/89019/restaurant/Campbell/Perrys-Deli-Plus-Los-Gatos";s:4:"name";s:17:"Perry's Deli Plus";s:2:"id";s:5:"89019";s:4:"info";s:98:"Sandwiches/Subs - <br />
-                <br />
-                  14107 Winchester Blvd, Los Gatos";s:5:"info2";s:15:"Sandwiches/Subs";s:7:"address";s:32:"14107 Winchester Blvd, Los Gatos";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.262176";s:3:"lon";s:11:"-121.961898";s:9:"neighbour";s:8:"Campbell";}

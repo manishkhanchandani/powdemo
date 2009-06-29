@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:81:"http://www.urbanspoon.com/r/6/763512/restaurant/Antioch/Bay-Pizza-Pasta-Pittsburg";s:4:"name";s:21:"Bay Pizza &amp; Pasta";s:2:"id";s:6:"763512";s:4:"info";s:84:"Pizza - <br />
-                <br />
-                  2261 Railroad Ave, Pittsburg";s:5:"info2";s:5:"Pizza";s:7:"address";s:28:"2261 Railroad Ave, Pittsburg";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"38.012967";s:3:"lon";s:11:"-121.890736";s:9:"neighbour";s:7:"Antioch";}

@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:66:"http://www.urbanspoon.com/r/6/89661/restaurant/Quiznos-Sub-Alameda";s:4:"name";s:11:"Quiznos Sub";s:2:"id";s:5:"89661";s:4:"info";s:88:"Fast Food - <br />
-                <br />
-                  951 Marina Vlg Pkwy, Alameda";s:5:"info2";s:9:"Fast Food";s:7:"address";s:28:"951 Marina Vlg Pkwy, Alameda";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:8:"37.78298";s:3:"lon";s:11:"-122.271467";s:9:"neighbour";s:7:"Alameda";}

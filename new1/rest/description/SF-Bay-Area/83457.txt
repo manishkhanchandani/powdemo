@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:68:"http://www.urbanspoon.com/r/6/83457/restaurant/El-Cerrito-El-Cerrito";s:4:"name";s:10:"El Cerrito";s:2:"id";s:5:"83457";s:4:"info";s:91:"Fast Food - <br />
-                <br />
-                  11450 San Pablo Ave, El Cerrito";s:5:"info2";s:9:"Fast Food";s:7:"address";s:31:"11450 San Pablo Ave, El Cerrito";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.922581";s:3:"lon";s:11:"-122.316255";s:9:"neighbour";s:10:"El Cerrito";}

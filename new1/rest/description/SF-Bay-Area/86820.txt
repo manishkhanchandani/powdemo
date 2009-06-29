@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:103:"http://www.urbanspoon.com/r/6/86820/restaurant/Chinatown/Lobby-Lounge-at-the-Ritz-Carlton-San-Francisco";s:4:"name";s:32:"Lobby Lounge at the Ritz-Carlton";s:2:"id";s:5:"86820";s:4:"info";s:97:"Japanese and Tea - <br />
-                <br />
-                  600 Stockton St, San Francisco";s:5:"info2";s:16:"Japanese and Tea";s:7:"address";s:30:"600 Stockton St, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.791461";s:3:"lon";s:11:"-122.407153";s:9:"neighbour";s:9:"Chinatown";}

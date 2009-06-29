@@ -1,1 +1,0 @@
-a:9:{s:3:"url";s:64:"http://www.urbanspoon.com/r/6/93291/restaurant/Wuling-El-Cerrito";s:4:"name";s:6:"Wuling";s:2:"id";s:5:"93291";s:4:"info";s:31:"10561 San Pablo Ave, El Cerrito";s:7:"address";s:31:"10561 San Pablo Ave, El Cerrito";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.910738";s:3:"lon";s:11:"-122.308421";s:9:"neighbour";s:10:"El Cerrito";}

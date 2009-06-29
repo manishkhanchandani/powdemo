@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:95:"http://www.urbanspoon.com/r/6/1438842/restaurant/Antioch/El-Taco-Factory-Incorporated-Brentwood";s:4:"name";s:28:"El Taco Factory Incorporated";s:2:"id";s:7:"1438842";s:4:"info";s:87:"Mexican - <br />
-                <br />
-                  6660 Lone Tree Way, Brentwood";s:5:"info2";s:7:"Mexican";s:7:"address";s:29:"6660 Lone Tree Way, Brentwood";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.961751";s:3:"lon";s:11:"-121.729815";s:9:"neighbour";s:7:"Antioch";}

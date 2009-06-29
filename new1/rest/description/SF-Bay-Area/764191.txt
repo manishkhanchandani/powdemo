@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:78:"http://www.urbanspoon.com/r/6/764191/restaurant/La-Taqueria-Los-Cuates-Antioch";s:4:"name";s:22:"La Taqueria Los Cuates";s:2:"id";s:6:"764191";s:4:"info";s:80:"Mexican - <br />
-                <br />
-                  301 E 18th St, Antioch";s:5:"info2";s:7:"Mexican";s:7:"address";s:22:"301 E 18th St, Antioch";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"38.005028";s:3:"lon";s:11:"-121.799444";s:9:"neighbour";s:7:"Antioch";}

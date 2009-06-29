@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:70:"http://www.urbanspoon.com/r/6/88047/restaurant/Narita-Japanese-Belmont";s:4:"name";s:15:"Narita Japanese";s:2:"id";s:5:"88047";s:4:"info";s:94:"Japanese - <br />
-                <br />
-                  1001 Alameda De Las Pulgas, Belmont";s:5:"info2";s:8:"Japanese";s:7:"address";s:35:"1001 Alameda De Las Pulgas, Belmont";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.511994";s:3:"lon";s:11:"-122.294074";s:9:"neighbour";s:7:"Belmont";}

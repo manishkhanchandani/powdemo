@@ -1,1 +1,0 @@
-a:9:{s:3:"url";s:78:"http://www.urbanspoon.com/r/6/764471/restaurant/Panaderia-la-Jalisence-Antioch";s:4:"name";s:22:"Panaderia la Jalisence";s:2:"id";s:6:"764471";s:4:"info";s:18:"1516 A St, Antioch";s:7:"address";s:18:"1516 A St, Antioch";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"38.007018";s:3:"lon";s:11:"-121.806144";s:9:"neighbour";s:7:"Antioch";}

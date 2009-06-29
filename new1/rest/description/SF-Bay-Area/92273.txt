@@ -1,1 +1,0 @@
-a:9:{s:3:"url";s:62:"http://www.urbanspoon.com/r/6/92273/restaurant/Temari-Berkeley";s:4:"name";s:6:"Temari";s:2:"id";s:5:"92273";s:4:"info";s:28:"2215 San Pablo Ave, Berkeley";s:7:"address";s:28:"2215 San Pablo Ave, Berkeley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:8:"37.86607";s:3:"lon";s:11:"-122.291009";s:9:"neighbour";s:8:"Berkeley";}

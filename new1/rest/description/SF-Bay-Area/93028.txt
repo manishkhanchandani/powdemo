@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:69:"http://www.urbanspoon.com/r/6/93028/restaurant/Viva-Taqueria-Berkeley";s:4:"name";s:13:"Viva Taqueria";s:2:"id";s:5:"93028";s:4:"info";s:83:"Mexican - <br />
-                <br />
-                  2984 Russell St, Berkeley";s:5:"info2";s:7:"Mexican";s:7:"address";s:25:"2984 Russell St, Berkeley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.858863";s:3:"lon";s:11:"-122.245051";s:9:"neighbour";s:8:"Berkeley";}

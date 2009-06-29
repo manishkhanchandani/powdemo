@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:81:"http://www.urbanspoon.com/r/6/85017/restaurant/Castro/House-of-Chen-San-Francisco";s:4:"name";s:13:"House of Chen";s:2:"id";s:5:"85017";s:4:"info";s:93:"Chinese and Asian - <br />
-                <br />
-                  335 Noe St, San Francisco";s:5:"info2";s:17:"Chinese and Asian";s:7:"address";s:25:"335 Noe St, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.763602";s:3:"lon";s:11:"-122.432887";s:9:"neighbour";s:6:"Castro";}

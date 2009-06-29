@@ -1,1 +1,0 @@
-a:9:{s:3:"url";s:75:"http://www.urbanspoon.com/r/6/1212268/restaurant/Sams-Dog-House-El-Sobrante";s:4:"name";s:15:"Sam's Dog House";s:2:"id";s:7:"1212268";s:4:"info";s:34:"3857 San Pablo Dam Rd, El Sobrante";s:7:"address";s:34:"3857 San Pablo Dam Rd, El Sobrante";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"37.9653";s:3:"lon";s:9:"-122.3134";s:9:"neighbour";s:11:"El Sobrante";}

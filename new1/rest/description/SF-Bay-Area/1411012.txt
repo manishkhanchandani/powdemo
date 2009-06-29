@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:87:"http://www.urbanspoon.com/r/6/1411012/restaurant/Daly-City/Little-Caesars-San-Francisco";s:4:"name";s:14:"Little Caesars";s:2:"id";s:7:"1411012";s:4:"info";s:108:"Pizza, Fast Food and Italian - <br />
-                <br />
-                  955 Geneva Ave, San Francisco";s:5:"info2";s:28:"Pizza, Fast Food and Italian";s:7:"address";s:29:"955 Geneva Ave, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.716076";s:3:"lon";s:11:"-122.440026";s:9:"neighbour";s:9:"Daly City";}

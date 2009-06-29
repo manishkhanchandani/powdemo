@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:65:"http://www.urbanspoon.com/r/6/82033/restaurant/Carrows-El-Cerrito";s:4:"name";s:7:"Carrows";s:2:"id";s:5:"82033";s:4:"info";s:87:"American - <br />
-                <br />
-                  6120 Potrero Ave, El Cerrito";s:5:"info2";s:8:"American";s:7:"address";s:28:"6120 Potrero Ave, El Cerrito";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.920624";s:3:"lon";s:11:"-122.316432";s:9:"neighbour";s:10:"El Cerrito";}

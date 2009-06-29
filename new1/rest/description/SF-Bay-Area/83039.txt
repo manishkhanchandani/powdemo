@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:64:"http://www.urbanspoon.com/r/6/83039/restaurant/Del-Taco-Campbell";s:4:"name";s:8:"Del Taco";s:2:"id";s:5:"83039";s:4:"info";s:96:"Tacos and Mexican - <br />
-                <br />
-                  771 W Hamilton Ave, Campbell";s:5:"info2";s:17:"Tacos and Mexican";s:7:"address";s:28:"771 W Hamilton Ave, Campbell";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.294337";s:3:"lon";s:11:"-121.962806";s:9:"neighbour";s:8:"Campbell";}

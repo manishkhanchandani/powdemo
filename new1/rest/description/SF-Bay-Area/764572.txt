@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:70:"http://www.urbanspoon.com/r/6/764572/restaurant/Queen-Egg-Roll-Antioch";s:4:"name";s:14:"Queen Egg Roll";s:2:"id";s:6:"764572";s:4:"info";s:85:"Asian - <br />
-                <br />
-                  2896 Delta Fair Blvd, Antioch";s:5:"info2";s:5:"Asian";s:7:"address";s:29:"2896 Delta Fair Blvd, Antioch";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"38.000287";s:3:"lon";s:9:"-121.8377";s:9:"neighbour";s:7:"Antioch";}

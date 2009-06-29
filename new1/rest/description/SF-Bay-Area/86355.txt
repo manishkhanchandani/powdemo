@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:70:"http://www.urbanspoon.com/r/6/86355/restaurant/La-Patisserie-Cupertino";s:4:"name";s:13:"La Patisserie";s:2:"id";s:5:"86355";s:4:"info";s:92:"Bakery - <br />
-                <br />
-                  19758 Stevens Creek Blvd, Cupertino";s:5:"info2";s:6:"Bakery";s:7:"address";s:35:"19758 Stevens Creek Blvd, Cupertino";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.322763";s:3:"lon";s:11:"-122.019006";s:9:"neighbour";s:9:"Cupertino";}

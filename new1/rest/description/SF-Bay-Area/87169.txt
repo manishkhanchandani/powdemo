@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:71:"http://www.urbanspoon.com/r/6/87169/restaurant/Manhattan-Bagel-Berkeley";s:4:"name";s:15:"Manhattan Bagel";s:2:"id";s:5:"87169";s:4:"info";s:78:"Bagels - <br />
-                <br />
-                  1789 4th St, Berkeley";s:5:"info2";s:6:"Bagels";s:7:"address";s:21:"1789 4th St, Berkeley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.870577";s:3:"lon";s:11:"-122.300623";s:9:"neighbour";s:8:"Berkeley";}

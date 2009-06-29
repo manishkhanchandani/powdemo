@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:79:"http://www.urbanspoon.com/r/6/83629/restaurant/Emmas-Seafood-Poultry-Emeryville";s:4:"name";s:28:"Emma's Seafood &amp; Poultry";s:2:"id";s:5:"83629";s:4:"info";s:84:"Seafood - <br />
-                <br />
-                  3112 Market St, Emeryville";s:5:"info2";s:7:"Seafood";s:7:"address";s:26:"3112 Market St, Emeryville";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:8:"37.82169";s:3:"lon";s:11:"-122.275979";s:9:"neighbour";s:10:"Emeryville";}

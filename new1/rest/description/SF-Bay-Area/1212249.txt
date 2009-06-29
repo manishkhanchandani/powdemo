@@ -1,1 +1,0 @@
-a:9:{s:3:"url";s:70:"http://www.urbanspoon.com/r/6/1212249/restaurant/Gou-BU-LI-El-Sobrante";s:4:"name";s:9:"Gou BU LI";s:2:"id";s:7:"1212249";s:4:"info";s:40:"3340 San Pablo Dam Rd Ste F, El Sobrante";s:7:"address";s:40:"3340 San Pablo Dam Rd Ste F, El Sobrante";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"37.9626";s:3:"lon";s:9:"-122.3252";s:9:"neighbour";s:11:"El Sobrante";}

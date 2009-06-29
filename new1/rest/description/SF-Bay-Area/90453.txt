@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:64:"http://www.urbanspoon.com/r/6/90453/restaurant/Scends-Emeryville";s:4:"name";s:7:"Scend's";s:2:"id";s:5:"90453";s:4:"info";s:100:"Southern &amp; Soul - <br />
-                <br />
-                  3627 San Pablo Ave, Emeryville";s:5:"info2";s:19:"Southern &amp; Soul";s:7:"address";s:30:"3627 San Pablo Ave, Emeryville";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.827591";s:3:"lon";s:11:"-122.279002";s:9:"neighbour";s:10:"Emeryville";}

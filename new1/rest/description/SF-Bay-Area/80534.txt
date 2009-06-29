@@ -1,1 +1,0 @@
-a:9:{s:3:"url";s:77:"http://www.urbanspoon.com/r/6/80534/restaurant/Daly-City/Asmara-San-Francisco";s:4:"name";s:6:"Asmara";s:2:"id";s:5:"80534";s:4:"info";s:29:"1537 Ocean Ave, San Francisco";s:7:"address";s:29:"1537 Ocean Ave, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:8:"37.72425";s:3:"lon";s:11:"-122.458691";s:9:"neighbour";s:9:"Daly City";}

@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:63:"http://www.urbanspoon.com/r/6/86100/restaurant/Kitsho-Cupertino";s:4:"name";s:6:"Kitsho";s:2:"id";s:5:"86100";s:4:"info";s:87:"Japanese - <br />
-                <br />
-                  19541 Richwood Dr, Cupertino";s:5:"info2";s:8:"Japanese";s:7:"address";s:28:"19541 Richwood Dr, Cupertino";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.318536";s:3:"lon";s:11:"-122.017782";s:9:"neighbour";s:9:"Cupertino";}

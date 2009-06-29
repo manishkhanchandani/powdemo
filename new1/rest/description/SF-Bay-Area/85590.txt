@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:88:"http://www.urbanspoon.com/r/6/85590/restaurant/Bayview/Jim-Georgies-Donuts-San-Francisco";s:4:"name";s:20:"Jim Georgie's Donuts";s:2:"id";s:5:"85590";s:4:"info";s:90:"Donuts - <br />
-                <br />
-                  2462 San Bruno Ave, San Francisco";s:5:"info2";s:6:"Donuts";s:7:"address";s:33:"2462 San Bruno Ave, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.730869";s:3:"lon";s:11:"-122.405133";s:9:"neighbour";s:7:"Bayview";}

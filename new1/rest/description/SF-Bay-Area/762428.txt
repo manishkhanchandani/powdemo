@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:91:"http://www.urbanspoon.com/r/6/762428/restaurant/Bernal-Heights/Taco-Los-Altos-San-Francisco";s:4:"name";s:14:"Taco Los Altos";s:2:"id";s:6:"762428";s:4:"info";s:99:"Mexican and Tacos - <br />
-                <br />
-                  737 Cortland Ave, San Francisco";s:5:"info2";s:17:"Mexican and Tacos";s:7:"address";s:31:"737 Cortland Ave, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.739045";s:3:"lon";s:11:"-122.414951";s:9:"neighbour";s:14:"Bernal Heights";}

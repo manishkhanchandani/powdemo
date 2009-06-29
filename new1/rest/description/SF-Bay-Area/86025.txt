@@ -1,1 +1,0 @@
-a:9:{s:3:"url";s:71:"http://www.urbanspoon.com/r/6/86025/restaurant/Kimballs-East-Emeryville";s:4:"name";s:13:"Kimballs East";s:2:"id";s:5:"86025";s:4:"info";s:30:"6005 Shellmound St, Emeryville";s:7:"address";s:30:"6005 Shellmound St, Emeryville";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.842462";s:3:"lon";s:11:"-122.293417";s:9:"neighbour";s:10:"Emeryville";}

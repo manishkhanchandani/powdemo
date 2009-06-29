@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:66:"http://www.urbanspoon.com/r/6/87808/restaurant/Monas-Table-Alameda";s:4:"name";s:12:"Mona's Table";s:2:"id";s:5:"87808";s:4:"info";s:118:"California, Breakfast/Brunch and American - <br />
-                <br />
-                  3215- Encinal Ave, Alameda";s:5:"info2";s:41:"California, Breakfast/Brunch and American";s:7:"address";s:26:"3215- Encinal Ave, Alameda";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.755952";s:3:"lon";s:11:"-122.233527";s:9:"neighbour";s:7:"Alameda";}

@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:88:"http://www.urbanspoon.com/r/6/1445430/restaurant/Antioch/China-Villa-Resaurant-Brentwood";s:4:"name";s:21:"China Villa Resaurant";s:2:"id";s:7:"1445430";s:4:"info";s:88:"Chinese - <br />
-                <br />
-                  8610 Brentwood Blvd, Brentwood";s:5:"info2";s:7:"Chinese";s:7:"address";s:30:"8610 Brentwood Blvd, Brentwood";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.926967";s:3:"lon";s:11:"-121.691758";s:9:"neighbour";s:7:"Antioch";}

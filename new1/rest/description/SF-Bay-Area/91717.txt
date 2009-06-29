@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:66:"http://www.urbanspoon.com/r/6/91717/restaurant/Sushi-Zone-Campbell";s:4:"name";s:10:"Sushi Zone";s:2:"id";s:5:"91717";s:4:"info";s:103:"Sushi and Japanese - <br />
-                <br />
-                  75 S San Tomas Aquino Rd, Campbell";s:5:"info2";s:18:"Sushi and Japanese";s:7:"address";s:34:"75 S San Tomas Aquino Rd, Campbell";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.285406";s:3:"lon";s:11:"-121.976844";s:9:"neighbour";s:8:"Campbell";}

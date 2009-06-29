@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:71:"http://www.urbanspoon.com/r/6/90653/restaurant/at-Siam-Cuisine-Berkeley";s:4:"name";s:15:"at Siam Cuisine";s:2:"id";s:5:"90653";s:4:"info";s:109:"Wine Bar, Thai and Vegetarian - <br />
-                <br />
-                  1181 University Ave, Berkeley";s:5:"info2";s:29:"Wine Bar, Thai and Vegetarian";s:7:"address";s:29:"1181 University Ave, Berkeley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.869568";s:3:"lon";s:10:"-122.29011";s:9:"neighbour";s:8:"Berkeley";}

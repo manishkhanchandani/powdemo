@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:78:"http://www.urbanspoon.com/r/6/92610/restaurant/Tony-Albas-Pizza-Pasta-Campbell";s:4:"name";s:35:"Tony &amp; Alba's Pizza &amp; Pasta";s:2:"id";s:5:"92610";s:4:"info";s:79:"Pizza - <br />
-                <br />
-                  1719 Dell Ave, Campbell";s:5:"info2";s:5:"Pizza";s:7:"address";s:23:"1719 Dell Ave, Campbell";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.261876";s:3:"lon";s:11:"-121.957953";s:9:"neighbour";s:8:"Campbell";}

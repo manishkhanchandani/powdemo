@@ -1,1 +1,0 @@
-a:9:{s:3:"url";s:77:"http://www.urbanspoon.com/r/6/764192/restaurant/Antioch/La-Triguena-Pittsburg";s:4:"name";s:11:"La Triguena";s:2:"id";s:6:"764192";s:4:"info";s:28:"2273 Railroad Ave, Pittsburg";s:7:"address";s:28:"2273 Railroad Ave, Pittsburg";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"38.012801";s:3:"lon";s:11:"-121.890797";s:9:"neighbour";s:7:"Antioch";}

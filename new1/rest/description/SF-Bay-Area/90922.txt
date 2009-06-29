@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:64:"http://www.urbanspoon.com/r/6/90922/restaurant/Stacks-Burlingame";s:4:"name";s:6:"Stacks";s:2:"id";s:5:"90922";s:4:"info";s:88:"American - <br />
-                <br />
-                  361 California Dr, Burlingame";s:5:"info2";s:8:"American";s:7:"address";s:29:"361 California Dr, Burlingame";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.580237";s:3:"lon";s:11:"-122.346597";s:9:"neighbour";s:10:"Burlingame";}

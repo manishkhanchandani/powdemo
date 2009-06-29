@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:75:"http://www.urbanspoon.com/r/6/1212384/restaurant/Favelas-Taqueria-Fairfield";s:4:"name";s:17:"Favela's Taqueria";s:2:"id";s:7:"1212384";s:4:"info";s:92:"Tacos and Mexican - <br />
-                <br />
-                  1215 Texas St, Fairfield";s:5:"info2";s:17:"Tacos and Mexican";s:7:"address";s:24:"1215 Texas St, Fairfield";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"38.2491";s:3:"lon";s:9:"-122.0488";s:9:"neighbour";s:9:"Fairfield";}

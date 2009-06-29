@@ -1,1 +1,0 @@
-a:9:{s:3:"url";s:74:"http://www.urbanspoon.com/r/6/764526/restaurant/Antioch/Phu-Heip-Bay-Point";s:4:"name";s:8:"Phu Heip";s:2:"id";s:6:"764526";s:4:"info";s:30:"3355 Willow Pass Rd, Bay Point";s:7:"address";s:30:"3355 Willow Pass Rd, Bay Point";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"38.026651";s:3:"lon";s:11:"-121.953821";s:9:"neighbour";s:7:"Antioch";}

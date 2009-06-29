@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:80:"http://www.urbanspoon.com/r/6/86127/restaurant/Komatsu-Japanese-Cuisine-Campbell";s:4:"name";s:24:"Komatsu Japanese Cuisine";s:2:"id";s:5:"86127";s:4:"info";s:88:"Japanese - <br />
-                <br />
-                  300 Orchard City Dr, Campbell";s:5:"info2";s:8:"Japanese";s:7:"address";s:29:"300 Orchard City Dr, Campbell";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.286063";s:3:"lon";s:11:"-121.944244";s:9:"neighbour";s:8:"Campbell";}

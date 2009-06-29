@@ -1,1 +1,0 @@
-a:9:{s:3:"url";s:75:"http://www.urbanspoon.com/r/6/764232/restaurant/Antioch/Little-Js-Pittsburg";s:4:"name";s:10:"Little J's";s:2:"id";s:6:"764232";s:4:"info";s:28:"3350 Loveridge Rd, Pittsburg";s:7:"address";s:28:"3350 Loveridge Rd, Pittsburg";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"38.002547";s:3:"lon";s:11:"-121.873301";s:9:"neighbour";s:7:"Antioch";}

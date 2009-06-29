@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:66:"http://www.urbanspoon.com/r/6/763425/restaurant/Als-Donuts-Antioch";s:4:"name";s:11:"Al's Donuts";s:2:"id";s:6:"763425";s:4:"info";s:84:"Donuts - <br />
-                <br />
-                  3706 Lone Tree Way, Antioch";s:5:"info2";s:6:"Donuts";s:7:"address";s:27:"3706 Lone Tree Way, Antioch";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.984799";s:3:"lon";s:10:"-121.80607";s:9:"neighbour";s:7:"Antioch";}

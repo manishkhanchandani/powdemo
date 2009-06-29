@@ -1,1 +1,0 @@
-a:9:{s:3:"url";s:62:"http://www.urbanspoon.com/r/6/84984/restaurant/Hot-Shop-Albany";s:4:"name";s:8:"Hot Shop";s:2:"id";s:5:"84984";s:4:"info";s:25:"909 San Pablo Ave, Albany";s:7:"address";s:25:"909 San Pablo Ave, Albany";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.889977";s:3:"lon";s:11:"-122.298716";s:9:"neighbour";s:6:"Albany";}

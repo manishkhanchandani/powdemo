@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:92:"http://www.urbanspoon.com/r/6/87291/restaurant/Civic-Center/Marrakech-Moroccan-San-Francisco";s:4:"name";s:18:"Marrakech Moroccan";s:2:"id";s:5:"87291";s:4:"info";s:118:"African, Middle Eastern and Moroccan - <br />
-                <br />
-                  419 O'Farrell St, San Francisco";s:5:"info2";s:36:"African, Middle Eastern and Moroccan";s:7:"address";s:31:"419 O'Farrell St, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.786013";s:3:"lon";s:11:"-122.411732";s:9:"neighbour";s:12:"Civic Center";}

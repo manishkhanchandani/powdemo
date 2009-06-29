@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:67:"http://www.urbanspoon.com/r/6/1212307/restaurant/Siam-Lotus-Fairfax";s:4:"name";s:10:"Siam Lotus";s:2:"id";s:7:"1212307";s:4:"info";s:81:"Asian - <br />
-                <br />
-                  25 Broadway Blvd, Fairfax";s:5:"info2";s:5:"Asian";s:7:"address";s:25:"25 Broadway Blvd, Fairfax";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"37.9869";s:3:"lon";s:9:"-122.5883";s:9:"neighbour";s:7:"Fairfax";}

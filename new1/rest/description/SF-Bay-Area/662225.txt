@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:82:"http://www.urbanspoon.com/r/6/662225/restaurant/Nations-Giant-Hamburgers-Daly-City";s:4:"name";s:25:"Nation's Giant Hamburgers";s:2:"id";s:6:"662225";s:4:"info";s:86:"Burgers - <br />
-                <br />
-                  301 S Mayfair Ave, Daly City";s:5:"info2";s:7:"Burgers";s:7:"address";s:28:"301 S Mayfair Ave, Daly City";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"37.7016";s:3:"lon";s:9:"-122.4834";s:9:"neighbour";s:9:"Daly City";}

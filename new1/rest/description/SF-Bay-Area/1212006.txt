@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:70:"http://www.urbanspoon.com/r/6/1212006/restaurant/Buon-Appetito-Benicia";s:4:"name";s:13:"Buon Appetito";s:2:"id";s:7:"1212006";s:4:"info";s:87:"Italian - <br />
-                <br />
-                  191 Military E Ste F, Benicia";s:5:"info2";s:7:"Italian";s:7:"address";s:29:"191 Military E Ste F, Benicia";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"38.0539";s:3:"lon";s:9:"-122.1532";s:9:"neighbour";s:7:"Benicia";}

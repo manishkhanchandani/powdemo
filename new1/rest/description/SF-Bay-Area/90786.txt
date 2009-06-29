@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:70:"http://www.urbanspoon.com/r/6/90786/restaurant/Solano-Grill-Bar-Albany";s:4:"name";s:22:"Solano Grill &amp; Bar";s:2:"id";s:5:"90786";s:4:"info";s:91:"Asian and Seafood - <br />
-                <br />
-                  1133 Solano Ave, Albany";s:5:"info2";s:17:"Asian and Seafood";s:7:"address";s:23:"1133 Solano Ave, Albany";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.890475";s:3:"lon";s:11:"-122.297665";s:9:"neighbour";s:6:"Albany";}

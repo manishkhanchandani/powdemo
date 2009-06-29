@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:87:"http://www.urbanspoon.com/r/6/86007/restaurant/Civic-Center/Kiku-of-Tokyo-San-Francisco";s:4:"name";s:13:"Kiku of Tokyo";s:2:"id";s:5:"86007";s:4:"info";s:90:"Japanese - <br />
-                <br />
-                  333 O'Farrell St, San Francisco";s:5:"info2";s:8:"Japanese";s:7:"address";s:31:"333 O'Farrell St, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.786172";s:3:"lon";s:11:"-122.410325";s:9:"neighbour";s:12:"Civic Center";}

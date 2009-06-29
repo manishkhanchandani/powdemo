@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:78:"http://www.urbanspoon.com/r/6/80998/restaurant/Bettes-Oceanview-Diner-Berkeley";s:4:"name";s:23:"Bette's Oceanview Diner";s:2:"id";s:5:"80998";s:4:"info";s:98:"Diner, American and Coffee - <br />
-                <br />
-                  1807 4th St, Berkeley";s:5:"info2";s:26:"Diner, American and Coffee";s:7:"address";s:21:"1807 4th St, Berkeley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:8:"37.87033";s:3:"lon";s:11:"-122.300549";s:9:"neighbour";s:8:"Berkeley";}

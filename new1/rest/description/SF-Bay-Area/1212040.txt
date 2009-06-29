@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:76:"http://www.urbanspoon.com/r/6/1212040/restaurant/Napolis-Pizza-Pasta-Benicia";s:4:"name";s:26:"Napoli's Pizza &amp; Pasta";s:2:"id";s:7:"1212040";s:4:"info";s:83:"Pizza - <br />
-                <br />
-                  2062 Columbus Pkwy, Benicia";s:5:"info2";s:5:"Pizza";s:7:"address";s:27:"2062 Columbus Pkwy, Benicia";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"38.0801";s:3:"lon";s:8:"-122.191";s:9:"neighbour";s:7:"Benicia";}

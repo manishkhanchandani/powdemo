@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:74:"http://www.urbanspoon.com/r/6/92699/restaurant/Trevinos-Mexican-El-Cerrito";s:4:"name";s:17:"Trevino's Mexican";s:2:"id";s:5:"92699";s:4:"info";s:89:"Mexican - <br />
-                <br />
-                  11795 San Pablo Ave, El Cerrito";s:5:"info2";s:7:"Mexican";s:7:"address";s:31:"11795 San Pablo Ave, El Cerrito";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.927496";s:3:"lon";s:11:"-122.320173";s:9:"neighbour";s:10:"El Cerrito";}

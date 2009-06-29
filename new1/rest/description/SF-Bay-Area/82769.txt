@@ -1,1 +1,0 @@
-a:9:{s:3:"url";s:77:"http://www.urbanspoon.com/r/6/82769/restaurant/Corte-Madera-Cafe-Corte-Madera";s:4:"name";s:17:"Corte Madera Cafe";s:2:"id";s:5:"82769";s:4:"info";s:29:"12 Tamalpais Dr, Corte Madera";s:7:"address";s:29:"12 Tamalpais Dr, Corte Madera";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.926229";s:3:"lon";s:11:"-122.529272";s:9:"neighbour";s:12:"Corte Madera";}

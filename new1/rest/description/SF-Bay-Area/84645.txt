@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:82:"http://www.urbanspoon.com/r/6/84645/restaurant/Civic-Center/Hana-Zen-San-Francisco";s:4:"name";s:8:"Hana Zen";s:2:"id";s:5:"84645";s:4:"info";s:93:"Japanese - <br />
-                <br />
-                  115 Cyril Magnin St, San Francisco";s:5:"info2";s:8:"Japanese";s:7:"address";s:34:"115 Cyril Magnin St, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.785578";s:3:"lon";s:11:"-122.408888";s:9:"neighbour";s:12:"Civic Center";}

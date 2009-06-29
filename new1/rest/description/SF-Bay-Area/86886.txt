@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:82:"http://www.urbanspoon.com/r/6/86886/restaurant/Los-Dos-Compadres-Taqueria-Campbell";s:4:"name";s:26:"Los Dos Compadres Taqueria";s:2:"id";s:5:"86886";s:4:"info";s:86:"Mexican - <br />
-                <br />
-                  100 W Hamilton Ave, Campbell";s:5:"info2";s:7:"Mexican";s:7:"address";s:28:"100 W Hamilton Ave, Campbell";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.294163";s:3:"lon";s:11:"-121.951632";s:9:"neighbour";s:8:"Campbell";}

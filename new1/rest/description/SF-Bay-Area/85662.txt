@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:86:"http://www.urbanspoon.com/r/6/85662/restaurant/Bayview/Johnsons-Barbeque-San-Francisco";s:4:"name";s:18:"Johnson's Barbeque";s:2:"id";s:5:"85662";s:4:"info";s:105:"Barbecue and American - <br />
-                <br />
-                  2646 San Bruno Ave, San Francisco";s:5:"info2";s:21:"Barbecue and American";s:7:"address";s:33:"2646 San Bruno Ave, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:8:"37.72819";s:3:"lon";s:11:"-122.404026";s:9:"neighbour";s:7:"Bayview";}

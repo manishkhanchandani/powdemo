@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:75:"http://www.urbanspoon.com/r/6/1412425/restaurant/Taqueria-Superior-Campbell";s:4:"name";s:17:"Taqueria Superior";s:2:"id";s:7:"1412425";s:4:"info";s:87:"Tacos - <br />
-                <br />
-                  2325 Winchester Blvd/, Campbell";s:5:"info2";s:5:"Tacos";s:7:"address";s:31:"2325 Winchester Blvd/, Campbell";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.280957";s:3:"lon";s:11:"-121.949971";s:9:"neighbour";s:8:"Campbell";}

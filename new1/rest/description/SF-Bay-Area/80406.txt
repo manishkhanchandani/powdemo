@@ -1,1 +1,0 @@
-a:9:{s:3:"url";s:60:"http://www.urbanspoon.com/r/6/80406/restaurant/Anzu-Berkeley";s:4:"name";s:4:"Anzu";s:2:"id";s:5:"80406";s:4:"info";s:27:"2433 Shattuck Ave, Berkeley";s:7:"address";s:27:"2433 Shattuck Ave, Berkeley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.865253";s:3:"lon";s:11:"-122.267363";s:9:"neighbour";s:8:"Berkeley";}

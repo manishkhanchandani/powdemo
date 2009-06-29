@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:90:"http://www.urbanspoon.com/r/6/83934/restaurant/Chinatown/Floating-Sushi-Boat-San-Francisco";s:4:"name";s:19:"Floating Sushi Boat";s:2:"id";s:5:"83934";s:4:"info";s:84:"Sushi - <br />
-                <br />
-                  700 Grant Ave, San Francisco";s:5:"info2";s:5:"Sushi";s:7:"address";s:28:"700 Grant Ave, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.793563";s:3:"lon";s:11:"-122.405962";s:9:"neighbour";s:9:"Chinatown";}

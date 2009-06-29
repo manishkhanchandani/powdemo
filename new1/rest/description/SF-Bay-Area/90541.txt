@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:93:"http://www.urbanspoon.com/r/6/90541/restaurant/Bayview/7-Mile-House-Sports-Bar-Grill-Brisbane";s:4:"name";s:35:"7 Mile House Sports Bar &amp; Grill";s:2:"id";s:5:"90541";s:4:"info";s:108:"Burgers, Seafood and Pub Food - <br />
-                <br />
-                  2800 Bayshore Blvd, Brisbane";s:5:"info2";s:29:"Burgers, Seafood and Pub Food";s:7:"address";s:28:"2800 Bayshore Blvd, Brisbane";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.704523";s:3:"lon";s:11:"-122.407323";s:9:"neighbour";s:7:"Bayview";}

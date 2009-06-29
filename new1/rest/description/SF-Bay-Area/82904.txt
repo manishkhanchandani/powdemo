@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:71:"http://www.urbanspoon.com/r/6/82904/restaurant/Cybelles-Pizza-Daly-City";s:4:"name";s:15:"Cybelle's Pizza";s:2:"id";s:5:"82904";s:4:"info";s:91:"Pizza - <br />
-                <br />
-                  2985 Junipero Serra Blvd, Daly City";s:5:"info2";s:5:"Pizza";s:7:"address";s:35:"2985 Junipero Serra Blvd, Daly City";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.686909";s:3:"lon";s:11:"-122.470412";s:9:"neighbour";s:9:"Daly City";}

@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:65:"http://www.urbanspoon.com/r/6/86055/restaurant/King-Wah-Daly-City";s:4:"name";s:8:"King Wah";s:2:"id";s:5:"86055";s:4:"info";s:84:"Asian - <br />
-                <br />
-                  209 Southgate Ave, Daly City";s:5:"info2";s:5:"Asian";s:7:"address";s:28:"209 Southgate Ave, Daly City";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.697163";s:3:"lon";s:11:"-122.484806";s:9:"neighbour";s:9:"Daly City";}

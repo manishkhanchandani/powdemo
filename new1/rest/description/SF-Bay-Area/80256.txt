@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:96:"http://www.urbanspoon.com/r/6/80256/restaurant/Civic-Center/Allstar-Donuts-Burgers-San-Francisco";s:4:"name";s:28:"Allstar Donuts &amp; Burgers";s:2:"id";s:5:"80256";s:4:"info";s:110:"Burgers, Coffee and Diner - <br />
-                <br />
-                  290 Golden Gate Ave, San Francisco";s:5:"info2";s:25:"Burgers, Coffee and Diner";s:7:"address";s:34:"290 Golden Gate Ave, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.781867";s:3:"lon";s:11:"-122.415271";s:9:"neighbour";s:12:"Civic Center";}

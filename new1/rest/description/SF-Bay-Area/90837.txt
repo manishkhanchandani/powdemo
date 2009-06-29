@@ -1,1 +1,0 @@
-a:9:{s:3:"url";s:71:"http://www.urbanspoon.com/r/6/90837/restaurant/South-Shore-Cafe-Alameda";s:4:"name";s:16:"South Shore Cafe";s:2:"id";s:5:"90837";s:4:"info";s:26:"531 S Shore Ctr W, Alameda";s:7:"address";s:26:"531 S Shore Ctr W, Alameda";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.759137";s:3:"lon";s:11:"-122.252718";s:9:"neighbour";s:7:"Alameda";}

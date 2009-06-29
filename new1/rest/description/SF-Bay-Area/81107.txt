@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:70:"http://www.urbanspoon.com/r/6/81107/restaurant/Blondies-Pizza-Berkeley";s:4:"name";s:15:"Blondie's Pizza";s:2:"id";s:5:"81107";s:4:"info";s:84:"Pizza - <br />
-                <br />
-                  2340 Telegraph Ave, Berkeley";s:5:"info2";s:5:"Pizza";s:7:"address";s:28:"2340 Telegraph Ave, Berkeley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.868031";s:3:"lon";s:11:"-122.259206";s:9:"neighbour";s:8:"Berkeley";}

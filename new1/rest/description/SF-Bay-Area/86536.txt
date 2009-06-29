@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:70:"http://www.urbanspoon.com/r/6/86536/restaurant/Le-Bateau-Ivre-Berkeley";s:4:"name";s:14:"Le Bateau Ivre";s:2:"id";s:5:"86536";s:4:"info";s:116:"French, Coffee and Desserts/Ice Cream - <br />
-                <br />
-                  2629 Telegraph Ave, Berkeley";s:5:"info2";s:37:"French, Coffee and Desserts/Ice Cream";s:7:"address";s:28:"2629 Telegraph Ave, Berkeley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.862425";s:3:"lon";s:11:"-122.258611";s:9:"neighbour";s:8:"Berkeley";}

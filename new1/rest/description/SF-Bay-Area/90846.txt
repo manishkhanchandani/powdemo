@@ -1,1 +1,0 @@
-a:9:{s:3:"url";s:72:"http://www.urbanspoon.com/r/6/90846/restaurant/Southland-Taste-Cupertino";s:4:"name";s:15:"Southland Taste";s:2:"id";s:5:"90846";s:4:"info";s:27:"10825 N Wolfe Rd, Cupertino";s:7:"address";s:27:"10825 N Wolfe Rd, Cupertino";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.335145";s:3:"lon";s:11:"-122.014372";s:9:"neighbour";s:9:"Cupertino";}

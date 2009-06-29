@@ -1,1 +1,0 @@
-a:9:{s:3:"url";s:75:"http://www.urbanspoon.com/r/6/85731/restaurant/Julies-Healthy-Cafe-Berkeley";s:4:"name";s:20:"Julie's Healthy Cafe";s:2:"id";s:5:"85731";s:4:"info";s:27:"2562 Bancroft Way, Berkeley";s:7:"address";s:27:"2562 Bancroft Way, Berkeley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.868739";s:3:"lon";s:10:"-122.25775";s:9:"neighbour";s:8:"Berkeley";}

@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:90:"http://www.urbanspoon.com/r/6/82288/restaurant/Civic-Center/Chevys-Fresh-Mex-San-Francisco";s:4:"name";s:17:"Chevy's Fresh Mex";s:2:"id";s:5:"82288";s:4:"info";s:89:"Mexican - <br />
-                <br />
-                  590 Van Ness Ave, San Francisco";s:5:"info2";s:7:"Mexican";s:7:"address";s:31:"590 Van Ness Ave, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.780876";s:3:"lon";s:11:"-122.420191";s:9:"neighbour";s:12:"Civic Center";}

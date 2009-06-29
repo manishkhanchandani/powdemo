@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:75:"http://www.urbanspoon.com/r/6/1212445/restaurant/Marie-Callenders-Fairfield";s:4:"name";s:17:"Marie Callender's";s:2:"id";s:7:"1212445";s:4:"info";s:109:"American and Desserts/Ice Cream - <br />
-                <br />
-                  1750 Travis Blvd, Fairfield";s:5:"info2";s:31:"American and Desserts/Ice Cream";s:7:"address";s:27:"1750 Travis Blvd, Fairfield";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"38.2581";s:3:"lon";s:9:"-122.0582";s:9:"neighbour";s:9:"Fairfield";}

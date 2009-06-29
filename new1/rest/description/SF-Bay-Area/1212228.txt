@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:86:"http://www.urbanspoon.com/r/6/1212228/restaurant/Los-Arcos-Mexican-Restaurant-Crockett";s:4:"name";s:28:"Los Arcos Mexican Restaurant";s:2:"id";s:7:"1212228";s:4:"info";s:82:"Mexican - <br />
-                <br />
-                  1207 Pomona St, Crockett";s:5:"info2";s:7:"Mexican";s:7:"address";s:24:"1207 Pomona St, Crockett";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"38.0523";s:3:"lon";s:8:"-122.223";s:9:"neighbour";s:13:"Crockett, CA,";}

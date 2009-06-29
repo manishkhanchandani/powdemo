@@ -1,3 +1,0 @@
-a:10:{s:3:"url";s:79:"http://www.urbanspoon.com/r/6/90142/restaurant/Royal-Taj-India-Cuisine-Campbell";s:4:"name";s:23:"Royal Taj India Cuisine";s:2:"id";s:5:"90142";s:4:"info";s:82:"Indian - <br />
-                <br />
-                  1350 Camden Ave, Campbell";s:5:"info2";s:6:"Indian";s:7:"address";s:25:"1350 Camden Ave, Campbell";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.269092";s:3:"lon";s:11:"-121.944455";s:9:"neighbour";s:8:"Campbell";}
