@@ -17,6 +17,9 @@ if ($handle = opendir($dirname)) {
 		if($filetype == "file") {
 			echo $dirname."/".$file;
 			echo "<br>";
+			if(!($file == "Southern-California-restaurants.html" || $file == "Northern-California-restaurants.html")) {
+				continue;
+			}
 			$folder = str_replace("-restaurants.html", "", $file);
 			echo $folder;
 			echo "<br>";
