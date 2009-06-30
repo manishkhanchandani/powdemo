@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>82438</field>
+<field name='rid'>United States/CA/Fremont/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Fremont</field>
+<field name='address'>2760 Mowry Ave</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Mexican</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Fremont</field>
+<field name='phone'>(510) 791-8411</field>
+<field name='zip'>94538</field>
+<field name='linktext'><![CDATA[www.chipotle.com]]></field>
+<field name='title'>Chipotle Mexican Grill</field>
+<field name='full_neighborhood'>SF-Bay-Area, Fremont, CA</field>
+<field name='full_city'>Fremont, CA</field>
+<field name='lat'>37.555322</field>
+<field name='lon'>-121.982688</field>
+</doc>
+</add>

@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>88795</field>
+<field name='rid'>United States/CA/Fremont/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Fremont</field>
+<field name='address'>37296 Mission Blvd</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>French</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Fremont</field>
+<field name='phone'>(510) 793-6331</field>
+<field name='zip'>94536</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Papillon</field>
+<field name='full_neighborhood'>SF-Bay-Area, Fremont, CA</field>
+<field name='full_city'>Fremont, CA</field>
+<field name='lat'>37.579036</field>
+<field name='lon'>-121.979205</field>
+</doc>
+</add>

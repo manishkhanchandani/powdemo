@@ -1,0 +1,22 @@
+<add>
+<doc>
+<field name='id'>81433</field>
+<field name='rid'>United States/CA/Fremont/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Fremont</field>
+<field name='address'>3996 Washington Blvd</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Fast Food</field>
+<field name='cuisine'>Burgers</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Fremont</field>
+<field name='phone'>(510) 651-9010</field>
+<field name='zip'>94538</field>
+<field name='linktext'><![CDATA[www.burgerking.com]]></field>
+<field name='title'>Burger King</field>
+<field name='full_neighborhood'>SF-Bay-Area, Fremont, CA</field>
+<field name='full_city'>Fremont, CA</field>
+<field name='lat'>37.532629</field>
+<field name='lon'>-121.958546</field>
+</doc>
+</add>

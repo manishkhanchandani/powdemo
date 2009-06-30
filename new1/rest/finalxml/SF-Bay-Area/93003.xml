@@ -1,0 +1,20 @@
+<add>
+<doc>
+<field name='id'>93003</field>
+<field name='rid'>United States/CA/Fremont/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Fremont</field>
+<field name='address'>1596 Washington Blvd</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Fremont</field>
+<field name='phone'>(510) 651-7836</field>
+<field name='zip'>94539</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Vintage Cafe</field>
+<field name='full_neighborhood'>SF-Bay-Area, Fremont, CA</field>
+<field name='full_city'>Fremont, CA</field>
+<field name='lat'>37.531323</field>
+<field name='lon'>-121.93576</field>
+</doc>
+</add>

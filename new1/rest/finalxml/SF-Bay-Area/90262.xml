@@ -1,0 +1,22 @@
+<add>
+<doc>
+<field name='id'>90262</field>
+<field name='rid'>United States/CA/Fremont/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Fremont</field>
+<field name='address'>39170 State St</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Thai</field>
+<field name='cuisine'>Barbecue</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Fremont</field>
+<field name='phone'>(510) 792-0770</field>
+<field name='zip'>94538</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Salathai</field>
+<field name='full_neighborhood'>SF-Bay-Area, Fremont, CA</field>
+<field name='full_city'>Fremont, CA</field>
+<field name='lat'>37.549701</field>
+<field name='lon'>-121.983612</field>
+</doc>
+</add>

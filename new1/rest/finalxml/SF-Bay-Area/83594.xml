@@ -1,0 +1,20 @@
+<add>
+<doc>
+<field name='id'>83594</field>
+<field name='rid'>United States/CA/Half Moon Bay/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Half Moon Bay</field>
+<field name='address'>103 Harvard Ave</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Half Moon Bay</field>
+<field name='phone'>(650) 728-2248</field>
+<field name='zip'>94019</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Elegant Cheese Cakes</field>
+<field name='full_neighborhood'>SF-Bay-Area, Half Moon Bay, CA</field>
+<field name='full_city'>Half Moon Bay, CA</field>
+<field name='lat'>37.503682</field>
+<field name='lon'>-122.492908</field>
+</doc>
+</add>

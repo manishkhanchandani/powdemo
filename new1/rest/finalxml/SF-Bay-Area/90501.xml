@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>90501</field>
+<field name='rid'>United States/CA/Fremont/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Fremont</field>
+<field name='address'>43486 Ellsworth St</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Sushi</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Fremont</field>
+<field name='phone'>(510) 438-0571</field>
+<field name='zip'>94539</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Seisho Japanese</field>
+<field name='full_neighborhood'>SF-Bay-Area, Fremont, CA</field>
+<field name='full_city'>Fremont, CA</field>
+<field name='lat'>37.53053</field>
+<field name='lon'>-121.920508</field>
+</doc>
+</add>

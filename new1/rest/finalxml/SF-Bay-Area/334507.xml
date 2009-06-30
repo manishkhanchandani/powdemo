@@ -1,0 +1,22 @@
+<add>
+<doc>
+<field name='id'>334507</field>
+<field name='rid'>United States/CA/Foster City/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Foster City</field>
+<field name='address'>1088 Shell Blvd</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Indian</field>
+<field name='cuisine'>Pakistani</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Foster City</field>
+<field name='phone'>(650) 638-1555</field>
+<field name='zip'>94404</field>
+<field name='linktext'><![CDATA[www.newtabla.com]]></field>
+<field name='title'>Tabla</field>
+<field name='full_neighborhood'>SF-Bay-Area, Foster City, CA</field>
+<field name='full_city'>Foster City, CA</field>
+<field name='lat'>37.549372</field>
+<field name='lon'>-122.264161</field>
+</doc>
+</add>

@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>92437</field>
+<field name='rid'>United States/CA/Fremont/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Fremont</field>
+<field name='address'>3839 Washington Blvd</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Mexican</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Fremont</field>
+<field name='phone'>(510) 659-8036</field>
+<field name='zip'>94538</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Tia Juana Bar &amp; Grill</field>
+<field name='full_neighborhood'>SF-Bay-Area, Fremont, CA</field>
+<field name='full_city'>Fremont, CA</field>
+<field name='lat'>37.532874</field>
+<field name='lon'>-121.95714</field>
+</doc>
+</add>

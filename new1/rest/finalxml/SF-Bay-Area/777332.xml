@@ -1,0 +1,22 @@
+<add>
+<doc>
+<field name='id'>777332</field>
+<field name='rid'>United States/CA/Fremont/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Fremont</field>
+<field name='address'>3860 Mowry Ave</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Italian</field>
+<field name='cuisine'>California</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Fremont</field>
+<field name='phone'>(510) 494-1428</field>
+<field name='zip'>94538</field>
+<field name='linktext'><![CDATA[www.federicoscafe.com]]></field>
+<field name='title'>Federicos Cafe</field>
+<field name='full_neighborhood'>SF-Bay-Area, Fremont, CA</field>
+<field name='full_city'>Fremont, CA</field>
+<field name='lat'>37.549344</field>
+<field name='lon'>-121.987568</field>
+</doc>
+</add>

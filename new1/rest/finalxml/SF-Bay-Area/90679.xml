@@ -1,0 +1,23 @@
+<add>
+<doc>
+<field name='id'>90679</field>
+<field name='rid'>United States/CA/San Francisco/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>San Francisco</field>
+<field name='address'>222 Sansome St</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Asian</field>
+<field name='cuisine'>American</field>
+<field name='cuisine'>European</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/San Francisco</field>
+<field name='phone'>(415) 986-2020</field>
+<field name='zip'>94104</field>
+<field name='linktext'><![CDATA[www.mandarinoriental.com/hotel...]]></field>
+<field name='title'>Silks</field>
+<field name='full_neighborhood'>SF-Bay-Area, San Francisco, CA</field>
+<field name='full_city'>San Francisco, CA</field>
+<field name='lat'>37.792432</field>
+<field name='lon'>-122.400754</field>
+</doc>
+</add>

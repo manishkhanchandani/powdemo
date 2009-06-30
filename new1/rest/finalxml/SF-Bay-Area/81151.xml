@@ -1,0 +1,23 @@
+<add>
+<doc>
+<field name='id'>81151</field>
+<field name='rid'>United States/CA/San Francisco/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>San Francisco</field>
+<field name='address'>500 California St</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>American</field>
+<field name='cuisine'>Seafood</field>
+<field name='cuisine'>Steakhouse</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/San Francisco</field>
+<field name='phone'>(415) 273-3085</field>
+<field name='zip'>94104</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Bob's Steak and Chop House</field>
+<field name='full_neighborhood'>SF-Bay-Area, San Francisco, CA</field>
+<field name='full_city'>San Francisco, CA</field>
+<field name='lat'>37.793018</field>
+<field name='lon'>-122.402893</field>
+</doc>
+</add>

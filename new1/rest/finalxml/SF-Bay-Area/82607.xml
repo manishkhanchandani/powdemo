@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>82607</field>
+<field name='rid'>United States/CA/Half Moon Bay/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Half Moon Bay</field>
+<field name='address'>140 San Mateo Rd</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Coffee</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Half Moon Bay</field>
+<field name='phone'>(650) 726-1863</field>
+<field name='zip'>94019</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Coastside Gourmet Coffee Tea</field>
+<field name='full_neighborhood'>SF-Bay-Area, Half Moon Bay, CA</field>
+<field name='full_city'>Half Moon Bay, CA</field>
+<field name='lat'>37.467947</field>
+<field name='lon'>-122.431058</field>
+</doc>
+</add>

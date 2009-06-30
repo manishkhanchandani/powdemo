@@ -1,0 +1,20 @@
+<add>
+<doc>
+<field name='id'>84738</field>
+<field name='rid'>United States/CA/Foster City/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Foster City</field>
+<field name='address'>1297 Chess Dr</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Foster City</field>
+<field name='phone'>(650) 349-8411</field>
+<field name='zip'>94404</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Harry's Hofbrau</field>
+<field name='full_neighborhood'>SF-Bay-Area, Foster City, CA</field>
+<field name='full_city'>Foster City, CA</field>
+<field name='lat'>37.561976</field>
+<field name='lon'>-122.279326</field>
+</doc>
+</add>

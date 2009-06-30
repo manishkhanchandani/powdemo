@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>92767</field>
+<field name='rid'>United States/CA/Foster City/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Foster City</field>
+<field name='address'>981 E Hillsdale Blvd</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Seafood</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Foster City</field>
+<field name='phone'>(650) 286-1788</field>
+<field name='zip'>94404</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Turtle Bay Grill &amp; Seafood</field>
+<field name='full_neighborhood'>SF-Bay-Area, Foster City, CA</field>
+<field name='full_city'>Foster City, CA</field>
+<field name='lat'>37.556927</field>
+<field name='lon'>-122.273808</field>
+</doc>
+</add>

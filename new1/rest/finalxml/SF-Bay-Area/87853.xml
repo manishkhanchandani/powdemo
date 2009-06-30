@@ -1,0 +1,20 @@
+<add>
+<doc>
+<field name='id'>87853</field>
+<field name='rid'>United States/CA/San Mateo/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>San Mateo</field>
+<field name='address'>2001 Chess Dr</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/San Mateo</field>
+<field name='phone'>(650) 349-5114</field>
+<field name='zip'>94404</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Morning Fixx</field>
+<field name='full_neighborhood'>SF-Bay-Area, San Mateo, CA</field>
+<field name='full_city'>San Mateo, CA</field>
+<field name='lat'>37.562722</field>
+<field name='lon'>-122.281594</field>
+</doc>
+</add>

@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>92955</field>
+<field name='rid'>United States/CA/Fremont/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Fremont</field>
+<field name='address'>5149 Mowry Ave</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Bakery</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Fremont</field>
+<field name='phone'>(510) 797-7957</field>
+<field name='zip'>94538</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Vienna Bakery &amp; Cafe</field>
+<field name='full_neighborhood'>SF-Bay-Area, Fremont, CA</field>
+<field name='full_city'>Fremont, CA</field>
+<field name='lat'>37.534978</field>
+<field name='lon'>-121.999742</field>
+</doc>
+</add>

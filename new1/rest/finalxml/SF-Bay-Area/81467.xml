@@ -1,0 +1,22 @@
+<add>
+<doc>
+<field name='id'>81467</field>
+<field name='rid'>United States/CA/San Francisco/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>San Francisco</field>
+<field name='address'>86 Carl St</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Burgers</field>
+<field name='cuisine'>American</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/San Francisco</field>
+<field name='phone'>(415) 566-1274</field>
+<field name='zip'>94117</field>
+<field name='linktext'><![CDATA[www.burgermeistersf.com]]></field>
+<field name='title'>Burgermeister</field>
+<field name='full_neighborhood'>SF-Bay-Area, San Francisco, CA</field>
+<field name='full_city'>San Francisco, CA</field>
+<field name='lat'>37.765992</field>
+<field name='lon'>-122.449611</field>
+</doc>
+</add>

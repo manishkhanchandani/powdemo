@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>89075</field>
+<field name='rid'>United States/CA/Fremont/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Fremont</field>
+<field name='address'>40900 Fremont Blvd</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Seafood</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Fremont</field>
+<field name='phone'>(510) 252-9926</field>
+<field name='zip'>94538</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Pho Hoa</field>
+<field name='full_neighborhood'>SF-Bay-Area, Fremont, CA</field>
+<field name='full_city'>Fremont, CA</field>
+<field name='lat'>37.533877</field>
+<field name='lon'>-121.960467</field>
+</doc>
+</add>

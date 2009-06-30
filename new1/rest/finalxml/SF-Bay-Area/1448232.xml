@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>1448232</field>
+<field name='rid'>United States/CA/Fremont/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Fremont</field>
+<field name='address'>47986 Warm Springs Blvd</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Indian</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Fremont</field>
+<field name='phone'>(510) 252-1111</field>
+<field name='zip'>94539</field>
+<field name='linktext'><![CDATA[www.athidhi-indiancuisine-fremont.com]]></field>
+<field name='title'>Athidhi Indian Cuisine</field>
+<field name='full_neighborhood'>SF-Bay-Area, Fremont, CA</field>
+<field name='full_city'>Fremont, CA</field>
+<field name='lat'>37.475316</field>
+<field name='lon'>-121.920979</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<add>
+<doc>
+<field name='id'>87694</field>
+<field name='rid'>United States/CA/San Mateo/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>San Mateo</field>
+<field name='address'>2208 Bridgepointe Pkwy</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Desserts/Ice Cream</field>
+<field name='cuisine'>American</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/San Mateo</field>
+<field name='phone'>(650) 574-8767</field>
+<field name='zip'>94404</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Mimi's Cafe</field>
+<field name='full_neighborhood'>SF-Bay-Area, San Mateo, CA</field>
+<field name='full_city'>San Mateo, CA</field>
+<field name='lat'>37.559957</field>
+<field name='lon'>-122.284161</field>
+</doc>
+</add>

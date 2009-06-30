@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>1414128</field>
+<field name='rid'>United States/CA/San Francisco/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>San Francisco</field>
+<field name='address'>199 Sutter St</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Sandwiches/Subs</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/San Francisco</field>
+<field name='phone'>(415) 956-7200</field>
+<field name='zip'>94104</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Bread and Cocoa</field>
+<field name='full_neighborhood'>SF-Bay-Area, San Francisco, CA</field>
+<field name='full_city'>San Francisco, CA</field>
+<field name='lat'>37.789761</field>
+<field name='lon'>-122.403694</field>
+</doc>
+</add>

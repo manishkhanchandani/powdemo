@@ -1,0 +1,22 @@
+<add>
+<doc>
+<field name='id'>1446641</field>
+<field name='rid'>United States/CA/Half Moon Bay/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Half Moon Bay</field>
+<field name='address'>390 Capistrano Rd</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>California</field>
+<field name='cuisine'>Seafood</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Half Moon Bay</field>
+<field name='phone'>(650) 728-2739</field>
+<field name='zip'>94019</field>
+<field name='linktext'><![CDATA[www.hmbbrewingco.com]]></field>
+<field name='title'>Half Moon Bay Brewing Company</field>
+<field name='full_neighborhood'>SF-Bay-Area, Half Moon Bay, CA</field>
+<field name='full_city'>Half Moon Bay, CA</field>
+<field name='lat'>37.506633</field>
+<field name='lon'>-122.487651</field>
+</doc>
+</add>

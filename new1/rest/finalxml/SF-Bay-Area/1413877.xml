@@ -1,0 +1,22 @@
+<add>
+<doc>
+<field name='id'>1413877</field>
+<field name='rid'>United States/CA/Fremont/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Fremont</field>
+<field name='address'>43349 Pacific Commons Blvd.</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>American</field>
+<field name='cuisine'>Burgers</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Fremont</field>
+<field name='phone'>(800) 786-1000</field>
+<field name='zip'>94538</field>
+<field name='linktext'><![CDATA[www.in-n-out.com/location_details.asp...]]></field>
+<field name='title'>In-N-Out Burger</field>
+<field name='full_neighborhood'>SF-Bay-Area, Fremont, CA</field>
+<field name='full_city'>Fremont, CA</field>
+<field name='lat'>37.503999</field>
+<field name='lon'>-121.97347</field>
+</doc>
+</add>

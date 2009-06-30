@@ -1,0 +1,23 @@
+<add>
+<doc>
+<field name='id'>87323</field>
+<field name='rid'>United States/CA/Fremont/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Fremont</field>
+<field name='address'>5200 Mowry Ave</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Italian</field>
+<field name='cuisine'>American</field>
+<field name='cuisine'>European</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Fremont</field>
+<field name='phone'>(510) 792-2000</field>
+<field name='zip'>94538</field>
+<field name='linktext'><![CDATA[www.massimos.com]]></field>
+<field name='title'>Massimo's</field>
+<field name='full_neighborhood'>SF-Bay-Area, Fremont, CA</field>
+<field name='full_city'>Fremont, CA</field>
+<field name='lat'>37.534359</field>
+<field name='lon'>-121.999827</field>
+</doc>
+</add>

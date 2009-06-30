@@ -1,0 +1,23 @@
+<add>
+<doc>
+<field name='id'>452238</field>
+<field name='rid'>United States/CA/San Francisco/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>San Francisco</field>
+<field name='address'>1655 Market St</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Burgers</field>
+<field name='cuisine'>Sandwiches/Subs</field>
+<field name='cuisine'>Tacos</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/San Francisco</field>
+<field name='phone'></field>
+<field name='zip'>94103</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Buck Tavern</field>
+<field name='full_neighborhood'>SF-Bay-Area, San Francisco, CA</field>
+<field name='full_city'>San Francisco, CA</field>
+<field name='lat'>37.77329</field>
+<field name='lon'>-122.421411</field>
+</doc>
+</add>

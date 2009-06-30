@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>89337</field>
+<field name='rid'>United States/CA/Moss Beach/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Moss Beach</field>
+<field name='address'>2350 Carlos St</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Pizza</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Moss Beach</field>
+<field name='phone'>(650) 728-5151</field>
+<field name='zip'>94038</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Pizzeria Del Sol &amp; Cafe</field>
+<field name='full_neighborhood'>SF-Bay-Area, Moss Beach, CA</field>
+<field name='full_city'>Moss Beach, CA</field>
+<field name='lat'>37.528161</field>
+<field name='lon'>-122.51398</field>
+</doc>
+</add>

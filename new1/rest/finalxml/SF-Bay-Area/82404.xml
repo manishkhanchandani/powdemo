@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>82404</field>
+<field name='rid'>United States/CA/Fremont/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Fremont</field>
+<field name='address'>3880 Lake Arrowhead Ave</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Chinese</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Fremont</field>
+<field name='phone'>(510) 487-7435</field>
+<field name='zip'>94555</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>China Station</field>
+<field name='full_neighborhood'>SF-Bay-Area, Fremont, CA</field>
+<field name='full_city'>Fremont, CA</field>
+<field name='lat'>37.586406</field>
+<field name='lon'>-122.060454</field>
+</doc>
+</add>

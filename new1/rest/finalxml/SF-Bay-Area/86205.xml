@@ -1,0 +1,22 @@
+<add>
+<doc>
+<field name='id'>86205</field>
+<field name='rid'>United States/CA/San Francisco/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>San Francisco</field>
+<field name='address'>312 Kearny St</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Hawaiian</field>
+<field name='cuisine'>Barbecue</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/San Francisco</field>
+<field name='phone'>(415) 956-2888</field>
+<field name='zip'>94108</field>
+<field name='linktext'><![CDATA[www.hawaiianbarbecue.com]]></field>
+<field name='title'>L &amp; L Hawaiian Barbecue</field>
+<field name='full_neighborhood'>SF-Bay-Area, San Francisco, CA</field>
+<field name='full_city'>San Francisco, CA</field>
+<field name='lat'>37.791038</field>
+<field name='lon'>-122.403874</field>
+</doc>
+</add>

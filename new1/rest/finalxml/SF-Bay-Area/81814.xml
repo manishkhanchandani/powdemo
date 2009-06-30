@@ -1,0 +1,22 @@
+<add>
+<doc>
+<field name='id'>81814</field>
+<field name='rid'>United States/CA/San Francisco/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>San Francisco</field>
+<field name='address'>59 Columbus Ave</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Italian</field>
+<field name='cuisine'>Pizza</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/San Francisco</field>
+<field name='phone'>(415) 956-9737</field>
+<field name='zip'>94111</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Caffe Macaroni</field>
+<field name='full_neighborhood'>SF-Bay-Area, San Francisco, CA</field>
+<field name='full_city'>San Francisco, CA</field>
+<field name='lat'>37.796089</field>
+<field name='lon'>-122.404351</field>
+</doc>
+</add>

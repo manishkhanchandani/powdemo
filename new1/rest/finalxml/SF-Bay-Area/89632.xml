@@ -1,0 +1,22 @@
+<add>
+<doc>
+<field name='id'>89632</field>
+<field name='rid'>United States/CA/Fremont/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Fremont</field>
+<field name='address'>43522 Christy St</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Soups</field>
+<field name='cuisine'>Sandwiches/Subs</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Fremont</field>
+<field name='phone'>(510) 226-9502</field>
+<field name='zip'>94538</field>
+<field name='linktext'><![CDATA[www.quiznos.com]]></field>
+<field name='title'>Quiznos Sub</field>
+<field name='full_neighborhood'>SF-Bay-Area, Fremont, CA</field>
+<field name='full_city'>Fremont, CA</field>
+<field name='lat'>37.503636</field>
+<field name='lon'>-121.968568</field>
+</doc>
+</add>

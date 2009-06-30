@@ -1,0 +1,23 @@
+<add>
+<doc>
+<field name='id'>85615</field>
+<field name='rid'>United States/CA/San Francisco/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>San Francisco</field>
+<field name='address'>1329 Columbus Ave</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>American</field>
+<field name='cuisine'>Coffee</field>
+<field name='cuisine'>Diner</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/San Francisco</field>
+<field name='phone'>(415) 928-4343</field>
+<field name='zip'>94133</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Joanie's Happy Days Diner</field>
+<field name='full_neighborhood'>SF-Bay-Area, San Francisco, CA</field>
+<field name='full_city'>San Francisco, CA</field>
+<field name='lat'>37.806374</field>
+<field name='lon'>-122.419194</field>
+</doc>
+</add>

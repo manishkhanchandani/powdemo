@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>89666</field>
+<field name='rid'>United States/CA/Fremont/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Fremont</field>
+<field name='address'>37149 Fremont Blvd</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Chinese</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Fremont</field>
+<field name='phone'>(510) 793-1784</field>
+<field name='zip'>94536</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>R &amp; J Food To Go</field>
+<field name='full_neighborhood'>SF-Bay-Area, Fremont, CA</field>
+<field name='full_city'>Fremont, CA</field>
+<field name='lat'>37.559452</field>
+<field name='lon'>-122.009824</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<add>
+<doc>
+<field name='id'>82098</field>
+<field name='rid'>United States/CA/Hayward/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Hayward</field>
+<field name='address'>547 W Tennyson Rd</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Burgers</field>
+<field name='cuisine'>Soups</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Hayward</field>
+<field name='phone'>(510) 782-2655</field>
+<field name='zip'>94544</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Cecil's Famouse Burgers</field>
+<field name='full_neighborhood'>SF-Bay-Area, Hayward, CA</field>
+<field name='full_city'>Hayward, CA</field>
+<field name='lat'>37.632548</field>
+<field name='lon'>-122.067583</field>
+</doc>
+</add>

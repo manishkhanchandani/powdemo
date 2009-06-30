@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>661954</field>
+<field name='rid'>United States/CA/San Francisco/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>San Francisco</field>
+<field name='address'>9 Fishermans Wharf</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Seafood</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/San Francisco</field>
+<field name='phone'>(415) 673-7025</field>
+<field name='zip'>94133</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Fishermen's Grotto</field>
+<field name='full_neighborhood'>SF-Bay-Area, San Francisco, CA</field>
+<field name='full_city'>San Francisco, CA</field>
+<field name='lat'>37.8093</field>
+<field name='lon'>-122.4168</field>
+</doc>
+</add>

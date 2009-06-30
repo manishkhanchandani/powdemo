@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>86754</field>
+<field name='rid'>United States/CA/Fremont/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Fremont</field>
+<field name='address'>4376 Thornton Ave</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Pizza</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Fremont</field>
+<field name='phone'>(510) 797-0770</field>
+<field name='zip'>94536</field>
+<field name='linktext'><![CDATA[www.littlecaesars.com]]></field>
+<field name='title'>Little Caesar's Pizza</field>
+<field name='full_neighborhood'>SF-Bay-Area, Fremont, CA</field>
+<field name='full_city'>Fremont, CA</field>
+<field name='lat'>37.556242</field>
+<field name='lon'>-122.014821</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<add>
+<doc>
+<field name='id'>1422947</field>
+<field name='rid'>United States/CA/SF Bay Area/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>SF Bay Area</field>
+<field name='address'>969 D Edgewater Blvd</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Pizza</field>
+<field name='cuisine'>Mediterranean</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/SF Bay Area</field>
+<field name='phone'>(650) 573-6634</field>
+<field name='zip'>94404</field>
+<field name='linktext'><![CDATA[www.waterfrontpizza.com]]></field>
+<field name='title'>Waterfront Pizza and Mediterranean Restaurant</field>
+<field name='full_neighborhood'>SF-Bay-Area, SF Bay Area, CA</field>
+<field name='full_city'>SF Bay Area, CA</field>
+<field name='lat'>37.544762</field>
+<field name='lon'>-122.271245</field>
+</doc>
+</add>

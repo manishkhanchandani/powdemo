@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>86750</field>
+<field name='rid'>United States/CA/Fremont/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Fremont</field>
+<field name='address'>39490 Fremont Blvd</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Pizza</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Fremont</field>
+<field name='phone'>(510) 745-8900</field>
+<field name='zip'>94538</field>
+<field name='linktext'><![CDATA[www.littlecaesars.com]]></field>
+<field name='title'>Little Caesar's Pizza</field>
+<field name='full_neighborhood'>SF-Bay-Area, Fremont, CA</field>
+<field name='full_city'>Fremont, CA</field>
+<field name='lat'>37.544901</field>
+<field name='lon'>-121.980873</field>
+</doc>
+</add>

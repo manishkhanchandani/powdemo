@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>83479</field>
+<field name='rid'>United States/CA/Moss Beach/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Moss Beach</field>
+<field name='address'>2448 Cabrillo Hwy</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Mexican</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Moss Beach</field>
+<field name='phone'>(650) 728-3815</field>
+<field name='zip'>94038</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>El Gran Amigo Taqueria</field>
+<field name='full_neighborhood'>SF-Bay-Area, Moss Beach, CA</field>
+<field name='full_city'>Moss Beach, CA</field>
+<field name='lat'>37.526931</field>
+<field name='lon'>-122.51305</field>
+</doc>
+</add>

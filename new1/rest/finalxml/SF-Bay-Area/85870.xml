@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>85870</field>
+<field name='rid'>United States/CA/Fremont/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Fremont</field>
+<field name='address'>4949 Stevenson Blvd</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Japanese</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Fremont</field>
+<field name='phone'>(510) 657-3736</field>
+<field name='zip'>94538</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Kabuki</field>
+<field name='full_neighborhood'>SF-Bay-Area, Fremont, CA</field>
+<field name='full_city'>Fremont, CA</field>
+<field name='lat'>37.529358</field>
+<field name='lon'>-121.982449</field>
+</doc>
+</add>

@@ -1,0 +1,23 @@
+<add>
+<doc>
+<field name='id'>83671</field>
+<field name='rid'>United States/CA/Fremont/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Fremont</field>
+<field name='address'>4138 Walnut Ave</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Sandwiches/Subs</field>
+<field name='cuisine'>California</field>
+<field name='cuisine'>Soups</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Fremont</field>
+<field name='phone'>(510) 490-7799</field>
+<field name='zip'>94538</field>
+<field name='linktext'><![CDATA[www.eriksdeli.com]]></field>
+<field name='title'>Erik's Delicafe</field>
+<field name='full_neighborhood'>SF-Bay-Area, Fremont, CA</field>
+<field name='full_city'>Fremont, CA</field>
+<field name='lat'>37.545883</field>
+<field name='lon'>-121.982214</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<add>
+<doc>
+<field name='id'>777114</field>
+<field name='rid'>United States/CA/Hayward/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Hayward</field>
+<field name='address'>1036 B St</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>French</field>
+<field name='cuisine'>California</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Hayward</field>
+<field name='phone'>(510) 888-1092</field>
+<field name='zip'>94541</field>
+<field name='linktext'><![CDATA[www.bijouexperience.com]]></field>
+<field name='title'>Bijou Restaurant and Bar</field>
+<field name='full_neighborhood'>SF-Bay-Area, Hayward, CA</field>
+<field name='full_city'>Hayward, CA</field>
+<field name='lat'>37.673419</field>
+<field name='lon'>-122.08208</field>
+</doc>
+</add>

@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>87268</field>
+<field name='rid'>United States/CA/San Mateo/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>San Mateo</field>
+<field name='address'>1510 Fashion Island Blvd</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Seafood</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/San Mateo</field>
+<field name='phone'>(650) 574-3931</field>
+<field name='zip'>94404</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Mariners Cafe</field>
+<field name='full_neighborhood'>SF-Bay-Area, San Mateo, CA</field>
+<field name='full_city'>San Mateo, CA</field>
+<field name='lat'>37.557825</field>
+<field name='lon'>-122.286879</field>
+</doc>
+</add>

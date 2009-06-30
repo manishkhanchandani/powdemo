@@ -1,0 +1,20 @@
+<add>
+<doc>
+<field name='id'>1442349</field>
+<field name='rid'>United States/CA/Fremont/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Fremont</field>
+<field name='address'>46703 Mission Blvd</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Fremont</field>
+<field name='phone'>(510) 360-9900</field>
+<field name='zip'>94539</field>
+<field name='linktext'><![CDATA[stores.zpizza.com/fremont/]]></field>
+<field name='title'>Zpizza</field>
+<field name='full_neighborhood'>SF-Bay-Area, Fremont, CA</field>
+<field name='full_city'>Fremont, CA</field>
+<field name='lat'>37.491076</field>
+<field name='lon'>-121.928357</field>
+</doc>
+</add>

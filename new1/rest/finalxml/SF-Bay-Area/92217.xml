@@ -1,0 +1,23 @@
+<add>
+<doc>
+<field name='id'>92217</field>
+<field name='rid'>United States/CA/Fremont/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Fremont</field>
+<field name='address'>5144 Mowry Ave (at Farwell Drive)</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Indian</field>
+<field name='cuisine'>Bakery</field>
+<field name='cuisine'>Desserts/Ice Cream</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Fremont</field>
+<field name='phone'>(510) 791-1316</field>
+<field name='zip'>94538</field>
+<field name='linktext'><![CDATA[www.tasteofindiafremont.com]]></field>
+<field name='title'>Taste of India Sweets &amp; Restaurant</field>
+<field name='full_neighborhood'>SF-Bay-Area, Fremont, CA</field>
+<field name='full_city'>Fremont, CA</field>
+<field name='lat'>37.534877</field>
+<field name='lon'>-121.999413</field>
+</doc>
+</add>

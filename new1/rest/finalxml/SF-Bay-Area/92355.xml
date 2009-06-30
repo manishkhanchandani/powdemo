@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>92355</field>
+<field name='rid'>United States/CA/San Francisco/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>San Francisco</field>
+<field name='address'>545 Sansome St</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Thai</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/San Francisco</field>
+<field name='phone'>(415) 433-2999</field>
+<field name='zip'>94111</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Thai Speed</field>
+<field name='full_neighborhood'>SF-Bay-Area, San Francisco, CA</field>
+<field name='full_city'>San Francisco, CA</field>
+<field name='lat'>37.795413</field>
+<field name='lon'>-122.401741</field>
+</doc>
+</add>
