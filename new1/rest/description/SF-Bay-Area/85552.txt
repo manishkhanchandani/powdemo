@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:70:"http://www.urbanspoon.com/r/6/85552/restaurant/Jays-Fish-Chips-Hayward";s:4:"name";s:22:"Jay's Fish &amp; Chips";s:2:"id";s:5:"85552";s:4:"info";s:86:"Seafood - <br />
+                <br />
+                  21439 Foothill Blvd, Hayward";s:5:"info2";s:7:"Seafood";s:7:"address";s:28:"21439 Foothill Blvd, Hayward";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.683962";s:3:"lon";s:11:"-122.090942";s:9:"neighbour";s:7:"Hayward";}

@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:78:"http://www.urbanspoon.com/r/6/86356/restaurant/La-Patisserie-Francaise-Hayward";s:4:"name";s:23:"La Patisserie Francaise";s:2:"id";s:5:"86356";s:4:"info";s:27:"22809 Mission Blvd, Hayward";s:7:"address";s:27:"22809 Mission Blvd, Hayward";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.669729";s:3:"lon";s:11:"-122.081967";s:9:"neighbour";s:7:"Hayward";}

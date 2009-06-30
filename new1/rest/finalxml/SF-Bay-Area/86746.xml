@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>86746</field>
+<field name='rid'>United States/CA/Hayward/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Hayward</field>
+<field name='address'>26231 Mission Blvd</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Pizza</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Hayward</field>
+<field name='phone'>(510) 582-3804</field>
+<field name='zip'>94544</field>
+<field name='linktext'><![CDATA[www.littlecaesars.com]]></field>
+<field name='title'>Little Caesar's Pizza</field>
+<field name='full_neighborhood'>SF-Bay-Area, Hayward, CA</field>
+<field name='full_city'>Hayward, CA</field>
+<field name='lat'>37.649355</field>
+<field name='lon'>-122.065795</field>
+</doc>
+</add>

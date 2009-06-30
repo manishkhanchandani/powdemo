@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:72:"http://www.urbanspoon.com/r/6/85575/restaurant/Jerry-Ts-Hof-Brau-Hayward";s:4:"name";s:18:"Jerry T's Hof-Brau";s:2:"id";s:5:"85575";s:4:"info";s:30:"24546 Industrial Blvd, Hayward";s:7:"address";s:30:"24546 Industrial Blvd, Hayward";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.641664";s:3:"lon";s:11:"-122.119577";s:9:"neighbour";s:7:"Hayward";}

@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:82:"http://www.urbanspoon.com/r/6/85351/restaurant/Hayward/Jack-in-the-Box-San-Lorenzo";s:4:"name";s:15:"Jack in the Box";s:2:"id";s:5:"85351";s:4:"info";s:122:"Fast Food, Burgers and Sandwiches/Subs - <br />
+                <br />
+                  17550 Hesperian Blvd, San Lorenzo";s:5:"info2";s:38:"Fast Food, Burgers and Sandwiches/Subs";s:7:"address";s:33:"17550 Hesperian Blvd, San Lorenzo";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.674587";s:3:"lon";s:11:"-122.123377";s:9:"neighbour";s:7:"Hayward";}

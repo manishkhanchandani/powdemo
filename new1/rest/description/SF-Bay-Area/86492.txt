@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:65:"http://www.urbanspoon.com/r/6/86492/restaurant/Las-Cartes-Hayward";s:4:"name";s:10:"Las Cartes";s:2:"id";s:5:"86492";s:4:"info";s:27:"22472 Meekland Ave, Hayward";s:7:"address";s:27:"22472 Meekland Ave, Hayward";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.667554";s:3:"lon";s:11:"-122.099461";s:9:"neighbour";s:7:"Hayward";}

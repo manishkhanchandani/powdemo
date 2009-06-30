@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:63:"http://www.urbanspoon.com/r/6/86725/restaurant/Lite-Wok-Hayward";s:4:"name";s:8:"Lite Wok";s:2:"id";s:5:"86725";s:4:"info";s:31:"1687 Industrial Pkwy W, Hayward";s:7:"address";s:31:"1687 Industrial Pkwy W, Hayward";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.617693";s:3:"lon";s:11:"-122.069294";s:9:"neighbour";s:7:"Hayward";}

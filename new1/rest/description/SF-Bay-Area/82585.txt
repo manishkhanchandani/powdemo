@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:81:"http://www.urbanspoon.com/r/6/82585/restaurant/Hayward/Classic-Burger-San-Lorenzo";s:4:"name";s:14:"Classic Burger";s:2:"id";s:5:"82585";s:4:"info";s:91:"Burgers - <br />
+                <br />
+                  15927 Hesperian Blvd, San Lorenzo";s:5:"info2";s:7:"Burgers";s:7:"address";s:33:"15927 Hesperian Blvd, San Lorenzo";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.680673";s:3:"lon";s:11:"-122.127786";s:9:"neighbour";s:7:"Hayward";}

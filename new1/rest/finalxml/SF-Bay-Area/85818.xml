@@ -1,0 +1,22 @@
+<add>
+<doc>
+<field name='id'>85818</field>
+<field name='rid'>United States/CA/Hayward/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Hayward</field>
+<field name='address'>31077 Mission Blvd</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Fast Food</field>
+<field name='cuisine'>American</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Hayward</field>
+<field name='phone'>(510) 489-1166</field>
+<field name='zip'>94544</field>
+<field name='linktext'><![CDATA[www.kfc.com]]></field>
+<field name='title'>KFC</field>
+<field name='full_neighborhood'>SF-Bay-Area, Hayward, CA</field>
+<field name='full_city'>Hayward, CA</field>
+<field name='lat'>37.620118</field>
+<field name='lon'>-122.036152</field>
+</doc>
+</add>

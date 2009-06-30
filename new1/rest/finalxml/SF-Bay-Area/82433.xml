@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>82433</field>
+<field name='rid'>United States/CA/Hayward/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Hayward</field>
+<field name='address'>754 W A St</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Chinese</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Hayward</field>
+<field name='phone'>(510) 785-3270</field>
+<field name='zip'>94541</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Ching Chuan</field>
+<field name='full_neighborhood'>SF-Bay-Area, Hayward, CA</field>
+<field name='full_city'>Hayward, CA</field>
+<field name='lat'>37.665822</field>
+<field name='lon'>-122.114058</field>
+</doc>
+</add>

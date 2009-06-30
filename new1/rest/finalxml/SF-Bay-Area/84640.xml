@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>84640</field>
+<field name='rid'>United States/CA/Hayward/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Hayward</field>
+<field name='address'>24301 Southland Dr</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Sandwiches/Subs</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Hayward</field>
+<field name='phone'>(510) 732-6922</field>
+<field name='zip'>94545</field>
+<field name='linktext'><![CDATA[]]></field>
+<field name='title'>Hana Cafe &amp; Deli</field>
+<field name='full_neighborhood'>SF-Bay-Area, Hayward, CA</field>
+<field name='full_city'>Hayward, CA</field>
+<field name='lat'>37.654098</field>
+<field name='lon'>-122.105162</field>
+</doc>
+</add>

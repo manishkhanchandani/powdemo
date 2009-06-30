@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:67:"http://www.urbanspoon.com/r/6/84863/restaurant/Hofbrau-Haus-Hayward";s:4:"name";s:12:"Hofbrau Haus";s:2:"id";s:5:"84863";s:4:"info";s:26:"18 Southland Mall, Hayward";s:7:"address";s:26:"18 Southland Mall, Hayward";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.654537";s:3:"lon";s:11:"-122.104846";s:9:"neighbour";s:7:"Hayward";}

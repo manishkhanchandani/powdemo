@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>86740</field>
+<field name='rid'>United States/CA/San Lorenzo/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>San Lorenzo</field>
+<field name='address'>17900 Hesperian Blvd</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Pizza</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/San Lorenzo</field>
+<field name='phone'>(510) 481-0745</field>
+<field name='zip'>94580</field>
+<field name='linktext'><![CDATA[www.littlecaesars.com]]></field>
+<field name='title'>Little Caesar's Pizza</field>
+<field name='full_neighborhood'>SF-Bay-Area, San Lorenzo, CA</field>
+<field name='full_city'>San Lorenzo, CA</field>
+<field name='lat'>37.673473</field>
+<field name='lon'>-122.122672</field>
+</doc>
+</add>

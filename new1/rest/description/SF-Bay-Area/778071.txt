@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:81:"http://www.urbanspoon.com/r/6/778071/restaurant/Hayward/Dougs-Place-Castro-Valley";s:4:"name";s:12:"Doug's Place";s:2:"id";s:6:"778071";s:4:"info";s:98:"Breakfast/Brunch - <br />
+                <br />
+                  20871 Redwood Rd, Castro Valley";s:5:"info2";s:16:"Breakfast/Brunch";s:7:"address";s:31:"20871 Redwood Rd, Castro Valley";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.694935";s:3:"lon";s:11:"-122.074093";s:9:"neighbour";s:7:"Hayward";}

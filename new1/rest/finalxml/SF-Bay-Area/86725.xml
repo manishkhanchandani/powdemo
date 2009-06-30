@@ -1,0 +1,20 @@
+<add>
+<doc>
+<field name='id'>86725</field>
+<field name='rid'>United States/CA/Hayward/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Hayward</field>
+<field name='address'>1687 Industrial Pkwy W</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Hayward</field>
+<field name='phone'>(510) 785-9988</field>
+<field name='zip'>94544</field>
+<field name='linktext'><![CDATA[www.litewok.com]]></field>
+<field name='title'>Lite Wok</field>
+<field name='full_neighborhood'>SF-Bay-Area, Hayward, CA</field>
+<field name='full_city'>Hayward, CA</field>
+<field name='lat'>37.617693</field>
+<field name='lon'>-122.069294</field>
+</doc>
+</add>

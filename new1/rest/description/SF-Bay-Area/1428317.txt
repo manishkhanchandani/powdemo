@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:68:"http://www.urbanspoon.com/r/6/1428317/restaurant/Life-Bistro-Hayward";s:4:"name";s:11:"Life Bistro";s:2:"id";s:7:"1428317";s:4:"info";s:30:"25001 Industrial Blvd, Hayward";s:7:"address";s:30:"25001 Industrial Blvd, Hayward";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.638139";s:3:"lon";s:11:"-122.116869";s:9:"neighbour";s:7:"Hayward";}

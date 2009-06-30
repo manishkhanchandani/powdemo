@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name='id'>83202</field>
+<field name='rid'>United States/CA/Hayward/SF-Bay-Area</field>
+<field name='state'>CA</field>
+<field name='city'>Hayward</field>
+<field name='address'>29619 Mission Blvd</field>
+<field name='neighborhood'>SF-Bay-Area</field>
+<field name='cuisine'>Pizza</field>
+<field name='country'>United States</field>
+<field name='location'>United States/CA/Hayward</field>
+<field name='phone'>(510) 886-3030</field>
+<field name='zip'>94544</field>
+<field name='linktext'><![CDATA[www.dominos.com]]></field>
+<field name='title'>Domino's Pizza</field>
+<field name='full_neighborhood'>SF-Bay-Area, Hayward, CA</field>
+<field name='full_city'>Hayward, CA</field>
+<field name='lat'>37.630068</field>
+<field name='lon'>-122.047748</field>
+</doc>
+</add>
