@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:87:"http://www.urbanspoon.com/r/6/89841/restaurant/Haight/Reverie-Coffee-Cafe-San-Francisco";s:4:"name";s:19:"Reverie Coffee Cafe";s:2:"id";s:5:"89841";s:4:"info";s:116:"Coffee, Desserts/Ice Cream and American - <br />
+                <br />
+                  848 Cole St, San Francisco";s:5:"info2";s:39:"Coffee, Desserts/Ice Cream and American";s:7:"address";s:26:"848 Cole St, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.766285";s:3:"lon";s:11:"-122.449929";s:9:"neighbour";s:6:"Haight";}

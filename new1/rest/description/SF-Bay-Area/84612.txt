@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:90:"http://www.urbanspoon.com/r/6/84612/restaurant/Half-Moon-Bay-Brewing-Company-Half-Moon-Bay";s:4:"name";s:29:"Half Moon Bay Brewing Company";s:2:"id";s:5:"84612";s:4:"info";s:103:"American and Seafood - <br />
+                <br />
+                  390 Capistrano Rd, Half Moon Bay";s:5:"info2";s:20:"American and Seafood";s:7:"address";s:32:"390 Capistrano Rd, Half Moon Bay";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.506633";s:3:"lon";s:11:"-122.487651";s:9:"neighbour";s:13:"Half Moon Bay";}

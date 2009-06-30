@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:95:"http://www.urbanspoon.com/r/6/92205/restaurant/Hayes-Valley/Tartine-Cafe-Francais-San-Francisco";s:4:"name";s:21:"Tartine Cafe Francais";s:2:"id";s:5:"92205";s:4:"info";s:97:"French and American - <br />
+                <br />
+                  244 Gough St, San Francisco";s:5:"info2";s:19:"French and American";s:7:"address";s:27:"244 Gough St, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:8:"37.77569";s:3:"lon";s:11:"-122.422569";s:9:"neighbour";s:12:"Hayes Valley";}

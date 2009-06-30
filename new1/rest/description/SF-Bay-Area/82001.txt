@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:63:"http://www.urbanspoon.com/r/6/82001/restaurant/Carls-Jr-Hayward";s:4:"name";s:10:"Carl's Jr.";s:2:"id";s:5:"82001";s:4:"info";s:101:"Fast Food and Burgers - <br />
+                <br />
+                  27467 Hesperian Blvd, Hayward";s:5:"info2";s:21:"Fast Food and Burgers";s:7:"address";s:29:"27467 Hesperian Blvd, Hayward";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.629465";s:3:"lon";s:10:"-122.09613";s:9:"neighbour";s:7:"Hayward";}

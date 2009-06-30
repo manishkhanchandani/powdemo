@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:62:"http://www.urbanspoon.com/r/6/335465/restaurant/Swagat-Fremont";s:4:"name";s:6:"Swagat";s:2:"id";s:6:"335465";s:4:"info";s:29:"4918 Paseo Padre Pky, Fremont";s:7:"address";s:29:"4918 Paseo Padre Pky, Fremont";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.567344";s:3:"lon";s:11:"-122.052621";s:9:"neighbour";s:7:"Fremont";}

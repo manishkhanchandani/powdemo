@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:67:"http://www.urbanspoon.com/r/6/93003/restaurant/Vintage-Cafe-Fremont";s:4:"name";s:12:"Vintage Cafe";s:2:"id";s:5:"93003";s:4:"info";s:29:"1596 Washington Blvd, Fremont";s:7:"address";s:29:"1596 Washington Blvd, Fremont";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.531323";s:3:"lon";s:10:"-121.93576";s:9:"neighbour";s:7:"Fremont";}

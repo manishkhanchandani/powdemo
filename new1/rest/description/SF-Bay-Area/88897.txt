@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:94:"http://www.urbanspoon.com/r/6/88897/restaurant/Hayes-Valley/Patxis-Chicago-Pizza-San-Francisco";s:4:"name";s:21:"Patxi's Chicago Pizza";s:2:"id";s:5:"88897";s:4:"info";s:95:"Pizza and Italian - <br />
+                <br />
+                  511 Hayes St, San Francisco";s:5:"info2";s:17:"Pizza and Italian";s:7:"address";s:27:"511 Hayes St, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.776526";s:3:"lon";s:11:"-122.424982";s:9:"neighbour";s:12:"Hayes Valley";}

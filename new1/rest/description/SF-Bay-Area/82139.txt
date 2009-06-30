@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:60:"http://www.urbanspoon.com/r/6/82139/restaurant/Cfusa-Hayward";s:4:"name";s:5:"Cfusa";s:2:"id";s:5:"82139";s:4:"info";s:92:"Sandwiches/Subs - <br />
+                <br />
+                  25037 Clawiter Rd, Hayward";s:5:"info2";s:15:"Sandwiches/Subs";s:7:"address";s:26:"25037 Clawiter Rd, Hayward";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.638272";s:3:"lon";s:11:"-122.119972";s:9:"neighbour";s:7:"Hayward";}

@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:89:"http://www.urbanspoon.com/r/6/89695/restaurant/Haight/Raja-Cuisine-of-India-San-Francisco";s:4:"name";s:21:"Raja Cuisine of India";s:2:"id";s:5:"89695";s:4:"info";s:99:"Indian and Pakistani - <br />
+                <br />
+                  500 Haight St, San Francisco";s:5:"info2";s:20:"Indian and Pakistani";s:7:"address";s:28:"500 Haight St, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.772214";s:3:"lon";s:11:"-122.430697";s:9:"neighbour";s:6:"Haight";}

@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:80:"http://www.urbanspoon.com/r/6/88413/restaurant/Haight/Oh-So-Little-San-Francisco";s:4:"name";s:12:"Oh So Little";s:2:"id";s:5:"88413";s:4:"info";s:85:"Coffee - <br />
+                <br />
+                  1901 Hayes St, San Francisco";s:5:"info2";s:6:"Coffee";s:7:"address";s:28:"1901 Hayes St, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.773543";s:3:"lon";s:11:"-122.447857";s:9:"neighbour";s:6:"Haight";}

@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:68:"http://www.urbanspoon.com/r/6/81760/restaurant/Cafe-Vasiliki-Hayward";s:4:"name";s:13:"Cafe Vasiliki";s:2:"id";s:5:"81760";s:4:"info";s:29:"25202 Hesperian Blvd, Hayward";s:7:"address";s:29:"25202 Hesperian Blvd, Hayward";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.643611";s:3:"lon";s:10:"-122.10416";s:9:"neighbour";s:7:"Hayward";}

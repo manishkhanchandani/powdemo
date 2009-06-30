@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:85:"http://www.urbanspoon.com/r/6/1439425/restaurant/Shiki-Japanese-Cuisine-Half-Moon-Bay";s:4:"name";s:22:"Shiki Japanese Cuisine";s:2:"id";s:7:"1439425";s:4:"info";s:116:"Japanese, Sushi and Asian - <br />
+                <br />
+                  20 Stone Pine Rd, Suite E, Half Moon Bay";s:5:"info2";s:25:"Japanese, Sushi and Asian";s:7:"address";s:40:"20 Stone Pine Rd, Suite E, Half Moon Bay";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.466853";s:3:"lon";s:11:"-122.429037";s:9:"neighbour";s:13:"Half Moon Bay";}

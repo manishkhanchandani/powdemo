@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:86:"http://www.urbanspoon.com/r/6/84410/restaurant/Hayes-Valley/Goodday-Cafe-San-Francisco";s:4:"name";s:12:"Goodday Cafe";s:2:"id";s:5:"84410";s:4:"info";s:29:"561 Webster St, San Francisco";s:7:"address";s:29:"561 Webster St, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:7:"37.7756";s:3:"lon";s:11:"-122.429586";s:9:"neighbour";s:12:"Hayes Valley";}

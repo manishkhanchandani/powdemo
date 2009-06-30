@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:87:"http://www.urbanspoon.com/r/6/85940/restaurant/Hayes-Valley/Kates-Kitchen-San-Francisco";s:4:"name";s:14:"Kate's Kitchen";s:2:"id";s:5:"85940";s:4:"info";s:105:"Coffee, American and Diner - <br />
+                <br />
+                  471 Haight St, San Francisco";s:5:"info2";s:26:"Coffee, American and Diner";s:7:"address";s:28:"471 Haight St, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:8:"37.77203";s:3:"lon";s:11:"-122.429918";s:9:"neighbour";s:12:"Hayes Valley";}

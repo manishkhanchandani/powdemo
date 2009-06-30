@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:68:"http://www.urbanspoon.com/r/6/353008/restaurant/Agora-Bistro-Hayward";s:4:"name";s:12:"Agora Bistro";s:2:"id";s:6:"353008";s:4:"info";s:22:"21701 Main St, Hayward";s:7:"address";s:22:"21701 Main St, Hayward";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:8:"37.68021";s:3:"lon";s:11:"-122.090429";s:9:"neighbour";s:7:"Hayward";}

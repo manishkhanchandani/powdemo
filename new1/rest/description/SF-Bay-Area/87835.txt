@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:80:"http://www.urbanspoon.com/r/6/87835/restaurant/Half-Moon-Bay/Moon-Bay-El-Granada";s:4:"name";s:8:"Moon Bay";s:2:"id";s:5:"87835";s:4:"info";s:28:"100 Ave Cabrillo, El Granada";s:7:"address";s:28:"100 Ave Cabrillo, El Granada";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.501216";s:3:"lon";s:11:"-122.467801";s:9:"neighbour";s:13:"Half Moon Bay";}

@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:87:"http://www.urbanspoon.com/r/6/93495/restaurant/Hayes-Valley/Zeidan-Jawdat-San-Francisco";s:4:"name";s:13:"Zeidan Jawdat";s:2:"id";s:5:"93495";s:4:"info";s:26:"297 Page St, San Francisco";s:7:"address";s:26:"297 Page St, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.773589";s:3:"lon";s:11:"-122.425474";s:9:"neighbour";s:12:"Hayes Valley";}

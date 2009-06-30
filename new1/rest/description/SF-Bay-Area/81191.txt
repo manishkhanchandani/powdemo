@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:71:"http://www.urbanspoon.com/r/6/81191/restaurant/Bondans-Roasting-Hayward";s:4:"name";s:16:"Bondans Roasting";s:2:"id";s:5:"81191";s:4:"info";s:29:"27150 Hesperian Blvd, Hayward";s:7:"address";s:29:"27150 Hesperian Blvd, Hayward";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.632077";s:3:"lon";s:11:"-122.097103";s:9:"neighbour";s:7:"Hayward";}

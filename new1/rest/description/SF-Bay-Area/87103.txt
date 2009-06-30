@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:78:"http://www.urbanspoon.com/r/6/87103/restaurant/Main-Street-Grill-Half-Moon-Bay";s:4:"name";s:17:"Main Street Grill";s:2:"id";s:5:"87103";s:4:"info";s:26:"435 Main St, Half Moon Bay";s:7:"address";s:26:"435 Main St, Half Moon Bay";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.464253";s:3:"lon";s:11:"-122.429005";s:9:"neighbour";s:13:"Half Moon Bay";}

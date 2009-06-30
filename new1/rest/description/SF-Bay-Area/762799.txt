@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:67:"http://www.urbanspoon.com/r/6/762799/restaurant/Tea-Station-Fremont";s:4:"name";s:11:"Tea Station";s:2:"id";s:6:"762799";s:4:"info";s:81:"Tea - <br />
+                <br />
+                  34460 Fremont Blvd, Fremont";s:5:"info2";s:3:"Tea";s:7:"address";s:27:"34460 Fremont Blvd, Fremont";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.574585";s:3:"lon";s:11:"-122.039632";s:9:"neighbour";s:7:"Fremont";}

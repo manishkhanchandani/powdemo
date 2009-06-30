@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:75:"http://www.urbanspoon.com/r/6/80830/restaurant/Baskin-Robbins-Half-Moon-Bay";s:4:"name";s:14:"Baskin-Robbins";s:2:"id";s:5:"80830";s:4:"info";s:101:"Desserts/Ice Cream - <br />
+                <br />
+                  44 Cabrillo Hwy N, Half Moon Bay";s:5:"info2";s:18:"Desserts/Ice Cream";s:7:"address";s:32:"44 Cabrillo Hwy N, Half Moon Bay";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.468326";s:3:"lon";s:11:"-122.433771";s:9:"neighbour";s:13:"Half Moon Bay";}

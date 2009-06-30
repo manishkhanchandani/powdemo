@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:62:"http://www.urbanspoon.com/r/6/81962/restaurant/Caravan-Hayward";s:4:"name";s:7:"Caravan";s:2:"id";s:5:"81962";s:4:"info";s:27:"28285 Mission Blvd, Hayward";s:7:"address";s:27:"28285 Mission Blvd, Hayward";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.638152";s:3:"lon";s:10:"-122.05657";s:9:"neighbour";s:7:"Hayward";}

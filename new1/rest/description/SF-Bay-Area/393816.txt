@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:82:"http://www.urbanspoon.com/r/6/393816/restaurant/Haight/On-the-Corner-San-Francisco";s:4:"name";s:13:"On the Corner";s:2:"id";s:6:"393816";s:4:"info";s:32:"359 Divisadero St, San Francisco";s:7:"address";s:32:"359 Divisadero St, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.772719";s:3:"lon";s:11:"-122.437511";s:9:"neighbour";s:6:"Haight";}

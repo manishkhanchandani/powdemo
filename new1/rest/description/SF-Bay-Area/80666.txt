@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:83:"http://www.urbanspoon.com/r/6/80666/restaurant/Hayes-Valley/Baker-Doz-San-Francisco";s:4:"name";s:9:"Baker Doz";s:2:"id";s:5:"80666";s:4:"info";s:29:"1400 Market St, San Francisco";s:7:"address";s:29:"1400 Market St, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.776505";s:3:"lon";s:11:"-122.417744";s:9:"neighbour";s:12:"Hayes Valley";}

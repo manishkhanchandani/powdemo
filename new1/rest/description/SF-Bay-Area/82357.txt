@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:70:"http://www.urbanspoon.com/r/6/82357/restaurant/China-Aa-Buffet-Hayward";s:4:"name";s:15:"China Aa Buffet";s:2:"id";s:5:"82357";s:4:"info";s:85:"Chinese - <br />
+                <br />
+                  24100 Mission Blvd, Hayward";s:5:"info2";s:7:"Chinese";s:7:"address";s:27:"24100 Mission Blvd, Hayward";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:8:"37.66656";s:3:"lon";s:11:"-122.078757";s:9:"neighbour";s:7:"Hayward";}

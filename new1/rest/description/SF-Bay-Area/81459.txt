@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:66:"http://www.urbanspoon.com/r/6/81459/restaurant/Burger-King-Hayward";s:4:"name";s:11:"Burger King";s:2:"id";s:5:"81459";s:4:"info";s:91:"Fast Food and Burgers - <br />
+                <br />
+                  950 W A St, Hayward";s:5:"info2";s:21:"Fast Food and Burgers";s:7:"address";s:19:"950 W A St, Hayward";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.665586";s:3:"lon";s:11:"-122.117591";s:9:"neighbour";s:7:"Hayward";}

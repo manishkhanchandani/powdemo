@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:83:"http://www.urbanspoon.com/r/6/81121/restaurant/Haight/Blue-Front-Cafe-San-Francisco";s:4:"name";s:15:"Blue Front Cafe";s:2:"id";s:5:"81121";s:4:"info";s:104:"Bakery, Coffee and Diner - <br />
+                <br />
+                  1430 Haight St, San Francisco";s:5:"info2";s:24:"Bakery, Coffee and Diner";s:7:"address";s:29:"1430 Haight St, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.770266";s:3:"lon";s:10:"-122.44595";s:9:"neighbour";s:6:"Haight";}

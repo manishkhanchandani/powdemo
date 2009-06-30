@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:88:"http://www.urbanspoon.com/r/6/81613/restaurant/Hayes-Valley/Cafe-Du-Soleil-San-Francisco";s:4:"name";s:14:"Cafe Du Soleil";s:2:"id";s:5:"81613";s:4:"info";s:98:"Coffee and French - <br />
+                <br />
+                  200 Fillmore St, San Francisco";s:5:"info2";s:17:"Coffee and French";s:7:"address";s:30:"200 Fillmore St, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.771376";s:3:"lon";s:11:"-122.430085";s:9:"neighbour";s:12:"Hayes Valley";}

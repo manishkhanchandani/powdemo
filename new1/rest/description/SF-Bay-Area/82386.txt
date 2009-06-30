@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:87:"http://www.urbanspoon.com/r/6/82386/restaurant/Hayward/China-Garden-Express-San-Lorenzo";s:4:"name";s:20:"China Garden Express";s:2:"id";s:5:"82386";s:4:"info";s:91:"Chinese - <br />
+                <br />
+                  18444 Hesperian Blvd, San Lorenzo";s:5:"info2";s:7:"Chinese";s:7:"address";s:33:"18444 Hesperian Blvd, San Lorenzo";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.672081";s:3:"lon";s:11:"-122.121777";s:9:"neighbour";s:7:"Hayward";}

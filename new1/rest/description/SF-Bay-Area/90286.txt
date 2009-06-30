@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:79:"http://www.urbanspoon.com/r/6/90286/restaurant/Sams-Chowder-House-Half-Moon-Bay";s:4:"name";s:19:"Sam's Chowder House";s:2:"id";s:5:"90286";s:4:"info";s:92:"Seafood - <br />
+                <br />
+                  4210 Cabrillo Hwy N, Half Moon Bay";s:5:"info2";s:7:"Seafood";s:7:"address";s:34:"4210 Cabrillo Hwy N, Half Moon Bay";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:8:"37.50198";s:3:"lon";s:11:"-122.473376";s:9:"neighbour";s:13:"Half Moon Bay";}

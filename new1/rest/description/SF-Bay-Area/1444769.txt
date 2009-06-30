@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:88:"http://www.urbanspoon.com/r/6/1444769/restaurant/Half-Moon-Bay/Cafe-Classique-El-Granada";s:4:"name";s:14:"Cafe Classique";s:2:"id";s:7:"1444769";s:4:"info";s:113:"Breakfast/Brunch, Bakery and Coffee - <br />
+                <br />
+                  107 sevilla ave, El Granada";s:5:"info2";s:35:"Breakfast/Brunch, Bakery and Coffee";s:7:"address";s:27:"107 sevilla ave, El Granada";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.506035";s:3:"lon";s:11:"-122.481007";s:9:"neighbour";s:13:"Half Moon Bay";}

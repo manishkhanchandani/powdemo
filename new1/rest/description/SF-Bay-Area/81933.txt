@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:89:"http://www.urbanspoon.com/r/6/81933/restaurant/Hayes-Valley/Canto-de-Brasil-San-Francisco";s:4:"name";s:15:"Canto de Brasil";s:2:"id";s:5:"81933";s:4:"info";s:113:"Southern &amp; Soul and Brazilian - <br />
+                <br />
+                  41 Franklin St, San Francisco";s:5:"info2";s:33:"Southern &amp; Soul and Brazilian";s:7:"address";s:29:"41 Franklin St, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.774866";s:3:"lon";s:11:"-122.421107";s:9:"neighbour";s:12:"Hayes Valley";}

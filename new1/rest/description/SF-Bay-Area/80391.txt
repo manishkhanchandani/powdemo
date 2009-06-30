@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:79:"http://www.urbanspoon.com/r/6/80391/restaurant/Annas-Family-Coffee-Shop-Hayward";s:4:"name";s:25:"Anna's Family Coffee Shop";s:2:"id";s:5:"80391";s:4:"info";s:99:"Mexican, Coffee and Diner - <br />
+                <br />
+                  444 Jackson St, Hayward";s:5:"info2";s:25:"Mexican, Coffee and Diner";s:7:"address";s:23:"444 Jackson St, Hayward";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.662581";s:3:"lon";s:11:"-122.084389";s:9:"neighbour";s:7:"Hayward";}

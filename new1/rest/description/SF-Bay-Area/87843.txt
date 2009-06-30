@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:81:"http://www.urbanspoon.com/r/6/87843/restaurant/Moonside-Bakery-Cafe-Half-Moon-Bay";s:4:"name";s:26:"Moonside Bakery &amp; Cafe";s:2:"id";s:5:"87843";s:4:"info";s:83:"Bakery - <br />
+                <br />
+                  604 Main St, Half Moon Bay";s:5:"info2";s:6:"Bakery";s:7:"address";s:26:"604 Main St, Half Moon Bay";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.462456";s:3:"lon";s:11:"-122.429602";s:9:"neighbour";s:13:"Half Moon Bay";}

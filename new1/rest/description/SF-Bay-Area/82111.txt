@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:69:"http://www.urbanspoon.com/r/6/82111/restaurant/Celias-Mexican-Hayward";s:4:"name";s:15:"Celia's Mexican";s:2:"id";s:5:"82111";s:4:"info";s:87:"Mexican - <br />
+                <br />
+                  25010 Hesperian Blvd, Hayward";s:5:"info2";s:7:"Mexican";s:7:"address";s:29:"25010 Hesperian Blvd, Hayward";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.644795";s:3:"lon";s:11:"-122.104932";s:9:"neighbour";s:7:"Hayward";}

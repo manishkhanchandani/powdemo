@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:77:"http://www.urbanspoon.com/r/6/86531/restaurant/Haight/Lava-Java-San-Francisco";s:4:"name";s:9:"Lava Java";s:2:"id";s:5:"86531";s:4:"info";s:29:"852 Stanyan St, San Francisco";s:7:"address";s:29:"852 Stanyan St, San Francisco";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.766859";s:3:"lon";s:11:"-122.452924";s:9:"neighbour";s:6:"Haight";}

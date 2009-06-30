@@ -1,0 +1,1 @@
+a:9:{s:3:"url";s:66:"http://www.urbanspoon.com/r/6/92558/restaurant/Tokyo-Grill-Fremont";s:4:"name";s:11:"Tokyo Grill";s:2:"id";s:5:"92558";s:4:"info";s:26:"3655 Thornton Ave, Fremont";s:7:"address";s:26:"3655 Thornton Ave, Fremont";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.562459";s:3:"lon";s:11:"-122.010073";s:9:"neighbour";s:7:"Fremont";}

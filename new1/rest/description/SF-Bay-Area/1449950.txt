@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:86:"http://www.urbanspoon.com/r/6/1449950/restaurant/ENO-at-The-Ritz-Carlton-Half-Moon-Bay";s:4:"name";s:23:"ENO at The Ritz Carlton";s:2:"id";s:7:"1449950";s:4:"info";s:97:"Wine Bar - <br />
+                <br />
+                  1 Miramontes Point Road, Half Moon Bay";s:5:"info2";s:8:"Wine Bar";s:7:"address";s:38:"1 Miramontes Point Road, Half Moon Bay";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.433775";s:3:"lon";s:11:"-122.441248";s:9:"neighbour";s:13:"Half Moon Bay";}

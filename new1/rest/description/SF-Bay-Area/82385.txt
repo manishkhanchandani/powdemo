@@ -1,0 +1,3 @@
+a:10:{s:3:"url";s:67:"http://www.urbanspoon.com/r/6/82385/restaurant/China-Garden-Hayward";s:4:"name";s:12:"China Garden";s:2:"id";s:5:"82385";s:4:"info";s:83:"Chinese - <br />
+                <br />
+                  213 W Winton Ave, Hayward";s:5:"info2";s:7:"Chinese";s:7:"address";s:25:"213 W Winton Ave, Hayward";s:6:"folder";s:11:"SF-Bay-Area";s:3:"lat";s:9:"37.658976";s:3:"lon";s:11:"-122.095175";s:9:"neighbour";s:7:"Hayward";}
