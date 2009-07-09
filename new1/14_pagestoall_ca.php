@@ -232,7 +232,8 @@ if ($handle = opendir($dirname)) {
 								}
 							} else {
 								echo 'could not get info. '.__LINE__;
-								exit;
+								echo "<br>";
+								//exit;
 							}
 							sleep(2);						
 						}
