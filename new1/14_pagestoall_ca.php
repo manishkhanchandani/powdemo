@@ -129,6 +129,8 @@ if ($handle = opendir($dirname)) {
 							
 							// start with another script from 10
 							echo "<h3>Another script starting</h3>";
+							echo 'rest/listing/'.$folder."/".$baseNameMain."-".$page.".html";
+							exit;
 							$input = file_get_contents('rest/pages/'.$folder."/".$baseNameMain."-".$page.".html");	
 							$input2 = file_get_contents('rest/listing/'.$folder."/".$baseNameMain."-".$page.".html");
 							$infoMore = $Crawler->listingPage($input2);
